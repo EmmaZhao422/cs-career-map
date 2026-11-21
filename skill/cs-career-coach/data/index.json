@@ -1,0 +1,101 @@
+{
+  "generated_at": "2026-11-21T07:00:00+00:00",
+  "demo": true,
+  "tiers": {
+    "most": 40.0,
+    "many": 15.0,
+    "some": 5.0
+  },
+  "roles": [
+    {
+      "id": "ai-engineer",
+      "title": "AI Engineer",
+      "blurb": "Builds products on top of machine learning models and LLMs.",
+      "postings": 60,
+      "companies": 18,
+      "entry_postings": 10,
+      "top_skills": [
+        {
+          "name": "Machine learning",
+          "pct": 93.3
+        },
+        {
+          "name": "Python",
+          "pct": 90.0
+        },
+        {
+          "name": "LLMs",
+          "pct": 60.0
+        },
+        {
+          "name": "Deep learning",
+          "pct": 56.7
+        },
+        {
+          "name": "PyTorch",
+          "pct": 56.7
+        }
+      ]
+    },
+    {
+      "id": "data-analyst",
+      "title": "Data Analyst",
+      "blurb": "Turns raw data into answers a team can act on.",
+      "postings": 60,
+      "companies": 18,
+      "entry_postings": 8,
+      "top_skills": [
+        {
+          "name": "SQL",
+          "pct": 95.0
+        },
+        {
+          "name": "Working with non-engineers",
+          "pct": 71.7
+        },
+        {
+          "name": "Python",
+          "pct": 70.0
+        },
+        {
+          "name": "Dashboards & reporting",
+          "pct": 65.0
+        },
+        {
+          "name": "Written & verbal communication",
+          "pct": 65.0
+        }
+      ]
+    },
+    {
+      "id": "software-engineer",
+      "title": "Software Engineer",
+      "blurb": "Designs, writes and ships the code behind a product.",
+      "postings": 60,
+      "companies": 18,
+      "entry_postings": 16,
+      "top_skills": [
+        {
+          "name": "Java",
+          "pct": 56.7
+        },
+        {
+          "name": "Data structures & algorithms",
+          "pct": 50.0
+        },
+        {
+          "name": "Python",
+          "pct": 45.0
+        },
+        {
+          "name": "Written & verbal communication",
+          "pct": 45.0
+        },
+        {
+          "name": "JavaScript",
+          "pct": 36.7
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "_comment": "Order matters: a posting is assigned to the FIRST role whose include pattern matches its title. Patterns are Python regexes run on the lowercased title.",
+  "seniority_exclude": "\\b(senior|sr\\.?|staff|principal|lead|manager|director|head|vp|vice president|distinguished|architect|fellow|chief)\\b|\\b(iii|iv)\\b",
+  "entry_level": "\\b(intern|interns|internship|new grad|new graduate|graduate|university|early career|early-career|early in career|entry[- ]level|junior|jr\\.?|associate|apprentice|apprenticeship|co-op|campus|student)\\b",
+  "roles": [
+    {
+      "id": "ai-engineer",
+      "title": "AI Engineer",
+      "blurb": "Builds products on top of machine learning models and LLMs.",
+      "include": [
+        "\\b(ai|ml|machine learning|deep learning|llm|genai|generative ai|applied ai)\\b.*\\b(engineer|developer)\\b",
+        "\\b(engineer|developer)\\b.*\\b(ai|ml|machine learning|llm|genai|generative ai)\\b",
+        "\\bapplied scientist\\b",
+        "\\bresearch engineer\\b"
+      ],
+      "exclude": ["\\b(sales|solutions|support|recruit\\w*|hardware|mechanical|electrical|email)\\b"]
+    },
+    {
+      "id": "data-analyst",
+      "title": "Data Analyst",
+      "blurb": "Turns raw data into answers a team can act on.",
+      "include": [
+        "\\bdata analyst\\b",
+        "\\b(business intelligence|bi|analytics|product|business|insights|operations) analyst\\b",
+        "\\bdata analytics\\b"
+      ],
+      "exclude": ["\\b(sales|recruit\\w*|financial|credit|security|compliance)\\b"]
+    },
+    {
+      "id": "software-engineer",
+      "title": "Software Engineer",
+      "blurb": "Designs, writes and ships the code behind a product.",
+      "include": [
+        "\\bsoftware (engineer|developer)\\b",
+        "\\b(backend|back-end|back end|frontend|front-end|front end|full[- ]?stack|web|mobile|ios|android|platform|infrastructure|systems|product) (software )?(engineer|developer)\\b",
+        "\\b(swe|sde)\\b",
+        "\\bmember of technical staff\\b"
+      ],
+      "exclude": ["\\b(sales|solutions|support|test|qa|hardware|mechanical|electrical|recruit\\w*)\\b"]
+    }
+  ]
+}

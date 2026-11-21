@@ -1,0 +1,25 @@
+name: Suggest a learning resource
+description: Propose a better place to learn one of the skills on the map.
+title: "Resource for "
+labels: ["resource"]
+body:
+  - type: input
+    id: skill
+    attributes:
+      label: Skill
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Link
+      description: Open it yourself before submitting.
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why this one?
+      description: Have you used it? What does it do better than what is listed now? Is it free?
+    validations:
+      required: true

@@ -1,0 +1,48 @@
+name: Practitioner note
+description: You hire, interview or work in one of these jobs. Tell students what matters in practice.
+title: "Practitioner note: "
+labels: ["practitioner-note"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Job postings are wish lists. Your note is shown next to the counts, labeled as coming from someone on the hiring side. Your name and employer are not shown unless you ask.
+  - type: dropdown
+    id: role
+    attributes:
+      label: Which job is this about?
+      options:
+        - Software Engineer
+        - AI Engineer
+        - Data Analyst
+        - Another job (say which below)
+    validations:
+      required: true
+  - type: input
+    id: skill
+    attributes:
+      label: Which skill?
+      description: Use a skill name from the site, or name one the map is missing.
+    validations:
+      required: true
+  - type: textarea
+    id: note
+    attributes:
+      label: Your note
+      description: Two or three sentences. What do you test or look for? What do postings get wrong?
+    validations:
+      required: true
+  - type: input
+    id: who
+    attributes:
+      label: How should we describe you?
+      description: Role and kind of company, for example "Hiring manager, mid-size biotech".
+    validations:
+      required: true
+  - type: checkboxes
+    id: consent
+    attributes:
+      label: Permission
+      options:
+        - label: You may publish this note on the site under the MIT License with the description above.
+          required: true

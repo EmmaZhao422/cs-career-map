@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CS Career Map</title>
+<meta name="description" content="Which skills do job postings ask for? Counted from public company job boards, with one good place to learn each skill.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%231b2440'/%3E%3Crect x='6' y='9' width='20' height='5' rx='2' fill='%23ffe14d'/%3E%3Crect x='6' y='18' width='12' height='5' rx='2' fill='%23ffe14d'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Schibsted+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="top">
+  <a class="brand" href="#home">CS Career Map</a>
+  <nav aria-label="Site">
+    <a href="#how-it-works">How it works</a>
+    <a id="repo-link" href="https://github.com/EmmaZhao422/cs-career-map">GitHub</a>
+  </nav>
+</header>
+<div id="demo-banner" class="demo" hidden>
+  <strong>Demo data.</strong> These numbers are placeholders and the companies are invented.
+  Real postings replace them after the first collection run.
+</div>
+<main id="main" tabindex="-1">
+  <p class="loading">Loading the map…</p>
+</main>
+<footer class="foot">
+  <p>Counts come from public job boards. Learning guides are written by people.
+     <a href="#how-it-works">See how the numbers are made</a>.</p>
+  <p id="updated"></p>
+</footer>
+<script src="app.js"></script>
+</body>
+</html>

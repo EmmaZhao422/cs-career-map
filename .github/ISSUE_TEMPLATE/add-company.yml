@@ -1,0 +1,18 @@
+name: Add a company
+description: Add a company's public job board to the list the collector reads.
+title: "Add company: "
+labels: ["company"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Company name
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Careers page link
+      description: We can read boards hosted on Greenhouse (boards.greenhouse.io/...) or Lever (jobs.lever.co/...).
+    validations:
+      required: true

@@ -1,0 +1,263 @@
+{
+  "python": {
+    "level": "You can write a 200-line script from a blank file: read files, call an API, handle errors, and split the work into functions.",
+    "project": "A command-line tool that pulls data from a public API and saves a cleaned CSV.",
+    "resources": [
+      {"title": "CS50's Introduction to Programming with Python", "url": "https://cs50.harvard.edu/python/", "by": "Harvard", "free": true, "checked": "2026-11-21"},
+      {"title": "The Python Tutorial", "url": "https://docs.python.org/3/tutorial/", "by": "python.org", "free": true, "checked": "2026-11-21"}
+    ]
+  },
+  "sql": {
+    "level": "You can answer a business question with joins, GROUP BY and a window function without looking up the syntax.",
+    "project": "Load a public dataset into SQLite or DuckDB and answer ten questions about it, each with one query.",
+    "resources": [
+      {"title": "SQLBolt interactive lessons", "url": "https://sqlbolt.com/", "by": "SQLBolt", "free": true, "checked": "2026-11-21"},
+      {"title": "SQL Tutorial for Data Analysis", "url": "https://www.thoughtspot.com/sql-tutorial", "by": "ThoughtSpot (formerly Mode)", "free": true, "checked": "2026-11-21"}
+    ]
+  },
+  "git": {
+    "level": "You can branch, commit, open a pull request, and recover from a bad merge on your own.",
+    "project": "Put a project on GitHub and land three pull requests into it, one of them with a merge conflict you resolve.",
+    "resources": [
+      {"title": "Pro Git (2nd edition)", "url": "https://git-scm.com/book/en/v2", "by": "Scott Chacon and Ben Straub", "free": true, "checked": "2026-11-21"},
+      {"title": "The Missing Semester of Your CS Education", "url": "https://missing.csail.mit.edu/", "by": "MIT", "free": true, "checked": "2026-11-21"}
+    ]
+  },
+  "linux": {
+    "level": "You can move around a server from the terminal: find files, read logs, chain commands with pipes, write a short shell script.",
+    "project": "Write a shell script that backs up a folder, names the archive by date, and deletes archives older than a week.",
+    "resources": [
+      {"title": "The Missing Semester of Your CS Education", "url": "https://missing.csail.mit.edu/", "by": "MIT", "free": true, "checked": "2026-11-21"}
+    ]
+  },
+  "data-structures-algorithms": {
+    "level": "You can pick the right structure (array, hash map, tree, graph, heap) for a problem and explain the running time of your solution.",
+    "project": "Solve 50 problems across arrays, hash maps, trees and graphs, writing down the time complexity of each.",
+    "resources": [
+      {"title": "Algorithms, 4th Edition (book site with lectures and code)", "url": "https://algs4.cs.princeton.edu/home/", "by": "Sedgewick and Wayne, Princeton", "free": true, "checked": "2026-11-21"},
+      {"title": "NeetCode roadmap", "url": "https://neetcode.io/roadmap", "by": "NeetCode", "free": true, "checked": "2026-11-21"}
+    ]
+  },
+  "c-lang": {
+    "level": "You understand pointers, memory allocation and what the stack and heap are doing while your program runs.",
+    "project": "Implement a dynamic array and a hash table in C, with no memory leaks.",
+    "resources": [
+      {"title": "CS50x: Introduction to Computer Science", "url": "https://cs50.harvard.edu/x/", "by": "Harvard", "free": true, "checked": "2026-11-21"}
+    ]
+  },
+  "cpp": {
+    "level": "You can write a multi-file program using classes, references, the standard containers and smart pointers.",
+    "project": "A small command-line game or simulation built with CMake, using the standard library containers.",
+    "resources": [
+      {"title": "Learn C++", "url": "https://www.learncpp.com/", "by": "learncpp.com", "free": true, "checked": "2026-11-21"}
+    ]
+  },
+  "java": {
+    "level": "You can build a small application with classes, interfaces, collections and exceptions, and run its tests.",
+    "project": "A REST service with three endpoints and unit tests.",
+    "resources": [
+      {"title": "Learn Java", "url": "https://dev.java/learn/", "by": "Oracle (dev.java)", "free": true, "checked": "2026-11-21"}
+    ]
+  },
+  "go": {
+    "level": "You can write a small concurrent program with goroutines and channels, and structure it as a module.",
+    "project": "A command-line tool that fetches twenty URLs at once and reports which are slow.",
+    "resources": [
+      {"title": "A Tour of Go", "url": "https://go.dev/tour/", "by": "The Go team", "free": true, "checked": "2026-11-21"}
+    ]
+  },
+  "r": {
+    "level": "You can import a messy table, tidy it, summarise it and plot it with the tidyverse.",
+    "project": "A short report on a public dataset with five charts and the code that produced them.",
+    "resources": [
+      {"title": "R for Data Science (2nd edition)", "url": "https://r4ds.hadley.nz/", "by": "Wickham, Çetinkaya-Rundel and Grolemund", "free": true, "checked": "2026-11-21"}
+    ]
+  },
+  "javascript": {
+    "level": "You understand functions, closures, promises and async/await, and can change a page with the DOM.",
+    "project": "A to-do app with no framework that saves its list in the browser.",
+    "resources": [
+      {"title": "The Modern JavaScript Tutorial", "url": "https://javascript.info/", "by": "javascript.info", "free": true, "checked": "2026-11-21"},
+      {"title": "Learn web development", "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development", "by": "MDN", "free": true, "checked": "2026-11-21"}
+    ]
+  },
+  "typescript": {
+    "level": "You can type functions, objects and API responses, and read the errors the compiler gives you.",
+    "project": "Convert a small JavaScript project to TypeScript with strict mode on.",
+    "resources": [
+      {"title": "The TypeScript Handbook", "url": "https://www.typescriptlang.org/docs/handbook/intro.html", "by": "Microsoft", "free": true, "checked": "2026-11-21"}
+    ]
+  },
+  "html-css": {
+    "level": "You can build a responsive page from a design using semantic HTML, flexbox and grid.",
+    "project": "Rebuild the landing page of a site you like, by hand, so it works on a phone.",
+    "resources": [
+      {"title": "Learn web development", "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development", "by": "MDN", "free": true, "checked": "2026-11-21"}
+    ]
+  },
+  "react": {
+    "level": "You can break a screen into components, manage state, and load data from an API.",
+    "project": "A searchable list page that loads data from a public API, with loading and error states.",
+    "resources": [
+      {"title": "React quick start and tutorial", "url": "https://react.dev/learn", "by": "The React team", "free": true, "checked": "2026-11-21"},
+      {"title": "Full Stack Open", "url": "https://fullstackopen.com/en/", "by": "University of Helsinki", "free": true, "checked": "2026-11-21"}
+    ]
+  },
+  "nodejs": {
+    "level": "You can write a small web server, connect it to a database and deploy it.",
+    "project": "A JSON API with a database behind it, deployed where a friend can call it.",
+    "resources": [
+      {"title": "Full Stack Open", "url": "https://fullstackopen.com/en/", "by": "University of Helsinki", "free": true, "checked": "2026-11-21"}
+    ]
+  },
+  "rest-apis": {
+    "level": "You can design endpoints for a resource, pick the right status codes, validate input and document the API.",
+    "project": "A small API with create, read, update and delete for one resource, with generated docs.",
+    "resources": [
+      {"title": "FastAPI tutorial", "url": "https://fastapi.tiangolo.com/tutorial/", "by": "FastAPI", "free": true, "checked": "2026-11-21"}
+    ]
+  },
+  "operating-systems": {
+    "level": "You can explain processes, threads, virtual memory and file systems, and what happens when a program asks the kernel for something.",
+    "project": "Write a tiny shell that runs commands, supports pipes and handles Ctrl-C.",
+    "resources": [
+      {"title": "Operating Systems: Three Easy Pieces", "url": "https://pages.cs.wisc.edu/~remzi/OSTEP/", "by": "Remzi and Andrea Arpaci-Dusseau", "free": true, "checked": "2026-11-21"}
+    ]
+  },
+  "system-design": {
+    "level": "Given a product like a URL shortener, you can sketch the services, the data store and where it breaks under load.",
+    "project": "Write a two-page design for a system you use every day, then have someone poke holes in it.",
+    "resources": [
+      {"title": "The System Design Primer", "url": "https://github.com/donnemartin/system-design-primer", "by": "Donne Martin", "free": true, "checked": "2026-11-21"}
+    ]
+  },
+  "docker": {
+    "level": "You can write a Dockerfile for your own app and run it with its database using Compose.",
+    "project": "Containerise one of your projects so it starts with a single command on a clean machine.",
+    "resources": [
+      {"title": "Docker: Get started", "url": "https://docs.docker.com/get-started/", "by": "Docker", "free": true, "checked": "2026-11-21"}
+    ]
+  },
+  "kubernetes": {
+    "level": "You can deploy a containerised app, expose it, scale it and read its logs.",
+    "project": "Deploy your containerised project to a local cluster and roll out a new version without downtime.",
+    "resources": [
+      {"title": "Learn Kubernetes Basics", "url": "https://kubernetes.io/docs/tutorials/kubernetes-basics/", "by": "Kubernetes", "free": true, "checked": "2026-11-21"}
+    ]
+  },
+  "ci-cd": {
+    "level": "You can make tests run on every pull request and deploy automatically when the main branch changes.",
+    "project": "Add a workflow to one of your repositories that runs the tests and publishes the result.",
+    "resources": [
+      {"title": "GitHub Actions documentation", "url": "https://docs.github.com/en/actions", "by": "GitHub", "free": true, "checked": "2026-11-21"}
+    ]
+  },
+  "aws": {
+    "level": "You know what the core services do (compute, storage, databases, permissions) and have deployed something small yourself.",
+    "project": "Host a static site and a small API on the free tier, then tear it all down.",
+    "resources": [
+      {"title": "AWS Skill Builder", "url": "https://skillbuilder.aws/", "by": "Amazon Web Services", "free": true, "checked": "2026-11-21"}
+    ]
+  },
+  "statistics": {
+    "level": "You can read a distribution, run and interpret a hypothesis test, and say what a confidence interval does and does not mean.",
+    "project": "Take a public dataset, state one hypothesis, test it and write up the result in a paragraph a non-statistician can follow.",
+    "resources": [
+      {"title": "Statistics and probability", "url": "https://www.khanacademy.org/math/statistics-probability", "by": "Khan Academy", "free": true, "checked": "2026-11-21"}
+    ]
+  },
+  "pandas": {
+    "level": "You can load, clean, join and summarise tables without a loop.",
+    "project": "Clean a messy public dataset and reproduce three numbers from a news article that used it.",
+    "resources": [
+      {"title": "Pandas course", "url": "https://www.kaggle.com/learn/pandas", "by": "Kaggle", "free": true, "checked": "2026-11-21"}
+    ]
+  },
+  "excel": {
+    "level": "You can build a pivot table, use lookup functions and keep a workbook someone else can follow.",
+    "project": "A one-sheet model that answers a what-if question, with inputs separated from formulas.",
+    "resources": [
+      {"title": "Excel help and learning", "url": "https://support.microsoft.com/en-us/excel", "by": "Microsoft", "free": true, "checked": "2026-11-21"}
+    ]
+  },
+  "tableau": {
+    "level": "You can connect to data, build a dashboard with filters, and choose a chart that fits the question.",
+    "project": "Publish a dashboard on a public dataset that answers one question at a glance.",
+    "resources": [
+      {"title": "Tableau free training videos", "url": "https://www.tableau.com/learn/training", "by": "Tableau", "free": true, "checked": "2026-11-21"}
+    ]
+  },
+  "power-bi": {
+    "level": "You can model a few related tables, write basic measures and publish a report.",
+    "project": "A report with three pages built on two related tables.",
+    "resources": [
+      {"title": "Power BI training", "url": "https://learn.microsoft.com/en-us/training/powerplatform/power-bi", "by": "Microsoft Learn", "free": true, "checked": "2026-11-21"}
+    ]
+  },
+  "dbt": {
+    "level": "You can turn raw tables into tested, documented models that build in order.",
+    "project": "Model a small public dataset into staging and reporting tables, with tests.",
+    "resources": [
+      {"title": "dbt Learn", "url": "https://learn.getdbt.com/", "by": "dbt Labs", "free": true, "checked": "2026-11-21"}
+    ]
+  },
+  "machine-learning": {
+    "level": "You can frame a prediction problem, split the data properly, train a baseline and judge it with the right metric.",
+    "project": "Train and evaluate a model on a tabular dataset, and write down why you trust or distrust its score.",
+    "resources": [
+      {"title": "Machine Learning Crash Course", "url": "https://developers.google.com/machine-learning/crash-course", "by": "Google", "free": true, "checked": "2026-11-21"},
+      {"title": "Intro to Machine Learning", "url": "https://www.kaggle.com/learn/intro-to-machine-learning", "by": "Kaggle", "free": true, "checked": "2026-11-21"}
+    ]
+  },
+  "scikit-learn": {
+    "level": "You can build a pipeline that preprocesses data, fits a model and cross-validates it.",
+    "project": "Compare three models on one dataset with cross-validation and a single pipeline.",
+    "resources": [
+      {"title": "Getting started with scikit-learn", "url": "https://scikit-learn.org/stable/getting_started.html", "by": "scikit-learn", "free": true, "checked": "2026-11-21"}
+    ]
+  },
+  "deep-learning": {
+    "level": "You can explain backpropagation, train a network end to end, and diagnose over- and under-fitting from the loss curves.",
+    "project": "Train an image or text classifier on your own small dataset and report where it fails.",
+    "resources": [
+      {"title": "Practical Deep Learning for Coders", "url": "https://course.fast.ai/", "by": "fast.ai", "free": true, "checked": "2026-11-21"},
+      {"title": "Neural Networks: Zero to Hero", "url": "https://karpathy.ai/zero-to-hero.html", "by": "Andrej Karpathy", "free": true, "checked": "2026-11-21"}
+    ]
+  },
+  "pytorch": {
+    "level": "You can write a training loop, a dataset class and a model by hand, and move them to a GPU.",
+    "project": "Reimplement a small model from a paper or tutorial without copying the code.",
+    "resources": [
+      {"title": "PyTorch tutorials", "url": "https://docs.pytorch.org/tutorials/", "by": "PyTorch", "free": true, "checked": "2026-11-21"}
+    ]
+  },
+  "llm": {
+    "level": "You know how tokens, context windows and sampling work, and can call a model from code and handle its failures.",
+    "project": "An app that answers questions about a set of documents and shows where each answer came from.",
+    "resources": [
+      {"title": "LLM Course", "url": "https://huggingface.co/learn/llm-course", "by": "Hugging Face", "free": true, "checked": "2026-11-21"},
+      {"title": "Neural Networks: Zero to Hero", "url": "https://karpathy.ai/zero-to-hero.html", "by": "Andrej Karpathy", "free": true, "checked": "2026-11-21"}
+    ]
+  },
+  "nlp": {
+    "level": "You can tokenise text, fine-tune a pretrained model on a classification task and evaluate it.",
+    "project": "Fine-tune a small pretrained model to label text you collected yourself.",
+    "resources": [
+      {"title": "LLM Course", "url": "https://huggingface.co/learn/llm-course", "by": "Hugging Face", "free": true, "checked": "2026-11-21"}
+    ]
+  },
+  "prompt-engineering": {
+    "level": "You can write a prompt with clear instructions and examples, test it on real cases, and improve it from the failures.",
+    "project": "Pick one task, collect twenty test inputs, and raise your prompt's pass rate with written notes on each change.",
+    "resources": [
+      {"title": "Prompt engineering overview", "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview", "by": "Anthropic", "free": true, "checked": "2026-11-21"}
+    ]
+  },
+  "agents": {
+    "level": "You can give a model tools, let it take several steps toward a goal, and keep it from looping or going off task.",
+    "project": "An agent that uses two tools to finish a real chore of yours, with a log of every step it took.",
+    "resources": [
+      {"title": "AI Agents Course", "url": "https://huggingface.co/learn/agents-course", "by": "Hugging Face", "free": true, "checked": "2026-11-21"}
+    ]
+  }
+}

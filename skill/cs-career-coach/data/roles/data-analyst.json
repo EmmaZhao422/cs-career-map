@@ -1,0 +1,214 @@
+{
+  "id": "data-analyst",
+  "title": "Data Analyst",
+  "blurb": "Turns raw data into answers a team can act on.",
+  "demo": true,
+  "postings": 60,
+  "companies": 18,
+  "entry_postings": 8,
+  "last_seen_from": "2026-11-21",
+  "last_seen_to": "2026-11-21",
+  "skills": [
+    {
+      "id": "sql",
+      "name": "SQL",
+      "category": "Languages",
+      "count": 57,
+      "pct": 95.0,
+      "tier": "most",
+      "companies": 18,
+      "entry_count": 7
+    },
+    {
+      "id": "cross-functional",
+      "name": "Working with non-engineers",
+      "category": "Working with people",
+      "count": 43,
+      "pct": 71.7,
+      "tier": "most",
+      "companies": 17,
+      "entry_count": 7
+    },
+    {
+      "id": "python",
+      "name": "Python",
+      "category": "Languages",
+      "count": 42,
+      "pct": 70.0,
+      "tier": "most",
+      "companies": 18,
+      "entry_count": 7
+    },
+    {
+      "id": "dashboards",
+      "name": "Dashboards & reporting",
+      "category": "Analysis",
+      "count": 39,
+      "pct": 65.0,
+      "tier": "most",
+      "companies": 17,
+      "entry_count": 5
+    },
+    {
+      "id": "communication",
+      "name": "Written & verbal communication",
+      "category": "Working with people",
+      "count": 39,
+      "pct": 65.0,
+      "tier": "most",
+      "companies": 17,
+      "entry_count": 6
+    },
+    {
+      "id": "statistics",
+      "name": "Statistics",
+      "category": "Analysis",
+      "count": 36,
+      "pct": 60.0,
+      "tier": "most",
+      "companies": 16,
+      "entry_count": 4
+    },
+    {
+      "id": "excel",
+      "name": "Excel / spreadsheets",
+      "category": "Analysis",
+      "count": 26,
+      "pct": 43.3,
+      "tier": "most",
+      "companies": 13,
+      "entry_count": 3
+    },
+    {
+      "id": "tableau",
+      "name": "Tableau",
+      "category": "Analysis",
+      "count": 25,
+      "pct": 41.7,
+      "tier": "most",
+      "companies": 13,
+      "entry_count": 4
+    },
+    {
+      "id": "data-visualization",
+      "name": "Data visualization",
+      "category": "Analysis",
+      "count": 20,
+      "pct": 33.3,
+      "tier": "many",
+      "companies": 14,
+      "entry_count": 1
+    },
+    {
+      "id": "r",
+      "name": "R",
+      "category": "Languages",
+      "count": 18,
+      "pct": 30.0,
+      "tier": "many",
+      "companies": 11,
+      "entry_count": 1
+    },
+    {
+      "id": "ab-testing",
+      "name": "A/B testing",
+      "category": "Analysis",
+      "count": 16,
+      "pct": 26.7,
+      "tier": "many",
+      "companies": 12,
+      "entry_count": 2
+    },
+    {
+      "id": "data-modeling",
+      "name": "Data modeling",
+      "category": "Data engineering",
+      "count": 15,
+      "pct": 25.0,
+      "tier": "many",
+      "companies": 9,
+      "entry_count": 3
+    },
+    {
+      "id": "data-pipelines",
+      "name": "Data pipelines (ETL)",
+      "category": "Data engineering",
+      "count": 14,
+      "pct": 23.3,
+      "tier": "many",
+      "companies": 11,
+      "entry_count": 2
+    },
+    {
+      "id": "power-bi",
+      "name": "Power BI",
+      "category": "Analysis",
+      "count": 14,
+      "pct": 23.3,
+      "tier": "many",
+      "companies": 11,
+      "entry_count": 1
+    },
+    {
+      "id": "data-warehouse",
+      "name": "Data warehouses",
+      "category": "Data engineering",
+      "count": 13,
+      "pct": 21.7,
+      "tier": "many",
+      "companies": 11,
+      "entry_count": 0
+    },
+    {
+      "id": "machine-learning",
+      "name": "Machine learning",
+      "category": "AI & ML",
+      "count": 10,
+      "pct": 16.7,
+      "tier": "many",
+      "companies": 9,
+      "entry_count": 3
+    },
+    {
+      "id": "dbt",
+      "name": "dbt",
+      "category": "Data engineering",
+      "count": 9,
+      "pct": 15.0,
+      "tier": "many",
+      "companies": 7,
+      "entry_count": 1
+    },
+    {
+      "id": "looker",
+      "name": "Looker",
+      "category": "Analysis",
+      "count": 8,
+      "pct": 13.3,
+      "tier": "some",
+      "companies": 7,
+      "entry_count": 1
+    },
+    {
+      "id": "git",
+      "name": "Git",
+      "category": "Tools",
+      "count": 4,
+      "pct": 6.7,
+      "tier": "some",
+      "companies": 4,
+      "entry_count": 0
+    },
+    {
+      "id": "pandas",
+      "name": "pandas / NumPy",
+      "category": "Analysis",
+      "count": 3,
+      "pct": 5.0,
+      "tier": "some",
+      "companies": 3,
+      "entry_count": 0
+    }
+  ],
+  "generated_at": "2026-11-21T07:00:00+00:00"
+}

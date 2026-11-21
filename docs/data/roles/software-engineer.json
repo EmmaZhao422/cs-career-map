@@ -1,0 +1,920 @@
+{
+  "id": "software-engineer",
+  "title": "Software Engineer",
+  "blurb": "Designs, writes and ships the code behind a product.",
+  "demo": true,
+  "postings": 60,
+  "companies": 18,
+  "entry_postings": 16,
+  "last_seen_from": "2026-11-21",
+  "last_seen_to": "2026-11-21",
+  "skills": [
+    {
+      "id": "java",
+      "name": "Java",
+      "category": "Languages",
+      "count": 34,
+      "pct": 56.7,
+      "tier": "most",
+      "companies": 16,
+      "entry_count": 11
+    },
+    {
+      "id": "data-structures-algorithms",
+      "name": "Data structures & algorithms",
+      "category": "CS fundamentals",
+      "count": 30,
+      "pct": 50.0,
+      "tier": "most",
+      "companies": 15,
+      "entry_count": 9
+    },
+    {
+      "id": "python",
+      "name": "Python",
+      "category": "Languages",
+      "count": 27,
+      "pct": 45.0,
+      "tier": "most",
+      "companies": 15,
+      "entry_count": 8
+    },
+    {
+      "id": "communication",
+      "name": "Written & verbal communication",
+      "category": "Working with people",
+      "count": 27,
+      "pct": 45.0,
+      "tier": "most",
+      "companies": 12,
+      "entry_count": 8
+    },
+    {
+      "id": "javascript",
+      "name": "JavaScript",
+      "category": "Languages",
+      "count": 22,
+      "pct": 36.7,
+      "tier": "many",
+      "companies": 12,
+      "entry_count": 4
+    },
+    {
+      "id": "testing",
+      "name": "Testing",
+      "category": "CS fundamentals",
+      "count": 21,
+      "pct": 35.0,
+      "tier": "many",
+      "companies": 14,
+      "entry_count": 5
+    },
+    {
+      "id": "cross-functional",
+      "name": "Working with non-engineers",
+      "category": "Working with people",
+      "count": 21,
+      "pct": 35.0,
+      "tier": "many",
+      "companies": 13,
+      "entry_count": 4
+    },
+    {
+      "id": "rest-apis",
+      "name": "APIs (REST)",
+      "category": "Web",
+      "count": 20,
+      "pct": 33.3,
+      "tier": "many",
+      "companies": 11,
+      "entry_count": 6
+    },
+    {
+      "id": "react",
+      "name": "React",
+      "category": "Web",
+      "count": 19,
+      "pct": 31.7,
+      "tier": "many",
+      "companies": 12,
+      "entry_count": 10
+    },
+    {
+      "id": "sql",
+      "name": "SQL",
+      "category": "Languages",
+      "count": 19,
+      "pct": 31.7,
+      "tier": "many",
+      "companies": 13,
+      "entry_count": 4
+    },
+    {
+      "id": "typescript",
+      "name": "TypeScript",
+      "category": "Languages",
+      "count": 18,
+      "pct": 30.0,
+      "tier": "many",
+      "companies": 14,
+      "entry_count": 5
+    },
+    {
+      "id": "distributed-systems",
+      "name": "Distributed systems",
+      "category": "CS fundamentals",
+      "count": 17,
+      "pct": 28.3,
+      "tier": "many",
+      "companies": 10,
+      "entry_count": 7
+    },
+    {
+      "id": "aws",
+      "name": "AWS",
+      "category": "Cloud",
+      "count": 13,
+      "pct": 21.7,
+      "tier": "many",
+      "companies": 9,
+      "entry_count": 2
+    },
+    {
+      "id": "ci-cd",
+      "name": "CI/CD",
+      "category": "Tools",
+      "count": 13,
+      "pct": 21.7,
+      "tier": "many",
+      "companies": 9,
+      "entry_count": 1
+    },
+    {
+      "id": "git",
+      "name": "Git",
+      "category": "Tools",
+      "count": 12,
+      "pct": 20.0,
+      "tier": "many",
+      "companies": 9,
+      "entry_count": 3
+    },
+    {
+      "id": "go",
+      "name": "Go",
+      "category": "Languages",
+      "count": 12,
+      "pct": 20.0,
+      "tier": "many",
+      "companies": 8,
+      "entry_count": 6
+    },
+    {
+      "id": "linux",
+      "name": "Linux & command line",
+      "category": "Tools",
+      "count": 12,
+      "pct": 20.0,
+      "tier": "many",
+      "companies": 10,
+      "entry_count": 1
+    },
+    {
+      "id": "docker",
+      "name": "Docker",
+      "category": "Tools",
+      "count": 11,
+      "pct": 18.3,
+      "tier": "many",
+      "companies": 8,
+      "entry_count": 1
+    },
+    {
+      "id": "system-design",
+      "name": "System design",
+      "category": "CS fundamentals",
+      "count": 11,
+      "pct": 18.3,
+      "tier": "many",
+      "companies": 8,
+      "entry_count": 4
+    },
+    {
+      "id": "cpp",
+      "name": "C++",
+      "category": "Languages",
+      "count": 10,
+      "pct": 16.7,
+      "tier": "many",
+      "companies": 8,
+      "entry_count": 1
+    },
+    {
+      "id": "microservices",
+      "name": "Microservices",
+      "category": "Web",
+      "count": 9,
+      "pct": 15.0,
+      "tier": "many",
+      "companies": 8,
+      "entry_count": 2
+    },
+    {
+      "id": "kubernetes",
+      "name": "Kubernetes",
+      "category": "Tools",
+      "count": 8,
+      "pct": 13.3,
+      "tier": "some",
+      "companies": 7,
+      "entry_count": 2
+    },
+    {
+      "id": "machine-learning",
+      "name": "Machine learning",
+      "category": "AI & ML",
+      "count": 8,
+      "pct": 13.3,
+      "tier": "some",
+      "companies": 7,
+      "entry_count": 3
+    },
+    {
+      "id": "oop",
+      "name": "Object-oriented design",
+      "category": "CS fundamentals",
+      "count": 8,
+      "pct": 13.3,
+      "tier": "some",
+      "companies": 4,
+      "entry_count": 0
+    },
+    {
+      "id": "gcp",
+      "name": "Google Cloud",
+      "category": "Cloud",
+      "count": 7,
+      "pct": 11.7,
+      "tier": "some",
+      "companies": 6,
+      "entry_count": 1
+    },
+    {
+      "id": "nodejs",
+      "name": "Node.js",
+      "category": "Web",
+      "count": 7,
+      "pct": 11.7,
+      "tier": "some",
+      "companies": 6,
+      "entry_count": 2
+    },
+    {
+      "id": "rust",
+      "name": "Rust",
+      "category": "Languages",
+      "count": 5,
+      "pct": 8.3,
+      "tier": "some",
+      "companies": 5,
+      "entry_count": 0
+    },
+    {
+      "id": "html-css",
+      "name": "HTML & CSS",
+      "category": "Web",
+      "count": 4,
+      "pct": 6.7,
+      "tier": "some",
+      "companies": 3,
+      "entry_count": 0
+    },
+    {
+      "id": "kotlin",
+      "name": "Kotlin",
+      "category": "Languages",
+      "count": 4,
+      "pct": 6.7,
+      "tier": "some",
+      "companies": 4,
+      "entry_count": 0
+    },
+    {
+      "id": "llm",
+      "name": "LLMs",
+      "category": "AI & ML",
+      "count": 4,
+      "pct": 6.7,
+      "tier": "some",
+      "companies": 3,
+      "entry_count": 0
+    },
+    {
+      "id": "concurrency",
+      "name": "Concurrency",
+      "category": "CS fundamentals",
+      "count": 3,
+      "pct": 5.0,
+      "tier": "some",
+      "companies": 3,
+      "entry_count": 2
+    },
+    {
+      "id": "graphql",
+      "name": "GraphQL",
+      "category": "Web",
+      "count": 3,
+      "pct": 5.0,
+      "tier": "some",
+      "companies": 3,
+      "entry_count": 1
+    },
+    {
+      "id": "kafka",
+      "name": "Kafka",
+      "category": "Data engineering",
+      "count": 3,
+      "pct": 5.0,
+      "tier": "some",
+      "companies": 3,
+      "entry_count": 0
+    },
+    {
+      "id": "swift",
+      "name": "Swift",
+      "category": "Languages",
+      "count": 3,
+      "pct": 5.0,
+      "tier": "some",
+      "companies": 3,
+      "entry_count": 1
+    },
+    {
+      "id": "nosql",
+      "name": "NoSQL databases",
+      "category": "Data engineering",
+      "count": 2,
+      "pct": 3.3,
+      "tier": "rare",
+      "companies": 2,
+      "entry_count": 0
+    }
+  ],
+  "company_counts": [
+    [
+      "Demo Company J",
+      7
+    ],
+    [
+      "Demo Company C",
+      6
+    ],
+    [
+      "Demo Company G",
+      6
+    ],
+    [
+      "Demo Company A",
+      5
+    ],
+    [
+      "Demo Company B",
+      4
+    ],
+    [
+      "Demo Company E",
+      4
+    ],
+    [
+      "Demo Company O",
+      4
+    ],
+    [
+      "Demo Company F",
+      3
+    ],
+    [
+      "Demo Company K",
+      3
+    ],
+    [
+      "Demo Company L",
+      3
+    ],
+    [
+      "Demo Company M",
+      3
+    ],
+    [
+      "Demo Company D",
+      2
+    ],
+    [
+      "Demo Company N",
+      2
+    ],
+    [
+      "Demo Company P",
+      2
+    ],
+    [
+      "Demo Company Q",
+      2
+    ],
+    [
+      "Demo Company R",
+      2
+    ],
+    [
+      "Demo Company H",
+      1
+    ],
+    [
+      "Demo Company I",
+      1
+    ]
+  ],
+  "sample": [
+    {
+      "company": "Demo Company J",
+      "title": "Software Engineer",
+      "url": null,
+      "location": null,
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company J",
+      "title": "Software Engineer Intern",
+      "url": null,
+      "location": null,
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company E",
+      "title": "Full-Stack Engineer",
+      "url": null,
+      "location": null,
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company C",
+      "title": "Software Engineer",
+      "url": null,
+      "location": null,
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company M",
+      "title": "Frontend Engineer",
+      "url": null,
+      "location": null,
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company A",
+      "title": "Full-Stack Engineer",
+      "url": null,
+      "location": null,
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company B",
+      "title": "Backend Engineer",
+      "url": null,
+      "location": null,
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company G",
+      "title": "Software Engineer",
+      "url": null,
+      "location": null,
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company J",
+      "title": "Software Engineer",
+      "url": null,
+      "location": null,
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company L",
+      "title": "Software Engineer",
+      "url": null,
+      "location": null,
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company D",
+      "title": "Software Engineer, New Grad",
+      "url": null,
+      "location": null,
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company J",
+      "title": "Software Engineer Intern",
+      "url": null,
+      "location": null,
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company P",
+      "title": "Software Engineer, New Grad",
+      "url": null,
+      "location": null,
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company B",
+      "title": "Full-Stack Engineer",
+      "url": null,
+      "location": null,
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company N",
+      "title": "Backend Engineer",
+      "url": null,
+      "location": null,
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company E",
+      "title": "Software Engineer",
+      "url": null,
+      "location": null,
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company C",
+      "title": "Frontend Engineer",
+      "url": null,
+      "location": null,
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company C",
+      "title": "Full-Stack Engineer",
+      "url": null,
+      "location": null,
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company B",
+      "title": "Backend Engineer",
+      "url": null,
+      "location": null,
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company I",
+      "title": "Software Engineer",
+      "url": null,
+      "location": null,
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company D",
+      "title": "Software Engineer",
+      "url": null,
+      "location": null,
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company O",
+      "title": "Software Engineer, New Grad",
+      "url": null,
+      "location": null,
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company O",
+      "title": "Software Engineer",
+      "url": null,
+      "location": null,
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company G",
+      "title": "Full-Stack Engineer",
+      "url": null,
+      "location": null,
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company R",
+      "title": "Frontend Engineer",
+      "url": null,
+      "location": null,
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company Q",
+      "title": "Full-Stack Engineer",
+      "url": null,
+      "location": null,
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company A",
+      "title": "Software Engineer",
+      "url": null,
+      "location": null,
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company F",
+      "title": "Backend Engineer",
+      "url": null,
+      "location": null,
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company O",
+      "title": "Software Engineer Intern",
+      "url": null,
+      "location": null,
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company G",
+      "title": "Software Engineer Intern",
+      "url": null,
+      "location": null,
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company J",
+      "title": "Software Engineer, New Grad",
+      "url": null,
+      "location": null,
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company C",
+      "title": "Software Engineer",
+      "url": null,
+      "location": null,
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company K",
+      "title": "Software Engineer",
+      "url": null,
+      "location": null,
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company N",
+      "title": "Full-Stack Engineer",
+      "url": null,
+      "location": null,
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company K",
+      "title": "Full-Stack Engineer",
+      "url": null,
+      "location": null,
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company A",
+      "title": "Software Engineer",
+      "url": null,
+      "location": null,
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company E",
+      "title": "Backend Engineer",
+      "url": null,
+      "location": null,
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company E",
+      "title": "Backend Engineer",
+      "url": null,
+      "location": null,
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company C",
+      "title": "Software Engineer",
+      "url": null,
+      "location": null,
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company Q",
+      "title": "Backend Engineer",
+      "url": null,
+      "location": null,
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company P",
+      "title": "Software Engineer Intern",
+      "url": null,
+      "location": null,
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company A",
+      "title": "Software Engineer Intern",
+      "url": null,
+      "location": null,
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company C",
+      "title": "Frontend Engineer",
+      "url": null,
+      "location": null,
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company A",
+      "title": "Software Engineer",
+      "url": null,
+      "location": null,
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company M",
+      "title": "Full-Stack Engineer",
+      "url": null,
+      "location": null,
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company F",
+      "title": "Frontend Engineer",
+      "url": null,
+      "location": null,
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company G",
+      "title": "Full-Stack Engineer",
+      "url": null,
+      "location": null,
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company J",
+      "title": "Frontend Engineer",
+      "url": null,
+      "location": null,
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company F",
+      "title": "Full-Stack Engineer",
+      "url": null,
+      "location": null,
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company H",
+      "title": "Software Engineer, New Grad",
+      "url": null,
+      "location": null,
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company L",
+      "title": "Software Engineer Intern",
+      "url": null,
+      "location": null,
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company M",
+      "title": "Software Engineer",
+      "url": null,
+      "location": null,
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company G",
+      "title": "Software Engineer Intern",
+      "url": null,
+      "location": null,
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company O",
+      "title": "Software Engineer, New Grad",
+      "url": null,
+      "location": null,
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company L",
+      "title": "Full-Stack Engineer",
+      "url": null,
+      "location": null,
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company G",
+      "title": "Frontend Engineer",
+      "url": null,
+      "location": null,
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company R",
+      "title": "Full-Stack Engineer",
+      "url": null,
+      "location": null,
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company K",
+      "title": "Software Engineer Intern",
+      "url": null,
+      "location": null,
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company J",
+      "title": "Full-Stack Engineer",
+      "url": null,
+      "location": null,
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Demo Company B",
+      "title": "Software Engineer Intern",
+      "url": null,
+      "location": null,
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    }
+  ],
+  "generated_at": "2026-11-21T07:00:00+00:00"
+}

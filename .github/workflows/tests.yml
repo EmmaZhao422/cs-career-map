@@ -1,0 +1,24 @@
+name: Tests
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python -m unittest discover -s collector -v
+      - name: Config files are valid JSON
+        run: |
+          for f in config/*.json data/skill_guides.json data/practitioner_notes.json; do
+            python -c "import json,sys; json.load(open(sys.argv[1]))" "$f"
+          done
