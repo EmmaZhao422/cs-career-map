@@ -30,6 +30,10 @@
 3. **开 Pages**：仓库 Settings → Pages → Source 选 "GitHub Actions"。
 4. 推上去以后，在仓库 Actions 页手动点一次 "Refresh job posting data"。它在 GitHub 的机器上跑，能联网，会采真实数据并发布网站。
 
+最省事的办法：连好 GitHub、建好空仓库后，回到 Claude 那个对话说一句「推」，那边有完整的一份（含 `.github/`）。
+
+⚠ 电脑上 `~/Desktop/Emma/cs-career-map` 这份**缺 `.github/` 文件夹**（6 个文件：3 个自动流程 + 3 个 Issue 表单）。远程工具不允许往电脑上的 `.github/` 写文件。完整版在对话里发的 `cs-career-map.zip` 里，自己推之前先把 zip 里的 `.github/` 拷进来。
+
 在自己电脑上推的命令（项目在 `~/Desktop/Emma/cs-career-map`）：
 
 ```bash
