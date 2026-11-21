@@ -53,7 +53,7 @@ def main(argv=None) -> int:
                 continue
             postings[role_id] += 1
             titles[role_id].append(job["title"])
-            text = job["title"] + "\n" + job["text"]
+            text = job["text"]  # skills are matched on the body only, as in collect()
             for skill_id, rx in matcher._compiled:
                 m = rx.search(text)
                 if not m:

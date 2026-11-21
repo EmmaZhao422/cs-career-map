@@ -1,7 +1,13 @@
 {
-  "_comment": "Order matters: a posting is assigned to the FIRST role whose include pattern matches its title. Patterns are Python regexes run on the lowercased title.",
-  "seniority_exclude": "\\b(senior|sr\\.?|staff|principal|lead|manager|director|head|vp|vice president|distinguished|architect|fellow|chief)\\b|\\b(iii|iv)\\b|\\b(engineer|developer|analyst|scientist),? ?(3|4|5|6)\\b",
-  "entry_level": "\\b(intern|interns|internship|new grad|new graduate|graduate|university|early career|early-career|early in career|entry[- ]level|junior|jr\\.?|associate|apprentice|apprenticeship|co-op|campus|student)\\b",
+  "_comment": "Order matters: a posting is assigned to the FIRST role whose include pattern matches its title. Patterns are Python regexes run on the lowercased title. 'seniority_exclude' words drop a title wherever they appear. 'seniority_positional' words (staff, lead, head, manager, architect) drop a title only when they come before the first 'role_nouns' match, or right after it with nothing but spaces in between: 'Staff Software Engineer' and 'Engineering Manager' are dropped, 'Software Engineer, Staff Tools' is kept. 'exclude_all' drops a title from every role. 'advanced_degree' marks PhD and Master's postings, which are counted in the totals but not in the intern and new-grad counts.",
+  "seniority_exclude": "\\b(senior|sr\\.?|principal|director|vp|vice president|distinguished|fellow|chief|tech lead|team lead)\\b|\\b(iii|iv)\\b|\\b(engineer|developer|analyst|scientist),? ?(3|4|5|6)\\b",
+  "seniority_positional": "\\b(staff|lead|head|manager|architect)\\b",
+  "role_nouns": "\\b(engineer|engineering|developer|analyst|analytics|scientist|swe|sde|programmer|researcher|technical staff)\\b",
+  "exclude_all": [
+    "\\bcontract(or|ors)?\\b"
+  ],
+  "entry_level": "\\b(intern|interns|internship|new grad|new graduate|graduate|grad|university|early career|early-career|early in career|entry[- ]level|junior|jr\\.?|associate|apprentice|apprenticeship|co-op|campus|student)\\b|\\b(engineer|developer|analyst|scientist)(?: |-)?(i|1|ⅰ)(?![\\w.])",
+  "advanced_degree": "^(?!.*\\b(bs|ba|bachelor'?s?)\\b).*(\\bph\\.?d\\b|\\bmaster['’]?s\\b|\\bms/phd\\b)",
   "roles": [
     {
       "id": "ai-engineer",
@@ -10,12 +16,16 @@
       "include": [
         "\\b(ai|ml|machine learning|deep learning|llm|genai|generative ai)\\b[^,(\\-–]*\\b(engineer|developer)\\b",
         "\\b(software|research|applied) (engineer|developer|scientist)\\b.*\\b(ai|ml|machine learning|deep learning|llm|genai|generative ai)\\b",
-        "\\bapplied scientist\\b",
-        "\\bresearch engineer\\b"
+        "^(?=.*\\b(research engineer|research scientist|applied scientist)\\b).*\\b(ai|ml|machine learning|deep learning|llms?|genai|generative ai|rl|reinforcement learning|alignment|interpretability|pre-?training|post-?training|large-scale training|model evaluations?|nlp|computer vision)\\b"
       ],
       "exclude": [
         "\\b(sales|solutions|support|recruit\\w*|hardware|mechanical|electrical|email|marketing|value|threat|site reliability)\\b",
-        "\\bforward[- ]deployed\\b"
+        "\\bforward[- ]deployed\\b",
+        "\\b(security|red team)\\b",
+        "\\bgrowth engineer\\b",
+        "\\bpeople analytics\\b",
+        "\\bcustomer success\\b",
+        "\\bgpu programming\\b|\\bsystems research\\b"
       ]
     },
     {
@@ -24,7 +34,8 @@
       "blurb": "Turns raw data into answers a team can act on.",
       "include": [
         "\\bdata analyst\\b",
-        "\\b(business intelligence|bi|analytics|product|business|insights) analyst\\b"
+        "\\b(business intelligence|bi|analytics|product|business|insights) analyst\\b",
+        "\\bdata analytics (intern|internship)\\b"
       ],
       "exclude": [
         "\\b(sales|recruit\\w*|financial|credit|security|compliance|engineer|developer)\\b"
@@ -36,13 +47,19 @@
       "blurb": "Designs, writes and ships the code behind a product.",
       "include": [
         "\\bsoftware (engineer|developer)\\b",
+        "\\bsoftware development engineer\\b",
+        "\\bsoftware engineering (intern|internship|co-op)\\b",
         "\\b(backend|back-end|back end|frontend|front-end|front end|full[- ]?stack|web|mobile|ios|android|platform|infrastructure|product) (software )?(engineer|developer)\\b",
+        "\\bengineer, (backend|back-end|frontend|front-end|full[- ]?stack)\\b",
         "\\b(swe|sde)\\b",
         "\\bmember of technical staff\\b"
       ],
       "exclude": [
-        "\\b(sales|solutions|support|test|qa|hardware|mechanical|electrical|recruit\\w*)\\b",
-        "\\bforward[- ]deployed\\b"
+        "\\b(sales|solutions|support|test|qa|sdet|hardware|mechanical|electrical|recruit\\w*)\\b",
+        "\\bforward[- ]deployed\\b",
+        "\\b(embedded|firmware|avionics|fpga|rf|rfic|antenna|battery)\\b",
+        "^(?!.*\\b(full[- ]?stack|application software)\\b).*\\bflight software\\b",
+        "\\b(salesforce|demo|marketing|value)\\b"
       ]
     }
   ]

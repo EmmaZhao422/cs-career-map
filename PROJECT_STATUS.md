@@ -36,7 +36,7 @@ For the maintainer and for AI coding agents picking the project up. Marks: ✓ c
 
 Made by Emma: the idea and audience (CS students), English, organised by job rather than by technology, data from job postings plus notes from practitioners, the first three jobs.
 
-Made by Claude on her instruction to proceed without asking, all open to change: the name `cs-career-map`; no web framework; standard-library Python; store links and skill names but not posting text; keep a posting for 120 days after it was last seen; count the same title at one company once; tiers at 40%, 15% and 5%; MIT license; weekly refresh; practitioner notes through an issue form without names by default.
+Made by Claude on her instruction to proceed without asking, all open to change: the name `cs-career-map`; no web framework; standard-library Python; store links and skill names but not posting text; keep a posting for 120 days after it was last seen; count the same title at one company once; count each company once and band skills at 60%, 30% and 10% of companies; MIT license; weekly refresh; practitioner notes through an issue form without names by default.
 
 ## Who wrote what
 

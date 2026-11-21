@@ -26,7 +26,7 @@ There is a second kind of note: a summary of something a company has published a
 
 ## Suggest a learning resource
 
-Guides live in `data/skill_guides.json`. Each skill has at most two resources. To add or replace one, open the [resource form](../../issues/new?template=suggest-resource.yml) or a pull request. A resource should be free or have a free path, teach by doing, and be something you have used yourself.
+Guides live in `data/skill_guides.json`. Each skill has at most two resources. A guide may ship with no resources (an empty `resources` list) until someone opens a link, checks it and adds it with the date. Until then the coach tells students that the map has no checked resource for that skill. Several newer skills are in that state and are a good place to start. To add or replace one, open the [resource form](../../issues/new?template=suggest-resource.yml) or a pull request. A resource should be free or have a free path, teach by doing, and be something you have used yourself.
 
 ## Add a company
 

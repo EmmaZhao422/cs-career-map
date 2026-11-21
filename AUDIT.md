@@ -44,3 +44,64 @@ Every fix has a test in `collector/test_collect.py`.
 
 - A person should repeat the spot-check: open ten postings per job from the site and compare.
 - Data Analyst has a small sample. Related titles (analytics engineer, data scientist in analytics teams) are not counted and may deserve their own job.
+
+## 21 November 2026, third pass (independent review)
+
+An independent review of the code, the rules and the stored data, done by Claude (an AI model) on the reviewer's findings. Not yet checked by a person. Every change has a test in `collector/test_collect.py`.
+
+### What changed
+
+**What the numbers mean.** A skill's headline share is now the share of a job's companies that mention it (`company_pct`), and its tier (60%, 30%, 10%) is set from that share. The share of postings (`pct`) is still published. Each job also shows how many companies have intern or new-grad postings (`entry_companies`) and how much of the sample its largest company makes up (`top_company`, `top_company_share`). The job list's headline skills leave out the "Working with people" skills.
+
+**Which postings count as one job.** Before comparing titles at one company, trailing places ("- London", "- Austin, TX"), places in parentheses ("(Remote)"; "(Summer 2027 - Toronto)" keeps the season) and "(m/w/d)"-style markers are removed. Team names after a comma stay distinct. A job listed several times keeps every skill any listing mentions and the newest date.
+
+**Which titles count.**
+
+- Newly matched: "Software Engineering Intern", "Software Development Engineer", "Engineer, Backend/Frontend", "Data Analytics Intern".
+- Staff, lead, head, manager and architect drop a title only when they come before the role noun or straight after it, so "Software Engineer, Staff Tools" counts and "Staff Software Engineer" and "Engineering Manager" do not.
+- Excluded from every job: contract and contractor titles ("Contract Student Worker", "(Contract)").
+- Excluded from Software Engineer, because they are different jobs with different skills: embedded, firmware, flight software (except full-stack and application-software roles on flight-software teams), avionics, FPGA, RF, antenna and battery roles, Salesforce developers, demo engineers, marketing-site and value engineers, and SDET (test roles were already excluded).
+- AI Engineer: a research engineer, research scientist or applied scientist title now needs an AI or ML term (for example ML, RL, alignment, pre-training). Security and red-team, growth, people-analytics, customer-success and GPU-programming systems-research titles are excluded.
+- Entry level now includes "Engineer I", "Engineer 1", "Engineer-1" and "Grad"; "II" and "2" are not entry. PhD and Master's postings still count in the totals but not in the intern and new-grad counts.
+
+Applied to the stored postings (no new collection was possible for this pass), the title rules change the sample as follows:
+
+| Job | Listings before → after | Distinct jobs before → after | Companies before → after | Intern / new-grad jobs before → after |
+| --- | --- | --- | --- | --- |
+| Software Engineer | 961 → 916 | 754 → 704 | 85 → 83 | 84 → 83 |
+| AI Engineer | 218 → 192 | 190 → 162 | 55 → 50 | 23 → 9 |
+| Data Analyst | 38 → 37 | 32 → 30 | 18 → 17 | 7 → 6 |
+
+Software Engineer lost 48 listings to the new exclusions and gained 3 that moved from AI Engineer (AI-security titles). AI Engineer lost 23 listings that now belong to no job, most of them research and applied-scientist titles without an AI term. Data Analyst lost one contract listing. Most of AI Engineer's drop in intern and new-grad jobs is the PhD and Master's rule (12 of its distinct entry-level jobs are PhD or Master's). The new title patterns can only add postings at the next collection, because stored postings are the ones that matched the old rules. A stored posting whose title now belongs to another job moves to that job instead of being deleted.
+
+**Which skills a posting has** (applies from the next collection; see below).
+
+- Skills are matched on the posting body only, not the title. A title such as "Software Engineer, Data Model" names a team.
+- False positives fixed: "rag" as a word (now RAG or retrieval-augmented), GitHub Copilot as Git, "Go to market" as Go, "Intel(R)" as R, "Spark joy" and "Swift decisions" at the start of a sentence, "jax" in other words, "transformers" as electrical equipment, "tool use" outside LLM context, shipping "containers" as Docker, "UNIX time" as Linux.
+- APIs (REST) now needs REST, RESTful, API design or development, building APIs, web or HTTP APIs. A bare "API" no longer counts.
+- Dashboards & reporting no longer counts "monitoring dashboards", "Grafana dashboards", "Datadog dashboards" or "observability dashboards"; those belong to the new Observability skill. Done with a fixed list of preceding words, so other operations dashboards may still count.
+- False negatives fixed: Go in "we use Go", "Go-based", "such as Go and Rust"; C in "C, Java", "Embedded C", "written in C."; hyphenated "machine-learning", "deep-learning", "infrastructure-as-code", "natural-language processing"; "ML Ops" and "LLMOps"; "function calling", "tool calling" and "tool-use" as AI agents; "A/B-tests".
+- Looker includes Looker Studio, which is a separate free product; the skill carries a note saying so.
+- Twelve new skills: Python web frameworks (Django, Flask, FastAPI), Spring (Java), Angular / Vue, gRPC & Protocol Buffers, Observability & monitoring, Jupyter notebooks, Elasticsearch / OpenSearch, Product analytics tools, SAS / SPSS / Stata, Reinforcement learning, GPU programming (CUDA), Agile & Scrum. Each has a level sentence and a project; none has a resource yet, because no link has been opened and checked for them.
+
+**Cleaning.**
+
+- Only the board's own display name is blanked, in its own casing, so the word "notion" survives in Notion's postings. Names that are everyday words (Block, Box, Toast, Lattice and a few others) are not blanked at all.
+- Repeated-text removal counts a line once per distinct job title, so one job listed in six cities no longer turns its own requirements into "boilerplate". Lines are compared without punctuation. Lines of 20 to 39 characters count as boilerplate only when they appear in at least 60% of a board's distinct titles and in at least 8 of them.
+
+**Robustness.**
+
+- A board that answers with the wrong shape is reported as `bad_payload`, not as read with no jobs. Requests are retried once after 2 seconds on HTTP 429, a 5xx answer or a timeout.
+- A collection that reads fewer than 60% of the boards the previous run read is rejected: nothing is written and the command fails.
+- `prune-companies` refuses to run when fewer than 60% of the boards were read, and drops a board only after it was not found in two runs in a row (`misses` in `config/companies.json`).
+- Data files are written to a temporary file and renamed into place.
+- Each posting now records the version of the rules that matched it (`rules`, a hash of `config/roles.json`, `config/taxonomy.json` and the cleaning code version). A closed posting matched under other rules is dropped at the next collection, because without its text its skills cannot be recomputed.
+
+### Knowingly left open
+
+- **The skill changes above do not show in the current numbers.** Stored postings keep no text, so their skills were matched with the old patterns, on title and body. The site's skill shares will change when the next collection reads the boards again. At that collection, every stored posting that is no longer open is dropped, because it has no `rules` version.
+- **Tiers now read high.** With the 40/15/5 cutoffs applied to company shares, Software Engineer has 23 skills in the top tier (it had 1 when tiers used posting shares). The cutoffs were kept as instructed; they may need to be raised.
+- Spark and Swift still count when a capitalised word is used mid-sentence in its ordinary sense ("make Swift progress"). Agile counts the capitalised word anywhere.
+- The place list used to merge titles is a fixed list of cities and countries. Places not on it keep titles apart, and regional words such as "LatAm" or "EMEA" are treated as team names.
+- An advanced-degree posting is one whose title names a PhD or a Master's and not a bachelor's degree; "BS/MS/PhD" internships still count as entry level.
+- The excluded Software Engineer families (embedded, flight software and the rest) are real software jobs. They may deserve a job of their own.

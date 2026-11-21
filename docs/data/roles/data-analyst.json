@@ -3,10 +3,13 @@
   "title": "Data Analyst",
   "blurb": "Turns raw data into answers a team can act on.",
   "demo": false,
-  "postings": 32,
-  "listings": 38,
-  "companies": 18,
-  "entry_postings": 7,
+  "postings": 30,
+  "listings": 37,
+  "companies": 17,
+  "entry_postings": 6,
+  "entry_companies": 5,
+  "top_company": "Veeva",
+  "top_company_share": 13.3,
   "last_seen_from": "2026-11-21",
   "last_seen_to": "2026-11-21",
   "skills": [
@@ -14,348 +17,424 @@
       "id": "sql",
       "name": "SQL & relational databases",
       "category": "Languages",
-      "count": 30,
-      "pct": 93.8,
+      "count": 28,
+      "pct": 93.3,
+      "company_pct": 100.0,
       "tier": "most",
-      "companies": 18,
-      "entry_count": 7
-    },
-    {
-      "id": "dashboards",
-      "name": "Dashboards & reporting",
-      "category": "Analysis",
-      "count": 24,
-      "pct": 75.0,
-      "tier": "most",
-      "companies": 16,
-      "entry_count": 6
+      "companies": 17,
+      "entry_count": 6,
+      "entry_companies": 5
     },
     {
       "id": "cross-functional",
       "name": "Working with non-engineers",
       "category": "Working with people",
-      "count": 24,
-      "pct": 75.0,
+      "count": 23,
+      "pct": 76.7,
+      "company_pct": 88.2,
       "tier": "most",
       "companies": 15,
-      "entry_count": 4
+      "entry_count": 4,
+      "entry_companies": 4
+    },
+    {
+      "id": "dashboards",
+      "name": "Dashboards & reporting",
+      "category": "Analysis",
+      "count": 22,
+      "pct": 73.3,
+      "company_pct": 88.2,
+      "tier": "most",
+      "companies": 15,
+      "entry_count": 5,
+      "entry_companies": 5
     },
     {
       "id": "python",
       "name": "Python",
       "category": "Languages",
-      "count": 21,
-      "pct": 65.6,
+      "count": 19,
+      "pct": 63.3,
+      "company_pct": 82.4,
       "tier": "most",
-      "companies": 15,
-      "entry_count": 3
+      "companies": 14,
+      "entry_count": 2,
+      "entry_companies": 2
     },
     {
       "id": "statistics",
       "name": "Statistics",
       "category": "Analysis",
-      "count": 16,
+      "count": 15,
       "pct": 50.0,
+      "company_pct": 76.5,
       "tier": "most",
       "companies": 13,
-      "entry_count": 3
+      "entry_count": 3,
+      "entry_companies": 3
     },
     {
       "id": "data-visualization",
       "name": "Data visualization",
       "category": "Analysis",
       "count": 15,
-      "pct": 46.9,
+      "pct": 50.0,
+      "company_pct": 70.6,
       "tier": "most",
       "companies": 12,
-      "entry_count": 4
-    },
-    {
-      "id": "communication",
-      "name": "Written & verbal communication",
-      "category": "Working with people",
-      "count": 13,
-      "pct": 40.6,
-      "tier": "most",
-      "companies": 8,
-      "entry_count": 1
-    },
-    {
-      "id": "data-pipelines",
-      "name": "Data pipelines (ETL)",
-      "category": "Data engineering",
-      "count": 11,
-      "pct": 34.4,
-      "tier": "many",
-      "companies": 8,
-      "entry_count": 3
-    },
-    {
-      "id": "excel",
-      "name": "Excel / spreadsheets",
-      "category": "Analysis",
-      "count": 11,
-      "pct": 34.4,
-      "tier": "many",
-      "companies": 8,
-      "entry_count": 3
+      "entry_count": 4,
+      "entry_companies": 4
     },
     {
       "id": "tableau",
       "name": "Tableau",
       "category": "Analysis",
       "count": 11,
-      "pct": 34.4,
+      "pct": 36.7,
+      "company_pct": 52.9,
       "tier": "many",
       "companies": 9,
-      "entry_count": 3
+      "entry_count": 3,
+      "entry_companies": 3
     },
     {
-      "id": "data-warehouse",
-      "name": "Data warehouses",
-      "category": "Data engineering",
-      "count": 9,
-      "pct": 28.1,
+      "id": "communication",
+      "name": "Written & verbal communication",
+      "category": "Working with people",
+      "count": 13,
+      "pct": 43.3,
+      "company_pct": 47.1,
       "tier": "many",
       "companies": 8,
-      "entry_count": 3
+      "entry_count": 1,
+      "entry_companies": 1
     },
     {
-      "id": "ab-testing",
-      "name": "A/B testing",
+      "id": "excel",
+      "name": "Excel / spreadsheets",
       "category": "Analysis",
-      "count": 7,
-      "pct": 21.9,
+      "count": 11,
+      "pct": 36.7,
+      "company_pct": 47.1,
       "tier": "many",
-      "companies": 5,
-      "entry_count": 2
+      "companies": 8,
+      "entry_count": 3,
+      "entry_companies": 2
+    },
+    {
+      "id": "data-pipelines",
+      "name": "Data pipelines (ETL)",
+      "category": "Data engineering",
+      "count": 10,
+      "pct": 33.3,
+      "company_pct": 47.1,
+      "tier": "many",
+      "companies": 8,
+      "entry_count": 3,
+      "entry_companies": 3
     },
     {
       "id": "data-modeling",
       "name": "Data modeling",
       "category": "Data engineering",
-      "count": 7,
-      "pct": 21.9,
+      "count": 8,
+      "pct": 26.7,
+      "company_pct": 47.1,
+      "tier": "many",
+      "companies": 8,
+      "entry_count": 1,
+      "entry_companies": 1
+    },
+    {
+      "id": "data-warehouse",
+      "name": "Data warehouses",
+      "category": "Data engineering",
+      "count": 8,
+      "pct": 26.7,
+      "company_pct": 41.2,
       "tier": "many",
       "companies": 7,
-      "entry_count": 1
+      "entry_count": 2,
+      "entry_companies": 2
     },
     {
       "id": "looker",
       "name": "Looker",
       "category": "Analysis",
       "count": 6,
-      "pct": 18.8,
+      "pct": 20.0,
+      "company_pct": 35.3,
       "tier": "many",
       "companies": 6,
-      "entry_count": 1
+      "entry_count": 1,
+      "entry_companies": 1
+    },
+    {
+      "id": "ab-testing",
+      "name": "A/B testing",
+      "category": "Analysis",
+      "count": 7,
+      "pct": 23.3,
+      "company_pct": 29.4,
+      "tier": "some",
+      "companies": 5,
+      "entry_count": 2,
+      "entry_companies": 2
+    },
+    {
+      "id": "agents",
+      "name": "AI agents",
+      "category": "AI & ML",
+      "count": 5,
+      "pct": 16.7,
+      "company_pct": 29.4,
+      "tier": "some",
+      "companies": 5,
+      "entry_count": 1,
+      "entry_companies": 1
     },
     {
       "id": "dbt",
       "name": "dbt",
       "category": "Data engineering",
       "count": 5,
-      "pct": 15.6,
-      "tier": "many",
+      "pct": 16.7,
+      "company_pct": 29.4,
+      "tier": "some",
       "companies": 5,
-      "entry_count": 1
+      "entry_count": 1,
+      "entry_companies": 1
     },
     {
       "id": "power-bi",
       "name": "Power BI",
       "category": "Analysis",
       "count": 5,
-      "pct": 15.6,
-      "tier": "many",
+      "pct": 16.7,
+      "company_pct": 23.5,
+      "tier": "some",
       "companies": 4,
-      "entry_count": 1
+      "entry_count": 1,
+      "entry_companies": 1
     },
     {
       "id": "r",
       "name": "R",
       "category": "Languages",
       "count": 5,
-      "pct": 15.6,
-      "tier": "many",
-      "companies": 4,
-      "entry_count": 0
-    },
-    {
-      "id": "agents",
-      "name": "AI agents",
-      "category": "AI & ML",
-      "count": 4,
-      "pct": 12.5,
+      "pct": 16.7,
+      "company_pct": 23.5,
       "tier": "some",
       "companies": 4,
-      "entry_count": 1
+      "entry_count": 0,
+      "entry_companies": 0
     },
     {
       "id": "git",
       "name": "Git",
       "category": "Tools",
       "count": 4,
-      "pct": 12.5,
+      "pct": 13.3,
+      "company_pct": 23.5,
       "tier": "some",
       "companies": 4,
-      "entry_count": 0
+      "entry_count": 0,
+      "entry_companies": 0
     },
     {
-      "id": "machine-learning",
-      "name": "Machine learning",
-      "category": "AI & ML",
-      "count": 4,
-      "pct": 12.5,
-      "tier": "some",
-      "companies": 4,
-      "entry_count": 1
-    },
-    {
-      "id": "spark",
-      "name": "Spark",
+      "id": "airflow",
+      "name": "Airflow",
       "category": "Data engineering",
-      "count": 4,
-      "pct": 12.5,
+      "count": 3,
+      "pct": 10.0,
+      "company_pct": 17.6,
       "tier": "some",
       "companies": 3,
-      "entry_count": 1
+      "entry_count": 0,
+      "entry_companies": 0
     },
     {
       "id": "rest-apis",
       "name": "APIs (REST)",
       "category": "Web",
       "count": 3,
-      "pct": 9.4,
+      "pct": 10.0,
+      "company_pct": 17.6,
       "tier": "some",
       "companies": 3,
-      "entry_count": 2
+      "entry_count": 2,
+      "entry_companies": 2
     },
     {
       "id": "llm",
       "name": "LLMs",
       "category": "AI & ML",
       "count": 3,
-      "pct": 9.4,
+      "pct": 10.0,
+      "company_pct": 17.6,
       "tier": "some",
       "companies": 3,
-      "entry_count": 1
+      "entry_count": 1,
+      "entry_companies": 1
+    },
+    {
+      "id": "machine-learning",
+      "name": "Machine learning",
+      "category": "AI & ML",
+      "count": 3,
+      "pct": 10.0,
+      "company_pct": 17.6,
+      "tier": "some",
+      "companies": 3,
+      "entry_count": 0,
+      "entry_companies": 0
     },
     {
       "id": "prompt-engineering",
       "name": "Prompt engineering",
       "category": "AI & ML",
       "count": 3,
-      "pct": 9.4,
+      "pct": 10.0,
+      "company_pct": 17.6,
       "tier": "some",
       "companies": 3,
-      "entry_count": 1
-    },
-    {
-      "id": "airflow",
-      "name": "Airflow",
-      "category": "Data engineering",
-      "count": 2,
-      "pct": 6.2,
-      "tier": "some",
-      "companies": 2,
-      "entry_count": 0
+      "entry_count": 1,
+      "entry_companies": 1
     },
     {
       "id": "concurrency",
       "name": "Concurrency",
       "category": "CS fundamentals",
       "count": 2,
-      "pct": 6.2,
+      "pct": 6.7,
+      "company_pct": 11.8,
       "tier": "some",
       "companies": 2,
-      "entry_count": 0
+      "entry_count": 0,
+      "entry_companies": 0
     },
     {
       "id": "data-structures-algorithms",
       "name": "Data structures & algorithms",
       "category": "CS fundamentals",
       "count": 2,
-      "pct": 6.2,
+      "pct": 6.7,
+      "company_pct": 11.8,
       "tier": "some",
       "companies": 2,
-      "entry_count": 0
+      "entry_count": 0,
+      "entry_companies": 0
     },
     {
       "id": "pandas",
       "name": "pandas / NumPy",
       "category": "Analysis",
       "count": 2,
-      "pct": 6.2,
+      "pct": 6.7,
+      "company_pct": 11.8,
       "tier": "some",
       "companies": 2,
-      "entry_count": 0
+      "entry_count": 0,
+      "entry_companies": 0
+    },
+    {
+      "id": "spark",
+      "name": "Spark",
+      "category": "Data engineering",
+      "count": 2,
+      "pct": 6.7,
+      "company_pct": 11.8,
+      "tier": "some",
+      "companies": 2,
+      "entry_count": 0,
+      "entry_companies": 0
     },
     {
       "id": "computer-vision",
       "name": "Computer vision",
       "category": "AI & ML",
       "count": 1,
-      "pct": 3.1,
+      "pct": 3.3,
+      "company_pct": 5.9,
       "tier": "rare",
       "companies": 1,
-      "entry_count": 1
+      "entry_count": 1,
+      "entry_companies": 1
     },
     {
       "id": "linux",
       "name": "Linux & command line",
       "category": "Tools",
       "count": 1,
-      "pct": 3.1,
+      "pct": 3.3,
+      "company_pct": 5.9,
       "tier": "rare",
       "companies": 1,
-      "entry_count": 0
+      "entry_count": 0,
+      "entry_companies": 0
     },
     {
       "id": "mlops",
       "name": "Model deployment (MLOps)",
       "category": "AI & ML",
       "count": 1,
-      "pct": 3.1,
+      "pct": 3.3,
+      "company_pct": 5.9,
       "tier": "rare",
       "companies": 1,
-      "entry_count": 0
+      "entry_count": 0,
+      "entry_companies": 0
     },
     {
       "id": "rag",
       "name": "RAG & vector search",
       "category": "AI & ML",
       "count": 1,
-      "pct": 3.1,
+      "pct": 3.3,
+      "company_pct": 5.9,
       "tier": "rare",
       "companies": 1,
-      "entry_count": 0
+      "entry_count": 0,
+      "entry_companies": 0
+    },
+    {
+      "id": "scala",
+      "name": "Scala",
+      "category": "Languages",
+      "count": 1,
+      "pct": 3.3,
+      "company_pct": 5.9,
+      "tier": "rare",
+      "companies": 1,
+      "entry_count": 0,
+      "entry_companies": 0
     },
     {
       "id": "scikit-learn",
       "name": "scikit-learn",
       "category": "AI & ML",
       "count": 1,
-      "pct": 3.1,
+      "pct": 3.3,
+      "company_pct": 5.9,
       "tier": "rare",
       "companies": 1,
-      "entry_count": 0
+      "entry_count": 0,
+      "entry_companies": 0
     },
     {
       "id": "system-design",
       "name": "System design",
       "category": "CS fundamentals",
       "count": 1,
-      "pct": 3.1,
+      "pct": 3.3,
+      "company_pct": 5.9,
       "tier": "rare",
       "companies": 1,
-      "entry_count": 0
+      "entry_count": 0,
+      "entry_companies": 0
     }
   ],
   "company_counts": [
-    [
-      "Stripe",
-      4
-    ],
     [
       "Veeva",
       4
@@ -370,6 +449,10 @@
     ],
     [
       "SpaceX",
+      3
+    ],
+    [
+      "Stripe",
       3
     ],
     [
@@ -419,10 +502,6 @@
     [
       "Wiz, Inc.",
       1
-    ],
-    [
-      "Zoox",
-      1
     ]
   ],
   "sample": [
@@ -432,7 +511,8 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5269977007?gh_jid=5269977007",
       "location": "Costa Mesa, California, United States",
       "level": "entry",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Anduril Industries",
@@ -440,7 +520,8 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5296416007?gh_jid=5296416007",
       "location": "Costa Mesa, California, United States",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Anduril Industries",
@@ -448,7 +529,8 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/4985350007?gh_jid=4985350007",
       "location": "Costa Mesa, California, United States",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Cloudflare",
@@ -456,7 +538,8 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8109620?gh_jid=8109620",
       "location": "Hybrid",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Elastic",
@@ -464,7 +547,8 @@
       "url": "https://jobs.elastic.co/jobs?gh_jid=8177119&gh_jid=8177119",
       "location": "Bangalore, India",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Everpure",
@@ -472,7 +556,8 @@
       "url": "https://job-boards.greenhouse.io/purestorage/jobs/8129789",
       "location": "Bangalore, India",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Figma",
@@ -480,7 +565,8 @@
       "url": "https://boards.greenhouse.io/figma/jobs/6249978004?gh_jid=6249978004",
       "location": "San Francisco, CA • New York, NY • United States",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Flexport",
@@ -488,7 +574,8 @@
       "url": "https://job-boards.greenhouse.io/flexport/jobs/8040985",
       "location": "Shanghai, China",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "GoCardless",
@@ -496,7 +583,8 @@
       "url": "https://job-boards.greenhouse.io/gocardless/jobs/8190692",
       "location": "Riga, Latvia",
       "level": "entry",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "HelloFresh",
@@ -504,7 +592,8 @@
       "url": "https://careers.hellofresh.com/global/en/job/7387627?gh_jid=7387627",
       "location": "Manila, Manila, Philippines",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "HelloFresh",
@@ -512,7 +601,8 @@
       "url": "https://careers.hellofresh.com/global/en/job/7741137?gh_jid=7741137",
       "location": "Paris, Paris, France",
       "level": "entry",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "HelloFresh",
@@ -520,7 +610,8 @@
       "url": "https://careers.hellofresh.com/global/en/job/7704587?gh_jid=7704587",
       "location": "Paris, Paris, France",
       "level": "entry",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Lucid Motors",
@@ -528,7 +619,8 @@
       "url": "https://lucidmotors.com/careers/search/4924654007?gh_jid=4924654007",
       "location": "King Abdullah Economic City, 02",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Motive",
@@ -536,7 +628,8 @@
       "url": "https://job-boards.greenhouse.io/gomotive/jobs/8925908002",
       "location": "Hybrid - Lahore; Remote - Islamabad",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Motive",
@@ -544,7 +637,8 @@
       "url": "https://job-boards.greenhouse.io/gomotive/jobs/8858120002",
       "location": "Hybrid - Lahore; Remote - Islamabad",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Riot Games",
@@ -552,7 +646,8 @@
       "url": "https://www.riotgames.com/en/work-with-us/job/8356372?gh_jid=8356372",
       "location": "Los Angeles, USA",
       "level": "entry",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Scopely",
@@ -560,7 +655,8 @@
       "url": "https://job-boards.greenhouse.io/scopely/jobs/5212408008?gh_jid=5212408008",
       "location": "ES - Barcelona, Spain",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Scopely",
@@ -568,7 +664,8 @@
       "url": "https://job-boards.greenhouse.io/scopely/jobs/5283492008?gh_jid=5283492008",
       "location": "IE - Dublin, Ireland",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "SpaceX",
@@ -576,7 +673,8 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8641231002?gh_jid=8641231002",
       "location": "Bastrop, TX",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "SpaceX",
@@ -584,7 +682,8 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8681172002?gh_jid=8681172002",
       "location": "Hawthorne, CA",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "SpaceX",
@@ -592,7 +691,8 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8657082002?gh_jid=8657082002",
       "location": "Hawthorne, CA",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Stripe",
@@ -600,7 +700,8 @@
       "url": "https://stripe.com/jobs/search?gh_jid=5416444",
       "location": "Canada",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Stripe",
@@ -608,15 +709,8 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8194287",
       "location": "Toronto",
       "level": "entry",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Stripe",
-      "title": "Data Analyst, SF",
-      "url": "https://stripe.com/jobs/search?gh_jid=8189909",
-      "location": "San Francisco",
-      "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Stripe",
@@ -624,7 +718,8 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8364868",
       "location": "Bengaluru",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "SumUp",
@@ -632,7 +727,8 @@
       "url": "https://sumup.com/careers/positions/8907441002?gh_jid=8907441002",
       "location": "São Paulo, São Paulo, Brazil",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Veeva",
@@ -640,7 +736,8 @@
       "url": "https://jobs.lever.co/veeva/39b95683-9c50-4721-aafe-68f3dad04f83",
       "location": "China - Dalian",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Veeva",
@@ -648,7 +745,8 @@
       "url": "https://jobs.lever.co/veeva/6b656fac-75cf-4768-ad43-9422124892d6",
       "location": "Taiwan - Taipei",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Veeva",
@@ -656,7 +754,8 @@
       "url": "https://jobs.lever.co/veeva/c36c9d3b-fa88-4f43-87f9-ec32d53fc5f9",
       "location": "Israel - Kiryat Ono",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Veeva",
@@ -664,7 +763,8 @@
       "url": "https://jobs.lever.co/veeva/28c47d34-3ad6-4485-85a9-686b4239b9ea",
       "location": "New York - New York City",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Wiz, Inc.",
@@ -672,16 +772,9 @@
       "url": "https://www.wiz.io/careers/job/4720879006/:title?gh_jid=4720879006",
       "location": "Tel Aviv",
       "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Zoox",
-      "title": "Contract  Student Worker - Data Analyst (Part-time)",
-      "url": "https://jobs.lever.co/zoox/5e03b357-0cc1-4194-9488-14f85044f4f9",
-      "location": "Foster City, CA",
-      "level": "entry",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     }
   ],
-  "generated_at": "2026-11-21T08:17:39+00:00"
+  "generated_at": "2026-11-21T09:00:11+00:00"
 }

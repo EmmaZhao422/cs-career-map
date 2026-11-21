@@ -11,7 +11,7 @@
   {
     "kind": "published",
     "role": "software-engineer",
-    "skill": "system-design",
+    "skill": "communication",
     "note": "A GitLab working group is redesigning that interview because AI assistants now catch most common code issues. The stated aim is to evaluate what matters in AI-assisted work, starting with design judgment and communicating intent clearly.",
     "who": "GitLab handbook, AI-Native Hiring Working Group",
     "source": "https://handbook.gitlab.com/handbook/company/working-groups/ai-native-hiring/",
@@ -38,7 +38,7 @@
   {
     "kind": "published",
     "role": "software-engineer",
-    "skill": "java",
+    "skill": "data-structures-algorithms",
     "note": "Stripe's new-grad posting names the languages it mostly works in (Java, Ruby, JavaScript, Scala, Go) and then says a new language can be learned when the fundamentals are there. It also asks for the ability to use AI tools while checking their output with your own judgment.",
     "who": "Stripe careers, Software Engineer, New Grad",
     "source": "https://stripe.com/careers/listing/software-engineer-new-grad/8157838",
@@ -65,7 +65,7 @@
   {
     "kind": "published",
     "role": "ai-engineer",
-    "skill": "llm",
+    "skill": "prompt-engineering",
     "note": "Anthropic says it looks for candidates who work well with AI and publishes rules for using it in the hiring process. For applications, the rule is to write the first draft yourself and then use Claude to refine it.",
     "who": "Anthropic, Guidance on Candidates' AI Usage",
     "source": "https://www.anthropic.com/candidate-ai-guidance",
@@ -74,7 +74,7 @@
   {
     "kind": "published",
     "role": "ai-engineer",
-    "skill": "agents",
+    "skill": "llm",
     "note": "Anthropic analysed its own hiring managers' interview scorecards and reports that the clearest change over time is more weight on whether a candidate has shown creative use of AI tools.",
     "who": "Anthropic research, How employment is changing at Anthropic",
     "source": "https://www.anthropic.com/research/employment-at-anthropic",

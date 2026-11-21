@@ -6,6 +6,8 @@ For each job, CS Career Map reads public postings from company career pages, cou
 
 **Live site:** <https://emmazhao422.github.io/cs-career-map/>
 
+![CS Career Map](docs/screenshot.png)
+
 Data was first collected on 21 November 2026 and refreshes every Monday. The matching rules were audited the same day; what was found, fixed and left open is in [AUDIT.md](AUDIT.md).
 
 ## Why another roadmap

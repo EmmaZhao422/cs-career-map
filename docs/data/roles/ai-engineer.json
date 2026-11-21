@@ -3,688 +3,813 @@
   "title": "AI Engineer",
   "blurb": "Builds products on top of machine learning models and LLMs.",
   "demo": false,
-  "postings": 190,
-  "listings": 218,
-  "companies": 55,
-  "entry_postings": 23,
+  "postings": 162,
+  "listings": 192,
+  "companies": 50,
+  "entry_postings": 9,
+  "entry_companies": 8,
+  "top_company": "Anthropic",
+  "top_company_share": 18.5,
   "last_seen_from": "2026-11-21",
   "last_seen_to": "2026-11-21",
   "skills": [
     {
-      "id": "machine-learning",
-      "name": "Machine learning",
+      "id": "llm",
+      "name": "LLMs",
       "category": "AI & ML",
-      "count": 140,
-      "pct": 73.7,
+      "count": 107,
+      "pct": 66.0,
+      "company_pct": 84.0,
       "tier": "most",
-      "companies": 43,
-      "entry_count": 18
+      "companies": 42,
+      "entry_count": 2,
+      "entry_companies": 2
     },
     {
       "id": "python",
       "name": "Python",
       "category": "Languages",
-      "count": 137,
-      "pct": 72.1,
+      "count": 119,
+      "pct": 73.5,
+      "company_pct": 82.0,
       "tier": "most",
-      "companies": 44,
-      "entry_count": 22
+      "companies": 41,
+      "entry_count": 9,
+      "entry_companies": 8
     },
     {
-      "id": "llm",
-      "name": "LLMs",
+      "id": "machine-learning",
+      "name": "Machine learning",
       "category": "AI & ML",
-      "count": 125,
-      "pct": 65.8,
+      "count": 121,
+      "pct": 74.7,
+      "company_pct": 80.0,
       "tier": "most",
-      "companies": 46,
-      "entry_count": 8
+      "companies": 40,
+      "entry_count": 6,
+      "entry_companies": 5
     },
     {
       "id": "agents",
       "name": "AI agents",
       "category": "AI & ML",
-      "count": 81,
+      "count": 69,
       "pct": 42.6,
+      "company_pct": 68.0,
       "tier": "most",
-      "companies": 37,
-      "entry_count": 6
-    },
-    {
-      "id": "communication",
-      "name": "Written & verbal communication",
-      "category": "Working with people",
-      "count": 68,
-      "pct": 35.8,
-      "tier": "many",
-      "companies": 30,
-      "entry_count": 7
-    },
-    {
-      "id": "pytorch",
-      "name": "PyTorch",
-      "category": "AI & ML",
-      "count": 59,
-      "pct": 31.1,
-      "tier": "many",
-      "companies": 24,
-      "entry_count": 11
+      "companies": 34,
+      "entry_count": 2,
+      "entry_companies": 2
     },
     {
       "id": "cross-functional",
       "name": "Working with non-engineers",
       "category": "Working with people",
-      "count": 59,
-      "pct": 31.1,
-      "tier": "many",
-      "companies": 36,
-      "entry_count": 7
+      "count": 47,
+      "pct": 29.0,
+      "company_pct": 62.0,
+      "tier": "most",
+      "companies": 31,
+      "entry_count": 3,
+      "entry_companies": 3
     },
     {
-      "id": "model-evaluation",
-      "name": "Model evaluation",
+      "id": "communication",
+      "name": "Written & verbal communication",
+      "category": "Working with people",
+      "count": 58,
+      "pct": 35.8,
+      "company_pct": 56.0,
+      "tier": "many",
+      "companies": 28,
+      "entry_count": 4,
+      "entry_companies": 4
+    },
+    {
+      "id": "pytorch",
+      "name": "PyTorch",
       "category": "AI & ML",
-      "count": 55,
-      "pct": 28.9,
-      "tier": "many",
-      "companies": 22,
-      "entry_count": 2
-    },
-    {
-      "id": "deep-learning",
-      "name": "Deep learning",
-      "category": "AI & ML",
-      "count": 51,
-      "pct": 26.8,
-      "tier": "many",
-      "companies": 20,
-      "entry_count": 9
-    },
-    {
-      "id": "cpp",
-      "name": "C++",
-      "category": "Languages",
-      "count": 50,
-      "pct": 26.3,
-      "tier": "many",
-      "companies": 16,
-      "entry_count": 11
-    },
-    {
-      "id": "distributed-systems",
-      "name": "Distributed systems",
-      "category": "CS fundamentals",
-      "count": 42,
-      "pct": 22.1,
-      "tier": "many",
-      "companies": 20,
-      "entry_count": 4
-    },
-    {
-      "id": "rest-apis",
-      "name": "APIs (REST)",
-      "category": "Web",
-      "count": 40,
-      "pct": 21.1,
+      "count": 54,
+      "pct": 33.3,
+      "company_pct": 46.0,
       "tier": "many",
       "companies": 23,
-      "entry_count": 3
-    },
-    {
-      "id": "mlops",
-      "name": "Model deployment (MLOps)",
-      "category": "AI & ML",
-      "count": 40,
-      "pct": 21.1,
-      "tier": "many",
-      "companies": 22,
-      "entry_count": 3
-    },
-    {
-      "id": "tensorflow",
-      "name": "TensorFlow / JAX",
-      "category": "AI & ML",
-      "count": 39,
-      "pct": 20.5,
-      "tier": "many",
-      "companies": 15,
-      "entry_count": 11
+      "entry_count": 3,
+      "entry_companies": 3
     },
     {
       "id": "rag",
       "name": "RAG & vector search",
       "category": "AI & ML",
-      "count": 38,
-      "pct": 20.0,
+      "count": 34,
+      "pct": 21.0,
+      "company_pct": 46.0,
       "tier": "many",
-      "companies": 27,
-      "entry_count": 6
+      "companies": 23,
+      "entry_count": 4,
+      "entry_companies": 3
     },
     {
-      "id": "data-pipelines",
-      "name": "Data pipelines (ETL)",
-      "category": "Data engineering",
-      "count": 37,
-      "pct": 19.5,
-      "tier": "many",
-      "companies": 19,
-      "entry_count": 2
-    },
-    {
-      "id": "kubernetes",
-      "name": "Kubernetes",
-      "category": "Tools",
-      "count": 37,
-      "pct": 19.5,
-      "tier": "many",
-      "companies": 13,
-      "entry_count": 0
-    },
-    {
-      "id": "fine-tuning",
-      "name": "Fine-tuning",
+      "id": "mlops",
+      "name": "Model deployment (MLOps)",
       "category": "AI & ML",
+      "count": 38,
+      "pct": 23.5,
+      "company_pct": 44.0,
+      "tier": "many",
+      "companies": 22,
+      "entry_count": 2,
+      "entry_companies": 1
+    },
+    {
+      "id": "rest-apis",
+      "name": "APIs (REST)",
+      "category": "Web",
       "count": 35,
-      "pct": 18.4,
+      "pct": 21.6,
+      "company_pct": 42.0,
+      "tier": "many",
+      "companies": 21,
+      "entry_count": 3,
+      "entry_companies": 3
+    },
+    {
+      "id": "model-evaluation",
+      "name": "Model evaluation",
+      "category": "AI & ML",
+      "count": 46,
+      "pct": 28.4,
+      "company_pct": 40.0,
+      "tier": "many",
+      "companies": 20,
+      "entry_count": 0,
+      "entry_companies": 0
+    },
+    {
+      "id": "deep-learning",
+      "name": "Deep learning",
+      "category": "AI & ML",
+      "count": 46,
+      "pct": 28.4,
+      "company_pct": 38.0,
       "tier": "many",
       "companies": 19,
-      "entry_count": 2
+      "entry_count": 3,
+      "entry_companies": 3
     },
     {
       "id": "aws",
       "name": "AWS",
       "category": "Cloud",
-      "count": 32,
-      "pct": 16.8,
+      "count": 27,
+      "pct": 16.7,
+      "company_pct": 38.0,
       "tier": "many",
-      "companies": 24,
-      "entry_count": 1
+      "companies": 19,
+      "entry_count": 3,
+      "entry_companies": 3
     },
     {
-      "id": "sql",
-      "name": "SQL & relational databases",
-      "category": "Languages",
-      "count": 29,
-      "pct": 15.3,
+      "id": "distributed-systems",
+      "name": "Distributed systems",
+      "category": "CS fundamentals",
+      "count": 36,
+      "pct": 22.2,
+      "company_pct": 36.0,
       "tier": "many",
       "companies": 18,
-      "entry_count": 4
+      "entry_count": 3,
+      "entry_companies": 2
     },
     {
       "id": "go",
       "name": "Go",
       "category": "Languages",
-      "count": 28,
-      "pct": 14.7,
-      "tier": "some",
+      "count": 25,
+      "pct": 15.4,
+      "company_pct": 36.0,
+      "tier": "many",
       "companies": 18,
-      "entry_count": 2
+      "entry_count": 3,
+      "entry_companies": 3
     },
     {
-      "id": "statistics",
-      "name": "Statistics",
-      "category": "Analysis",
-      "count": 25,
-      "pct": 13.2,
+      "id": "fine-tuning",
+      "name": "Fine-tuning",
+      "category": "AI & ML",
+      "count": 28,
+      "pct": 17.3,
+      "company_pct": 34.0,
+      "tier": "many",
+      "companies": 17,
+      "entry_count": 0,
+      "entry_companies": 0
+    },
+    {
+      "id": "data-pipelines",
+      "name": "Data pipelines (ETL)",
+      "category": "Data engineering",
+      "count": 26,
+      "pct": 16.0,
+      "company_pct": 30.0,
+      "tier": "many",
+      "companies": 15,
+      "entry_count": 0,
+      "entry_companies": 0
+    },
+    {
+      "id": "cpp",
+      "name": "C++",
+      "category": "Languages",
+      "count": 45,
+      "pct": 27.8,
+      "company_pct": 28.0,
       "tier": "some",
       "companies": 14,
-      "entry_count": 6
+      "entry_count": 4,
+      "entry_companies": 3
     },
     {
-      "id": "prompt-engineering",
-      "name": "Prompt engineering",
+      "id": "tensorflow",
+      "name": "TensorFlow / JAX",
       "category": "AI & ML",
-      "count": 23,
-      "pct": 12.1,
+      "count": 35,
+      "pct": 21.6,
+      "company_pct": 28.0,
       "tier": "some",
-      "companies": 18,
-      "entry_count": 3
+      "companies": 14,
+      "entry_count": 3,
+      "entry_companies": 3
+    },
+    {
+      "id": "sql",
+      "name": "SQL & relational databases",
+      "category": "Languages",
+      "count": 25,
+      "pct": 15.4,
+      "company_pct": 28.0,
+      "tier": "some",
+      "companies": 14,
+      "entry_count": 1,
+      "entry_companies": 1
+    },
+    {
+      "id": "kubernetes",
+      "name": "Kubernetes",
+      "category": "Tools",
+      "count": 32,
+      "pct": 19.8,
+      "company_pct": 26.0,
+      "tier": "some",
+      "companies": 13,
+      "entry_count": 1,
+      "entry_companies": 1
     },
     {
       "id": "typescript",
       "name": "TypeScript",
       "category": "Languages",
-      "count": 23,
-      "pct": 12.1,
-      "tier": "some",
-      "companies": 15,
-      "entry_count": 0
-    },
-    {
-      "id": "computer-vision",
-      "name": "Computer vision",
-      "category": "AI & ML",
       "count": 21,
-      "pct": 11.1,
-      "tier": "some",
-      "companies": 12,
-      "entry_count": 9
-    },
-    {
-      "id": "git",
-      "name": "Git",
-      "category": "Tools",
-      "count": 21,
-      "pct": 11.1,
+      "pct": 13.0,
+      "company_pct": 26.0,
       "tier": "some",
       "companies": 13,
-      "entry_count": 5
+      "entry_count": 1,
+      "entry_companies": 1
+    },
+    {
+      "id": "statistics",
+      "name": "Statistics",
+      "category": "Analysis",
+      "count": 23,
+      "pct": 14.2,
+      "company_pct": 24.0,
+      "tier": "some",
+      "companies": 12,
+      "entry_count": 1,
+      "entry_companies": 1
     },
     {
       "id": "spark",
       "name": "Spark",
       "category": "Data engineering",
-      "count": 21,
-      "pct": 11.1,
-      "tier": "some",
-      "companies": 13,
-      "entry_count": 6
-    },
-    {
-      "id": "ci-cd",
-      "name": "CI/CD",
-      "category": "Tools",
       "count": 20,
-      "pct": 10.5,
+      "pct": 12.3,
+      "company_pct": 24.0,
       "tier": "some",
-      "companies": 11,
-      "entry_count": 4
+      "companies": 12,
+      "entry_count": 2,
+      "entry_companies": 2
     },
     {
-      "id": "rust",
-      "name": "Rust",
-      "category": "Languages",
-      "count": 20,
+      "id": "prompt-engineering",
+      "name": "Prompt engineering",
+      "category": "AI & ML",
+      "count": 17,
       "pct": 10.5,
+      "company_pct": 24.0,
       "tier": "some",
-      "companies": 10,
-      "entry_count": 1
-    },
-    {
-      "id": "docker",
-      "name": "Docker",
-      "category": "Tools",
-      "count": 19,
-      "pct": 10.0,
-      "tier": "some",
-      "companies": 10,
-      "entry_count": 1
+      "companies": 12,
+      "entry_count": 0,
+      "entry_companies": 0
     },
     {
       "id": "ab-testing",
       "name": "A/B testing",
       "category": "Analysis",
-      "count": 18,
-      "pct": 9.5,
-      "tier": "some",
-      "companies": 14,
-      "entry_count": 4
-    },
-    {
-      "id": "gcp",
-      "name": "Google Cloud",
-      "category": "Cloud",
-      "count": 18,
-      "pct": 9.5,
+      "count": 15,
+      "pct": 9.3,
+      "company_pct": 24.0,
       "tier": "some",
       "companies": 12,
-      "entry_count": 1
-    },
-    {
-      "id": "nlp",
-      "name": "NLP",
-      "category": "AI & ML",
-      "count": 18,
-      "pct": 9.5,
-      "tier": "some",
-      "companies": 10,
-      "entry_count": 5
+      "entry_count": 2,
+      "entry_companies": 2
     },
     {
       "id": "java",
       "name": "Java",
       "category": "Languages",
-      "count": 17,
-      "pct": 8.9,
+      "count": 15,
+      "pct": 9.3,
+      "company_pct": 24.0,
       "tier": "some",
-      "companies": 14,
-      "entry_count": 4
+      "companies": 12,
+      "entry_count": 1,
+      "entry_companies": 1
+    },
+    {
+      "id": "git",
+      "name": "Git",
+      "category": "Tools",
+      "count": 19,
+      "pct": 11.7,
+      "company_pct": 22.0,
+      "tier": "some",
+      "companies": 11,
+      "entry_count": 2,
+      "entry_companies": 2
+    },
+    {
+      "id": "ci-cd",
+      "name": "CI/CD",
+      "category": "Tools",
+      "count": 18,
+      "pct": 11.1,
+      "company_pct": 22.0,
+      "tier": "some",
+      "companies": 11,
+      "entry_count": 3,
+      "entry_companies": 2
+    },
+    {
+      "id": "docker",
+      "name": "Docker",
+      "category": "Tools",
+      "count": 16,
+      "pct": 9.9,
+      "company_pct": 20.0,
+      "tier": "some",
+      "companies": 10,
+      "entry_count": 1,
+      "entry_companies": 1
+    },
+    {
+      "id": "gcp",
+      "name": "Google Cloud",
+      "category": "Cloud",
+      "count": 16,
+      "pct": 9.9,
+      "company_pct": 20.0,
+      "tier": "some",
+      "companies": 10,
+      "entry_count": 1,
+      "entry_companies": 1
+    },
+    {
+      "id": "computer-vision",
+      "name": "Computer vision",
+      "category": "AI & ML",
+      "count": 18,
+      "pct": 11.1,
+      "company_pct": 18.0,
+      "tier": "some",
+      "companies": 9,
+      "entry_count": 1,
+      "entry_companies": 1
+    },
+    {
+      "id": "nlp",
+      "name": "NLP",
+      "category": "AI & ML",
+      "count": 17,
+      "pct": 10.5,
+      "company_pct": 18.0,
+      "tier": "some",
+      "companies": 9,
+      "entry_count": 1,
+      "entry_companies": 1
     },
     {
       "id": "javascript",
       "name": "JavaScript",
       "category": "Languages",
-      "count": 14,
+      "count": 12,
       "pct": 7.4,
+      "company_pct": 18.0,
       "tier": "some",
-      "companies": 10,
-      "entry_count": 1
-    },
-    {
-      "id": "linux",
-      "name": "Linux & command line",
-      "category": "Tools",
-      "count": 14,
-      "pct": 7.4,
-      "tier": "some",
-      "companies": 6,
-      "entry_count": 2
+      "companies": 9,
+      "entry_count": 1,
+      "entry_companies": 1
     },
     {
       "id": "system-design",
       "name": "System design",
       "category": "CS fundamentals",
-      "count": 14,
-      "pct": 7.4,
-      "tier": "some",
-      "companies": 11,
-      "entry_count": 1
-    },
-    {
-      "id": "dashboards",
-      "name": "Dashboards & reporting",
-      "category": "Analysis",
       "count": 12,
-      "pct": 6.3,
+      "pct": 7.4,
+      "company_pct": 18.0,
       "tier": "some",
       "companies": 9,
-      "entry_count": 2
+      "entry_count": 0,
+      "entry_companies": 0
     },
     {
       "id": "data-structures-algorithms",
       "name": "Data structures & algorithms",
       "category": "CS fundamentals",
-      "count": 12,
-      "pct": 6.3,
+      "count": 11,
+      "pct": 6.8,
+      "company_pct": 18.0,
       "tier": "some",
       "companies": 9,
-      "entry_count": 4
+      "entry_count": 3,
+      "entry_companies": 3
+    },
+    {
+      "id": "rust",
+      "name": "Rust",
+      "category": "Languages",
+      "count": 17,
+      "pct": 10.5,
+      "company_pct": 16.0,
+      "tier": "some",
+      "companies": 8,
+      "entry_count": 1,
+      "entry_companies": 1
     },
     {
       "id": "react",
       "name": "React",
       "category": "Web",
-      "count": 12,
-      "pct": 6.3,
+      "count": 11,
+      "pct": 6.8,
+      "company_pct": 16.0,
       "tier": "some",
-      "companies": 9,
-      "entry_count": 0
-    },
-    {
-      "id": "azure",
-      "name": "Azure",
-      "category": "Cloud",
-      "count": 10,
-      "pct": 5.3,
-      "tier": "some",
-      "companies": 6,
-      "entry_count": 0
-    },
-    {
-      "id": "data-warehouse",
-      "name": "Data warehouses",
-      "category": "Data engineering",
-      "count": 10,
-      "pct": 5.3,
-      "tier": "some",
-      "companies": 9,
-      "entry_count": 0
+      "companies": 8,
+      "entry_count": 1,
+      "entry_companies": 1
     },
     {
       "id": "terraform",
       "name": "Terraform",
       "category": "Tools",
       "count": 10,
-      "pct": 5.3,
+      "pct": 6.2,
+      "company_pct": 16.0,
       "tier": "some",
       "companies": 8,
-      "entry_count": 0
+      "entry_count": 1,
+      "entry_companies": 1
     },
     {
-      "id": "testing",
-      "name": "Testing",
-      "category": "CS fundamentals",
+      "id": "data-warehouse",
+      "name": "Data warehouses",
+      "category": "Data engineering",
       "count": 9,
-      "pct": 4.7,
-      "tier": "rare",
-      "companies": 7,
-      "entry_count": 0
+      "pct": 5.6,
+      "company_pct": 16.0,
+      "tier": "some",
+      "companies": 8,
+      "entry_count": 2,
+      "entry_companies": 2
     },
     {
-      "id": "concurrency",
-      "name": "Concurrency",
-      "category": "CS fundamentals",
-      "count": 8,
-      "pct": 4.2,
-      "tier": "rare",
+      "id": "dashboards",
+      "name": "Dashboards & reporting",
+      "category": "Analysis",
+      "count": 9,
+      "pct": 5.6,
+      "company_pct": 14.0,
+      "tier": "some",
+      "companies": 7,
+      "entry_count": 0,
+      "entry_companies": 0
+    },
+    {
+      "id": "linux",
+      "name": "Linux & command line",
+      "category": "Tools",
+      "count": 13,
+      "pct": 8.0,
+      "company_pct": 12.0,
+      "tier": "some",
       "companies": 6,
-      "entry_count": 3
+      "entry_count": 1,
+      "entry_companies": 1
+    },
+    {
+      "id": "azure",
+      "name": "Azure",
+      "category": "Cloud",
+      "count": 10,
+      "pct": 6.2,
+      "company_pct": 12.0,
+      "tier": "some",
+      "companies": 6,
+      "entry_count": 0,
+      "entry_companies": 0
     },
     {
       "id": "oop",
       "name": "Object-oriented design",
       "category": "CS fundamentals",
       "count": 8,
-      "pct": 4.2,
-      "tier": "rare",
+      "pct": 4.9,
+      "company_pct": 12.0,
+      "tier": "some",
       "companies": 6,
-      "entry_count": 1
-    },
-    {
-      "id": "operating-systems",
-      "name": "Operating systems",
-      "category": "CS fundamentals",
-      "count": 8,
-      "pct": 4.2,
-      "tier": "rare",
-      "companies": 4,
-      "entry_count": 0
-    },
-    {
-      "id": "pandas",
-      "name": "pandas / NumPy",
-      "category": "Analysis",
-      "count": 8,
-      "pct": 4.2,
-      "tier": "rare",
-      "companies": 7,
-      "entry_count": 3
+      "entry_count": 1,
+      "entry_companies": 1
     },
     {
       "id": "scikit-learn",
       "name": "scikit-learn",
       "category": "AI & ML",
       "count": 8,
-      "pct": 4.2,
-      "tier": "rare",
+      "pct": 4.9,
+      "company_pct": 12.0,
+      "tier": "some",
       "companies": 6,
-      "entry_count": 3
+      "entry_count": 1,
+      "entry_companies": 1
     },
     {
-      "id": "data-modeling",
-      "name": "Data modeling",
-      "category": "Data engineering",
+      "id": "pandas",
+      "name": "pandas / NumPy",
+      "category": "Analysis",
       "count": 7,
-      "pct": 3.7,
+      "pct": 4.3,
+      "company_pct": 12.0,
+      "tier": "some",
+      "companies": 6,
+      "entry_count": 0,
+      "entry_companies": 0
+    },
+    {
+      "id": "testing",
+      "name": "Testing",
+      "category": "CS fundamentals",
+      "count": 7,
+      "pct": 4.3,
+      "company_pct": 12.0,
+      "tier": "some",
+      "companies": 6,
+      "entry_count": 0,
+      "entry_companies": 0
+    },
+    {
+      "id": "concurrency",
+      "name": "Concurrency",
+      "category": "CS fundamentals",
+      "count": 7,
+      "pct": 4.3,
+      "company_pct": 10.0,
+      "tier": "some",
+      "companies": 5,
+      "entry_count": 2,
+      "entry_companies": 1
+    },
+    {
+      "id": "operating-systems",
+      "name": "Operating systems",
+      "category": "CS fundamentals",
+      "count": 7,
+      "pct": 4.3,
+      "company_pct": 8.0,
       "tier": "rare",
       "companies": 4,
-      "entry_count": 2
+      "entry_count": 0,
+      "entry_companies": 0
     },
     {
       "id": "ruby",
       "name": "Ruby",
       "category": "Languages",
-      "count": 6,
-      "pct": 3.2,
+      "count": 5,
+      "pct": 3.1,
+      "company_pct": 8.0,
       "tier": "rare",
-      "companies": 5,
-      "entry_count": 0
+      "companies": 4,
+      "entry_count": 0,
+      "entry_companies": 0
     },
     {
       "id": "scala",
       "name": "Scala",
       "category": "Languages",
       "count": 5,
-      "pct": 2.6,
+      "pct": 3.1,
+      "company_pct": 6.0,
       "tier": "rare",
       "companies": 3,
-      "entry_count": 2
+      "entry_count": 0,
+      "entry_companies": 0
     },
     {
-      "id": "nodejs",
-      "name": "Node.js",
-      "category": "Web",
-      "count": 4,
-      "pct": 2.1,
-      "tier": "rare",
-      "companies": 4,
-      "entry_count": 0
-    },
-    {
-      "id": "nosql",
-      "name": "NoSQL databases",
+      "id": "data-modeling",
+      "name": "Data modeling",
       "category": "Data engineering",
       "count": 4,
-      "pct": 2.1,
+      "pct": 2.5,
+      "company_pct": 6.0,
       "tier": "rare",
-      "companies": 4,
-      "entry_count": 0
+      "companies": 3,
+      "entry_count": 0,
+      "entry_companies": 0
     },
     {
       "id": "airflow",
       "name": "Airflow",
       "category": "Data engineering",
       "count": 3,
-      "pct": 1.6,
+      "pct": 1.9,
+      "company_pct": 6.0,
       "tier": "rare",
       "companies": 3,
-      "entry_count": 0
-    },
-    {
-      "id": "networking",
-      "name": "Computer networking",
-      "category": "CS fundamentals",
-      "count": 3,
-      "pct": 1.6,
-      "tier": "rare",
-      "companies": 2,
-      "entry_count": 0
+      "entry_count": 0,
+      "entry_companies": 0
     },
     {
       "id": "kafka",
       "name": "Kafka",
       "category": "Data engineering",
       "count": 3,
-      "pct": 1.6,
+      "pct": 1.9,
+      "company_pct": 6.0,
       "tier": "rare",
       "companies": 3,
-      "entry_count": 0
+      "entry_count": 0,
+      "entry_companies": 0
     },
     {
       "id": "microservices",
       "name": "Microservices",
       "category": "Web",
       "count": 3,
-      "pct": 1.6,
+      "pct": 1.9,
+      "company_pct": 6.0,
       "tier": "rare",
       "companies": 3,
-      "entry_count": 0
+      "entry_count": 0,
+      "entry_companies": 0
+    },
+    {
+      "id": "nodejs",
+      "name": "Node.js",
+      "category": "Web",
+      "count": 3,
+      "pct": 1.9,
+      "company_pct": 6.0,
+      "tier": "rare",
+      "companies": 3,
+      "entry_count": 0,
+      "entry_companies": 0
+    },
+    {
+      "id": "nosql",
+      "name": "NoSQL databases",
+      "category": "Data engineering",
+      "count": 3,
+      "pct": 1.9,
+      "company_pct": 6.0,
+      "tier": "rare",
+      "companies": 3,
+      "entry_count": 0,
+      "entry_companies": 0
+    },
+    {
+      "id": "networking",
+      "name": "Computer networking",
+      "category": "CS fundamentals",
+      "count": 3,
+      "pct": 1.9,
+      "company_pct": 4.0,
+      "tier": "rare",
+      "companies": 2,
+      "entry_count": 0,
+      "entry_companies": 0
     },
     {
       "id": "c-lang",
       "name": "C",
       "category": "Languages",
       "count": 2,
-      "pct": 1.1,
+      "pct": 1.2,
+      "company_pct": 4.0,
       "tier": "rare",
       "companies": 2,
-      "entry_count": 0
-    },
-    {
-      "id": "c-sharp",
-      "name": "C#",
-      "category": "Languages",
-      "count": 2,
-      "pct": 1.1,
-      "tier": "rare",
-      "companies": 1,
-      "entry_count": 0
+      "entry_count": 0,
+      "entry_companies": 0
     },
     {
       "id": "excel",
       "name": "Excel / spreadsheets",
       "category": "Analysis",
       "count": 2,
-      "pct": 1.1,
+      "pct": 1.2,
+      "company_pct": 4.0,
       "tier": "rare",
       "companies": 2,
-      "entry_count": 0
+      "entry_count": 0,
+      "entry_companies": 0
+    },
+    {
+      "id": "c-sharp",
+      "name": "C#",
+      "category": "Languages",
+      "count": 2,
+      "pct": 1.2,
+      "company_pct": 2.0,
+      "tier": "rare",
+      "companies": 1,
+      "entry_count": 0,
+      "entry_companies": 0
     },
     {
       "id": "data-visualization",
       "name": "Data visualization",
       "category": "Analysis",
       "count": 1,
-      "pct": 0.5,
+      "pct": 0.6,
+      "company_pct": 2.0,
       "tier": "rare",
       "companies": 1,
-      "entry_count": 0
-    },
-    {
-      "id": "graphql",
-      "name": "GraphQL",
-      "category": "Web",
-      "count": 1,
-      "pct": 0.5,
-      "tier": "rare",
-      "companies": 1,
-      "entry_count": 0
+      "entry_count": 0,
+      "entry_companies": 0
     },
     {
       "id": "html-css",
       "name": "HTML & CSS",
       "category": "Web",
       "count": 1,
-      "pct": 0.5,
+      "pct": 0.6,
+      "company_pct": 2.0,
       "tier": "rare",
       "companies": 1,
-      "entry_count": 0
+      "entry_count": 0,
+      "entry_companies": 0
     },
     {
       "id": "kotlin",
       "name": "Kotlin",
       "category": "Languages",
       "count": 1,
-      "pct": 0.5,
+      "pct": 0.6,
+      "company_pct": 2.0,
       "tier": "rare",
       "companies": 1,
-      "entry_count": 0
+      "entry_count": 0,
+      "entry_companies": 0
     },
     {
       "id": "nextjs",
       "name": "Next.js",
       "category": "Web",
       "count": 1,
-      "pct": 0.5,
+      "pct": 0.6,
+      "company_pct": 2.0,
       "tier": "rare",
       "companies": 1,
-      "entry_count": 0
+      "entry_count": 0,
+      "entry_companies": 0
     },
     {
       "id": "r",
       "name": "R",
       "category": "Languages",
       "count": 1,
-      "pct": 0.5,
+      "pct": 0.6,
+      "company_pct": 2.0,
       "tier": "rare",
       "companies": 1,
-      "entry_count": 0
+      "entry_count": 0,
+      "entry_companies": 0
     }
   ],
   "company_counts": [
     [
       "Anthropic",
-      39
+      30
     ],
     [
       "Waymo",
@@ -692,14 +817,6 @@
     ],
     [
       "Anduril Industries",
-      8
-    ],
-    [
-      "SpaceX",
-      8
-    ],
-    [
-      "Figma",
       7
     ],
     [
@@ -711,31 +828,35 @@
       7
     ],
     [
+      "SpaceX",
+      7
+    ],
+    [
       "Stripe",
       7
     ],
     [
-      "Zoox",
-      7
+      "Figma",
+      6
     ],
     [
       "Pinterest",
       6
     ],
     [
-      "Lyft",
-      5
-    ],
-    [
-      "Together AI",
-      5
+      "Zoox",
+      6
     ],
     [
       "DoorDash USA",
       4
     ],
     [
-      "Sonarsource",
+      "Lyft",
+      4
+    ],
+    [
+      "Together AI",
       4
     ],
     [
@@ -747,15 +868,7 @@
       3
     ],
     [
-      "Datadog",
-      3
-    ],
-    [
       "Palantir",
-      3
-    ],
-    [
-      "Roblox",
       3
     ],
     [
@@ -767,11 +880,11 @@
       2
     ],
     [
-      "Cresta",
+      "Databricks",
       2
     ],
     [
-      "Databricks",
+      "Datadog",
       2
     ],
     [
@@ -783,15 +896,11 @@
       2
     ],
     [
-      "Samsara",
+      "Roblox",
       2
     ],
     [
       "Sendbird",
-      2
-    ],
-    [
-      "Tanium",
       2
     ],
     [
@@ -819,7 +928,7 @@
       1
     ],
     [
-      "Cloudflare",
+      "Cresta",
       1
     ],
     [
@@ -851,19 +960,11 @@
       1
     ],
     [
-      "Instacart",
-      1
-    ],
-    [
       "Mercury",
       1
     ],
     [
       "Motive",
-      1
-    ],
-    [
-      "Neo4j",
       1
     ],
     [
@@ -891,15 +992,19 @@
       1
     ],
     [
+      "Sonarsource",
+      1
+    ],
+    [
       "Spotify",
       1
     ],
     [
-      "Tripadvisor",
+      "Tanium",
       1
     ],
     [
-      "Twitch",
+      "Tripadvisor",
       1
     ]
   ],
@@ -909,8 +1014,9 @@
       "title": "Machine Learning Engineer 1",
       "url": "https://abnormal.ai/careers/jobs/8002099003?gh_jid=8002099003",
       "location": "Remote - Singapore",
-      "level": "open",
-      "last_seen": "2026-11-21"
+      "level": "entry",
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Affirm",
@@ -918,7 +1024,8 @@
       "url": "https://job-boards.greenhouse.io/affirm/jobs/8033261003",
       "location": "Remote Canada",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Airbnb",
@@ -926,7 +1033,8 @@
       "url": "https://careers.airbnb.com/positions/7716341?gh_jid=7716341",
       "location": "China",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Anduril Industries",
@@ -934,7 +1042,8 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5274037007?gh_jid=5274037007",
       "location": "Santa Ana, California, United States",
       "level": "entry",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Anduril Industries",
@@ -942,7 +1051,8 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5197253007?gh_jid=5197253007",
       "location": "Costa Mesa, California, United States",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Anduril Industries",
@@ -950,7 +1060,8 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5248869007?gh_jid=5248869007",
       "location": "Waltham, Massachusetts, United States",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Anduril Industries",
@@ -958,7 +1069,8 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5136146007?gh_jid=5136146007",
       "location": "Costa Mesa, California, United States",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Anduril Industries",
@@ -966,7 +1078,8 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5195642007?gh_jid=5195642007",
       "location": "Costa Mesa, California, United States",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Anduril Industries",
@@ -974,7 +1087,8 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5293883007?gh_jid=5293883007",
       "location": "Costa Mesa, California, United States",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Anduril Industries",
@@ -982,15 +1096,8 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5210930007?gh_jid=5210930007",
       "location": "Boston, Massachusetts, United States",
       "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Anduril Industries",
-      "title": "Winter 2027 Research Engineer Co-op",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265127007?gh_jid=5265127007",
-      "location": "Santa Ana, California, United States",
-      "level": "entry",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Anthropic",
@@ -998,7 +1105,8 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/4610158008",
       "location": "London, UK",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Anthropic",
@@ -1006,7 +1114,8 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5445760008",
       "location": "London, UK",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Anthropic",
@@ -1014,7 +1123,8 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5440821008",
       "location": "London, UK",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Anthropic",
@@ -1022,7 +1132,8 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5437172008",
       "location": "San Francisco, CA | New York City, NY",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Anthropic",
@@ -1030,7 +1141,8 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5483945008",
       "location": "San Francisco, CA",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Anthropic",
@@ -1038,7 +1150,8 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5057647008",
       "location": "San Francisco, CA | New York City, NY",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Anthropic",
@@ -1046,7 +1159,8 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5445410008",
       "location": "Washington, DC",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Anthropic",
@@ -1054,7 +1168,8 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5432575008",
       "location": "London, UK",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Anthropic",
@@ -1062,7 +1177,8 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5454650008",
       "location": "San Francisco, CA | New York City, NY",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Anthropic",
@@ -1070,7 +1186,8 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5454673008",
       "location": "San Francisco, CA",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Anthropic",
@@ -1078,15 +1195,8 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390811008",
       "location": "San Francisco, CA | New York City, NY",
       "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Applied Scientist, Engineering",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468939008",
-      "location": "San Francisco, CA",
-      "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Anthropic",
@@ -1094,7 +1204,8 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5364804008",
       "location": "San Francisco, CA | New York City, NY",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Anthropic",
@@ -1102,7 +1213,8 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/4949336008",
       "location": "San Francisco, CA | New York City, NY",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Anthropic",
@@ -1110,7 +1222,8 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438030008",
       "location": "San Francisco, CA | New York City, NY | Seattle, WA",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Anthropic",
@@ -1118,15 +1231,8 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438044008",
       "location": "San Francisco, CA | New York City, NY | Seattle, WA",
       "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Research Engineer / Research Scientist, Tokens",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4951814008",
-      "location": "New York City, NY; New York City, NY | Seattle, WA; San Francisco, CA",
-      "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Anthropic",
@@ -1134,7 +1240,8 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/4631822008",
       "location": "San Francisco, CA",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Anthropic",
@@ -1142,7 +1249,8 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468947008",
       "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Anthropic",
@@ -1150,15 +1258,8 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5477416008",
       "location": "London, UK",
       "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Research Engineer, Beneficial Deployments",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5485188008",
-      "location": "San Francisco, CA",
-      "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Anthropic",
@@ -1166,7 +1267,8 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5459098008",
       "location": "San Francisco, CA",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Anthropic",
@@ -1174,7 +1276,8 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5254364008",
       "location": "San Francisco, CA | New York City, NY",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Anthropic",
@@ -1182,7 +1285,8 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5459191008",
       "location": "San Francisco, CA | New York City, NY",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Anthropic",
@@ -1190,15 +1294,8 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5412334008",
       "location": "Zürich, CH",
       "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Research Engineer, Discovery",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4669581008",
-      "location": "San Francisco, CA",
-      "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Anthropic",
@@ -1206,23 +1303,8 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/4980430008",
       "location": "San Francisco, CA",
       "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Research Engineer, Knowledge Team",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4017331008",
-      "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
-      "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Research Engineer, Life Sciences",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5265365008",
-      "location": "San Francisco, CA",
-      "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Anthropic",
@@ -1230,7 +1312,8 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/4613568008",
       "location": "San Francisco, CA | New York City, NY",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Anthropic",
@@ -1238,7 +1321,8 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5198074008",
       "location": "London, UK",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Anthropic",
@@ -1246,7 +1330,8 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5198255008",
       "location": "San Francisco, CA | Seattle, WA",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Anthropic",
@@ -1254,7 +1339,8 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5119713008",
       "location": "London, UK",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Anthropic",
@@ -1262,15 +1348,8 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/4938432008",
       "location": "San Francisco, CA",
       "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Research Engineer, Pretraining Scaling - London",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4938436008",
-      "location": "London, UK",
-      "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Anthropic",
@@ -1278,7 +1357,8 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/4613592008",
       "location": "San Francisco, CA | New York City, NY | Seattle, WA",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Anthropic",
@@ -1286,23 +1366,8 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/4952051008",
       "location": "San Francisco, CA | New York City, NY | Seattle, WA",
       "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Research Engineer, Visual Knowledge Work",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5074217008",
-      "location": "New York City, NY; San Francisco, CA; Seattle, WA",
-      "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Security Engineer / Research Engineer, RL Security",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5458420008",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Asana",
@@ -1310,7 +1375,8 @@
       "url": "https://www.asana.com/jobs/apply/7962306?gh_jid=7962306",
       "location": "Vancouver, BC",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Brex",
@@ -1318,7 +1384,8 @@
       "url": "https://www.brex.com/careers/8606885002?gh_jid=8606885002",
       "location": "Seattle, Washington, United States",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Brex",
@@ -1326,7 +1393,8 @@
       "url": "https://www.brex.com/careers/8606845002?gh_jid=8606845002",
       "location": "San Francisco, California, United States",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Celonis",
@@ -1334,7 +1402,8 @@
       "url": "https://job-boards.greenhouse.io/celonis/jobs/7765659003?gh_jid=7765659003",
       "location": "New York, US, New York",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Celonis",
@@ -1342,7 +1411,8 @@
       "url": "https://job-boards.greenhouse.io/celonis/jobs/7885808003?gh_jid=7885808003",
       "location": "Bangalore, India",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Chime Financial, Inc",
@@ -1350,7 +1420,8 @@
       "url": "https://boards.greenhouse.io/chime/jobs/8569366002?gh_jid=8569366002",
       "location": "Chicago, IL, USA; New York, NY, USA; San Francisco, CA, USA",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Chime Financial, Inc",
@@ -1358,7 +1429,8 @@
       "url": "https://boards.greenhouse.io/chime/jobs/8922481002?gh_jid=8922481002",
       "location": "San Francisco, CA, USA",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Chime Financial, Inc",
@@ -1366,15 +1438,8 @@
       "url": "https://boards.greenhouse.io/chime/jobs/8868948002?gh_jid=8868948002",
       "location": "San Francisco, CA, USA",
       "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Cloudflare",
-      "title": "AI Security Research & Red Team Engineer",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8097321?gh_jid=8097321",
-      "location": "Hybrid",
-      "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Coinbase",
@@ -1382,7 +1447,8 @@
       "url": "https://www.coinbase.com/careers/positions/7985187?gh_jid=7985187",
       "location": "Remote - India",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Coinbase",
@@ -1390,7 +1456,8 @@
       "url": "https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441",
       "location": "Hybrid - San Francisco, CA",
       "level": "entry",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Coinbase",
@@ -1398,7 +1465,8 @@
       "url": "https://www.coinbase.com/careers/positions/8031260?gh_jid=8031260",
       "location": "Remote - Brazil",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Cresta",
@@ -1406,15 +1474,8 @@
       "url": "https://job-boards.greenhouse.io/cresta/jobs/5480801008",
       "location": "Canada (Remote); United States (Remote)",
       "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Cresta",
-      "title": "AI Growth Engineer",
-      "url": "https://job-boards.greenhouse.io/cresta/jobs/5476118008",
-      "location": "United States (Remote)",
-      "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Databricks",
@@ -1422,7 +1483,8 @@
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8829033002",
       "location": "Costa Rica",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Databricks",
@@ -1430,7 +1492,8 @@
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8091041002",
       "location": "Belgrade, Serbia",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Datadog",
@@ -1438,15 +1501,8 @@
       "url": "https://careers.datadoghq.com/detail/7194969/?gh_jid=7194969",
       "location": "Paris, France",
       "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Datadog",
-      "title": "AI Research Scientist - Datadog AI Research",
-      "url": "https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564",
-      "location": "Paris, France",
-      "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Datadog",
@@ -1454,7 +1510,8 @@
       "url": "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669",
       "location": "New York, New York, USA; Pittsburgh, Pennsylvania, USA",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Deliveroo",
@@ -1462,7 +1519,8 @@
       "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8202399",
       "location": "London, England",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Descript",
@@ -1470,7 +1528,8 @@
       "url": "https://boards.greenhouse.io/descript/jobs/7967440003?gh_jid=7967440003",
       "location": "San Francisco, CA or Remote, US",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "DoorDash USA",
@@ -1478,7 +1537,8 @@
       "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8192187",
       "location": "San Francisco, CA; Sunnyvale, CA",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "DoorDash USA",
@@ -1486,7 +1546,8 @@
       "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8264542",
       "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "DoorDash USA",
@@ -1494,7 +1555,8 @@
       "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8283735",
       "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "DoorDash USA",
@@ -1502,7 +1564,8 @@
       "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8263726",
       "location": "San Francisco, CA; Sunnyvale, CA; • Seattle, WA",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Duolingo",
@@ -1510,7 +1573,8 @@
       "url": "https://careers.duolingo.com/jobs/8881612002?gh_jid=8881612002",
       "location": "New York, NY; Pittsburgh, PA",
       "level": "entry",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": true
     },
     {
       "company": "Epic Games",
@@ -1518,7 +1582,8 @@
       "url": "https://epicgames.com/careers/jobs/6134271004?gh_jid=6134271004",
       "location": "Cary,North Carolina,United States",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Everpure",
@@ -1526,7 +1591,8 @@
       "url": "https://job-boards.greenhouse.io/purestorage/jobs/8331163",
       "location": "Santa Clara, California",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Figma",
@@ -1534,7 +1600,8 @@
       "url": "https://boards.greenhouse.io/figma/jobs/5707966004?gh_jid=5707966004",
       "location": "San Francisco, CA • New York, NY • United States",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Figma",
@@ -1542,7 +1609,8 @@
       "url": "https://boards.greenhouse.io/figma/jobs/6233043004?gh_jid=6233043004",
       "location": "San Francisco, CA • New York, NY • United States",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Figma",
@@ -1550,7 +1618,8 @@
       "url": "https://boards.greenhouse.io/figma/jobs/6207801004?gh_jid=6207801004",
       "location": "San Francisco, CA • New York, NY",
       "level": "entry",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": true
     },
     {
       "company": "Figma",
@@ -1558,15 +1627,8 @@
       "url": "https://boards.greenhouse.io/figma/jobs/5691886004?gh_jid=5691886004",
       "location": "San Francisco, CA • New York, NY • United States",
       "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Figma",
-      "title": "Software Engineer - AI Product",
-      "url": "https://boards.greenhouse.io/figma/jobs/5551730004?gh_jid=5551730004",
-      "location": "San Francisco, CA • New York, NY • United States",
-      "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Figma",
@@ -1574,7 +1636,8 @@
       "url": "https://boards.greenhouse.io/figma/jobs/5551697004?gh_jid=5551697004",
       "location": "London, England",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Figma",
@@ -1582,7 +1645,8 @@
       "url": "https://boards.greenhouse.io/figma/jobs/5551532004?gh_jid=5551532004",
       "location": "San Francisco, CA • New York, NY • United States",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Fin",
@@ -1590,7 +1654,8 @@
       "url": "https://job-boards.greenhouse.io/intercom/jobs/7820671",
       "location": "Dublin, Ireland",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Gusto, Inc.",
@@ -1598,15 +1663,8 @@
       "url": "https://job-boards.greenhouse.io/gusto/jobs/7369003",
       "location": "San Francisco, CA - Hybrid",
       "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Instacart",
-      "title": "Applied Scientist II - Advertiser Optimization",
-      "url": "https://instacart.careers/job/?gh_jid=8403432",
-      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-      "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Lucid Motors",
@@ -1614,7 +1672,8 @@
       "url": "https://lucidmotors.com/careers/search/5254390007?gh_jid=5254390007",
       "location": "Southfield, MI",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Lucid Motors",
@@ -1622,15 +1681,8 @@
       "url": "https://lucidmotors.com/careers/search/5199878007?gh_jid=5199878007",
       "location": "Southfield, MI",
       "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Lyft",
-      "title": "Applied Scientist Intern, PhD (Summer 2027)",
-      "url": "https://app.careerpuck.com/job-board/lyft/job/8843341002?gh_jid=8843341002",
-      "location": "San Francisco, CA",
-      "level": "entry",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Lyft",
@@ -1638,7 +1690,8 @@
       "url": "https://app.careerpuck.com/job-board/lyft/job/8684440002?gh_jid=8684440002",
       "location": "Toronto, Canada",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Lyft",
@@ -1646,7 +1699,8 @@
       "url": "https://app.careerpuck.com/job-board/lyft/job/8944659002?gh_jid=8944659002",
       "location": "Toronto, Canada",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Lyft",
@@ -1654,7 +1708,8 @@
       "url": "https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002",
       "location": "San Francisco, CA",
       "level": "entry",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": true
     },
     {
       "company": "Lyft",
@@ -1662,7 +1717,8 @@
       "url": "https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002",
       "location": "Toronto, Canada",
       "level": "entry",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Mercury",
@@ -1670,7 +1726,8 @@
       "url": "https://job-boards.greenhouse.io/mercury/jobs/6233238004",
       "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Motive",
@@ -1678,15 +1735,8 @@
       "url": "https://job-boards.greenhouse.io/gomotive/jobs/8785039002",
       "location": "Bangalore, India",
       "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Neo4j",
-      "title": "Research Engineer",
-      "url": "https://boards.greenhouse.io/neo4j/jobs/4708465006?gh_jid=4708465006",
-      "location": "London",
-      "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Nextdoor",
@@ -1694,7 +1744,8 @@
       "url": "https://about.nextdoor.com/careers-list/?gh_jid=6005888",
       "location": "US Remote",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Nuro",
@@ -1702,7 +1753,8 @@
       "url": "https://nuro.ai/careersitem?gh_jid=7351061",
       "location": "Mountain View, California (HQ)",
       "level": "entry",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Nuro",
@@ -1710,7 +1762,8 @@
       "url": "https://nuro.ai/careersitem?gh_jid=7351066",
       "location": "Mountain View, California (HQ)",
       "level": "entry",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Nuro",
@@ -1718,7 +1771,8 @@
       "url": "https://nuro.ai/careersitem?gh_jid=8122990",
       "location": "Mountain View, California (HQ)",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Nuro",
@@ -1726,7 +1780,8 @@
       "url": "https://nuro.ai/careersitem?gh_jid=8122537",
       "location": "Mountain View, California (HQ)",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Nuro",
@@ -1734,7 +1789,8 @@
       "url": "https://nuro.ai/careersitem?gh_jid=6909931",
       "location": "Mountain View, California (HQ)",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Nuro",
@@ -1742,7 +1798,8 @@
       "url": "https://nuro.ai/careersitem?gh_jid=8122483",
       "location": "Mountain View, California (HQ)",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Nuro",
@@ -1750,7 +1807,8 @@
       "url": "https://nuro.ai/careersitem?gh_jid=6916236",
       "location": "Mountain View, California (HQ)",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Observe.AI",
@@ -1758,7 +1816,8 @@
       "url": "https://www.observe.ai/position?gh_jid=5254531008",
       "location": "Redwood City, CA (Hybrid)",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Palantir",
@@ -1766,7 +1825,8 @@
       "url": "https://jobs.lever.co/palantir/6b4b087c-4fc6-476d-9e72-e1bc6ac6c62a",
       "location": "New York, NY",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Palantir",
@@ -1774,7 +1834,8 @@
       "url": "https://jobs.lever.co/palantir/67110929-adea-41c3-851a-8882e222d9e4",
       "location": "Seattle, WA",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Palantir",
@@ -1782,7 +1843,8 @@
       "url": "https://jobs.lever.co/palantir/40840cef-bbd7-4557-bb21-cbdcf4be616e",
       "location": "London, United Kingdom",
       "level": "entry",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Pinterest",
@@ -1790,7 +1852,8 @@
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7473497",
       "location": "Toronto, ON, CA",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Pinterest",
@@ -1798,7 +1861,8 @@
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7697137",
       "location": "San Francisco, CA, US; Remote, US",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Pinterest",
@@ -1806,7 +1870,8 @@
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6121450",
       "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; Remote, US",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Pinterest",
@@ -1814,7 +1879,8 @@
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6121543",
       "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Pinterest",
@@ -1822,7 +1888,8 @@
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140219",
       "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
       "level": "entry",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": true
     },
     {
       "company": "Pinterest",
@@ -1830,7 +1897,8 @@
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140363",
       "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",
       "level": "entry",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": true
     },
     {
       "company": "PlanetScale",
@@ -1838,15 +1906,17 @@
       "url": "https://job-boards.greenhouse.io/planetscale/jobs/4463390009",
       "location": "Remote US ",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Relativity Space",
       "title": "AI Software Engineer I",
       "url": "https://boards.greenhouse.io/relativity/jobs/8726261002?gh_jid=8726261002",
       "location": "Long Beach, California, United States",
-      "level": "open",
-      "last_seen": "2026-11-21"
+      "level": "entry",
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Relativity Space",
@@ -1854,15 +1924,8 @@
       "url": "https://boards.greenhouse.io/relativity/jobs/8726264002?gh_jid=8726264002",
       "location": "Long Beach, California, United States",
       "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Roblox",
-      "title": "[2027] Applied Scientist - PhD Intern",
-      "url": "https://careers.roblox.com/jobs/8242621?gh_jid=8242621",
-      "location": "San Mateo, CA, United States",
-      "level": "entry",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Roblox",
@@ -1870,7 +1933,8 @@
       "url": "https://careers.roblox.com/jobs/8171283?gh_jid=8171283",
       "location": "San Mateo, CA, United States",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Roblox",
@@ -1878,23 +1942,8 @@
       "url": "https://careers.roblox.com/jobs/8356764?gh_jid=8356764",
       "location": "San Mateo, CA, United States",
       "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Samsara",
-      "title": "AI Engineer, Customer Success",
-      "url": "https://www.samsara.com/company/careers/roles/8024110?gh_jid=8024110",
-      "location": "Remote - Austin; Remote - CA; Remote - Chicago; Remote - Dallas; Remote - Houston; Remote - Seattle",
-      "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Samsara",
-      "title": "People Analytics AI Engineer",
-      "url": "https://www.samsara.com/company/careers/roles/7858719?gh_jid=7858719",
-      "location": "Remote - DC; Remote - NYC; Remote - Seattle; Remote - SF Bay Area",
-      "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Scale AI",
@@ -1902,7 +1951,8 @@
       "url": "https://job-boards.greenhouse.io/scaleai/jobs/4751059005",
       "location": "Kuwait City, Kuwait",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Scale AI",
@@ -1910,7 +1960,8 @@
       "url": "https://job-boards.greenhouse.io/scaleai/jobs/4665557005",
       "location": "San Francisco, CA; New York, NY",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Scale AI",
@@ -1918,7 +1969,8 @@
       "url": "https://job-boards.greenhouse.io/scaleai/jobs/4631848005",
       "location": "Denver, CO; Honolulu, HI; Washington, DC",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Scale AI",
@@ -1926,7 +1978,8 @@
       "url": "https://job-boards.greenhouse.io/scaleai/jobs/4534631005",
       "location": "San Francisco, CA; Seattle, WA; New York, NY",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Scale AI",
@@ -1934,7 +1987,8 @@
       "url": "https://job-boards.greenhouse.io/scaleai/jobs/4675684005",
       "location": "San Francisco, CA",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Scale AI",
@@ -1942,7 +1996,8 @@
       "url": "https://job-boards.greenhouse.io/scaleai/jobs/4513943005",
       "location": "New York, NY; San Francisco, CA",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Scale AI",
@@ -1950,7 +2005,8 @@
       "url": "https://job-boards.greenhouse.io/scaleai/jobs/4363623005",
       "location": "San Francisco, CA; St. Louis, MO; New York, NY; Washington, DC",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Scopely",
@@ -1958,7 +2014,8 @@
       "url": "https://job-boards.greenhouse.io/scopely/jobs/5456049008?gh_jid=5456049008",
       "location": "US - San Francisco, California, United States",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Sendbird",
@@ -1966,7 +2023,8 @@
       "url": "https://sendbird.com/careers?gh_jid=8276676002",
       "location": "Seoul, South Korea",
       "level": "entry",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Sendbird",
@@ -1974,7 +2032,8 @@
       "url": "https://sendbird.com/careers?gh_jid=8395379002",
       "location": "Seoul, South Korea",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Smartsheet",
@@ -1982,7 +2041,8 @@
       "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8232492",
       "location": "Bangalore, INDIA",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Snorkel AI",
@@ -1990,7 +2050,8 @@
       "url": "https://job-boards.greenhouse.io/snorkelai/jobs/6208895004",
       "location": "New York City, NY (Hybrid); San Francisco, CA (Hybrid); United States (Remote)",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Sonarsource",
@@ -1998,39 +2059,8 @@
       "url": "https://jobs.lever.co/sonarsource/3cae19c4-144b-41b9-89c1-03203547a8d3",
       "location": "Geneva",
       "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Sonarsource",
-      "title": "AI Systems Engineer (f/m/d)",
-      "url": "https://jobs.lever.co/sonarsource/6ae7c963-dd85-4ee4-a436-092490d1677c",
-      "location": "Bochum",
-      "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Sonarsource",
-      "title": "Research Engineer",
-      "url": "https://jobs.lever.co/sonarsource/2f1af926-9595-4031-8a26-3c776a6dfbcd",
-      "location": "Singapore",
-      "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Sonarsource",
-      "title": "Research Engineer (f/m/d)",
-      "url": "https://jobs.lever.co/sonarsource/9984dd32-2082-4ca2-9ee5-d47cb6940da8",
-      "location": "Bochum",
-      "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "SpaceX",
-      "title": "AI Security Software Engineer (Starshield)",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8880556002?gh_jid=8880556002",
-      "location": "Hawthorne, CA",
-      "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "SpaceX",
@@ -2038,7 +2068,8 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8910071002?gh_jid=8910071002",
       "location": "Hawthorne, CA",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "SpaceX",
@@ -2046,7 +2077,8 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
       "location": "Hawthorne, CA",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "SpaceX",
@@ -2054,7 +2086,8 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8880868002?gh_jid=8880868002",
       "location": "Hawthorne, CA",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "SpaceX",
@@ -2062,7 +2095,8 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8861900002?gh_jid=8861900002",
       "location": "Hawthorne, CA",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "SpaceX",
@@ -2070,7 +2104,8 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8676015002?gh_jid=8676015002",
       "location": "Bastrop, TX",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "SpaceX",
@@ -2078,7 +2113,8 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8637712002?gh_jid=8637712002",
       "location": "Redmond, WA",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "SpaceX",
@@ -2086,7 +2122,8 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8717350002?gh_jid=8717350002",
       "location": "Palo Alto, CA",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Spotify",
@@ -2094,7 +2131,8 @@
       "url": "https://jobs.lever.co/spotify/19c12e29-b6d4-4d97-9053-48238fb7c381",
       "location": "London",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Stripe",
@@ -2102,7 +2140,8 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8144196",
       "location": "Chicago",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Stripe",
@@ -2110,7 +2149,8 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8224915",
       "location": "San Francisco",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Stripe",
@@ -2118,7 +2158,8 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8197886",
       "location": "New York City ",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Stripe",
@@ -2126,7 +2167,8 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8243617",
       "location": "Seattle",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Stripe",
@@ -2134,7 +2176,8 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8187574",
       "location": "Seattle, New York City",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Stripe",
@@ -2142,7 +2185,8 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8333074",
       "location": "San Francisco, New York City, Seattle",
       "level": "entry",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": true
     },
     {
       "company": "Stripe",
@@ -2150,7 +2194,8 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8328662",
       "location": "San Francisco, New York City, Seattle",
       "level": "entry",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": true
     },
     {
       "company": "Tanium",
@@ -2158,15 +2203,8 @@
       "url": "https://job-boards.greenhouse.io/tanium/jobs/8335147",
       "location": "Addison, TX (Hybrid); Durham, NC (Hybrid)",
       "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Tanium",
-      "title": "Software Engineer II, AI Security",
-      "url": "https://job-boards.greenhouse.io/tanium/jobs/8359784",
-      "location": "Durham, NC (Hybrid)",
-      "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Together AI",
@@ -2174,7 +2212,8 @@
       "url": "https://job-boards.greenhouse.io/togetherai/jobs/5180155007",
       "location": "Bangalore, India",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Together AI",
@@ -2182,7 +2221,8 @@
       "url": "https://job-boards.greenhouse.io/togetherai/jobs/4555544007",
       "location": "Amsterdam ",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Together AI",
@@ -2190,7 +2230,8 @@
       "url": "https://job-boards.greenhouse.io/togetherai/jobs/4385540007",
       "location": "San Francisco ",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Together AI",
@@ -2198,15 +2239,8 @@
       "url": "https://job-boards.greenhouse.io/togetherai/jobs/5199554007",
       "location": "San Francisco",
       "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Together AI",
-      "title": "Systems Research Engineer, GPU Programming",
-      "url": "https://job-boards.greenhouse.io/togetherai/jobs/4188119007",
-      "location": "San Francisco",
-      "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Tripadvisor",
@@ -2214,7 +2248,8 @@
       "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/8222892",
       "location": "UK",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Twilio",
@@ -2222,7 +2257,8 @@
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8258587",
       "location": "Remote - India",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Twilio",
@@ -2230,15 +2266,8 @@
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8240487",
       "location": "Remote - US",
       "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Twitch",
-      "title": "Applied Scientist",
-      "url": "https://job-boards.greenhouse.io/twitch/jobs/8872835002",
-      "location": "San Francisco, CA",
-      "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Vercel",
@@ -2246,7 +2275,8 @@
       "url": "https://job-boards.greenhouse.io/vercel/jobs/6208037004",
       "location": "Hybrid - San Francisco, New York City",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Vercel",
@@ -2254,7 +2284,8 @@
       "url": "https://job-boards.greenhouse.io/vercel/jobs/5798406004",
       "location": "Hybrid - San Francisco",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Waymo",
@@ -2262,7 +2293,8 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8223735",
       "location": "San Francisco, CA, USA",
       "level": "entry",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": true
     },
     {
       "company": "Waymo",
@@ -2270,7 +2302,8 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8287385",
       "location": "Mountain View, CA, USA",
       "level": "entry",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": true
     },
     {
       "company": "Waymo",
@@ -2278,7 +2311,8 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8221795",
       "location": "Mountain View, California, USA",
       "level": "entry",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": true
     },
     {
       "company": "Waymo",
@@ -2286,7 +2320,8 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8233746",
       "location": "Mountain View, CA, USA",
       "level": "entry",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": true
     },
     {
       "company": "Waymo",
@@ -2294,7 +2329,8 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8221851",
       "location": "Mountain View, California, USA",
       "level": "entry",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": true
     },
     {
       "company": "Waymo",
@@ -2302,7 +2338,8 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8212440",
       "location": "Mountain View, CA",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Waymo",
@@ -2310,7 +2347,8 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=7309064",
       "location": "Mountain View, CA USA; San Francisco, CA USA",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Waymo",
@@ -2318,7 +2356,8 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8039191",
       "location": "Mountain View, CA, USA; San Francisco, CA, USA; Pittsburgh, PA, USA",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Waymo",
@@ -2326,7 +2365,8 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8212478",
       "location": "Mountain View, CA, USA; San Francisco, CA, USA",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Waymo",
@@ -2334,7 +2374,8 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=7905643",
       "location": "MountainView, CA, United States  ",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Waymo",
@@ -2342,7 +2383,8 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=6506689",
       "location": "Mountain View, CA, USA; San Francisco, CA, USA",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Waymo",
@@ -2350,7 +2392,8 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=6499165",
       "location": "Mountain View, CA, USA",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Waymo",
@@ -2358,7 +2401,8 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8127006",
       "location": "Mountain View, CA, USA; San Francisco, CA, USA",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Waymo",
@@ -2366,15 +2410,8 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=7698498",
       "location": "Taipei, Taiwan; Hsinchu, Taiwan",
       "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Zoox",
-      "title": "Contract Student Worker – AI Validation and Benchmarking Engineer (40hrs / week Full-Time)",
-      "url": "https://jobs.lever.co/zoox/cc43bf88-ed84-408f-a557-3d1c7263ddff",
-      "location": "Foster City, CA",
-      "level": "entry",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Zoox",
@@ -2382,7 +2419,8 @@
       "url": "https://jobs.lever.co/zoox/2347453a-f11f-4dc2-ad14-572bc1f6247f",
       "location": "Foster City, CA",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Zoox",
@@ -2390,7 +2428,8 @@
       "url": "https://jobs.lever.co/zoox/06f146c2-25f6-40fd-8393-4f92ce518929",
       "location": "Foster City, CA",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Zoox",
@@ -2398,7 +2437,8 @@
       "url": "https://jobs.lever.co/zoox/2d73563c-8039-4d1b-844c-3953259ba6b1",
       "location": "Foster City, CA",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Zoox",
@@ -2406,7 +2446,8 @@
       "url": "https://jobs.lever.co/zoox/9176aa65-14e3-4f9d-98f9-e755e9777d67",
       "location": "Foster City, CA",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Zoox",
@@ -2414,7 +2455,8 @@
       "url": "https://jobs.lever.co/zoox/bc11276c-8db7-426e-9d00-d41c2097723a",
       "location": "Foster City, CA",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Zoox",
@@ -2422,8 +2464,9 @@
       "url": "https://jobs.lever.co/zoox/91ff6263-49fb-421e-860f-36e7b9bae784",
       "location": "Foster City, CA",
       "level": "open",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-21",
+      "phd": false
     }
   ],
-  "generated_at": "2026-11-21T08:17:39+00:00"
+  "generated_at": "2026-11-21T09:00:11+00:00"
 }

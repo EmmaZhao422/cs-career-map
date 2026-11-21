@@ -1,5 +1,5 @@
 {
-  "_comment": "Company job boards to read. 'source' is the hiring system (greenhouse or lever) and 'board' is the company's token in that system's public URL. 'checked' is the date a human or a successful collector run confirmed the token; null means it is a candidate that the next run will confirm or report as not found in data/run_report.json. Add a company by opening a pull request.",
+  "_comment": "Company job boards to read. 'source' is the hiring system (greenhouse or lever) and 'board' is the company's token in that system's public URL. 'checked' is the date a human or a successful collector run confirmed the token; null means it is a candidate that the next run will confirm or report as not found in data/run_report.json. 'misses' counts the runs in a row in which the board was not found; `prune-companies` drops a board at two. Add a company by opening a pull request.",
   "companies": [
     {"name": "Stripe", "source": "greenhouse", "board": "stripe", "checked": "2026-11-21"},
     {"name": "GitLab", "source": "greenhouse", "board": "gitlab", "checked": "2026-11-21"},

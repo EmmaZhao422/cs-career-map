@@ -32,7 +32,7 @@
     "title": "Software Engineer 1 - Cloud Infrastructure",
     "url": "https://abnormal.ai/careers/jobs/8015179003?gh_jid=8015179003",
     "location": "Remote - USA",
-    "level": "open",
+    "level": "entry",
     "posted_at": "2026-10-17T00:06:39-04:00",
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
@@ -56,7 +56,7 @@
     "title": "Software Engineer 1 - Platform & Infrastructure",
     "url": "https://abnormal.ai/careers/jobs/8016870003?gh_jid=8016870003",
     "location": "Hybrid - Bangalore, India",
-    "level": "open",
+    "level": "entry",
     "posted_at": "2026-10-20T02:13:24-04:00",
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
@@ -311,7 +311,7 @@
     "title": "Software Engineer I, Backend (Continuous Delivery)",
     "url": "https://job-boards.greenhouse.io/affirm/jobs/8181183003",
     "location": "Remote US",
-    "level": "open",
+    "level": "entry",
     "posted_at": "2026-11-12T18:15:54-05:00",
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
@@ -333,7 +333,7 @@
     "title": "Software Engineer I, Backend (Continuous Delivery)",
     "url": "https://job-boards.greenhouse.io/affirm/jobs/8181185003",
     "location": "Remote Canada",
-    "level": "open",
+    "level": "entry",
     "posted_at": "2026-11-12T18:15:57-05:00",
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
@@ -355,7 +355,7 @@
     "title": "Software Engineer I, Backend (Streaming Infra)",
     "url": "https://job-boards.greenhouse.io/affirm/jobs/8201469003",
     "location": "Remote US",
-    "level": "open",
+    "level": "entry",
     "posted_at": "2026-11-20T20:09:09-05:00",
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
@@ -378,7 +378,7 @@
     "title": "Software Engineer I, Backend (Streaming Infra)",
     "url": "https://job-boards.greenhouse.io/affirm/jobs/8201471003",
     "location": "Remote Canada",
-    "level": "open",
+    "level": "entry",
     "posted_at": "2026-11-20T20:09:11-05:00",
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
@@ -416,7 +416,7 @@
     "title": "Software Engineer I, Fullstack (Disputes Platform)",
     "url": "https://job-boards.greenhouse.io/affirm/jobs/8196691003",
     "location": "Remote Canada",
-    "level": "open",
+    "level": "entry",
     "posted_at": "2026-11-20T18:50:34-05:00",
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
@@ -435,7 +435,7 @@
     "title": "Software Engineer I, Fullstack (Search)",
     "url": "https://job-boards.greenhouse.io/affirm/jobs/8017340003",
     "location": "Remote US",
-    "level": "open",
+    "level": "entry",
     "posted_at": "2026-10-15T17:31:09-04:00",
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
@@ -454,7 +454,7 @@
     "title": "Software Engineer I, Fullstack (Search)",
     "url": "https://job-boards.greenhouse.io/affirm/jobs/8017342003",
     "location": "Remote Canada",
-    "level": "open",
+    "level": "entry",
     "posted_at": "2026-10-15T17:31:11-04:00",
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
@@ -984,21 +984,6 @@
     ]
   },
   {
-    "key": "greenhouse:andurilindustries:5228868007",
-    "company": "Anduril Industries",
-    "title": "2027 Early Career Flight Software Engineer",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007",
-    "location": "Costa Mesa, California, United States",
-    "level": "entry",
-    "posted_at": "2026-09-02T15:33:53-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "cross-functional"
-    ]
-  },
-  {
     "key": "greenhouse:andurilindustries:5162263007",
     "company": "Anduril Industries",
     "title": "2027 Early Career Software Engineer",
@@ -1035,21 +1020,6 @@
       "go",
       "rust",
       "data-structures-algorithms",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "greenhouse:andurilindustries:5239083007",
-    "company": "Anduril Industries",
-    "title": "2027 Flight Software Engineer Intern",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007",
-    "location": "Costa Mesa, California, United States",
-    "level": "entry",
-    "posted_at": "2026-09-15T15:20:09-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
       "cross-functional"
     ]
   },
@@ -1136,91 +1106,6 @@
       "aws",
       "rest-apis",
       "cross-functional"
-    ]
-  },
-  {
-    "key": "greenhouse:andurilindustries:5206527007",
-    "company": "Anduril Industries",
-    "title": "Embedded Software Engineer, Anti-Tamper",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5206527007?gh_jid=5206527007",
-    "location": "Costa Mesa, California, United States",
-    "level": "open",
-    "posted_at": "2026-08-07T11:55:14-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "cpp",
-      "c-lang",
-      "rust",
-      "operating-systems",
-      "linux"
-    ]
-  },
-  {
-    "key": "greenhouse:andurilindustries:5178470007",
-    "company": "Anduril Industries",
-    "title": "Embedded Software Engineer, EW",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5178470007?gh_jid=5178470007",
-    "location": "Costa Mesa, California, United States",
-    "level": "open",
-    "posted_at": "2026-07-01T16:19:17-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "rust",
-      "linux"
-    ]
-  },
-  {
-    "key": "greenhouse:andurilindustries:5102166007",
-    "company": "Anduril Industries",
-    "title": "Flight Software Engineer",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5102166007?gh_jid=5102166007",
-    "location": "Costa Mesa, California, United States",
-    "level": "open",
-    "posted_at": "2026-04-08T09:32:01-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "cpp",
-      "rust",
-      "system-design",
-      "linux",
-      "rest-apis"
-    ]
-  },
-  {
-    "key": "greenhouse:andurilindustries:4164476007",
-    "company": "Anduril Industries",
-    "title": "Flight Software Engineer, Embedded C/C++, Air Dominance & Strike",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/4164476007?gh_jid=4164476007",
-    "location": "Costa Mesa, California, United States",
-    "level": "open",
-    "posted_at": "2023-12-07T17:58:50-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "cpp",
-      "c-lang",
-      "system-design",
-      "rest-apis"
-    ]
-  },
-  {
-    "key": "greenhouse:andurilindustries:5035788007",
-    "company": "Anduril Industries",
-    "title": "Flight Software Engineer, Embedded C/C++, Air Dominance & Strike - Missiles",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5035788007?gh_jid=5035788007",
-    "location": "Costa Mesa, California, United States",
-    "level": "open",
-    "posted_at": "2026-01-27T19:39:36-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "cpp",
-      "c-lang",
-      "system-design",
-      "rest-apis"
     ]
   },
   {
@@ -3548,24 +3433,6 @@
     ]
   },
   {
-    "key": "greenhouse:anthropic:5386971008",
-    "company": "Anthropic",
-    "title": "Front End Engineer, Marketing",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5386971008",
-    "location": "San Francisco, CA | New York City, NY",
-    "level": "open",
-    "posted_at": "2026-08-18T18:33:12-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "html-css",
-      "react",
-      "nextjs",
-      "data-visualization",
-      "communication"
-    ]
-  },
-  {
     "key": "greenhouse:anthropic:5456018008",
     "company": "Anthropic",
     "title": "IT Systems Engineer, Client Platform Engineer, ChromeOS",
@@ -5344,7 +5211,7 @@
     "title": "Software Engineer-1, Money Movement",
     "url": "https://www.coinbase.com/careers/positions/8278991?gh_jid=8278991",
     "location": "Remote - USA",
-    "level": "open",
+    "level": "entry",
     "posted_at": "2026-11-09T14:43:45-05:00",
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
@@ -5375,48 +5242,6 @@
       "ci-cd",
       "data-warehouse",
       "data-pipelines",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "greenhouse:contentful:8356206",
-    "company": "Contentful",
-    "title": "Demo Software Engineer (f/m/d)",
-    "url": "https://job-boards.greenhouse.io/contentful/jobs/8356206",
-    "location": "London, England, United Kingdom",
-    "level": "open",
-    "posted_at": "2026-11-09T13:05:33-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "javascript",
-      "typescript",
-      "ci-cd",
-      "react",
-      "rest-apis",
-      "graphql",
-      "communication",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "greenhouse:contentful:8356240",
-    "company": "Contentful",
-    "title": "Demo Software Engineer (f/m/d)",
-    "url": "https://job-boards.greenhouse.io/contentful/jobs/8356240",
-    "location": "Dublin, Ireland",
-    "level": "open",
-    "posted_at": "2026-11-09T13:05:36-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "javascript",
-      "typescript",
-      "ci-cd",
-      "react",
-      "rest-apis",
-      "graphql",
-      "communication",
       "cross-functional"
     ]
   },
@@ -6042,23 +5867,6 @@
       "git",
       "linux",
       "communication"
-    ]
-  },
-  {
-    "key": "greenhouse:doordashusa:8122134",
-    "company": "DoorDash USA",
-    "title": "Embedded Software Engineer (Firmware) - DoorDash Air",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8122134",
-    "location": "San Francisco, CA",
-    "level": "open",
-    "posted_at": "2026-08-11T13:27:04-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "cpp",
-      "c-lang",
-      "oop",
-      "linux"
     ]
   },
   {
@@ -6880,7 +6688,7 @@
     "title": "Software Engineer Grad 2027",
     "url": "https://job-boards.greenhouse.io/purestorage/jobs/8249851",
     "location": "Santa Clara, California",
-    "level": "open",
+    "level": "entry",
     "posted_at": "2026-10-06T12:14:27-04:00",
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
@@ -7339,7 +7147,7 @@
     "title": "Software Engineer I",
     "url": "https://job-boards.greenhouse.io/flexport/jobs/7978127",
     "location": "Shanghai, China",
-    "level": "open",
+    "level": "entry",
     "posted_at": "2026-06-03T03:43:50-04:00",
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
@@ -7460,7 +7268,7 @@
     "title": "Software Engineer Ⅰ",
     "url": "https://job-boards.greenhouse.io/flexport/jobs/7978696",
     "location": "Shenzhen, China",
-    "level": "open",
+    "level": "entry",
     "posted_at": "2026-06-03T04:51:54-04:00",
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
@@ -8077,22 +7885,6 @@
     ]
   },
   {
-    "key": "greenhouse:lucidmotors:5290911007",
-    "company": "Lucid Motors",
-    "title": "Intern, Software Engineer, SDET, Summer 2027",
-    "url": "https://lucidmotors.com/careers/search/5290911007?gh_jid=5290911007",
-    "location": "Newark, CA",
-    "level": "entry",
-    "posted_at": "2026-11-19T17:57:36-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "networking",
-      "communication"
-    ]
-  },
-  {
     "key": "greenhouse:lucidmotors:5242880007",
     "company": "Lucid Motors",
     "title": "Perception Software Engineer, Autonomous Driving",
@@ -8524,24 +8316,6 @@
       "kafka",
       "dashboards",
       "communication"
-    ]
-  },
-  {
-    "key": "greenhouse:natera:6209754004",
-    "company": "Natera",
-    "title": "Salesforce Software Engineer",
-    "url": "https://job-boards.greenhouse.io/natera/jobs/6209754004",
-    "location": "Austin, TX",
-    "level": "open",
-    "posted_at": "2026-09-29T14:18:51-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "aws",
-      "rest-apis",
-      "data-modeling",
-      "machine-learning",
-      "cross-functional"
     ]
   },
   {
@@ -9104,22 +8878,6 @@
       "azure",
       "rest-apis",
       "cross-functional"
-    ]
-  },
-  {
-    "key": "greenhouse:nuro:8180955",
-    "company": "Nuro",
-    "title": "Embedded Software Engineer",
-    "url": "https://nuro.ai/careersitem?gh_jid=8180955",
-    "location": "Mountain View, California (HQ)",
-    "level": "open",
-    "posted_at": "2026-09-22T16:51:43-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "data-structures-algorithms",
-      "concurrency",
-      "testing"
     ]
   },
   {
@@ -11356,27 +11114,6 @@
     ]
   },
   {
-    "key": "greenhouse:relativity:8945929002",
-    "company": "Relativity Space",
-    "title": "Flight Software Engineer II",
-    "url": "https://boards.greenhouse.io/relativity/jobs/8945929002?gh_jid=8945929002",
-    "location": "Long Beach, California, United States",
-    "level": "open",
-    "posted_at": "2026-11-16T18:50:32-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "cpp",
-      "rust",
-      "data-structures-algorithms",
-      "operating-systems",
-      "networking",
-      "git",
-      "linux",
-      "ci-cd"
-    ]
-  },
-  {
     "key": "greenhouse:relativity:8608644002",
     "company": "Relativity Space",
     "title": "Infrastructure Engineer II",
@@ -11394,7 +11131,7 @@
     "title": "Software Engineer I (Factory Platform)",
     "url": "https://boards.greenhouse.io/relativity/jobs/8949325002?gh_jid=8949325002",
     "location": "Long Beach, California, United States",
-    "level": "open",
+    "level": "entry",
     "posted_at": "2026-11-17T18:22:33-05:00",
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
@@ -11457,69 +11194,6 @@
       "python",
       "cpp",
       "testing"
-    ]
-  },
-  {
-    "key": "greenhouse:riotgames:7271179",
-    "company": "Riot Games",
-    "title": "Software Engineer, Gameplay - Unpublished R&D Product (Contract)",
-    "url": "https://www.riotgames.com/en/work-with-us/job/7271179?gh_jid=7271179",
-    "location": "Shanghai, China",
-    "level": "open",
-    "posted_at": "2025-09-23T22:09:31-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "cpp",
-      "c-sharp"
-    ]
-  },
-  {
-    "key": "greenhouse:riotgames:7449571",
-    "company": "Riot Games",
-    "title": "Software Engineer, Gameplay - Unpublished R&D Product (Contract)",
-    "url": "https://www.riotgames.com/en/work-with-us/job/7449571?gh_jid=7449571",
-    "location": "Guangzhou, China",
-    "level": "open",
-    "posted_at": "2025-12-07T22:51:31-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "cpp"
-    ]
-  },
-  {
-    "key": "greenhouse:riotgames:7449588",
-    "company": "Riot Games",
-    "title": "Software Engineer, Services - Unpublished R&D Product (Contract)",
-    "url": "https://www.riotgames.com/en/work-with-us/job/7449588?gh_jid=7449588",
-    "location": "Guangzhou, China",
-    "level": "open",
-    "posted_at": "2025-12-07T22:50:54-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "java",
-      "cpp",
-      "go"
-    ]
-  },
-  {
-    "key": "greenhouse:riotgames:7786020",
-    "company": "Riot Games",
-    "title": "Software Engineer, Services - Unpublished R&D Product (Contract)",
-    "url": "https://www.riotgames.com/en/work-with-us/job/7786020?gh_jid=7786020",
-    "location": "Shanghai, China",
-    "level": "open",
-    "posted_at": "2026-04-08T09:40:44-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "java",
-      "cpp",
-      "go",
-      "docker",
-      "ci-cd"
     ]
   },
   {
@@ -13045,7 +12719,7 @@
     "title": "Software Engineer I (Remote Eligible)",
     "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8347710",
     "location": " -REMOTE, USA-",
-    "level": "open",
+    "level": "entry",
     "posted_at": "2026-11-02T15:37:51-05:00",
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
@@ -13203,6 +12877,50 @@
     "skills": [
       "cpp",
       "linux"
+    ]
+  },
+  {
+    "key": "greenhouse:spacex:8880556002",
+    "company": "SpaceX",
+    "title": "AI Security Software Engineer (Starshield)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8880556002?gh_jid=8880556002",
+    "location": "Hawthorne, CA",
+    "level": "open",
+    "posted_at": "2026-10-08T18:49:17-04:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "python",
+      "cpp",
+      "go",
+      "system-design",
+      "kubernetes",
+      "data-modeling",
+      "machine-learning",
+      "prompt-engineering",
+      "communication"
+    ]
+  },
+  {
+    "key": "greenhouse:spacex:8880570002",
+    "company": "SpaceX",
+    "title": "AI Security Software Engineer (Starshield)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8880570002?gh_jid=8880570002",
+    "location": "Washington, DC",
+    "level": "open",
+    "posted_at": "2026-10-08T18:49:20-04:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "python",
+      "cpp",
+      "go",
+      "system-design",
+      "kubernetes",
+      "data-modeling",
+      "machine-learning",
+      "prompt-engineering",
+      "communication"
     ]
   },
   {
@@ -13589,156 +13307,6 @@
     ]
   },
   {
-    "key": "greenhouse:spacex:8706480002",
-    "company": "SpaceX",
-    "title": "Embedded Software Engineer (Starlink)",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8706480002?gh_jid=8706480002",
-    "location": "Bastrop, TX",
-    "level": "open",
-    "posted_at": "2026-08-31T11:00:19-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "cpp",
-      "c-lang",
-      "go",
-      "rust",
-      "networking",
-      "distributed-systems",
-      "linux",
-      "ci-cd"
-    ]
-  },
-  {
-    "key": "greenhouse:spacex:8871006002",
-    "company": "SpaceX",
-    "title": "Embedded Software Engineer, Data Center Engineering (Starmind)",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8871006002?gh_jid=8871006002",
-    "location": "Bastrop, TX",
-    "level": "open",
-    "posted_at": "2026-10-06T12:06:37-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "cpp",
-      "c-lang",
-      "networking",
-      "distributed-systems",
-      "linux",
-      "ci-cd",
-      "communication"
-    ]
-  },
-  {
-    "key": "greenhouse:spacex:8849599002",
-    "company": "SpaceX",
-    "title": "Embedded Software Engineer, Laser Mesh Routing (Starlink)",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8849599002?gh_jid=8849599002",
-    "location": "Redmond, WA",
-    "level": "open",
-    "posted_at": "2026-10-22T12:15:36-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "cpp",
-      "c-lang",
-      "networking",
-      "linux"
-    ]
-  },
-  {
-    "key": "greenhouse:spacex:8852117002",
-    "company": "SpaceX",
-    "title": "Embedded Software Engineer, Laser Mesh Routing (Starlink)",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8852117002?gh_jid=8852117002",
-    "location": "Palo Alto, CA",
-    "level": "open",
-    "posted_at": "2026-10-22T12:15:37-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "cpp",
-      "c-lang",
-      "networking",
-      "linux"
-    ]
-  },
-  {
-    "key": "greenhouse:spacex:8852118002",
-    "company": "SpaceX",
-    "title": "Embedded Software Engineer, Laser Mesh Routing (Starlink)",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8852118002?gh_jid=8852118002",
-    "location": "Bellevue, WA",
-    "level": "open",
-    "posted_at": "2026-10-22T12:15:39-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "cpp",
-      "c-lang",
-      "networking",
-      "linux"
-    ]
-  },
-  {
-    "key": "greenhouse:spacex:8752935002",
-    "company": "SpaceX",
-    "title": "Embedded Software Engineer, OS/Platform  (Starlink)",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8752935002?gh_jid=8752935002",
-    "location": "Redmond, WA",
-    "level": "open",
-    "posted_at": "2026-08-27T11:14:20-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "cpp",
-      "c-lang",
-      "networking",
-      "testing",
-      "linux",
-      "ci-cd",
-      "communication"
-    ]
-  },
-  {
-    "key": "greenhouse:spacex:8880385002",
-    "company": "SpaceX",
-    "title": "Embedded Software Engineer, Platform (Starshield)",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8880385002?gh_jid=8880385002",
-    "location": "Hawthorne, CA",
-    "level": "open",
-    "posted_at": "2026-10-08T18:47:22-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "cpp",
-      "c-lang",
-      "rust",
-      "linux",
-      "ci-cd"
-    ]
-  },
-  {
-    "key": "greenhouse:spacex:8925605002",
-    "company": "SpaceX",
-    "title": "Embedded Software Engineer, Satellite Antenna (Starlink)",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8925605002?gh_jid=8925605002",
-    "location": "Redmond, WA",
-    "level": "open",
-    "posted_at": "2026-11-03T17:32:39-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "cpp",
-      "c-lang",
-      "rust",
-      "ci-cd",
-      "communication"
-    ]
-  },
-  {
     "key": "greenhouse:spacex:8574053002",
     "company": "SpaceX",
     "title": "Factory Software Engineer (Starlink)",
@@ -13756,26 +13324,6 @@
       "networking",
       "distributed-systems",
       "ci-cd"
-    ]
-  },
-  {
-    "key": "greenhouse:spacex:8692260002",
-    "company": "SpaceX",
-    "title": "Flight Software Infrastructure Engineer (Starlink)",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8692260002?gh_jid=8692260002",
-    "location": "Redmond, WA",
-    "level": "open",
-    "posted_at": "2026-08-11T17:49:07-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "cpp",
-      "c-lang",
-      "git",
-      "linux",
-      "ci-cd",
-      "communication"
     ]
   },
   {
@@ -14802,26 +14350,6 @@
     ]
   },
   {
-    "key": "greenhouse:spacex:8692268002",
-    "company": "SpaceX",
-    "title": "Platform Engineer, Flight Software (Starlink)",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8692268002?gh_jid=8692268002",
-    "location": "Redmond, WA",
-    "level": "open",
-    "posted_at": "2026-08-11T17:49:08-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "cpp",
-      "c-lang",
-      "git",
-      "linux",
-      "ci-cd",
-      "communication"
-    ]
-  },
-  {
     "key": "greenhouse:spacex:8927858002",
     "company": "SpaceX",
     "title": "Propulsion Software Engineer (Falcon Engineering)",
@@ -14851,66 +14379,6 @@
       "llm",
       "rag",
       "agents"
-    ]
-  },
-  {
-    "key": "greenhouse:spacex:8856971002",
-    "company": "SpaceX",
-    "title": "RF Silicon Software Engineer (RFIC Engineering)",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8856971002?gh_jid=8856971002",
-    "location": "Redmond, WA",
-    "level": "open",
-    "posted_at": "2026-09-30T14:35:41-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "cpp",
-      "c-lang",
-      "testing",
-      "communication"
-    ]
-  },
-  {
-    "key": "greenhouse:spacex:8624761002",
-    "company": "SpaceX",
-    "title": "RF Software Engineer (Starlink)",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8624761002?gh_jid=8624761002",
-    "location": "Bastrop, TX",
-    "level": "open",
-    "posted_at": "2026-07-09T23:57:51-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "cpp",
-      "c-lang",
-      "oop",
-      "operating-systems",
-      "system-design",
-      "git",
-      "linux"
-    ]
-  },
-  {
-    "key": "greenhouse:spacex:8937195002",
-    "company": "SpaceX",
-    "title": "RF Software Engineer (Starshield)",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8937195002?gh_jid=8937195002",
-    "location": "Hawthorne, CA",
-    "level": "open",
-    "posted_at": "2026-11-12T14:59:08-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "cpp",
-      "c-lang",
-      "oop",
-      "operating-systems",
-      "system-design",
-      "git",
-      "linux"
     ]
   },
   {
@@ -16259,65 +15727,6 @@
     ]
   },
   {
-    "key": "greenhouse:spacex:8752598002",
-    "company": "SpaceX",
-    "title": "Software Engineer, Embedded Software (Starlink)",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8752598002?gh_jid=8752598002",
-    "location": "Redmond, WA",
-    "level": "open",
-    "posted_at": "2026-08-26T18:35:05-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "cpp",
-      "c-lang",
-      "testing",
-      "linux",
-      "communication"
-    ]
-  },
-  {
-    "key": "greenhouse:spacex:8752581002",
-    "company": "SpaceX",
-    "title": "Software Engineer, Flight Software (Starlink)",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8752581002?gh_jid=8752581002",
-    "location": "Redmond, WA",
-    "level": "open",
-    "posted_at": "2026-08-26T18:35:07-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "cpp",
-      "c-lang",
-      "testing",
-      "linux",
-      "communication"
-    ]
-  },
-  {
-    "key": "greenhouse:spacex:8593183002",
-    "company": "SpaceX",
-    "title": "Software Engineer, Flight Software C++ (Starshield)",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8593183002?gh_jid=8593183002",
-    "location": "Hawthorne, CA",
-    "level": "open",
-    "posted_at": "2026-06-15T20:03:24-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "sql",
-      "cpp",
-      "c-lang",
-      "rust",
-      "linux",
-      "docker",
-      "kubernetes",
-      "communication"
-    ]
-  },
-  {
     "key": "greenhouse:spacex:8927919002",
     "company": "SpaceX",
     "title": "Software Engineer, Full Stack (Data & Video Analysis)",
@@ -17073,26 +16482,6 @@
       "ci-cd",
       "terraform",
       "data-modeling"
-    ]
-  },
-  {
-    "key": "greenhouse:spacex:8692270002",
-    "company": "SpaceX",
-    "title": "Software Infrastructure Engineer, Flight Software (Starlink)",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8692270002?gh_jid=8692270002",
-    "location": "Redmond, WA",
-    "level": "open",
-    "posted_at": "2026-08-11T17:49:09-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "cpp",
-      "c-lang",
-      "git",
-      "linux",
-      "ci-cd",
-      "communication"
     ]
   },
   {
@@ -18834,6 +18223,39 @@
     ]
   },
   {
+    "key": "greenhouse:tanium:8359784",
+    "company": "Tanium",
+    "title": "Software Engineer II, AI Security",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8359784",
+    "location": "Durham, NC (Hybrid)",
+    "level": "open",
+    "posted_at": "2026-11-06T14:20:43-05:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "python",
+      "sql",
+      "javascript",
+      "typescript",
+      "go",
+      "rust",
+      "ruby",
+      "distributed-systems",
+      "testing",
+      "git",
+      "ci-cd",
+      "react",
+      "nodejs",
+      "rest-apis",
+      "graphql",
+      "data-pipelines",
+      "dashboards",
+      "llm",
+      "rag",
+      "agents"
+    ]
+  },
+  {
     "key": "greenhouse:toast:8038744",
     "company": "Toast",
     "title": "Android Software Engineer",
@@ -19059,7 +18481,7 @@
     "title": "Software Engineer I - Community Growth",
     "url": "https://job-boards.greenhouse.io/twitch/jobs/8879673002",
     "location": "San Francisco, CA",
-    "level": "open",
+    "level": "entry",
     "posted_at": "2026-10-08T14:09:39-04:00",
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
@@ -19076,7 +18498,7 @@
     "title": "Software Engineer I - Engagement Growth",
     "url": "https://job-boards.greenhouse.io/twitch/jobs/8906750002",
     "location": "Seattle, WA",
-    "level": "open",
+    "level": "entry",
     "posted_at": "2026-10-21T16:56:21-04:00",
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
@@ -19100,7 +18522,7 @@
     "title": "Software Engineer I - Engagement Growth",
     "url": "https://job-boards.greenhouse.io/twitch/jobs/8917377002",
     "location": "San Francisco, CA",
-    "level": "open",
+    "level": "entry",
     "posted_at": "2026-10-26T13:09:20-04:00",
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
@@ -19121,7 +18543,7 @@
     "title": "Software Engineer I, Commerce",
     "url": "https://job-boards.greenhouse.io/twitch/jobs/8934067002",
     "location": "San Francisco, CA",
-    "level": "open",
+    "level": "entry",
     "posted_at": "2026-11-11T13:39:50-05:00",
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
@@ -19141,7 +18563,7 @@
     "title": "Software Engineer I, Commerce",
     "url": "https://job-boards.greenhouse.io/twitch/jobs/8949388002",
     "location": "Seattle, WA",
-    "level": "open",
+    "level": "entry",
     "posted_at": "2026-11-17T19:30:12-05:00",
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
@@ -19161,7 +18583,7 @@
     "title": "Software Engineer I, Payments",
     "url": "https://job-boards.greenhouse.io/twitch/jobs/8700578002",
     "location": "San Francisco, CA",
-    "level": "open",
+    "level": "entry",
     "posted_at": "2026-08-14T16:13:21-04:00",
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
@@ -19181,7 +18603,7 @@
     "title": "Software Engineer I, Payments",
     "url": "https://job-boards.greenhouse.io/twitch/jobs/8943553002",
     "location": "San Francisco, CA",
-    "level": "open",
+    "level": "entry",
     "posted_at": "2026-11-13T18:16:21-05:00",
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
@@ -19713,46 +19135,6 @@
     ]
   },
   {
-    "key": "greenhouse:verkada:5233102007",
-    "company": "Verkada",
-    "title": "Embedded Software Engineer - Access Control",
-    "url": "https://job-boards.greenhouse.io/verkada/jobs/5233102007",
-    "location": "San Mateo, CA United States",
-    "level": "open",
-    "posted_at": "2026-09-08T22:42:04-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "cpp",
-      "c-lang",
-      "go",
-      "operating-systems",
-      "distributed-systems",
-      "linux"
-    ]
-  },
-  {
-    "key": "greenhouse:verkada:5194716007",
-    "company": "Verkada",
-    "title": "Embedded Software Engineer, Access Control",
-    "url": "https://job-boards.greenhouse.io/verkada/jobs/5194716007",
-    "location": "San Mateo, CA United States",
-    "level": "open",
-    "posted_at": "2026-07-23T19:42:32-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "cpp",
-      "c-lang",
-      "go",
-      "operating-systems",
-      "distributed-systems",
-      "linux"
-    ]
-  },
-  {
     "key": "greenhouse:verkada:5101666007",
     "company": "Verkada",
     "title": "Full Stack Engineer, Business Systems",
@@ -19791,24 +19173,6 @@
       "distributed-systems",
       "linux",
       "aws"
-    ]
-  },
-  {
-    "key": "greenhouse:verkada:4134153007",
-    "company": "Verkada",
-    "title": "Linux Embedded Software Engineer",
-    "url": "https://job-boards.greenhouse.io/verkada/jobs/4134153007",
-    "location": "Poland",
-    "level": "open",
-    "posted_at": "2023-11-10T11:21:42-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "cpp",
-      "rust",
-      "git",
-      "linux"
     ]
   },
   {
@@ -20244,151 +19608,6 @@
     ]
   },
   {
-    "key": "lever:zoox:116fa648-0397-47b5-a7ab-08d7f96594b3",
-    "company": "Zoox",
-    "title": "Contract Student Worker - Software Engineer (20/hrs week)",
-    "url": "https://jobs.lever.co/zoox/116fa648-0397-47b5-a7ab-08d7f96594b3",
-    "location": "Foster City, CA",
-    "level": "entry",
-    "posted_at": "2026-11-11T21:48:33+00:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "javascript",
-      "git",
-      "html-css",
-      "rest-apis",
-      "dashboards",
-      "data-visualization",
-      "communication"
-    ]
-  },
-  {
-    "key": "lever:zoox:839d987e-2236-4efe-8753-ee208b8d4e29",
-    "company": "Zoox",
-    "title": "Contract Student Worker - Software Engineer (40hrs/wk)",
-    "url": "https://jobs.lever.co/zoox/839d987e-2236-4efe-8753-ee208b8d4e29",
-    "location": "Foster City, CA",
-    "level": "entry",
-    "posted_at": "2026-11-13T19:58:48+00:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "cpp"
-    ]
-  },
-  {
-    "key": "lever:zoox:895ed1fe-9547-40d1-aec5-ffed2a2f82e3",
-    "company": "Zoox",
-    "title": "Contract Student Worker- Software Engineer Mobile Developer Experience",
-    "url": "https://jobs.lever.co/zoox/895ed1fe-9547-40d1-aec5-ffed2a2f82e3",
-    "location": "Foster City, CA",
-    "level": "entry",
-    "posted_at": "2026-11-13T20:12:09+00:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "typescript",
-      "kotlin",
-      "swift",
-      "ruby",
-      "testing",
-      "git",
-      "linux",
-      "ci-cd",
-      "dashboards"
-    ]
-  },
-  {
-    "key": "lever:zoox:ea3fbfaf-588b-434a-9a5a-c61edc731a40",
-    "company": "Zoox",
-    "title": "Embedded Software Engineer",
-    "url": "https://jobs.lever.co/zoox/ea3fbfaf-588b-434a-9a5a-c61edc731a40",
-    "location": "Foster City, CA",
-    "level": "open",
-    "posted_at": "2026-08-31T20:41:39+00:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "cpp",
-      "c-lang",
-      "operating-systems"
-    ]
-  },
-  {
-    "key": "lever:zoox:082ed20c-b8e1-4b1c-9c22-4738ad94055d",
-    "company": "Zoox",
-    "title": "Embedded Software Engineer - Battery Management Systems",
-    "url": "https://jobs.lever.co/zoox/082ed20c-b8e1-4b1c-9c22-4738ad94055d",
-    "location": "San Diego, CA",
-    "level": "open",
-    "posted_at": "2026-08-06T20:23:52+00:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "cpp",
-      "c-lang",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "lever:zoox:46c23963-2be1-4037-8f1a-ce87bdccde6d",
-    "company": "Zoox",
-    "title": "Embedded Software Engineer - Body Systems",
-    "url": "https://jobs.lever.co/zoox/46c23963-2be1-4037-8f1a-ce87bdccde6d",
-    "location": "Foster City, CA",
-    "level": "open",
-    "posted_at": "2026-08-06T20:51:11+00:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "cpp",
-      "c-lang",
-      "oop",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "lever:zoox:b1bba11f-2b04-4a4a-8095-752c04182af1",
-    "company": "Zoox",
-    "title": "Embedded Software Engineer - Power Systems",
-    "url": "https://jobs.lever.co/zoox/b1bba11f-2b04-4a4a-8095-752c04182af1",
-    "location": "San Diego, CA",
-    "level": "open",
-    "posted_at": "2026-07-14T20:12:03+00:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "cpp",
-      "c-lang",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "lever:zoox:7522162e-a518-444e-8fe7-49b8b45bbdd3",
-    "company": "Zoox",
-    "title": "Embedded Software Engineer, Wireless Technologies",
-    "url": "https://jobs.lever.co/zoox/7522162e-a518-444e-8fe7-49b8b45bbdd3",
-    "location": "Foster City, CA",
-    "level": "open",
-    "posted_at": "2026-08-26T20:04:06+00:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "cpp",
-      "c-lang",
-      "data-structures-algorithms",
-      "networking",
-      "linux",
-      "communication"
-    ]
-  },
-  {
     "key": "lever:zoox:b7c1a78f-43b9-4142-bd71-97022a760750",
     "company": "Zoox",
     "title": "Software Engineer - Behavior Capabilities",
@@ -20434,28 +19653,6 @@
     "skills": [
       "cpp",
       "machine-learning",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "lever:zoox:63307a27-f2b1-43dc-8e78-a2e09d0eba2b",
-    "company": "Zoox",
-    "title": "Software Engineer - Embedded Linux Operating Systems",
-    "url": "https://jobs.lever.co/zoox/63307a27-f2b1-43dc-8e78-a2e09d0eba2b",
-    "location": "Foster City, CA",
-    "level": "open",
-    "posted_at": "2026-09-29T17:32:13+00:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "cpp",
-      "c-lang",
-      "rust",
-      "operating-systems",
-      "linux",
-      "docker",
-      "communication",
       "cross-functional"
     ]
   },

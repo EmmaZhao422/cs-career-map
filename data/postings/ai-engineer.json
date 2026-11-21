@@ -5,7 +5,7 @@
     "title": "Machine Learning Engineer 1",
     "url": "https://abnormal.ai/careers/jobs/8002099003?gh_jid=8002099003",
     "location": "Remote - Singapore",
-    "level": "open",
+    "level": "entry",
     "posted_at": "2026-10-27T00:50:30-04:00",
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
@@ -282,26 +282,6 @@
     ]
   },
   {
-    "key": "greenhouse:andurilindustries:5265127007",
-    "company": "Anduril Industries",
-    "title": "Winter 2027 Research Engineer Co-op",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265127007?gh_jid=5265127007",
-    "location": "Santa Ana, California, United States",
-    "level": "entry",
-    "posted_at": "2026-10-14T18:08:08-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "cpp",
-      "data-structures-algorithms",
-      "concurrency",
-      "ci-cd",
-      "dashboards",
-      "pandas"
-    ]
-  },
-  {
     "key": "greenhouse:anthropic:4610158008",
     "company": "Anthropic",
     "title": "[Expression of Interest] Research Engineer / Scientist, Alignment - London",
@@ -545,23 +525,6 @@
     ]
   },
   {
-    "key": "greenhouse:anthropic:5468939008",
-    "company": "Anthropic",
-    "title": "Applied Scientist, Engineering",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468939008",
-    "location": "San Francisco, CA",
-    "level": "open",
-    "posted_at": "2026-11-05T12:22:17-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "data-pipelines",
-      "machine-learning",
-      "cross-functional"
-    ]
-  },
-  {
     "key": "greenhouse:anthropic:5364804008",
     "company": "Anthropic",
     "title": "Machine Learning Infrastructure Engineer, Safeguards Research",
@@ -646,25 +609,6 @@
     ]
   },
   {
-    "key": "greenhouse:anthropic:4951814008",
-    "company": "Anthropic",
-    "title": "Research Engineer / Research Scientist, Tokens",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4951814008",
-    "location": "New York City, NY; New York City, NY | Seattle, WA; San Francisco, CA",
-    "level": "open",
-    "posted_at": "2025-10-10T13:58:48-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "operating-systems",
-      "kubernetes",
-      "data-pipelines",
-      "machine-learning",
-      "deep-learning",
-      "pytorch"
-    ]
-  },
-  {
     "key": "greenhouse:anthropic:4631822008",
     "company": "Anthropic",
     "title": "Research Engineer / Scientist, Alignment",
@@ -723,24 +667,6 @@
       "fine-tuning",
       "model-evaluation",
       "communication"
-    ]
-  },
-  {
-    "key": "greenhouse:anthropic:5485188008",
-    "company": "Anthropic",
-    "title": "Research Engineer, Beneficial Deployments",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5485188008",
-    "location": "San Francisco, CA",
-    "level": "open",
-    "posted_at": "2026-11-20T11:38:57-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "data-pipelines",
-      "machine-learning",
-      "llm",
-      "fine-tuning",
-      "model-evaluation"
     ]
   },
   {
@@ -830,31 +756,6 @@
     ]
   },
   {
-    "key": "greenhouse:anthropic:4669581008",
-    "company": "Anthropic",
-    "title": "Research Engineer, Discovery",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4669581008",
-    "location": "San Francisco, CA",
-    "level": "open",
-    "posted_at": "2025-05-14T14:47:55-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "distributed-systems",
-      "docker",
-      "kubernetes",
-      "aws",
-      "gcp",
-      "spark",
-      "data-pipelines",
-      "machine-learning",
-      "pytorch",
-      "tensorflow",
-      "model-evaluation",
-      "mlops"
-    ]
-  },
-  {
     "key": "greenhouse:anthropic:4980430008",
     "company": "Anthropic",
     "title": "Research Engineer, Interpretability",
@@ -876,49 +777,6 @@
       "tensorflow",
       "llm",
       "mlops"
-    ]
-  },
-  {
-    "key": "greenhouse:anthropic:4017331008",
-    "company": "Anthropic",
-    "title": "Research Engineer, Knowledge Team",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4017331008",
-    "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
-    "level": "open",
-    "posted_at": "2024-04-23T16:06:05-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "machine-learning",
-      "llm",
-      "rag",
-      "agents",
-      "fine-tuning",
-      "model-evaluation",
-      "communication"
-    ]
-  },
-  {
-    "key": "greenhouse:anthropic:5265365008",
-    "company": "Anthropic",
-    "title": "Research Engineer, Life Sciences",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5265365008",
-    "location": "San Francisco, CA",
-    "level": "open",
-    "posted_at": "2026-07-03T10:01:13-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "docker",
-      "kubernetes",
-      "data-pipelines",
-      "machine-learning",
-      "llm",
-      "model-evaluation",
-      "communication",
-      "cross-functional"
     ]
   },
   {
@@ -1159,50 +1017,6 @@
     ]
   },
   {
-    "key": "greenhouse:anthropic:5074217008",
-    "company": "Anthropic",
-    "title": "Research Engineer, Visual Knowledge Work",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5074217008",
-    "location": "New York City, NY; San Francisco, CA; Seattle, WA",
-    "level": "open",
-    "posted_at": "2026-01-16T17:41:39-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "data-pipelines",
-      "machine-learning",
-      "deep-learning",
-      "llm",
-      "agents",
-      "fine-tuning",
-      "model-evaluation",
-      "computer-vision"
-    ]
-  },
-  {
-    "key": "greenhouse:anthropic:5458420008",
-    "company": "Anthropic",
-    "title": "Security Engineer / Research Engineer, RL Security",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5458420008",
-    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-    "level": "open",
-    "posted_at": "2026-10-20T19:17:54-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "cpp",
-      "rust",
-      "distributed-systems",
-      "linux",
-      "docker",
-      "kubernetes",
-      "machine-learning",
-      "llm",
-      "mlops"
-    ]
-  },
-  {
     "key": "greenhouse:asana:7962306",
     "company": "Asana",
     "title": "Software Engineer, AI",
@@ -1383,26 +1197,6 @@
     ]
   },
   {
-    "key": "greenhouse:cloudflare:8097321",
-    "company": "Cloudflare",
-    "title": "AI Security Research & Red Team Engineer",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/8097321?gh_jid=8097321",
-    "location": "Hybrid",
-    "level": "open",
-    "posted_at": "2026-08-10T11:02:09-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "aws",
-      "gcp",
-      "llm",
-      "prompt-engineering",
-      "agents",
-      "communication",
-      "cross-functional"
-    ]
-  },
-  {
     "key": "greenhouse:coinbase:7985187",
     "company": "Coinbase",
     "title": "Machine Learning Engineer",
@@ -1488,27 +1282,6 @@
       "agents",
       "fine-tuning",
       "cross-functional"
-    ]
-  },
-  {
-    "key": "greenhouse:cresta:5476118008",
-    "company": "Cresta",
-    "title": "AI Growth Engineer",
-    "url": "https://job-boards.greenhouse.io/cresta/jobs/5476118008",
-    "location": "United States (Remote)",
-    "level": "open",
-    "posted_at": "2026-11-06T18:17:56-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "typescript",
-      "rest-apis",
-      "machine-learning",
-      "llm",
-      "prompt-engineering",
-      "rag",
-      "agents"
     ]
   },
   {
@@ -2081,27 +1854,6 @@
     ]
   },
   {
-    "key": "greenhouse:instacart:8403432",
-    "company": "Instacart",
-    "title": "Applied Scientist II - Advertiser Optimization",
-    "url": "https://instacart.careers/job/?gh_jid=8403432",
-    "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-    "level": "open",
-    "posted_at": "2026-11-19T15:24:42-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "sql",
-      "data-pipelines",
-      "statistics",
-      "ab-testing",
-      "machine-learning",
-      "communication",
-      "cross-functional"
-    ]
-  },
-  {
     "key": "greenhouse:lucidmotors:5254390007",
     "company": "Lucid Motors",
     "title": "Machine Learning Engineer",
@@ -2148,28 +1900,6 @@
       "tensorflow",
       "communication",
       "cross-functional"
-    ]
-  },
-  {
-    "key": "greenhouse:lyft:8843341002",
-    "company": "Lyft",
-    "title": "Applied Scientist Intern, PhD (Summer 2027)",
-    "url": "https://app.careerpuck.com/job-board/lyft/job/8843341002?gh_jid=8843341002",
-    "location": "San Francisco, CA",
-    "level": "entry",
-    "posted_at": "2026-09-28T17:44:14-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "system-design",
-      "ab-testing",
-      "machine-learning",
-      "llm",
-      "prompt-engineering",
-      "agents",
-      "model-evaluation",
-      "communication"
     ]
   },
   {
@@ -2298,23 +2028,6 @@
       "llm",
       "rag",
       "agents"
-    ]
-  },
-  {
-    "key": "greenhouse:neo4j:4708465006",
-    "company": "Neo4j",
-    "title": "Research Engineer",
-    "url": "https://boards.greenhouse.io/neo4j/jobs/4708465006?gh_jid=4708465006",
-    "location": "London",
-    "level": "open",
-    "posted_at": "2026-08-26T03:33:14-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "java",
-      "cpp",
-      "rust",
-      "distributed-systems"
     ]
   },
   {
@@ -2786,7 +2499,7 @@
     "title": "AI Software Engineer I",
     "url": "https://boards.greenhouse.io/relativity/jobs/8726261002?gh_jid=8726261002",
     "location": "Long Beach, California, United States",
-    "level": "open",
+    "level": "entry",
     "posted_at": "2026-08-18T15:29:08-04:00",
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
@@ -2836,30 +2549,6 @@
     ]
   },
   {
-    "key": "greenhouse:roblox:8242621",
-    "company": "Roblox",
-    "title": "[2027] Applied Scientist - PhD Intern",
-    "url": "https://careers.roblox.com/jobs/8242621?gh_jid=8242621",
-    "location": "San Mateo, CA, United States",
-    "level": "entry",
-    "posted_at": "2026-10-08T12:04:59-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "java",
-      "cpp",
-      "go",
-      "distributed-systems",
-      "machine-learning",
-      "deep-learning",
-      "llm",
-      "nlp",
-      "computer-vision",
-      "cross-functional"
-    ]
-  },
-  {
     "key": "greenhouse:roblox:8171283",
     "company": "Roblox",
     "title": "Software Engineer, GenAI Platform",
@@ -2896,56 +2585,6 @@
       "data-structures-algorithms",
       "data-pipelines",
       "agents"
-    ]
-  },
-  {
-    "key": "greenhouse:samsara:8024110",
-    "company": "Samsara",
-    "title": "AI Engineer, Customer Success",
-    "url": "https://www.samsara.com/company/careers/roles/8024110?gh_jid=8024110",
-    "location": "Remote - Austin; Remote - CA; Remote - Chicago; Remote - Dallas; Remote - Houston; Remote - Seattle",
-    "level": "open",
-    "posted_at": "2026-06-26T17:01:26-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "testing",
-      "rest-apis",
-      "data-modeling",
-      "llm",
-      "agents",
-      "model-evaluation",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "greenhouse:samsara:7858719",
-    "company": "Samsara",
-    "title": "People Analytics AI Engineer",
-    "url": "https://www.samsara.com/company/careers/roles/7858719?gh_jid=7858719",
-    "location": "Remote - DC; Remote - NYC; Remote - Seattle; Remote - SF Bay Area",
-    "level": "open",
-    "posted_at": "2026-06-05T11:20:27-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "sql",
-      "git",
-      "aws",
-      "rest-apis",
-      "nosql",
-      "data-warehouse",
-      "data-modeling",
-      "ab-testing",
-      "llm",
-      "prompt-engineering",
-      "rag",
-      "fine-tuning",
-      "model-evaluation",
-      "communication",
-      "cross-functional"
     ]
   },
   {
@@ -3292,112 +2931,6 @@
       "agents",
       "communication",
       "cross-functional"
-    ]
-  },
-  {
-    "key": "lever:sonarsource:2f1af926-9595-4031-8a26-3c776a6dfbcd",
-    "company": "Sonarsource",
-    "title": "Research Engineer",
-    "url": "https://jobs.lever.co/sonarsource/2f1af926-9595-4031-8a26-3c776a6dfbcd",
-    "location": "Singapore",
-    "level": "open",
-    "posted_at": "2026-10-13T08:13:10+00:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "machine-learning",
-      "agents",
-      "communication",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "lever:sonarsource:a0535931-bce3-4159-b43d-15ca3eb4d17f",
-    "company": "Sonarsource",
-    "title": "Research Engineer",
-    "url": "https://jobs.lever.co/sonarsource/a0535931-bce3-4159-b43d-15ca3eb4d17f",
-    "location": "Geneva",
-    "level": "open",
-    "posted_at": "2025-09-08T07:58:27+00:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "aws",
-      "data-pipelines",
-      "machine-learning",
-      "llm",
-      "agents",
-      "fine-tuning",
-      "communication",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "lever:sonarsource:9984dd32-2082-4ca2-9ee5-d47cb6940da8",
-    "company": "Sonarsource",
-    "title": "Research Engineer (f/m/d)",
-    "url": "https://jobs.lever.co/sonarsource/9984dd32-2082-4ca2-9ee5-d47cb6940da8",
-    "location": "Bochum",
-    "level": "open",
-    "posted_at": "2025-09-08T07:59:02+00:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "aws",
-      "data-pipelines",
-      "machine-learning",
-      "llm",
-      "agents",
-      "fine-tuning",
-      "communication",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "greenhouse:spacex:8880556002",
-    "company": "SpaceX",
-    "title": "AI Security Software Engineer (Starshield)",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8880556002?gh_jid=8880556002",
-    "location": "Hawthorne, CA",
-    "level": "open",
-    "posted_at": "2026-10-08T18:49:17-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "cpp",
-      "go",
-      "system-design",
-      "kubernetes",
-      "data-modeling",
-      "machine-learning",
-      "prompt-engineering",
-      "communication"
-    ]
-  },
-  {
-    "key": "greenhouse:spacex:8880570002",
-    "company": "SpaceX",
-    "title": "AI Security Software Engineer (Starshield)",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8880570002?gh_jid=8880570002",
-    "location": "Washington, DC",
-    "level": "open",
-    "posted_at": "2026-10-08T18:49:20-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "cpp",
-      "go",
-      "system-design",
-      "kubernetes",
-      "data-modeling",
-      "machine-learning",
-      "prompt-engineering",
-      "communication"
     ]
   },
   {
@@ -4086,39 +3619,6 @@
     ]
   },
   {
-    "key": "greenhouse:tanium:8359784",
-    "company": "Tanium",
-    "title": "Software Engineer II, AI Security",
-    "url": "https://job-boards.greenhouse.io/tanium/jobs/8359784",
-    "location": "Durham, NC (Hybrid)",
-    "level": "open",
-    "posted_at": "2026-11-06T14:20:43-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "sql",
-      "javascript",
-      "typescript",
-      "go",
-      "rust",
-      "ruby",
-      "distributed-systems",
-      "testing",
-      "git",
-      "ci-cd",
-      "react",
-      "nodejs",
-      "rest-apis",
-      "graphql",
-      "data-pipelines",
-      "dashboards",
-      "llm",
-      "rag",
-      "agents"
-    ]
-  },
-  {
     "key": "greenhouse:togetherai:5180155007",
     "company": "Together AI",
     "title": "AI Infrastructure System Engineer",
@@ -4227,22 +3727,6 @@
     ]
   },
   {
-    "key": "greenhouse:togetherai:4188119007",
-    "company": "Together AI",
-    "title": "Systems Research Engineer, GPU Programming",
-    "url": "https://job-boards.greenhouse.io/togetherai/jobs/4188119007",
-    "location": "San Francisco",
-    "level": "open",
-    "posted_at": "2024-01-16T09:59:54-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "machine-learning",
-      "fine-tuning",
-      "cross-functional"
-    ]
-  },
-  {
     "key": "greenhouse:tripadvisor:8222892",
     "company": "Tripadvisor",
     "title": "ML Ops Engineer II (Experiences)",
@@ -4316,31 +3800,6 @@
       "rag",
       "agents",
       "model-evaluation"
-    ]
-  },
-  {
-    "key": "greenhouse:twitch:8872835002",
-    "company": "Twitch",
-    "title": "Applied Scientist",
-    "url": "https://job-boards.greenhouse.io/twitch/jobs/8872835002",
-    "location": "San Francisco, CA",
-    "level": "open",
-    "posted_at": "2026-10-08T13:45:33-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "sql",
-      "aws",
-      "data-pipelines",
-      "statistics",
-      "machine-learning",
-      "pytorch",
-      "tensorflow",
-      "llm",
-      "model-evaluation",
-      "computer-vision",
-      "cross-functional"
     ]
   },
   {
@@ -4672,23 +4131,6 @@
       "data-structures-algorithms",
       "data-visualization",
       "machine-learning"
-    ]
-  },
-  {
-    "key": "lever:zoox:cc43bf88-ed84-408f-a557-3d1c7263ddff",
-    "company": "Zoox",
-    "title": "Contract Student Worker – AI Validation and Benchmarking Engineer (40hrs / week Full-Time)",
-    "url": "https://jobs.lever.co/zoox/cc43bf88-ed84-408f-a557-3d1c7263ddff",
-    "location": "Foster City, CA",
-    "level": "entry",
-    "posted_at": "2026-10-13T21:09:47+00:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "llm",
-      "prompt-engineering",
-      "agents"
     ]
   },
   {

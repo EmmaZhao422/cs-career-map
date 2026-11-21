@@ -780,24 +780,5 @@
       "llm",
       "agents"
     ]
-  },
-  {
-    "key": "lever:zoox:5e03b357-0cc1-4194-9488-14f85044f4f9",
-    "company": "Zoox",
-    "title": "Contract  Student Worker - Data Analyst (Part-time)",
-    "url": "https://jobs.lever.co/zoox/5e03b357-0cc1-4194-9488-14f85044f4f9",
-    "location": "Foster City, CA",
-    "level": "entry",
-    "posted_at": "2026-07-20T21:28:23+00:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "sql",
-      "spark",
-      "data-warehouse",
-      "dashboards",
-      "machine-learning"
-    ]
   }
 ]

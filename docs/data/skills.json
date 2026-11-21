@@ -26,7 +26,7 @@
     "name": "SQL & relational databases",
     "category": "Languages",
     "prereqs": [],
-    "level": "You can answer a business question with joins, GROUP BY and a window function without looking up the syntax.",
+    "level": "You can answer a business question with joins, GROUP BY and a subquery without looking up the syntax.",
     "project": "Load a public dataset into SQLite or DuckDB and answer ten questions about it, each with one query.",
     "resources": [
       {
@@ -123,7 +123,7 @@
     "category": "Languages",
     "prereqs": [],
     "level": "You understand pointers, memory allocation and what the stack and heap are doing while your program runs.",
-    "project": "Implement a dynamic array and a hash table in C, with no memory leaks.",
+    "project": "Write a dynamic array in C with tests, then run it under a memory checker such as Valgrind until it reports no leaks.",
     "resources": [
       {
         "title": "CS50x: Introduction to Computer Science",
@@ -378,7 +378,7 @@
       "networking"
     ],
     "level": "You can explain replication, consensus and the trade-offs behind consistency, and reason about what fails when a node or the network does.",
-    "project": "Implement a replicated key-value store lab, or write up how one real outage unfolded and why.",
+    "project": "Build a key-value store that copies writes to a second process, and write down what happens when you stop one of them. Try the MIT labs once that works.",
     "resources": [
       {
         "title": "MIT 6.5840 Distributed Systems (lectures and labs)",
@@ -545,6 +545,26 @@
         "checked": "2026-11-21"
       }
     ]
+  },
+  "observability": {
+    "name": "Observability & monitoring",
+    "category": "Tools",
+    "prereqs": [
+      "linux"
+    ],
+    "level": "You can add logs, metrics and a simple alert to a service, and use them to find out why it is slow or failing.",
+    "project": "Run one of your projects with Prometheus and Grafana, add two metrics and one alert, and trigger the alert on purpose.",
+    "resources": []
+  },
+  "jupyter": {
+    "name": "Jupyter notebooks",
+    "category": "Tools",
+    "prereqs": [
+      "python"
+    ],
+    "level": "You can explore data in a notebook, keep it runnable from top to bottom, and turn the useful parts into a script.",
+    "project": "A notebook that answers one question about a public dataset and runs cleanly after Restart and Run All.",
+    "resources": []
   },
   "aws": {
     "name": "AWS",
@@ -726,6 +746,46 @@
       }
     ]
   },
+  "django-flask": {
+    "name": "Python web frameworks",
+    "category": "Web",
+    "prereqs": [
+      "python"
+    ],
+    "level": "You can build a small web API in Django, Flask or FastAPI with routes, input validation and a database.",
+    "project": "A notes API with create, read, update and delete, tests for each route, and a README that shows how to run it.",
+    "resources": []
+  },
+  "spring": {
+    "name": "Spring (Java)",
+    "category": "Web",
+    "prereqs": [
+      "java"
+    ],
+    "level": "You can build a REST service with Spring Boot: controllers, dependency injection and a database through Spring Data.",
+    "project": "A Spring Boot service for a to-do list with a few endpoints, a database table and tests.",
+    "resources": []
+  },
+  "angular-vue": {
+    "name": "Angular / Vue",
+    "category": "Web",
+    "prereqs": [
+      "javascript"
+    ],
+    "level": "You can build a small single-page app in Angular or Vue with components, routing and data loaded from an API.",
+    "project": "Rebuild one page you know (a search page, a settings form) in Vue or Angular, with loading and error states.",
+    "resources": []
+  },
+  "grpc": {
+    "name": "gRPC & Protocol Buffers",
+    "category": "Web",
+    "prereqs": [
+      "networking"
+    ],
+    "level": "You can define a service in a .proto file, generate client and server code, and explain when gRPC fits better than JSON over HTTP.",
+    "project": "Two small programs, a client and a server, that talk over gRPC, with one call that streams results.",
+    "resources": []
+  },
   "nosql": {
     "name": "NoSQL databases",
     "category": "Data engineering",
@@ -887,6 +947,14 @@
       }
     ]
   },
+  "elasticsearch-search": {
+    "name": "Elasticsearch / OpenSearch",
+    "category": "Data engineering",
+    "prereqs": [],
+    "level": "You can index documents, write a full-text query with filters, and explain how relevance scoring ranks results.",
+    "project": "Index a few thousand public documents and build a search page with filters and highlighted matches.",
+    "resources": []
+  },
   "excel": {
     "name": "Excel / spreadsheets",
     "category": "Analysis",
@@ -949,7 +1017,8 @@
         "free": true,
         "checked": "2026-11-21"
       }
-    ]
+    ],
+    "note": "Includes Looker Studio (formerly Google Data Studio), a separate free product."
   },
   "dashboards": {
     "name": "Dashboards & reporting",
@@ -1049,6 +1118,24 @@
       }
     ]
   },
+  "analytics-tools": {
+    "name": "Product analytics tools",
+    "category": "Analysis",
+    "prereqs": [],
+    "level": "You can set up event tracking in a product analytics tool and build a funnel or retention chart from it.",
+    "project": "Track three events in a small app of your own with a free tier of a product analytics tool, and build one funnel.",
+    "resources": []
+  },
+  "sas-spss": {
+    "name": "SAS / SPSS / Stata",
+    "category": "Analysis",
+    "prereqs": [
+      "statistics"
+    ],
+    "level": "You can load data, run descriptive statistics and a regression in SAS, SPSS or Stata, and read the output.",
+    "project": "Reproduce one table from a published study's public data in the tool, and note any number that does not match.",
+    "resources": []
+  },
   "machine-learning": {
     "name": "Machine learning",
     "category": "AI & ML",
@@ -1127,7 +1214,7 @@
       "deep-learning"
     ],
     "level": "You can build, train and save a model in TensorFlow or JAX and read someone else's training code.",
-    "project": "Port a small PyTorch model to TensorFlow or JAX and match its accuracy.",
+    "project": "Follow one official tutorial end to end, then change the model or the dataset and explain what happened to the accuracy.",
     "resources": [
       {
         "title": "TensorFlow tutorials",
@@ -1171,7 +1258,7 @@
       "python"
     ],
     "level": "You know how tokens, context windows and sampling work, and can call a model from code and handle its failures.",
-    "project": "An app that answers questions about a set of documents and shows where each answer came from.",
+    "project": "A small command-line tool that calls a model API with retries and timeouts, streams the answer, and logs the tokens and cost of every call.",
     "resources": [
       {
         "title": "LLM Course",
@@ -1261,6 +1348,16 @@
       }
     ]
   },
+  "reinforcement-learning": {
+    "name": "Reinforcement learning",
+    "category": "AI & ML",
+    "prereqs": [
+      "machine-learning"
+    ],
+    "level": "You can explain states, actions, rewards and policies, and train a simple agent with a standard algorithm.",
+    "project": "Train an agent on a classic control task such as CartPole and plot how its reward changes during training.",
+    "resources": []
+  },
   "model-evaluation": {
     "name": "Model evaluation",
     "category": "AI & ML",
@@ -1348,6 +1445,16 @@
       }
     ]
   },
+  "gpu-cuda": {
+    "name": "GPU programming (CUDA)",
+    "category": "AI & ML",
+    "prereqs": [
+      "cpp"
+    ],
+    "level": "You can explain how a GPU runs many threads at once, and write and time a simple CUDA kernel or GPU-accelerated function.",
+    "project": "Write a vector-add or matrix-multiply kernel, time it against a CPU version, and explain the speed-up.",
+    "resources": []
+  },
   "communication": {
     "name": "Written & verbal communication",
     "category": "Working with people",
@@ -1364,11 +1471,19 @@
       }
     ]
   },
+  "agile": {
+    "name": "Agile & Scrum",
+    "category": "Working with people",
+    "prereqs": [],
+    "level": "You can work in short iterations: break work into small tickets, estimate them, and take part in planning and retrospectives.",
+    "project": "Run a group project in two-week sprints with a board, and write a short retrospective after each sprint.",
+    "resources": []
+  },
   "cross-functional": {
     "name": "Working with non-engineers",
     "category": "Working with people",
     "prereqs": [],
-    "level": "You can find out what a non-engineer actually needs, agree on scope, and report progress without jargon.",
+    "level": "You can agree on goals and scope with people outside engineering and keep them updated in plain language.",
     "project": "Build a small tool for a real person outside engineering and write down what changed between their first request and what you shipped.",
     "resources": [
       {
