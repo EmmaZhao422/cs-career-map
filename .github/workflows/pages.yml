@@ -1,15 +1,13 @@
 name: Publish website
 
-# Publishes the docs/ folder to GitHub Pages.
+# Publishes the docs/ folder to GitHub Pages when a person changes the site.
+# The weekly data refresh publishes by itself (see refresh-data.yml).
 # One-time setup: repository Settings > Pages > Source: "GitHub Actions".
 
 on:
   push:
     branches: [main]
     paths: ["docs/**"]
-  workflow_run:
-    workflows: ["Refresh job posting data"]
-    types: [completed]
   workflow_dispatch:
 
 permissions:
@@ -23,7 +21,6 @@ concurrency:
 
 jobs:
   deploy:
-    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
     environment:
       name: github-pages

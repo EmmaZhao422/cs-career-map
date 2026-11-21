@@ -9,9 +9,12 @@ on:
     paths:
       - "config/**"
       - "collector/collect.py"
+      - ".github/workflows/refresh-data.yml"
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
   group: refresh-data
@@ -41,3 +44,25 @@ jobs:
             git pull --rebase --quiet origin main
             git push
           fi
+
+  # A push made by a workflow does not start other workflows, so the refreshed
+  # site is published here.
+  publish:
+    needs: refresh
+    runs-on: ubuntu-latest
+    concurrency:
+      group: pages
+      cancel-in-progress: false
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+      - id: deployment
+        uses: actions/deploy-pages@v4
