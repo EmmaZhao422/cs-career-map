@@ -1,1 +1,83 @@
-[]
+[
+  {
+    "kind": "published",
+    "role": "software-engineer",
+    "skill": "git",
+    "note": "GitLab's technical interview is built around a merge request to a small application. You review it beforehand, then walk the interviewer through your review and write code to improve it. They are watching how you communicate asynchronously, what you know about the technology, and how you collaborate.",
+    "who": "GitLab handbook, Technical Interviews",
+    "source": "https://handbook.gitlab.com/handbook/hiring/interviewing/technical/",
+    "added": "2026-11-21"
+  },
+  {
+    "kind": "published",
+    "role": "software-engineer",
+    "skill": "system-design",
+    "note": "A GitLab working group is redesigning that interview because AI assistants now catch most common code issues. The stated aim is to evaluate what matters in AI-assisted work, starting with design judgment and communicating intent clearly.",
+    "who": "GitLab handbook, AI-Native Hiring Working Group",
+    "source": "https://handbook.gitlab.com/handbook/company/working-groups/ai-native-hiring/",
+    "added": "2026-11-21"
+  },
+  {
+    "kind": "published",
+    "role": "software-engineer",
+    "skill": "data-structures-algorithms",
+    "note": "Stripe has written that its interview questions try to show how a person approaches real-world problems, not whiteboard puzzles. One example it describes is a session where the candidate fixes a real historical bug in an open-source project, in the language they choose. The guide is several years old, so check it against current postings.",
+    "who": "Stripe Atlas guide, Scaling engineering organizations",
+    "source": "https://stripe.com/it-us/atlas/guides/scaling-eng",
+    "added": "2026-11-21"
+  },
+  {
+    "kind": "published",
+    "role": null,
+    "skill": "communication",
+    "note": "Stripe has published the rubric it used to judge communication in interviews: whether answers are clear, whether the candidate gives specifics about their own work instead of describing the team's, and whether they take in prompts and feedback during the conversation. The guide is several years old.",
+    "who": "Stripe Atlas guide, Scaling engineering organisations",
+    "source": "https://stripe.com/in/guides/atlas/scaling-eng",
+    "added": "2026-11-21"
+  },
+  {
+    "kind": "published",
+    "role": "software-engineer",
+    "skill": "java",
+    "note": "Stripe's new-grad posting names the languages it mostly works in (Java, Ruby, JavaScript, Scala, Go) and then says a new language can be learned when the fundamentals are there. It also asks for the ability to use AI tools while checking their output with your own judgment.",
+    "who": "Stripe careers, Software Engineer, New Grad",
+    "source": "https://stripe.com/careers/listing/software-engineer-new-grad/8157838",
+    "added": "2026-11-21"
+  },
+  {
+    "kind": "published",
+    "role": "ai-engineer",
+    "skill": "machine-learning",
+    "note": "Anthropic says it cares about what you can do, not where you learned it, and that about half of its technical staff had no machine learning experience before joining. Its advice is to put independent research, a thoughtful blog post or open-source work at the top of your resume.",
+    "who": "Anthropic careers page, How we hire",
+    "source": "https://www.anthropic.com/careers",
+    "added": "2026-11-21"
+  },
+  {
+    "kind": "published",
+    "role": null,
+    "skill": "python",
+    "note": "Anthropic tells candidates they may look things up in its interviews, and should be comfortable enough with basic syntax and standard libraries that this does not eat their time.",
+    "who": "Anthropic careers page, How we hire",
+    "source": "https://www.anthropic.com/careers",
+    "added": "2026-11-21"
+  },
+  {
+    "kind": "published",
+    "role": "ai-engineer",
+    "skill": "llm",
+    "note": "Anthropic says it looks for candidates who work well with AI and publishes rules for using it in the hiring process. For applications, the rule is to write the first draft yourself and then use Claude to refine it.",
+    "who": "Anthropic, Guidance on Candidates' AI Usage",
+    "source": "https://www.anthropic.com/candidate-ai-guidance",
+    "added": "2026-11-21"
+  },
+  {
+    "kind": "published",
+    "role": "ai-engineer",
+    "skill": "agents",
+    "note": "Anthropic analysed its own hiring managers' interview scorecards and reports that the clearest change over time is more weight on whether a candidate has shown creative use of AI tools.",
+    "who": "Anthropic research, How employment is changing at Anthropic",
+    "source": "https://www.anthropic.com/research/employment-at-anthropic",
+    "added": "2026-11-21"
+  }
+]

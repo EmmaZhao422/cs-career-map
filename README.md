@@ -15,8 +15,8 @@ Most learning roadmaps are written from experience: an editor decides what belon
 - **Organised by job, not by technology.** Software Engineer, AI Engineer and Data Analyst to start.
 - **Every skill shows its count.** "41 of 60 postings" with the date they were read, plus the list of postings behind it.
 - **Intern and new-grad view.** One switch recounts using only entry-level postings.
-- **Practitioners can correct it.** Postings are wish lists. People who hire can add what they look for in practice, shown separately from the counts.
-- **Short guides.** Per skill: what knowing it looks like, at most two resources, one project.
+- **The hiring side is on the page.** Postings are wish lists. Skills carry notes summarised from companies' own public hiring pages, each with its source, and people who hire can add what they look for in practice. Both are shown separately from the counts.
+- **Short guides for every skill.** What knowing it looks like, at most two resources (official documentation and university courses first), one project.
 
 ## How the numbers are made
 
@@ -56,13 +56,13 @@ python -m http.server 8000 --directory docs   # open http://localhost:8000
 | `collector/` | The script that reads job boards and builds the data, with its tests. |
 | `data/postings/` | One file per job: a link and the matched skills for each posting. |
 | `data/skill_guides.json` | The learning guide for each skill. |
-| `data/practitioner_notes.json` | Notes from people who hire. |
+| `data/practitioner_notes.json` | Notes from the hiring side: summaries of public hiring pages, and notes sent in by practitioners. |
 | `docs/` | The website. Plain HTML, CSS and JavaScript, no build step. |
 | `skill/cs-career-coach/` | The Claude skill, with its own copy of the data. |
 
 ## Use the coach
 
-`skill/cs-career-coach/` is a Claude skill (beta, not yet tested with students): a folder with a `SKILL.md` and a copy of the data. Add the folder to Claude as a skill, then ask something like "coach me toward a data analyst internship; I have ten hours a week". It builds a plan from the counts, teaches one skill at a time, and only recommends resources from this repository.
+`skill/cs-career-coach/` is a Claude skill: a folder with a `SKILL.md` and a copy of the data. It reads the live data from the site when it can and falls back to the bundled copy. It has been run through sample student requests but not yet used by real students. Add the folder to Claude as a skill, then ask something like "coach me toward a data analyst internship; I have ten hours a week". It builds a plan from the counts, teaches one skill at a time, and only recommends resources from this repository.
 
 ## Contribute
 

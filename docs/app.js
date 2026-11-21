@@ -103,7 +103,7 @@
       list,
       h("h2", { text: "Hiring for one of these jobs?" }),
       h("p", { class: "note" }, [
-        "Postings are wish lists. If you interview or hire for one of these roles, tell students what you look for in practice. ",
+        "Postings are wish lists. Some skills already carry notes summarised from companies' own public hiring pages. If you interview or hire for one of these roles, tell students what you look for in practice. ",
         h("a", { href: issueLink("practitioner-note.yml", "Practitioner note: "), text: "Add a practitioner note" }), "."
       ])
     ]);
@@ -234,15 +234,17 @@
 
     var mine = notes.filter(function (n) { return n.skill === r.s.id && (!n.role || n.role === role.id); });
     if (mine.length) {
-      parts.push(h("h3", { text: "From people who hire" }));
+      parts.push(h("h3", { text: "From the hiring side" }));
       mine.forEach(function (n) {
-        parts.push(h("blockquote", {}, [h("p", { text: n.note }), h("footer", { text: n.who })]));
+        var label = n.kind === "published" ? "Summarised from a public page: " : "Sent in by: ";
+        var who = n.source ? h("a", { href: n.source, text: n.who }) : n.who;
+        parts.push(h("blockquote", {}, [h("p", { text: n.note }), h("footer", {}, [label, who, "."])]));
       });
     }
 
     parts.push(h("p", { class: "evidence", text:
       "Mentioned by " + (r.s.companies === 1 ? "1 company" : r.s.companies + " companies") +
-      " in " + plural(r.s.count, "posting") + " overall. The guide above is written by people, not taken from postings." }));
+      " in " + plural(r.s.count, "posting") + " overall. The guide above is editorial advice, not something taken from postings." }));
     parts.push(h("p", { class: "ask" }, [
       h("a", { href: issueLink("suggest-resource.yml", "Resource for " + r.s.name + ": "), text: "Suggest a better resource" }),
       " or ",
@@ -290,7 +292,7 @@
         h("li", { text: "We only read companies that publish through Greenhouse or Lever. Companies with their own careers system, including several of the largest, are not counted yet." }),
         h("li", { text: "Matching is by keyword. It can miss a skill described in unusual words and can over-count a word used in another sense." }),
         h("li", { text: "A company with many open postings weighs more. Each skill also shows how many different companies mention it." }),
-        h("li", { text: "The learning guides and the 'learn first' links are written by people. They are opinions, and you can challenge them." })
+        h("li", { text: "The learning guides and the 'learn first' links are editorial opinions, first drafted with an AI model. Every linked resource was opened and checked. You can challenge any of them." })
       ]),
       h("h2", { text: "Help make it better" }),
       h("p", { class: "note" }, [

@@ -22,6 +22,8 @@ If you hire, interview or work in one of these jobs, open the [practitioner note
 
 `who` describes your role and kind of company. Your name and employer are left out unless you ask for them to be shown.
 
+There is a second kind of note: a summary of something a company has published about how it hires. Those carry `"kind": "published"`, the page title in `who`, and the link in `source`. Summarise in your own words, keep it to what the page says, and open the link before adding it. Never write a note in someone's voice that they did not send.
+
 ## Suggest a learning resource
 
 Guides live in `data/skill_guides.json`. Each skill has at most two resources. To add or replace one, open the [resource form](../../issues/new?template=suggest-resource.yml) or a pull request. A resource should be free or have a free path, teach by doing, and be something you have used yourself.

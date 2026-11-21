@@ -138,9 +138,17 @@
     "name": "C#",
     "category": "Languages",
     "prereqs": [],
-    "level": null,
-    "project": null,
-    "resources": []
+    "level": "You can build a small typed application with classes, interfaces, LINQ and async methods.",
+    "project": "A console or web API app that reads data, transforms it with LINQ and has unit tests.",
+    "resources": [
+      {
+        "title": "A tour of C#",
+        "url": "https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/",
+        "by": "Microsoft Learn",
+        "free": true,
+        "checked": "2026-11-21"
+      }
+    ]
   },
   "go": {
     "name": "Go",
@@ -162,9 +170,17 @@
     "name": "Rust",
     "category": "Languages",
     "prereqs": [],
-    "level": null,
-    "project": null,
-    "resources": []
+    "level": "You can explain ownership and borrowing and write a program the compiler accepts without fighting it.",
+    "project": "A command-line tool that parses a file and reports errors with proper Result handling.",
+    "resources": [
+      {
+        "title": "The Rust Programming Language",
+        "url": "https://doc.rust-lang.org/book/",
+        "by": "The Rust project",
+        "free": true,
+        "checked": "2026-11-21"
+      }
+    ]
   },
   "r": {
     "name": "R",
@@ -186,33 +202,72 @@
     "name": "Scala",
     "category": "Languages",
     "prereqs": [],
-    "level": null,
-    "project": null,
-    "resources": []
+    "level": "You can write functional-style code with case classes, pattern matching and collections.",
+    "project": "Rewrite a small data-processing script in Scala using only immutable values.",
+    "resources": [
+      {
+        "title": "Tour of Scala",
+        "url": "https://docs.scala-lang.org/tour/tour-of-scala.html",
+        "by": "Scala documentation",
+        "free": true,
+        "checked": "2026-11-21"
+      }
+    ]
   },
   "kotlin": {
     "name": "Kotlin",
     "category": "Languages",
     "prereqs": [],
-    "level": null,
-    "project": null,
-    "resources": []
+    "level": "You can write idiomatic Kotlin: null safety, data classes, extension functions and coroutines.",
+    "project": "A small Android screen or server endpoint written in Kotlin with one coroutine-based call.",
+    "resources": [
+      {
+        "title": "Get started with Kotlin",
+        "url": "https://kotlinlang.org/docs/getting-started.html",
+        "by": "JetBrains",
+        "free": true,
+        "checked": "2026-11-21"
+      }
+    ]
   },
   "swift": {
     "name": "Swift",
     "category": "Languages",
     "prereqs": [],
-    "level": null,
-    "project": null,
-    "resources": []
+    "level": "You can build a small iOS screen or command-line program using optionals, structs and protocols.",
+    "project": "An app with one list screen that loads data from a public API.",
+    "resources": [
+      {
+        "title": "The Swift Programming Language",
+        "url": "https://docs.swift.org/latest/documentation/the-swift-programming-language/",
+        "by": "Apple and the Swift project",
+        "free": true,
+        "checked": "2026-11-21"
+      }
+    ]
   },
   "ruby": {
     "name": "Ruby",
     "category": "Languages",
     "prereqs": [],
-    "level": null,
-    "project": null,
-    "resources": []
+    "level": "You can read and write everyday Ruby and find your way around a Rails app's models, controllers and views.",
+    "project": "A Rails app with two related models, validations and a test for each.",
+    "resources": [
+      {
+        "title": "Ruby in Twenty Minutes",
+        "url": "https://www.ruby-lang.org/en/documentation/quickstart/",
+        "by": "ruby-lang.org",
+        "free": true,
+        "checked": "2026-11-21"
+      },
+      {
+        "title": "Getting Started with Rails",
+        "url": "https://guides.rubyonrails.org/getting_started.html",
+        "by": "Ruby on Rails Guides",
+        "free": true,
+        "checked": "2026-11-21"
+      }
+    ]
   },
   "data-structures-algorithms": {
     "name": "Data structures & algorithms",
@@ -241,9 +296,17 @@
     "name": "Object-oriented design",
     "category": "CS fundamentals",
     "prereqs": [],
-    "level": null,
-    "project": null,
-    "resources": []
+    "level": "You can split a problem into classes with clear responsibilities and name the pattern you are using when one fits.",
+    "project": "Refactor a 300-line script into classes, then explain which responsibilities you separated and why.",
+    "resources": [
+      {
+        "title": "Design Patterns catalog",
+        "url": "https://refactoring.guru/design-patterns",
+        "by": "Refactoring.Guru",
+        "free": true,
+        "checked": "2026-11-21"
+      }
+    ]
   },
   "operating-systems": {
     "name": "Operating systems",
@@ -265,17 +328,47 @@
     "name": "Computer networking",
     "category": "CS fundamentals",
     "prereqs": [],
-    "level": null,
-    "project": null,
-    "resources": []
+    "level": "You can explain what happens between typing a URL and seeing a page: DNS, TCP, TLS, HTTP.",
+    "project": "Write a tiny HTTP client on raw sockets and capture its traffic to explain each packet.",
+    "resources": [
+      {
+        "title": "Computer Networking: A Top-Down Approach (lectures and labs)",
+        "url": "https://gaia.cs.umass.edu/kurose_ross/index.php",
+        "by": "Kurose and Ross",
+        "free": true,
+        "checked": "2026-11-21"
+      },
+      {
+        "title": "CS 144: Introduction to Computer Networking",
+        "url": "https://cs144.github.io/",
+        "by": "Stanford",
+        "free": true,
+        "checked": "2026-11-21"
+      }
+    ]
   },
   "concurrency": {
     "name": "Concurrency",
     "category": "CS fundamentals",
     "prereqs": [],
-    "level": null,
-    "project": null,
-    "resources": []
+    "level": "You can spot a race condition, fix it with the right primitive, and explain deadlock.",
+    "project": "Build a thread-safe bounded queue and a test that would fail without the lock.",
+    "resources": [
+      {
+        "title": "The Little Book of Semaphores",
+        "url": "https://greenteapress.com/wp/semaphores/",
+        "by": "Allen B. Downey",
+        "free": true,
+        "checked": "2026-11-21"
+      },
+      {
+        "title": "Operating Systems: Three Easy Pieces (concurrency part)",
+        "url": "https://pages.cs.wisc.edu/~remzi/OSTEP/",
+        "by": "Remzi and Andrea Arpaci-Dusseau",
+        "free": true,
+        "checked": "2026-11-21"
+      }
+    ]
   },
   "distributed-systems": {
     "name": "Distributed systems",
@@ -284,9 +377,24 @@
       "operating-systems",
       "networking"
     ],
-    "level": null,
-    "project": null,
-    "resources": []
+    "level": "You can explain replication, consensus and the trade-offs behind consistency, and reason about what fails when a node or the network does.",
+    "project": "Implement a replicated key-value store lab, or write up how one real outage unfolded and why.",
+    "resources": [
+      {
+        "title": "MIT 6.5840 Distributed Systems (lectures and labs)",
+        "url": "https://pdos.csail.mit.edu/6.824/",
+        "by": "MIT",
+        "free": true,
+        "checked": "2026-11-21"
+      },
+      {
+        "title": "Distributed Systems lecture series (video)",
+        "url": "https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB",
+        "by": "Martin Kleppmann, University of Cambridge",
+        "free": true,
+        "checked": "2026-11-21"
+      }
+    ]
   },
   "system-design": {
     "name": "System design",
@@ -310,9 +418,24 @@
     "name": "Testing",
     "category": "CS fundamentals",
     "prereqs": [],
-    "level": null,
-    "project": null,
-    "resources": []
+    "level": "You write tests as you code: unit tests for logic, a few integration tests for the seams, and you know what is not worth testing.",
+    "project": "Add a test suite to an untested project of yours until a deliberate bug gets caught.",
+    "resources": [
+      {
+        "title": "pytest: Get Started",
+        "url": "https://docs.pytest.org/en/stable/getting-started.html",
+        "by": "pytest",
+        "free": true,
+        "checked": "2026-11-21"
+      },
+      {
+        "title": "Software Engineering at Google (testing chapters)",
+        "url": "https://abseil.io/resources/swe-book",
+        "by": "Google",
+        "free": true,
+        "checked": "2026-11-21"
+      }
+    ]
   },
   "git": {
     "name": "Git",
@@ -411,9 +534,17 @@
     "name": "Terraform",
     "category": "Tools",
     "prereqs": [],
-    "level": null,
-    "project": null,
-    "resources": []
+    "level": "You can describe a small cloud setup as code, apply it, change it and destroy it safely.",
+    "project": "Provision a static site and its storage with Terraform, then tear it down with one command.",
+    "resources": [
+      {
+        "title": "Terraform tutorials",
+        "url": "https://developer.hashicorp.com/terraform/tutorials",
+        "by": "HashiCorp",
+        "free": true,
+        "checked": "2026-11-21"
+      }
+    ]
   },
   "aws": {
     "name": "AWS",
@@ -435,17 +566,33 @@
     "name": "Google Cloud",
     "category": "Cloud",
     "prereqs": [],
-    "level": null,
-    "project": null,
-    "resources": []
+    "level": "You know the core services (compute, storage, databases, IAM) and have deployed something small yourself.",
+    "project": "Deploy a small API and a database on the free tier, then remove everything.",
+    "resources": [
+      {
+        "title": "Google Skills (formerly Cloud Skills Boost)",
+        "url": "https://www.skills.google/",
+        "by": "Google",
+        "free": false,
+        "checked": "2026-11-21"
+      }
+    ]
   },
   "azure": {
     "name": "Azure",
     "category": "Cloud",
     "prereqs": [],
-    "level": null,
-    "project": null,
-    "resources": []
+    "level": "You know the core services (compute, storage, databases, identity) and have deployed something small yourself.",
+    "project": "Deploy a small web app with a managed database, then remove everything.",
+    "resources": [
+      {
+        "title": "Training for Azure",
+        "url": "https://learn.microsoft.com/en-us/training/azure/",
+        "by": "Microsoft Learn",
+        "free": true,
+        "checked": "2026-11-21"
+      }
+    ]
   },
   "html-css": {
     "name": "HTML & CSS",
@@ -494,9 +641,17 @@
     "prereqs": [
       "react"
     ],
-    "level": null,
-    "project": null,
-    "resources": []
+    "level": "You can build a multi-page app with routing, server and client components and data fetching.",
+    "project": "A small site with a list page, a detail page and one form, deployed.",
+    "resources": [
+      {
+        "title": "Learn Next.js",
+        "url": "https://nextjs.org/learn",
+        "by": "Vercel",
+        "free": true,
+        "checked": "2026-11-21"
+      }
+    ]
   },
   "nodejs": {
     "name": "Node.js",
@@ -536,25 +691,63 @@
     "name": "GraphQL",
     "category": "Web",
     "prereqs": [],
-    "level": null,
-    "project": null,
-    "resources": []
+    "level": "You can read a schema, write queries and mutations, and explain when GraphQL is a better fit than REST.",
+    "project": "Put a GraphQL layer in front of a small REST API and query it from a page.",
+    "resources": [
+      {
+        "title": "Learn GraphQL",
+        "url": "https://graphql.org/learn/",
+        "by": "The GraphQL Foundation",
+        "free": true,
+        "checked": "2026-11-21"
+      }
+    ]
   },
   "microservices": {
     "name": "Microservices",
     "category": "Web",
     "prereqs": [],
-    "level": null,
-    "project": null,
-    "resources": []
+    "level": "You can explain what splitting a system into services buys and costs, and how services talk and fail.",
+    "project": "Split one feature out of a small monolith into its own service and document what got harder.",
+    "resources": [
+      {
+        "title": "Microservices (the original article)",
+        "url": "https://martinfowler.com/articles/microservices.html",
+        "by": "James Lewis and Martin Fowler",
+        "free": true,
+        "checked": "2026-11-21"
+      },
+      {
+        "title": "Microservice architecture patterns",
+        "url": "https://microservices.io/",
+        "by": "Chris Richardson",
+        "free": true,
+        "checked": "2026-11-21"
+      }
+    ]
   },
   "nosql": {
     "name": "NoSQL databases",
     "category": "Data engineering",
     "prereqs": [],
-    "level": null,
-    "project": null,
-    "resources": []
+    "level": "You can choose between a document, key-value and relational store for a given access pattern and model data for it.",
+    "project": "Model the same small dataset in a relational and a document database and compare three queries.",
+    "resources": [
+      {
+        "title": "MongoDB University",
+        "url": "https://learn.mongodb.com/",
+        "by": "MongoDB",
+        "free": true,
+        "checked": "2026-11-21"
+      },
+      {
+        "title": "Redis University",
+        "url": "https://university.redis.io/academy",
+        "by": "Redis",
+        "free": true,
+        "checked": "2026-11-21"
+      }
+    ]
   },
   "spark": {
     "name": "Spark",
@@ -563,25 +756,56 @@
       "python",
       "sql"
     ],
-    "level": null,
-    "project": null,
-    "resources": []
+    "level": "You can load a large dataset, transform it with DataFrames and explain what a shuffle costs.",
+    "project": "Process a multi-gigabyte public dataset and compare the runtime of two ways of writing the same job.",
+    "resources": [
+      {
+        "title": "Spark Quick Start",
+        "url": "https://spark.apache.org/docs/latest/quick-start.html",
+        "by": "Apache Spark",
+        "free": true,
+        "checked": "2026-11-21"
+      }
+    ]
   },
   "kafka": {
     "name": "Kafka",
     "category": "Data engineering",
     "prereqs": [],
-    "level": null,
-    "project": null,
-    "resources": []
+    "level": "You can explain topics, partitions and consumer groups, and write a producer and a consumer.",
+    "project": "Stream events from a script into Kafka and build a consumer that keeps a running count.",
+    "resources": [
+      {
+        "title": "Apache Kafka Quickstart",
+        "url": "https://kafka.apache.org/quickstart/",
+        "by": "Apache Kafka",
+        "free": true,
+        "checked": "2026-11-21"
+      },
+      {
+        "title": "Kafka courses",
+        "url": "https://developer.confluent.io/courses/",
+        "by": "Confluent",
+        "free": true,
+        "checked": "2026-11-21"
+      }
+    ]
   },
   "airflow": {
     "name": "Airflow",
     "category": "Data engineering",
     "prereqs": [],
-    "level": null,
-    "project": null,
-    "resources": []
+    "level": "You can write a DAG with dependent tasks, schedule it and handle a failed run.",
+    "project": "Schedule a daily job that pulls data, cleans it and loads it, with a retry on failure.",
+    "resources": [
+      {
+        "title": "Airflow tutorials",
+        "url": "https://airflow.apache.org/docs/apache-airflow/stable/tutorial/index.html",
+        "by": "Apache Airflow",
+        "free": true,
+        "checked": "2026-11-21"
+      }
+    ]
   },
   "dbt": {
     "name": "dbt",
@@ -607,9 +831,24 @@
     "prereqs": [
       "sql"
     ],
-    "level": null,
-    "project": null,
-    "resources": []
+    "level": "You can load data into a warehouse, query it efficiently and explain partitioning and cost.",
+    "project": "Load a public dataset into a warehouse and answer five questions while keeping an eye on bytes scanned.",
+    "resources": [
+      {
+        "title": "BigQuery overview",
+        "url": "https://docs.cloud.google.com/bigquery/docs/introduction",
+        "by": "Google Cloud",
+        "free": true,
+        "checked": "2026-11-21"
+      },
+      {
+        "title": "Data Engineering Zoomcamp",
+        "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+        "by": "DataTalks.Club",
+        "free": true,
+        "checked": "2026-11-21"
+      }
+    ]
   },
   "data-pipelines": {
     "name": "Data pipelines (ETL)",
@@ -618,9 +857,17 @@
       "sql",
       "python"
     ],
-    "level": null,
-    "project": null,
-    "resources": []
+    "level": "You can build a pipeline that extracts, cleans and loads data on a schedule, and you know how it fails.",
+    "project": "An end-to-end pipeline from a public API to a table, re-runnable without duplicating rows.",
+    "resources": [
+      {
+        "title": "Data Engineering Zoomcamp",
+        "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+        "by": "DataTalks.Club",
+        "free": true,
+        "checked": "2026-11-21"
+      }
+    ]
   },
   "data-modeling": {
     "name": "Data modeling",
@@ -628,9 +875,17 @@
     "prereqs": [
       "sql"
     ],
-    "level": null,
-    "project": null,
-    "resources": []
+    "level": "You can design fact and dimension tables for a business process and defend the grain you chose.",
+    "project": "Design a star schema for an online shop's orders and write three queries against it.",
+    "resources": [
+      {
+        "title": "Dimensional Modeling Techniques",
+        "url": "https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/",
+        "by": "Kimball Group",
+        "free": true,
+        "checked": "2026-11-21"
+      }
+    ]
   },
   "excel": {
     "name": "Excel / spreadsheets",
@@ -684,25 +939,56 @@
     "name": "Looker",
     "category": "Analysis",
     "prereqs": [],
-    "level": null,
-    "project": null,
-    "resources": []
+    "level": "You can explore data in Looker, build a dashboard, and read a LookML model.",
+    "project": "Build one dashboard that answers a business question, with a filter a colleague can use.",
+    "resources": [
+      {
+        "title": "Looker documentation: introduction",
+        "url": "https://docs.cloud.google.com/looker/docs/intro",
+        "by": "Google Cloud",
+        "free": true,
+        "checked": "2026-11-21"
+      }
+    ]
   },
   "dashboards": {
     "name": "Dashboards & reporting",
     "category": "Analysis",
     "prereqs": [],
-    "level": null,
-    "project": null,
-    "resources": []
+    "level": "You can turn a vague request into a dashboard with a few well-chosen charts that someone checks every week.",
+    "project": "Build a one-page dashboard for a public dataset and have someone else find an answer on it in under a minute.",
+    "resources": [
+      {
+        "title": "Visual Best Practices",
+        "url": "https://help.tableau.com/current/pro/desktop/en-us/visual_best_practices.htm",
+        "by": "Tableau",
+        "free": true,
+        "checked": "2026-11-21"
+      },
+      {
+        "title": "Tableau free training videos",
+        "url": "https://www.tableau.com/learn/training",
+        "by": "Tableau",
+        "free": true,
+        "checked": "2026-11-21"
+      }
+    ]
   },
   "data-visualization": {
     "name": "Data visualization",
     "category": "Analysis",
     "prereqs": [],
-    "level": null,
-    "project": null,
-    "resources": []
+    "level": "You can pick the right chart for a comparison, a trend or a distribution, and remove what does not help the reader.",
+    "project": "Redraw three poor charts you find in the news and explain each change.",
+    "resources": [
+      {
+        "title": "Fundamentals of Data Visualization",
+        "url": "https://clauswilke.com/dataviz/",
+        "by": "Claus O. Wilke",
+        "free": true,
+        "checked": "2026-11-21"
+      }
+    ]
   },
   "statistics": {
     "name": "Statistics",
@@ -726,9 +1012,24 @@
     "prereqs": [
       "statistics"
     ],
-    "level": null,
-    "project": null,
-    "resources": []
+    "level": "You can design an experiment, pick a metric and sample size, and say whether a result is real.",
+    "project": "Analyse a public A/B test dataset and write a one-page recommendation with its caveats.",
+    "resources": [
+      {
+        "title": "Introduction to A/B Testing",
+        "url": "https://www.udacity.com/course/ab-testing--ud257",
+        "by": "Udacity with Google",
+        "free": false,
+        "checked": "2026-11-21"
+      },
+      {
+        "title": "Trustworthy Online Controlled Experiments (book site)",
+        "url": "https://experimentguide.com/",
+        "by": "Kohavi, Tang and Xu",
+        "free": false,
+        "checked": "2026-11-21"
+      }
+    ]
   },
   "pandas": {
     "name": "pandas / NumPy",
@@ -825,9 +1126,24 @@
       "python",
       "deep-learning"
     ],
-    "level": null,
-    "project": null,
-    "resources": []
+    "level": "You can build, train and save a model in TensorFlow or JAX and read someone else's training code.",
+    "project": "Port a small PyTorch model to TensorFlow or JAX and match its accuracy.",
+    "resources": [
+      {
+        "title": "TensorFlow tutorials",
+        "url": "https://www.tensorflow.org/tutorials",
+        "by": "TensorFlow",
+        "free": true,
+        "checked": "2026-11-21"
+      },
+      {
+        "title": "How to think in JAX",
+        "url": "https://docs.jax.dev/en/latest/notebooks/thinking_in_jax.html",
+        "by": "JAX",
+        "free": true,
+        "checked": "2026-11-21"
+      }
+    ]
   },
   "scikit-learn": {
     "name": "scikit-learn",
@@ -897,9 +1213,17 @@
     "prereqs": [
       "llm"
     ],
-    "level": null,
-    "project": null,
-    "resources": []
+    "level": "You can chunk documents, embed them, retrieve the right passages and measure whether answers improved.",
+    "project": "A question-answering tool over your own notes that cites the passage each answer came from.",
+    "resources": [
+      {
+        "title": "Advanced RAG (cookbook)",
+        "url": "https://huggingface.co/learn/cookbook/en/advanced_rag",
+        "by": "Hugging Face",
+        "free": true,
+        "checked": "2026-11-21"
+      }
+    ]
   },
   "agents": {
     "name": "AI agents",
@@ -925,9 +1249,17 @@
     "prereqs": [
       "deep-learning"
     ],
-    "level": null,
-    "project": null,
-    "resources": []
+    "level": "You can fine-tune a pretrained model on your own data and show it beats the base model on a held-out set.",
+    "project": "Fine-tune a small model on a labeled dataset and report before and after scores.",
+    "resources": [
+      {
+        "title": "LLM Course, chapter 3: fine-tuning a pretrained model",
+        "url": "https://huggingface.co/learn/llm-course/chapter3/1",
+        "by": "Hugging Face",
+        "free": true,
+        "checked": "2026-11-21"
+      }
+    ]
   },
   "model-evaluation": {
     "name": "Model evaluation",
@@ -935,9 +1267,24 @@
     "prereqs": [
       "machine-learning"
     ],
-    "level": null,
-    "project": null,
-    "resources": []
+    "level": "You can write down what good output looks like, build a test set, and score a model or prompt against it.",
+    "project": "Build a 30-case eval for one task and use it to choose between two prompts.",
+    "resources": [
+      {
+        "title": "Define success criteria and build evaluations",
+        "url": "https://platform.claude.com/docs/en/test-and-evaluate/develop-tests",
+        "by": "Anthropic",
+        "free": true,
+        "checked": "2026-11-21"
+      },
+      {
+        "title": "Your AI Product Needs Evals",
+        "url": "https://hamel.dev/blog/posts/evals/",
+        "by": "Hamel Husain",
+        "free": true,
+        "checked": "2026-11-21"
+      }
+    ]
   },
   "mlops": {
     "name": "Model deployment (MLOps)",
@@ -946,9 +1293,24 @@
       "machine-learning",
       "docker"
     ],
-    "level": null,
-    "project": null,
-    "resources": []
+    "level": "You can package a model, serve it behind an API, track experiments and notice when it degrades.",
+    "project": "Serve one of your models behind an API with a test, a container and basic monitoring.",
+    "resources": [
+      {
+        "title": "Made With ML",
+        "url": "https://madewithml.com/",
+        "by": "Goku Mohandas (Anyscale)",
+        "free": true,
+        "checked": "2026-11-21"
+      },
+      {
+        "title": "MLOps Zoomcamp",
+        "url": "https://github.com/DataTalksClub/mlops-zoomcamp",
+        "by": "DataTalks.Club",
+        "free": true,
+        "checked": "2026-11-21"
+      }
+    ]
   },
   "nlp": {
     "name": "NLP",
@@ -974,24 +1336,48 @@
     "prereqs": [
       "deep-learning"
     ],
-    "level": null,
-    "project": null,
-    "resources": []
+    "level": "You can train a convolutional or transformer model on images and explain what it gets wrong.",
+    "project": "Train a classifier on a dataset you photographed yourself and analyse its mistakes.",
+    "resources": [
+      {
+        "title": "CS231n: Deep Learning for Computer Vision",
+        "url": "https://cs231n.stanford.edu/",
+        "by": "Stanford",
+        "free": true,
+        "checked": "2026-11-21"
+      }
+    ]
   },
   "communication": {
     "name": "Written & verbal communication",
     "category": "Working with people",
     "prereqs": [],
-    "level": null,
-    "project": null,
-    "resources": []
+    "level": "You can explain a technical decision in writing so that someone outside the project can act on it.",
+    "project": "Write a one-page design note for something you built and have a non-engineer tell you what it says.",
+    "resources": [
+      {
+        "title": "Technical Writing courses",
+        "url": "https://developers.google.com/tech-writing",
+        "by": "Google",
+        "free": true,
+        "checked": "2026-11-21"
+      }
+    ]
   },
   "cross-functional": {
     "name": "Working with non-engineers",
     "category": "Working with people",
     "prereqs": [],
-    "level": null,
-    "project": null,
-    "resources": []
+    "level": "You can find out what a non-engineer actually needs, agree on scope, and report progress without jargon.",
+    "project": "Build a small tool for a real person outside engineering and write down what changed between their first request and what you shipped.",
+    "resources": [
+      {
+        "title": "Team Playbook",
+        "url": "https://www.atlassian.com/team-playbook",
+        "by": "Atlassian",
+        "free": true,
+        "checked": "2026-11-21"
+      }
+    ]
   }
 }

@@ -24,6 +24,33 @@ class TextTests(unittest.TestCase):
         self.assertEqual(collect.html_to_text(None), "")
 
 
+class ContentTests(unittest.TestCase):
+    """The hand-written files the site and the skill depend on."""
+
+    def test_every_skill_has_a_complete_guide(self):
+        guides = json.loads((ROOT / "data" / "skill_guides.json").read_text())
+        ids = {s["id"] for s in SKILLS}
+        self.assertEqual(set(guides), ids)
+        for skill_id, guide in guides.items():
+            self.assertTrue(guide["level"] and guide["project"], skill_id)
+            self.assertTrue(1 <= len(guide["resources"]) <= 2, skill_id)
+            for res in guide["resources"]:
+                self.assertTrue(res["url"].startswith("https://"), res["url"])
+                self.assertRegex(res["checked"], r"^\d{4}-\d{2}-\d{2}$")
+                self.assertTrue(res["title"] and res["by"])
+
+    def test_hiring_notes_point_at_real_skills_and_carry_sources(self):
+        notes = json.loads((ROOT / "data" / "practitioner_notes.json").read_text())
+        skill_ids = {s["id"] for s in SKILLS}
+        role_ids = {r["id"] for r in ROLES["roles"]}
+        for note in notes:
+            self.assertIn(note["skill"], skill_ids)
+            self.assertTrue(note.get("role") is None or note["role"] in role_ids)
+            self.assertTrue(note["note"] and note["who"])
+            if note.get("kind") == "published":
+                self.assertTrue(note["source"].startswith("https://"))
+
+
 class CleaningTests(unittest.TestCase):
     def test_lines_shared_by_most_postings_are_dropped(self):
         intro = "We build autonomy, AI and computer vision products for a safer world."
