@@ -45,6 +45,14 @@ class ContentTests(unittest.TestCase):
                 self.assertRegex(res["checked"], r"^\d{4}-\d{2}-\d{2}$")
                 self.assertTrue(res["title"] and res["by"])
 
+    def test_start_here_lists_are_real_skills_with_guides(self):
+        guides = json.loads((ROOT / "data" / "skill_guides.json").read_text())
+        for role in ROLES["roles"]:
+            self.assertTrue(3 <= len(role["start_here"]) <= 6, role["id"])
+            for skill_id in role["start_here"]:
+                self.assertIn(skill_id, guides)
+                self.assertTrue(guides[skill_id]["resources"], skill_id)
+
     def test_hiring_notes_point_at_real_skills_and_carry_sources(self):
         notes = json.loads((ROOT / "data" / "practitioner_notes.json").read_text())
         skill_ids = {s["id"] for s in SKILLS}
@@ -265,6 +273,40 @@ class SkillTests(unittest.TestCase):
             for text in texts:
                 self.assertIn(skill, self.found(text), f"{skill}: {text}")
 
+    def test_fourth_audit_false_positives_and_kept_matches(self):
+        positives = {
+            "gpu-cuda": ["We write Triton kernels.", "Optimizing GPU kernels for attention."],
+            "sas-spss": ["Experience with SAS, R or Stata for analysis.", "Comfortable with SQL, SAS."],
+            "rag": ["Work with embedding models and vector stores.", "Learned embeddings power ranking."],
+            "system-design": ["We design scalable systems for payments.", "Good grounding in system design."],
+            "git": ["Daily use of Git and GitHub review."],
+            "agile": ["We are an Agile team using sprints."],
+            "fine-tuning": ["You will be fine-tuning LLMs for customers."],
+            "excel": ["Strong spreadsheet skills.", "Advanced Excel."],
+            "operating-systems": ["Study of algorithms, operating systems and networks."],
+            "dashboards": ["Build dashboards for the sales team.", "Experience with BI tools."],
+            "angular-vue": ["Front end in Vue or Angular."],
+        }
+        negatives = {
+            "gpu-cuda": ["We run a large GPU fleet for model training.", "Scaling jobs to thousands of GPUs.", "Serve inference on CPU and GPU."],
+            "sas-spss": ["Storage uses PCIe, SAS, and I2C links.", "SATA, SAS and NVMe drives."],
+            "rag": ["Our goal is embedding them into daily practice."],
+            "system-design": ["Building high-quality, scalable systems that matter."],
+            "git": ["CI/CD runs on GitHub Actions."],
+            "agile": ["Parts lists live in tools such as Agile, with revisions."],
+            "fine-tuning": ["Fine-tuning performance for low latency."],
+            "excel": ["Charts, spreadsheets and other surfaces in our product."],
+            "operating-systems": ["Experience with UNIX-like operating systems and Terraform."],
+            "dashboards": ["As a Business Intelligence Analyst you will help.", "The observability stack \u2014 dashboards and metrics."],
+            "angular-vue": ["Vue d'ensemble du projet."],
+        }
+        for skill, texts in positives.items():
+            for text in texts:
+                self.assertIn(skill, self.found(text), f"{skill}: {text}")
+        for skill, texts in negatives.items():
+            for text in texts:
+                self.assertNotIn(skill, self.found(text), f"{skill}: {text}")
+
     def test_new_skills(self):
         positives = {
             "django-flask": ["Django or Flask", "APIs in FastAPI"],
@@ -274,7 +316,7 @@ class SkillTests(unittest.TestCase):
             "grpc": ["gRPC services", "Protocol Buffers"],
             "elasticsearch-search": ["Elasticsearch", "OpenSearch clusters"],
             "reinforcement-learning": ["reinforcement learning", "RLHF"],
-            "gpu-cuda": ["CUDA kernels", "GPU programming", "training on thousands of GPUs"],
+            "gpu-cuda": ["CUDA kernels", "GPU programming"],
             "analytics-tools": ["Google Analytics", "Amplitude or Mixpanel"],
             "sas-spss": ["SAS, SPSS or Stata"],
             "jupyter": ["Jupyter", "Databricks notebooks"],
@@ -326,7 +368,7 @@ class RoleTests(unittest.TestCase):
             "IT Systems Engineer": None,
             "People Systems Engineer": None,
             "Platform Engineer - Commercial Services Tools": "software-engineer",
-            "Technical Operations & Insights Analyst": "data-analyst",
+            "Technical Operations & Insights Analyst": None,  # operations analysts are a different job (fourth audit)
             "Software Engineer 3": None,
             "Software Engineer 3, Identity and Access Management": None,
             "Forward Deployed Software Engineer - US Government": None,
@@ -401,6 +443,35 @@ class RoleTests(unittest.TestCase):
             "Systems Research Engineer, GPU Programming": None,
             "Machine Learning Engineer II - Growth & Personalisation": "ai-engineer",
             "Research Engineer, Cybersecurity RL": "ai-engineer",
+        }
+        for title, expected in cases.items():
+            self.assertEqual(self.classifier.classify(title), expected, title)
+
+    def test_titles_from_the_fourth_audit(self):
+        cases = {
+            # data analyst: operations, master data, customer success, finance and mid-level are other jobs
+            "Business Analyst, Operations": None,
+            "Master Data Analyst": None,
+            "Business Analyst (Customer Success)": None,
+            "Finance Data Analyst Intern": None,
+            "Business Analyst (Mid-level)": None,
+            "Product Data Analyst": "data-analyst",
+            "Business Analyst (Growth)": "data-analyst",
+            # AI engineer: consulting and internal enablement are not building models
+            "Applied AI Engineer - Technology Consultant": None,
+            "AI Enablement Engineer": None,
+            "Applied AI Engineer": "ai-engineer",
+            # level 3 and above in parentheses
+            "Machine Learning Engineer (L3)": None,
+            "Machine Learning Engineer (L2)": "ai-engineer",
+            # ambiguous AI systems titles need a software or ML word
+            "AI Systems Engineer (f/m/d)": None,
+            "AI Infrastructure System Engineer": None,
+            "AI Infrastructure Systems Engineer": None,
+            "AI Infrastructure Software Engineer": "ai-engineer",
+            "Machine Learning Infrastructure Engineer": "ai-engineer",
+            "ML Systems Engineer": "ai-engineer",
+            "AI Systems Software Engineer": "ai-engineer",
         }
         for title, expected in cases.items():
             self.assertEqual(self.classifier.classify(title), expected, title)

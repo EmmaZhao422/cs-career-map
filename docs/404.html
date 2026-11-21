@@ -18,16 +18,33 @@
   p { max-width: 38rem; }
   a { color: #0b6e6e; text-underline-offset: 0.18em; }
   a:focus-visible { outline: 3px solid #0b6e6e; outline-offset: 3px; }
+  .skip { position: absolute; left: -999px; top: 0; background: #1b2440; color: #fff; padding: 0.75rem 1rem; }
+  .skip:focus { left: 0; z-index: 10; }
+  main:focus { outline: none; }
+  .links { margin: 0.25rem 0; }
+  .links a { display: inline-flex; align-items: center; min-height: 44px; }
 </style>
 </head>
 <body>
+<a class="skip" href="#main">Skip to content</a>
 <div class="wrap">
-  <a class="brand" href="/cs-career-map/">CS Career Map</a>
-  <main>
+  <a class="brand home-link" href="./">CS Career Map</a>
+  <main id="main" tabindex="-1">
     <h1>No <span class="mark">such</span> page</h1>
     <p>This address does not match a page on CS Career Map. The counts for Software Engineer, AI Engineer and Data Analyst are all on the home page.</p>
-    <p><a href="/cs-career-map/">Go to the home page</a></p>
+    <p class="links"><a class="home-link" href="./">Go to the home page</a></p>
+    <p class="links"><a href="https://github.com/EmmaZhao422/cs-career-map">See the project on GitHub</a></p>
   </main>
 </div>
+<script>
+  // GitHub Pages serves this page for any missing address, however deep. On a project site
+  // the home page is the first path segment, so point the home links there.
+  (function () {
+    if (!/\.github\.io$/.test(location.hostname)) return;
+    var first = location.pathname.split("/")[1];
+    var home = first ? "/" + first + "/" : "/";
+    [].forEach.call(document.querySelectorAll(".home-link"), function (a) { a.setAttribute("href", home); });
+  })();
+</script>
 </body>
 </html>

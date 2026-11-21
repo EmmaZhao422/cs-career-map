@@ -28,6 +28,7 @@ a:hover { text-decoration-thickness: 2px; }
 :focus-visible { outline: 3px solid var(--teal); outline-offset: 3px; border-radius: 2px; }
 [hidden] { display: none !important; }
 
+.sr-only { position: absolute; width: 1px; height: 1px; margin: -1px; padding: 0; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0; }
 .skip { position: absolute; left: -999px; top: 0; background: var(--ink); color: #fff; padding: 0.75rem 1rem; }
 .skip:focus { left: 0; z-index: 10; }
 
@@ -105,9 +106,12 @@ h3 { font: 700 1rem/1.3 var(--body); margin: 1.25rem 0 0.25rem; }
 .seg button + button { border-left: 1px solid var(--ink); }
 .seg button[aria-pressed="true"] { background: var(--ink); color: #fff; }
 .seg button:focus-visible { outline-offset: -5px; outline-color: var(--marker); }
-.chips { display: flex; flex-wrap: wrap; gap: 0.4rem; flex-basis: 100%; }
+.chip-row { display: flex; align-items: baseline; gap: 0.4rem 0.75rem; flex-basis: 100%; }
+.chip-label { font-size: 0.85rem; color: var(--soft); flex: 0 0 auto; }
+.chips { display: flex; flex-wrap: wrap; gap: 0.4rem; min-width: 0; }
 .chips button { font: 500 0.9rem/1 var(--body); color: var(--ink); background: var(--sheet); border: 1px solid var(--rule); border-radius: 999px; padding: 0.45rem 0.8rem; cursor: pointer; }
 .chips button[aria-pressed="true"] { border-color: var(--ink); box-shadow: inset 0 0 0 1px var(--ink); }
+.caveat { flex-basis: 100%; margin: 0; color: var(--soft); font-size: 0.85rem; }
 .status { color: var(--soft); font-size: 0.95rem; max-width: 44rem; margin: 0.75rem 0 0; }
 .status p { margin: 0; }
 .status .warn { color: var(--ink); background: var(--warn-bg); border-left: 4px solid #d9480f; padding: 0.5rem 0.75rem; margin-top: 0.6rem; }
@@ -193,12 +197,16 @@ summary { cursor: pointer; font-weight: 700; padding: 0.4rem 0; }
   .facts li { border-top: 1px solid var(--rule); padding: 0.8rem 0; }
   .start-list { grid-template-columns: 1fr; }
   .skill-btn { grid-template-columns: 1fr; gap: 0.3rem; padding: 0.7rem 0; }
-  .skill-btn .tally { justify-content: flex-start; padding-left: 0.1rem; }
-  .skill-btn .tally .sep { position: static; width: auto; height: auto; clip: auto; margin-left: -0.5rem; }
+  .skill-btn .tally { display: block; padding-left: 0.1rem; }
+  .skill-btn .tally .sep { position: static; width: auto; height: auto; overflow: visible; clip: auto; font-variant-numeric: normal; }
+  .skill-btn .tally .pct { min-width: 0; }
   .detail { padding-inline: 1rem; }
   .seg { width: 100%; }
-  .seg button { flex: 1 1 0; padding-inline: 0.5rem; font-size: 0.9rem; line-height: 1.15; }
-  .chips { flex-wrap: nowrap; overflow-x: auto; margin-inline: -1.1rem; padding: 0.1rem 1.1rem 0.4rem; scrollbar-width: thin; }
+  .seg button { flex: 1 1 auto; padding-inline: 0.6rem; font-size: 0.875rem; line-height: 1.15; }
+  .controls { gap: 0.5rem; margin-top: 1rem; }
+  .summary { font-size: 1.05rem; margin-bottom: 1rem; }
+  .chip-row { align-items: center; gap: 0.5rem; }
+  .chips { flex: 1 1 auto; flex-wrap: nowrap; overflow-x: auto; margin-right: -1.1rem; padding: 0.3rem 1.1rem 0.3rem 0.1rem; scrollbar-width: thin; }
   .chips button { flex: 0 0 auto; }
 }
 
@@ -207,7 +215,12 @@ summary { cursor: pointer; font-weight: 700; padding: 0.4rem 0; }
   .top a, .back { min-height: 44px; }
   .top nav a { padding-inline: 0.25rem; }
   .seg button { min-height: 44px; }
-  .chips button { min-height: 44px; padding-inline: 0.95rem; }
+  .chips button { min-height: 44px; padding-inline: 0.95rem; display: inline-flex; align-items: center; }
+  .start-name { display: inline-flex; align-items: center; min-height: 44px; }
+  .start-list li { padding: 0.2rem 0 0.6rem; }
+  .start-list li::before { align-self: start; padding-top: 0.6rem; }
+  .start-list .why { margin-top: -0.35rem; }
+  .detail a { display: inline-flex; align-items: center; min-height: 44px; }
   .more { min-height: 44px; }
   summary { padding-block: 0.65rem; }
 }

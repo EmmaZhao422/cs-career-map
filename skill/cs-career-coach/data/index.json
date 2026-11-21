@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T09:03:02+00:00",
+  "generated_at": "2026-11-21T09:19:11+00:00",
   "demo": false,
   "notice": null,
   "tiers": {
@@ -12,34 +12,34 @@
       "id": "ai-engineer",
       "title": "AI Engineer",
       "blurb": "Builds products on top of machine learning models and LLMs.",
-      "postings": 173,
-      "companies": 50,
+      "postings": 166,
+      "companies": 48,
       "entry_postings": 9,
       "entry_companies": 8,
       "top_skills": [
         {
           "name": "Python",
-          "pct": 72.8,
-          "company_pct": 84.0
+          "pct": 72.3,
+          "company_pct": 85.4
         },
         {
           "name": "LLMs",
-          "pct": 66.5,
-          "company_pct": 84.0
+          "pct": 67.5,
+          "company_pct": 85.4
         },
         {
           "name": "Machine learning",
-          "pct": 74.6,
-          "company_pct": 80.0
+          "pct": 76.5,
+          "company_pct": 81.2
         },
         {
           "name": "AI agents",
-          "pct": 39.9,
-          "company_pct": 66.0
+          "pct": 37.3,
+          "company_pct": 60.4
         },
         {
           "name": "PyTorch",
-          "pct": 33.5,
+          "pct": 34.3,
           "company_pct": 50.0
         }
       ]
@@ -48,35 +48,35 @@
       "id": "data-analyst",
       "title": "Data Analyst",
       "blurb": "Turns raw data into answers a team can act on.",
-      "postings": 30,
-      "companies": 17,
-      "entry_postings": 6,
-      "entry_companies": 5,
+      "postings": 22,
+      "companies": 14,
+      "entry_postings": 4,
+      "entry_companies": 4,
       "top_skills": [
         {
           "name": "SQL & relational databases",
-          "pct": 93.3,
+          "pct": 95.5,
           "company_pct": 100.0
         },
         {
           "name": "Dashboards & reporting",
-          "pct": 73.3,
-          "company_pct": 88.2
+          "pct": 77.3,
+          "company_pct": 92.9
         },
         {
           "name": "Python",
-          "pct": 63.3,
-          "company_pct": 82.4
+          "pct": 63.6,
+          "company_pct": 85.7
         },
         {
           "name": "Statistics",
-          "pct": 50.0,
-          "company_pct": 76.5
+          "pct": 54.5,
+          "company_pct": 71.4
         },
         {
           "name": "Data visualization",
           "pct": 50.0,
-          "company_pct": 70.6
+          "company_pct": 64.3
         }
       ]
     },
@@ -92,7 +92,7 @@
         {
           "name": "Python",
           "pct": 52.5,
-          "company_pct": 76.4
+          "company_pct": 75.3
         },
         {
           "name": "AWS",
@@ -101,7 +101,7 @@
         },
         {
           "name": "Observability & monitoring",
-          "pct": 22.9,
+          "pct": 22.8,
           "company_pct": 67.4
         },
         {
@@ -111,7 +111,7 @@
         },
         {
           "name": "Kubernetes",
-          "pct": 31.0,
+          "pct": 30.9,
           "company_pct": 65.2
         }
       ]

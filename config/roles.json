@@ -1,6 +1,6 @@
 {
   "_comment": "Order matters: a posting is assigned to the FIRST role whose include pattern matches its title. Patterns are Python regexes run on the lowercased title. 'seniority_exclude' words drop a title wherever they appear. 'seniority_positional' words (staff, lead, head, manager, architect) drop a title only when they come before the first 'role_nouns' match, or right after it with nothing but spaces in between: 'Staff Software Engineer' and 'Engineering Manager' are dropped, 'Software Engineer, Staff Tools' is kept. 'exclude_all' drops a title from every role. 'advanced_degree' marks PhD and Master's postings, which are counted in the totals but not in the intern and new-grad counts.",
-  "seniority_exclude": "\\b(senior|sr\\.?|principal|director|vp|vice president|distinguished|fellow|chief|tech lead|team lead)\\b|\\b(iii|iv)\\b|\\b(engineer|developer|analyst|scientist),? ?(3|4|5|6)\\b",
+  "seniority_exclude": "\\b(senior|sr\\.?|principal|director|vp|vice president|distinguished|fellow|chief|tech lead|team lead)\\b|\\b(iii|iv)\\b|\\b(engineer|developer|analyst|scientist),? ?(3|4|5|6)\\b|\\(l[3-9]\\)|\\bmid[- ]level\\b",
   "seniority_positional": "\\b(staff|lead|head|manager|architect)\\b",
   "role_nouns": "\\b(engineer|engineering|developer|analyst|analytics|scientist|swe|sde|programmer|researcher|technical staff)\\b",
   "exclude_all": [
@@ -19,13 +19,22 @@
         "^(?=.*\\b(research engineer|research scientist|applied scientist)\\b).*\\b(ai|ml|machine learning|deep learning|llms?|genai|generative ai|rl|reinforcement learning|alignment|interpretability|pre-?training|post-?training|large-scale training|model evaluations?|nlp|computer vision)\\b"
       ],
       "exclude": [
-        "\\b(sales|solutions|support|recruit\\w*|hardware|mechanical|electrical|email|marketing|value|threat|site reliability)\\b",
+        "\\b(sales|solutions|support|recruit\\w*|consultants?|enablement|hardware|mechanical|electrical|email|marketing|value|threat|site reliability)\\b",
         "\\bforward[- ]deployed\\b",
         "\\b(security|red team)\\b",
         "\\bgrowth engineer\\b",
         "\\bpeople analytics\\b",
         "\\bcustomer success\\b",
-        "\\bgpu programming\\b|\\bsystems research\\b"
+        "\\bgpu programming\\b|\\bsystems research\\b",
+        "^(?!.*\\b(software|ml|machine learning)\\b).*\\bai (?:infrastructure )?systems? engineer\\b"
+      ],
+      "start_here": [
+        "python",
+        "statistics",
+        "machine-learning",
+        "pytorch",
+        "llm",
+        "model-evaluation"
       ]
     },
     {
@@ -38,7 +47,15 @@
         "\\bdata analytics (intern|internship)\\b"
       ],
       "exclude": [
-        "\\b(sales|recruit\\w*|financial|credit|security|compliance|engineer|developer)\\b"
+        "\\b(sales|recruit\\w*|financ(?:e|ial)|credit|security|compliance|engineer|developer|operations?|master data|customer success)\\b"
+      ],
+      "start_here": [
+        "sql",
+        "excel",
+        "statistics",
+        "python",
+        "data-visualization",
+        "tableau"
       ]
     },
     {
@@ -60,7 +77,16 @@
         "\\b(embedded|firmware|avionics|fpga|rf|rfic|antenna|battery)\\b",
         "^(?!.*\\b(full[- ]?stack|application software)\\b).*\\bflight software\\b",
         "\\b(salesforce|demo|marketing|value)\\b"
+      ],
+      "start_here": [
+        "python",
+        "data-structures-algorithms",
+        "git",
+        "sql",
+        "javascript",
+        "aws"
       ]
     }
-  ]
+  ],
+  "_start_here_comment": "start_here is editorial: the order we would learn things in for this job, fundamentals first. It is advice, not a measurement; the site shows each item's count beside it."
 }

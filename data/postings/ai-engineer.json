@@ -1161,33 +1161,6 @@
     "rules": "70010f537232"
   },
   {
-    "key": "greenhouse:celonis:7765659003",
-    "company": "Celonis",
-    "title": "Applied AI Engineer - Technology Consultant",
-    "url": "https://job-boards.greenhouse.io/celonis/jobs/7765659003?gh_jid=7765659003",
-    "location": "New York, US, New York",
-    "level": "open",
-    "posted_at": "2026-06-30T16:50:58-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "aws",
-      "azure",
-      "pandas",
-      "machine-learning",
-      "pytorch",
-      "scikit-learn",
-      "llm",
-      "prompt-engineering",
-      "rag",
-      "agents",
-      "communication",
-      "cross-functional"
-    ],
-    "rules": "70010f537232"
-  },
-  {
     "key": "greenhouse:celonis:7885808003",
     "company": "Celonis",
     "title": "Full stack AI Engineer",
@@ -1759,26 +1732,6 @@
       "scikit-learn",
       "llm",
       "reinforcement-learning"
-    ],
-    "rules": "70010f537232"
-  },
-  {
-    "key": "greenhouse:purestorage:8331163",
-    "company": "Everpure",
-    "title": "AI Enablement Engineer",
-    "url": "https://job-boards.greenhouse.io/purestorage/jobs/8331163",
-    "location": "Santa Clara, California",
-    "level": "open",
-    "posted_at": "2026-10-29T17:40:43-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "aws",
-      "llm",
-      "prompt-engineering",
-      "rag",
-      "agents",
-      "cross-functional"
     ],
     "rules": "70010f537232"
   },
@@ -2859,25 +2812,6 @@
     "rules": "70010f537232"
   },
   {
-    "key": "greenhouse:roblox:8356764",
-    "company": "Roblox",
-    "title": "Software Engineer, ROS Open Platform & AI Enablement",
-    "url": "https://careers.roblox.com/jobs/8356764?gh_jid=8356764",
-    "location": "San Mateo, CA, United States",
-    "level": "open",
-    "posted_at": "2026-11-10T19:11:57-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "typescript",
-      "data-structures-algorithms",
-      "data-pipelines",
-      "agents"
-    ],
-    "rules": "70010f537232"
-  },
-  {
     "key": "greenhouse:scaleai:4751059005",
     "company": "Scale AI",
     "title": "Applied AI Engineer",
@@ -3242,66 +3176,6 @@
       "fine-tuning",
       "reinforcement-learning",
       "mlops"
-    ],
-    "rules": "70010f537232"
-  },
-  {
-    "key": "lever:sonarsource:3cae19c4-144b-41b9-89c1-03203547a8d3",
-    "company": "Sonarsource",
-    "title": "AI Systems Engineer",
-    "url": "https://jobs.lever.co/sonarsource/3cae19c4-144b-41b9-89c1-03203547a8d3",
-    "location": "Geneva",
-    "level": "open",
-    "posted_at": "2026-09-29T08:48:38+00:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "javascript",
-      "rest-apis",
-      "agents",
-      "communication",
-      "cross-functional"
-    ],
-    "rules": "70010f537232"
-  },
-  {
-    "key": "lever:sonarsource:54ebd27e-5f7f-4586-bcc2-f59d1700feba",
-    "company": "Sonarsource",
-    "title": "AI Systems Engineer",
-    "url": "https://jobs.lever.co/sonarsource/54ebd27e-5f7f-4586-bcc2-f59d1700feba",
-    "location": "Austin, Texas",
-    "level": "open",
-    "posted_at": "2026-07-22T12:18:43+00:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "javascript",
-      "rest-apis",
-      "agents",
-      "communication",
-      "cross-functional"
-    ],
-    "rules": "70010f537232"
-  },
-  {
-    "key": "lever:sonarsource:6ae7c963-dd85-4ee4-a436-092490d1677c",
-    "company": "Sonarsource",
-    "title": "AI Systems Engineer (f/m/d)",
-    "url": "https://jobs.lever.co/sonarsource/6ae7c963-dd85-4ee4-a436-092490d1677c",
-    "location": "Bochum",
-    "level": "open",
-    "posted_at": "2026-09-29T08:48:11+00:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "javascript",
-      "rest-apis",
-      "agents",
-      "communication",
-      "cross-functional"
     ],
     "rules": "70010f537232"
   },
@@ -4072,78 +3946,6 @@
     "rules": "70010f537232"
   },
   {
-    "key": "greenhouse:togetherai:5180155007",
-    "company": "Together AI",
-    "title": "AI Infrastructure System Engineer",
-    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5180155007",
-    "location": "Bangalore, India",
-    "level": "open",
-    "posted_at": "2026-07-13T12:32:15-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "go",
-      "rust",
-      "distributed-systems",
-      "linux",
-      "kubernetes",
-      "terraform",
-      "dashboards",
-      "agents",
-      "gpu-cuda"
-    ],
-    "rules": "70010f537232"
-  },
-  {
-    "key": "greenhouse:togetherai:4555544007",
-    "company": "Together AI",
-    "title": "AI Infrastructure Systems Engineer",
-    "url": "https://job-boards.greenhouse.io/togetherai/jobs/4555544007",
-    "location": "Amsterdam ",
-    "level": "open",
-    "posted_at": "2025-04-28T19:00:19-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "go",
-      "rust",
-      "distributed-systems",
-      "linux",
-      "kubernetes",
-      "terraform",
-      "dashboards",
-      "agents",
-      "gpu-cuda"
-    ],
-    "rules": "70010f537232"
-  },
-  {
-    "key": "greenhouse:togetherai:5138540007",
-    "company": "Together AI",
-    "title": "AI Infrastructure Systems Engineer",
-    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5138540007",
-    "location": "San Francisco",
-    "level": "open",
-    "posted_at": "2026-05-14T23:04:22-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "go",
-      "rust",
-      "distributed-systems",
-      "linux",
-      "kubernetes",
-      "terraform",
-      "dashboards",
-      "agents",
-      "gpu-cuda"
-    ],
-    "rules": "70010f537232"
-  },
-  {
     "key": "greenhouse:togetherai:4385540007",
     "company": "Together AI",
     "title": "Machine Learning Engineer - Inference",
@@ -4216,32 +4018,6 @@
       "mlops",
       "communication",
       "cross-functional"
-    ],
-    "rules": "70010f537232"
-  },
-  {
-    "key": "greenhouse:twilio:8258587",
-    "company": "Twilio",
-    "title": "Machine Learning Engineer (L3)",
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/8258587",
-    "location": "Remote - India",
-    "level": "open",
-    "posted_at": "2026-10-08T08:35:31-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "aws",
-      "gcp",
-      "azure",
-      "statistics",
-      "ab-testing",
-      "machine-learning",
-      "deep-learning",
-      "llm",
-      "rag",
-      "agents",
-      "communication"
     ],
     "rules": "70010f537232"
   },

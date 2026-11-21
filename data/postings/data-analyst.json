@@ -1,78 +1,5 @@
 [
   {
-    "key": "greenhouse:andurilindustries:5269977007",
-    "company": "Anduril Industries",
-    "title": "2027 Finance Data Analyst Intern",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5269977007?gh_jid=5269977007",
-    "location": "Costa Mesa, California, United States",
-    "level": "entry",
-    "posted_at": "2026-10-20T18:14:02-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "sql",
-      "data-warehouse",
-      "data-pipelines",
-      "excel",
-      "tableau",
-      "power-bi",
-      "dashboards",
-      "data-visualization",
-      "statistics",
-      "llm",
-      "prompt-engineering",
-      "agents",
-      "communication",
-      "cross-functional"
-    ],
-    "rules": "70010f537232"
-  },
-  {
-    "key": "greenhouse:andurilindustries:5296416007",
-    "company": "Anduril Industries",
-    "title": "Finance Business Intelligence & Analytics Analyst",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5296416007?gh_jid=5296416007",
-    "location": "Costa Mesa, California, United States",
-    "level": "open",
-    "posted_at": "2026-11-16T12:32:47-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "sql",
-      "git",
-      "spark",
-      "data-warehouse",
-      "data-modeling",
-      "dashboards",
-      "communication",
-      "cross-functional"
-    ],
-    "rules": "70010f537232"
-  },
-  {
-    "key": "greenhouse:andurilindustries:4985350007",
-    "company": "Anduril Industries",
-    "title": "Production Master Data Analyst",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/4985350007?gh_jid=4985350007",
-    "location": "Costa Mesa, California, United States",
-    "level": "open",
-    "posted_at": "2025-11-18T13:08:35-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "sql",
-      "excel",
-      "tableau",
-      "power-bi",
-      "data-visualization",
-      "cross-functional"
-    ],
-    "rules": "70010f537232"
-  },
-  {
     "key": "greenhouse:cloudflare:8109620",
     "company": "Cloudflare",
     "title": "Data Analyst",
@@ -141,31 +68,6 @@
       "machine-learning",
       "prompt-engineering",
       "agents",
-      "cross-functional"
-    ],
-    "rules": "70010f537232"
-  },
-  {
-    "key": "greenhouse:figma:6249978004",
-    "company": "Figma",
-    "title": "Technical Operations & Insights Analyst",
-    "url": "https://boards.greenhouse.io/figma/jobs/6249978004?gh_jid=6249978004",
-    "location": "San Francisco, CA • New York, NY • United States",
-    "level": "open",
-    "posted_at": "2026-11-10T13:53:05-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "sql",
-      "r",
-      "git",
-      "dbt",
-      "data-warehouse",
-      "data-modeling",
-      "statistics",
-      "ab-testing",
-      "communication",
       "cross-functional"
     ],
     "rules": "70010f537232"
@@ -241,22 +143,6 @@
       "pandas",
       "scikit-learn",
       "cross-functional"
-    ],
-    "rules": "70010f537232"
-  },
-  {
-    "key": "greenhouse:hellofresh:7741137",
-    "company": "HelloFresh",
-    "title": "Delivery Operations Business Analyst Intern France et Benelux(M/F/X)",
-    "url": "https://careers.hellofresh.com/global/en/job/7741137?gh_jid=7741137",
-    "location": "Paris, Paris, France",
-    "level": "entry",
-    "posted_at": "2026-03-22T18:02:26-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "sql",
-      "excel"
     ],
     "rules": "70010f537232"
   },
@@ -442,58 +328,6 @@
     "rules": "70010f537232"
   },
   {
-    "key": "greenhouse:spacex:8641231002",
-    "company": "SpaceX",
-    "title": "Business Analyst (Customer Success)",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8641231002?gh_jid=8641231002",
-    "location": "Bastrop, TX",
-    "level": "open",
-    "posted_at": "2026-07-21T12:01:11-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "sql",
-      "r",
-      "data-pipelines",
-      "tableau",
-      "power-bi",
-      "looker",
-      "dashboards",
-      "data-visualization",
-      "statistics",
-      "ab-testing",
-      "cross-functional"
-    ],
-    "rules": "70010f537232"
-  },
-  {
-    "key": "greenhouse:spacex:8641250002",
-    "company": "SpaceX",
-    "title": "Business Analyst (Customer Success)",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8641250002?gh_jid=8641250002",
-    "location": "Redmond, WA",
-    "level": "open",
-    "posted_at": "2026-07-21T12:01:11-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "sql",
-      "r",
-      "data-pipelines",
-      "tableau",
-      "power-bi",
-      "looker",
-      "dashboards",
-      "data-visualization",
-      "statistics",
-      "ab-testing",
-      "cross-functional"
-    ],
-    "rules": "70010f537232"
-  },
-  {
     "key": "greenhouse:spacex:8681172002",
     "company": "SpaceX",
     "title": "Business Analyst (Starlink Growth)",
@@ -653,42 +487,6 @@
       "data-pipelines",
       "dashboards",
       "statistics",
-      "cross-functional"
-    ],
-    "rules": "70010f537232"
-  },
-  {
-    "key": "greenhouse:stripe:8364868",
-    "company": "Stripe",
-    "title": "Finance and Strategy Data Analyst",
-    "url": "https://stripe.com/jobs/search?gh_jid=8364868",
-    "location": "Bengaluru",
-    "level": "open",
-    "posted_at": "2026-11-11T07:40:40-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "dashboards",
-      "data-visualization",
-      "cross-functional"
-    ],
-    "rules": "70010f537232"
-  },
-  {
-    "key": "greenhouse:sumup:8907441002",
-    "company": "SumUp",
-    "title": "Business Analyst (Mid-level)",
-    "url": "https://sumup.com/careers/positions/8907441002?gh_jid=8907441002",
-    "location": "São Paulo, São Paulo, Brazil",
-    "level": "open",
-    "posted_at": "2026-10-26T13:54:01-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "sql",
-      "excel",
-      "tableau",
-      "dashboards",
       "cross-functional"
     ],
     "rules": "70010f537232"

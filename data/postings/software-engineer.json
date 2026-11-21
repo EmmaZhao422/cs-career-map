@@ -13743,6 +13743,25 @@
     "rules": "70010f537232"
   },
   {
+    "key": "greenhouse:roblox:8356764",
+    "company": "Roblox",
+    "title": "Software Engineer, ROS Open Platform & AI Enablement",
+    "url": "https://careers.roblox.com/jobs/8356764?gh_jid=8356764",
+    "location": "San Mateo, CA, United States",
+    "level": "open",
+    "posted_at": "2026-11-10T19:11:57-05:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "python",
+      "typescript",
+      "data-structures-algorithms",
+      "data-pipelines",
+      "agents"
+    ],
+    "rules": "70010f537232"
+  },
+  {
     "key": "greenhouse:rubrik:8349847",
     "company": "Rubrik Job Board",
     "title": "Software Engineer",
@@ -20568,37 +20587,6 @@
       "nosql",
       "kafka",
       "cross-functional"
-    ],
-    "rules": "70010f537232"
-  },
-  {
-    "key": "greenhouse:sumup:8364212002",
-    "company": "SumUp",
-    "title": "Data Platform Engineer (Mid-Level)",
-    "url": "https://sumup.com/careers/positions/8364212002?gh_jid=8364212002",
-    "location": "Berlin, Germany",
-    "level": "open",
-    "posted_at": "2026-07-23T04:46:25-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "sql",
-      "go",
-      "git",
-      "docker",
-      "kubernetes",
-      "ci-cd",
-      "terraform",
-      "observability",
-      "gcp",
-      "kafka",
-      "airflow",
-      "dbt",
-      "data-warehouse",
-      "data-pipelines",
-      "machine-learning",
-      "agents"
     ],
     "rules": "70010f537232"
   },

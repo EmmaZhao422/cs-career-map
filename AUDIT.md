@@ -16,7 +16,7 @@ Two passes, reviewed by Claude (an AI model), not yet by a person. About 1,200 p
 
 | Problem | Example | Fix |
 | --- | --- | --- |
-| Skills counted from text that a company repeats in every posting | A company intro naming "computer vision" put that skill on all of the company's postings | Lines shared by half or more of a board's postings are dropped before matching |
+| Skills counted from text that a company repeats in every posting | A company intro naming "computer vision" put that skill on all of the company's postings | Lines shared by half or more of a board's distinct job titles are dropped before matching |
 | A company's own name counted as a skill | "MongoDB" in MongoDB's postings, "GitLab" in GitLab's | The company's name is blanked before matching; `gitlab` is no longer a Git pattern |
 | "operating system" used for a product | "an AI-powered operating system" | Only the plural, or phrases such as "operating system internals" |
 | "rails" meaning payment rails | "local payment rails" | Requires "Ruby" or "Rails app / framework / ..." |
@@ -105,3 +105,36 @@ Software Engineer lost 48 listings to the new exclusions and gained 3 that moved
 - The place list used to merge titles is a fixed list of cities and countries. Places not on it keep titles apart, and regional words such as "LatAm" or "EMEA" are treated as team names.
 - An advanced-degree posting is one whose title names a PhD or a Master's and not a bachelor's degree; "BS/MS/PhD" internships still count as entry level.
 - The excluded Software Engineer families (embedded, flight software and the rest) are real software jobs. They may deserve a job of their own.
+
+## 21 November 2026, fourth pass (second audit under the new rules)
+
+About 1,200 postings (1,224: 203 AI Engineer, 984 Software Engineer, 37 Data Analyst) were read again under the rules of the third pass. An independent reviewer (Claude, an AI model; not yet a person) read the matched words and up to seven contexts for all 84 skills, and 109 sampled titles (40, 40 and 29 per job). Every change has a test in `collector/test_collect.py`.
+
+### Problems found and fixed
+
+| Problem | Example (own words) | Fix |
+| --- | --- | --- |
+| GPU skill counted from any GPU and training or inference in one sentence | A large GPU fleet for model training | Only CUDA, Triton, GPU programming, kernels, architecture or optimisation |
+| SAS counted as the storage interface | "PCIe, SAS and I2C links" | SAS must sit beside R, Python, SQL, SPSS, Stata or words like macros, Viya |
+| "embedding" as a verb counted as RAG | "embedding them into daily practice" | "embeddings", or "embedding" with models, vectors, layers, search, pipelines or stores |
+| Any "scalable systems" counted as system design | "building high-quality, scalable systems" | Needs design, architect or build before it |
+| GitHub Actions counted as Git | "CI runs on GitHub Actions" | Excluded after "github" (Copilot already was) |
+| Agile, the parts-list tool, counted as the method | "tools such as Agile, with revisions" | Not after "such as", "like", "in"; not before PLM or BOM |
+| "fine-tuning performance" counted as model fine-tuning | "fine-tuning performance for low latency" | Not before performance, latency or the system |
+| "spreadsheets" in a product description counted as Excel | "charts, spreadsheets and other surfaces" | Needs modeling, skills, tools or software after it |
+| Using UNIX-like systems counted as OS knowledge | "UNIX-like operating systems and Terraform" | Not after "UNIX-like" or "Linux" |
+| A job title echoed in the text counted as dashboards | "As a Business Intelligence Analyst you will" | Not before analyst, engineer, developer or specialist; "observability stack — dashboards" excluded |
+| French "Vue" counted as Vue.js | "Vue d'ensemble du projet" | Not before "d'" or "de" |
+| Operations, master data, customer success and finance analysts counted as Data Analyst | "Delivery Operations Business Analyst" | Added to the Data Analyst exclusions |
+| Mid-level and "(L3)" and above counted as early career | "Business Analyst (Mid-level)", "ML Engineer (L3)" | Added to the seniority rule |
+| Consulting and internal enablement counted as AI Engineer | "Technology Consultant", "AI Enablement Engineer" | Added to the AI Engineer exclusions |
+| Ambiguous systems titles counted as AI Engineer | "AI Systems Engineer" | Dropped unless the title also says software, ML or machine learning |
+
+Effect on stored postings after `collect.py build`: AI Engineer 203 to 193 (10 dropped, one of them moved to Software Engineer), Data Analyst 37 to 28 (9 dropped), Software Engineer 984 to 984 (one added, one dropped). Skill patterns change only when postings are read again (see the third pass).
+
+### Known and accepted
+
+- **Cross-functional** still counts a bare "stakeholders". About three of seven sampled contexts were weak.
+- **A/B testing** counts "experimentation platforms" in a machine learning training sense (one of seven sampled).
+- **Object-oriented** counts "design patterns" in a security sense (one of seven sampled).
+- **Aerospace software titles** ("Mission", "Orbital", "Collision Avoidance") stay in Software Engineer; they are software jobs.

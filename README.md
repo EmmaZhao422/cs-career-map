@@ -2,7 +2,7 @@
 
 Which skills do job postings ask for? This project counts.
 
-For each job, CS Career Map reads public postings from company career pages, counts how often each skill is mentioned, and pairs every skill with one or two checked places to learn it and a small project that proves you can do it. It ships as a website and as a Claude skill that coaches you through the plan.
+For each job, CS Career Map reads public postings from company career pages, counts how many companies ask for each skill, and pairs every skill with checked places to learn it and a small project that proves you can do it. It ships as a website and as a Claude skill that coaches you through the plan.
 
 **Live site:** <https://emmazhao422.github.io/cs-career-map/>
 

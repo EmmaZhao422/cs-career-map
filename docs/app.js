@@ -63,6 +63,8 @@
     return d.toLocaleDateString("en-GB", { year: "numeric", month: "short", day: "numeric", timeZone: "UTC" });
   }
 
+  // Every percentage on the site goes through these two functions, from raw counts.
+  function share(num, den) { return den ? 100 * num / den : 0; }
   function pctText(p) { return (p >= 10 || p === 0 ? Math.round(p) : Math.round(p * 10) / 10) + "%"; }
 
   function tierFor(pct, tiers) {
@@ -94,10 +96,22 @@
   }
 
   // ---------- home ----------
-  function renderHome(index) {
+  function renderHome(index, roleFiles) {
+    var byId = {};
+    (roleFiles || []).forEach(function (r) { if (r) byId[r.id] = r; });
     var total = index.roles.reduce(function (s, r) { return s + r.postings; }, 0);
     var list = h("ul", { class: "jobs" }, index.roles.map(function (role) {
-      var usesCompanies = (role.top_skills || []).some(function (s) { return has(s.company_pct); });
+      var file = byId[role.id];
+      var named = {};
+      if (file) file.skills.forEach(function (s) { named[s.name] = s; });
+      // Shares are computed from the role file's raw counts, exactly as on the job page.
+      var tops = (role.top_skills || []).map(function (s) {
+        var c = named[s.name];
+        if (c && has(c.companies) && file.companies) return { name: s.name, p: share(c.companies, file.companies), co: true };
+        if (c && file.postings) return { name: s.name, p: share(c.count, file.postings), co: false };
+        return { name: s.name, p: has(s.company_pct) ? s.company_pct : s.pct, co: has(s.company_pct) };
+      });
+      var usesCompanies = tops.some(function (s) { return s.co; });
       var small = role.postings && role.companies < SMALL_SAMPLE;
       return h("li", {}, h("a", { class: "job", href: "#" + role.id }, [
         h("div", {}, [
@@ -111,8 +125,8 @@
         h("div", { class: "mini-wrap" }, [
           h("p", { class: "mini-label", text: usesCompanies ? "Share of companies asking" : "Share of postings asking" }),
           h("ul", { class: "mini", "aria-label": usesCompanies ? "Most requested skills, share of companies" : "Most requested skills, share of postings" },
-            (role.top_skills || []).map(function (s) {
-              var p = has(s.company_pct) ? s.company_pct : s.pct;
+            tops.map(function (s) {
+              var p = s.p;
               return h("li", {}, [
                 h("span", { class: "bar" }, [
                   h("i", { class: "stroke", style: "width:" + Math.max(1.5, Math.min(100, p)) + "%", "aria-hidden": "true" }),
@@ -130,14 +144,14 @@
     var facts = h("ul", { class: "facts" }, [
       fact1,
       h("li", {}, [h("b", { text: "Each company counted once. " }),
-        "A company with a hundred openings weighs the same as one with three, unless you switch to counting postings."]),
+        "A company with a hundred postings weighs the same as one with three, unless you switch to counting postings."]),
       h("li", {}, [h("b", { text: "Every learning link checked. " }),
         "Each guide links to at most two resources, and every link was opened before it went on the site."])
     ]);
 
     show([
       h("h1", { text: "Which skills do job postings ask for? We counted." }),
-      h("p", { class: "lede", text: "CS Career Map reads public job postings from company career pages, counts how many companies ask for each skill, and points you to one good place to learn it." }),
+      h("p", { class: "lede", text: "CS Career Map reads public job postings from company career pages, counts how many companies ask for each skill, and links to checked places to learn it." }),
       h("p", { class: "note", text: total
         ? plural(total, "posting") + " read so far across " + plural(index.roles.length, "job") + ". Pick the job you want."
         : "No postings have been collected yet." }),
@@ -154,21 +168,19 @@
       ]),
       h("h2", { text: "Hiring for one of these jobs?" }),
       h("p", { class: "note" }, [
-        "Postings are wish lists. Some skills already carry notes summarised from companies' own public hiring pages. If you interview or hire for one of these roles, tell students what you look for in practice. ",
+        "Postings are wish lists. Some skills already carry notes summarised from companies' own public hiring pages. If you interview or hire for one of these jobs, tell students what you look for in practice. ",
         h("a", { href: issueLink("practitioner-note.yml", "Practitioner note: "), text: "Add a practitioner note" }), "."
       ])
     ]);
 
     // The number of distinct companies is the union of the jobs' company lists.
-    Promise.all(index.roles.map(function (r) { return getJSON("data/roles/" + r.id + ".json"); })).then(function (roles) {
-      var names = {};
-      roles.forEach(function (r) { (r.company_counts || []).forEach(function (c) { names[c[0]] = 1; }); });
-      var n = Object.keys(names).length;
-      if (n > 1 && fact1.isConnected) {
-        fact1.replaceChildren(h("b", { text: "Real postings. " }),
-          "Read from the public job boards of " + n + " companies, and recounted every Monday.");
-      }
-    }).catch(function () { /* keep the wording without a number */ });
+    var names = {};
+    Object.keys(byId).forEach(function (k) { (byId[k].company_counts || []).forEach(function (c) { names[c[0]] = 1; }); });
+    var n = Object.keys(names).length;
+    if (n > 1) {
+      fact1.replaceChildren(h("b", { text: "Real postings. " }),
+        "Read from the public job boards of " + n + " companies, and recounted every Monday.");
+    }
   }
 
   // ---------- role: measurement ----------
@@ -180,7 +192,7 @@
     var rows = role.skills.map(function (s) {
       var num = entry ? (byCo ? s.entry_companies : s.entry_count) : (byCo ? s.companies : s.count);
       var co = entry ? (entryCo ? s.entry_companies : null) : s.companies;
-      var pct = den ? 100 * num / den : 0;
+      var pct = share(num, den);
       return {
         s: s, num: num, pct: pct, companies: co, tier: tierFor(pct, index.tiers),
         people: s.category === PEOPLE,
@@ -200,24 +212,19 @@
   function renderRole(role, skills, notes, index) {
     page = {
       kind: "role", id: role.id, role: role, skills: skills, notes: notes, index: index,
-      open: {}, lastOpen: null, category: "All", showRare: false, rows: {}
+      open: {}, pushed: {}, lastOpen: null, category: "All", showRare: false, rows: {}
     };
 
-    var topName = role.top_company, topShare = role.top_company_share;
-    if (!has(topShare) && role.company_counts && role.company_counts.length && role.postings) {
-      topName = role.company_counts[0][0];
-      topShare = 100 * role.company_counts[0][1] / role.postings;
-    }
-    var summary = "Based on " + plural(role.postings, "posting") + " from " + plural(role.companies, "company", "companies") +
-      (role.last_seen_to ? ", last read " + niceDate(role.last_seen_to) : "") + ". " +
-      (role.entry_postings ? role.entry_postings + " of them are intern or new-grad postings." : "") +
-      (role.listings > role.postings ? " The same title at one company is counted once, so " + role.listings + " listings became " + role.postings + " postings." : "") +
-      (topName && topShare >= 10 ? " " + topName + " alone accounts for " + Math.round(topShare) + "% of these postings, which is why the default view counts each company once." : "");
+    var top = topEmployer(role);
+    var summary = "Based on " + plural(role.postings, "posting") + " from " + plural(role.companies, "company", "companies") + "." +
+      (role.entry_postings ? " " + role.entry_postings + " " + (role.entry_postings === 1 ? "is an intern or new-grad posting." : "are intern or new-grad postings.") : "") +
+      (top && top.share >= 20 ? " Largest single employer: " + top.name + ", " + pctText(top.share) + " of postings." : "");
 
     var categories = ["All"].concat(role.skills.map(function (s) { return s.category; })
       .filter(function (c, i, all) { return all.indexOf(c) === i; }));
 
-    page.status = h("div", { class: "status", "aria-live": "polite" });
+    page.status = h("div", { class: "status" });
+    page.live = h("p", { class: "sr-only", "aria-live": "polite" });
     page.list = h("div", { class: "list" });
 
     var controls = h("div", { class: "controls" }, [
@@ -227,10 +234,14 @@
       segmented("Which postings to count", [
         { value: false, label: "All postings" }, { value: true, label: "Intern and new grad only" }
       ], view.entryOnly, function (v) { view.entryOnly = v; renderList(); }),
-      h("div", { class: "chips", role: "group", "aria-label": "Skill category" }, categories.map(function (c) {
-        return h("button", { type: "button", "aria-pressed": String(c === "All"), text: c, "data-value": c,
-          onclick: function (e) { setCategory(c, e.currentTarget.parentNode); } });
-      }))
+      h("div", { class: "chip-row" }, [
+        h("span", { class: "chip-label", id: "chips-label", text: "Category" }),
+        h("div", { class: "chips", role: "group", "aria-labelledby": "chips-label" }, categories.map(function (c) {
+          return h("button", { type: "button", "aria-pressed": String(c === "All"), text: c, "data-value": c,
+            onclick: function (e) { setCategory(c, e.currentTarget.parentNode); } });
+        }))
+      ]),
+      h("p", { class: "caveat", text: "Counts are keyword matches in the posting text. Listed is not the same as required." })
     ]);
     page.chips = controls.querySelector(".chips");
 
@@ -240,6 +251,7 @@
       h("p", { class: "summary", text: summary }),
       role.postings ? controls : h("p", { class: "note", text: "No postings have been collected for this job yet." }),
       page.status,
+      page.live,
       page.list,
       sourcesBlock(role)
     ], role.title);
@@ -266,7 +278,7 @@
     // status line: what is being counted, and whether the sample is small
     var status = [];
     status.push(m.byCo
-      ? "Share of the " + m.den + " " + (m.entry ? "companies with an intern or new-grad posting" : "companies with a " + role.title + " posting") + "; each company counts once."
+      ? "Share of the " + m.den + " " + (m.entry ? "companies with an intern or new-grad posting" : "companies with a posting for " + role.title) + "; each company counts once."
       : "Share of the " + m.den + " " + unitText(m, m.den) + "; a company with many postings weighs more.");
     if (m.fellBack) status.push("Intern and new-grad postings can only be counted by posting for now.");
     var coBase = m.entry ? (m.entryCo ? role.entry_companies : role.entry_postings) : role.companies;
@@ -311,6 +323,7 @@
           rareBand.hidden = !page.showRare;
           rareBtn.setAttribute("aria-expanded", String(page.showRare));
           rareBtn.textContent = rareLabel(rare.length);
+          page.announce();
         } });
       page.rareReveal = function () {
         if (!page.showRare) rareBtn.click();
@@ -332,6 +345,13 @@
       parts.push(h("p", { class: "note", text: "No skill in this category is mentioned in the postings counted here." }));
     }
     page.list.replaceChildren.apply(page.list, parts.filter(Boolean));
+    page.announce = function () {
+      var n = common.length + people.length + (page.showRare ? rare.length : 0);
+      page.live.textContent = "Showing " + plural(n, "skill") + ", " + (m.byCo ? "by company" : "by posting") +
+        (m.entry ? ", intern and new-grad postings only" : "") + (cat !== "All" ? ", category " + cat : "") +
+        (!page.showRare && rare.length ? ". " + rare.length + " rarely mentioned hidden." : ".");
+    };
+    page.announce();
   }
 
   function rareLabel(n) {
@@ -342,56 +362,63 @@
     return r.num + " of " + m.den + " " + unitText(m, m.den);
   }
 
-  // "Start here": the technical skills most companies ask for, with their groundwork first.
+  function topEmployer(role) {
+    if (role.company_counts && role.company_counts.length && role.postings) {
+      return { name: role.company_counts[0][0], share: share(role.company_counts[0][1], role.postings) };
+    }
+    if (role.top_company && has(role.top_company_share)) return { name: role.top_company, share: role.top_company_share };
+    return null;
+  }
+
+  // A link that opens a skill row adds a history entry, so Back closes the row again.
+  // Remember where the reader was, to return there.
+  function rememberPlace(e) {
+    history.replaceState({ scroll: window.scrollY, from: e.currentTarget.id || null }, "", location.hash);
+  }
+
+  // "Start here": the editorial order from the role file; the counts beside it are measured.
   function startHere(m) {
     var role = page.role, skills = page.skills;
-    // rank by company share whatever the count switch says; fall back to postings if companies are unknown
-    var cm = measure(role, page.index, true);
-    var ranked = cm.rows.filter(function (r) { return !r.people && !r.rare; });
-    var inView = {};
-    cm.rows.forEach(function (r) { inView[r.s.id] = r; });
-    var out = [], seen = {};
-
-    function collect(id, into, trail) {
-      ((skills[id] || {}).prereqs || []).forEach(function (p) {
-        if (seen[p] || trail[p] || into.some(function (x) { return x.id === p; })) return;
-        trail[p] = 1;
-        collect(p, into, trail);
-        into.push({ id: p, groundworkFor: id });
-      });
+    var inRole = {};
+    role.skills.forEach(function (s) { inRole[s.id] = s; });
+    var ids;
+    var editorial = Array.isArray(role.start_here);
+    if (editorial) {
+      ids = role.start_here.filter(function (id) { return inRole[id]; });
+    } else {
+      ids = computedStart();
     }
-    for (var i = 0; i < ranked.length && out.length < START_MAX; i++) {
-      var id = ranked[i].s.id;
-      if (seen[id]) continue;
-      var batch = [];
-      collect(id, batch, {});
-      batch.push({ id: id });
-      if (out.length + batch.length > START_MAX) continue;
-      batch.forEach(function (x) { seen[x.id] = 1; out.push(x); });
-    }
-    if (!out.length) return null;
+    if (!ids.length) return null;
+    var byId = {};
+    m.rows.forEach(function (r) { byId[r.s.id] = r; });
 
     return h("section", { class: "start", "aria-labelledby": "start-h" }, [
       h("h2", { id: "start-h", text: "Start here" }),
-      h("p", { class: "note", text: "Ordered by how many companies ask for each skill, with groundwork moved ahead of the skills that build on it. The order is our advice, not a measurement." }),
-      h("ol", { class: "start-list" }, out.map(function (x) {
-        var r = inView[x.id];
-        var name = (skills[x.id] || {}).name || x.id;
-        var visibleRow = page.rows[x.id];
-        var label = visibleRow
-          ? h("a", { href: "#" + role.id + "/" + x.id, class: "start-name", text: name })
+      h("p", { class: "note", text: editorial
+        ? "The order we would learn things in for this job, fundamentals first. This is our advice. The counts beside each skill are measured."
+        : "Ordered by how many companies ask for each skill. The order is our advice; the counts beside each skill are measured." }),
+      h("ol", { class: "start-list" }, ids.map(function (id) {
+        var r = byId[id];
+        var name = (skills[id] || {}).name || inRole[id].name || id;
+        var label = r
+          ? h("a", { href: "#" + role.id + "/" + id, id: "start-" + id, class: "start-name", text: name, onclick: rememberPlace })
           : h("span", { class: "start-name plain", text: name });
         var why;
-        var counted = r ? r.num + " of " + cm.den + " " + unitText(cm, cm.den) + ", " + pctText(r.pct) : "";
-        if (x.groundworkFor) {
-          var g = "groundwork for " + ((skills[x.groundworkFor] || {}).name || x.groundworkFor);
-          why = visibleRow ? counted + "; " + g : "Not counted for this job; " + g;
+        if (!r) {
+          why = m.entry ? "Not counted in intern and new-grad postings yet" : "Not counted for this job yet";
         } else {
-          why = counted;
+          why = r.num + " of " + m.den + " " + unitText(m, m.den);
+          if (!(m.entry && m.den < 20)) why += ", " + pctText(r.pct);
         }
-        return h("li", { class: x.groundworkFor ? "ground" : "" }, [label, h("span", { class: "why", text: why })]);
+        return h("li", {}, [label, h("span", { class: "why", text: why })]);
       }))
     ]);
+  }
+
+  // Fallback when a role file has no editorial list: the most-asked technical skills, by company.
+  function computedStart() {
+    var cm = measure(page.role, page.index, true);
+    return cm.rows.filter(function (r) { return !r.people && !r.rare; }).slice(0, START_MAX).map(function (r) { return r.s.id; });
   }
 
   function skillRow(r) {
@@ -400,7 +427,7 @@
     var li = h("li", { id: "row-" + id });
     var button = h("button", {
       class: "skill-btn", type: "button", id: "skill-" + id, "aria-expanded": String(isOpen),
-      "aria-controls": "detail-" + id,
+      "aria-controls": isOpen ? "detail-" + id : null,
       onclick: function () { toggleRow(id, li, button); }
     }, [
       h("span", { class: "bar" }, [
@@ -418,7 +445,7 @@
     return li;
   }
 
-  function toggleRow(id, li, button, forceOpen) {
+  function toggleRow(id, li, button, forceOpen, keepHash) {
     var detail = li.querySelector(".detail");
     var open = forceOpen === true ? true : !page.open[id];
     if (open) {
@@ -435,8 +462,15 @@
       }
     }
     button.setAttribute("aria-expanded", String(open));
+    if (open) button.setAttribute("aria-controls", "detail-" + id);
+    else button.removeAttribute("aria-controls");
     var hash = "#" + page.id + (page.lastOpen ? "/" + page.lastOpen : "");
-    if (location.hash !== hash) history.replaceState(history.state, "", hash);
+    if (!keepHash && location.hash !== hash) history.replaceState(history.state, "", hash);
+  }
+
+  function closeSkill(id) {
+    var li = document.getElementById("row-" + id), btn = document.getElementById("skill-" + id);
+    if (li && btn && page.open[id]) toggleRow(id, li, btn, false, true);
   }
 
   // Open a skill's row (from a deep link or a "learn first" link) and bring it into view.
@@ -470,7 +504,7 @@
         if (i) links.push(", ");
         var name = (skills[pid] || {}).name || pid;
         if (page.rows[pid]) {
-          links.push(h("a", { href: "#" + role.id + "/" + pid, text: name }));
+          links.push(h("a", { href: "#" + role.id + "/" + pid, id: "pre-" + r.s.id + "-" + pid, text: name, onclick: rememberPlace }));
         } else {
           links.push(h("span", { text: name + " " }), h("span", { class: "by", text: "(not counted for this job)" }));
         }
@@ -489,7 +523,7 @@
       var dates = res.map(function (x) { return x.checked; }).filter(Boolean).sort();
       if (dates.length) parts.push(h("p", { class: "by", text: "Links checked " + niceDate(dates[0]) + "." }));
     } else {
-      parts.push(h("p", {}, ["No checked resource yet. ",
+      parts.push(h("p", {}, ["We have not found a resource we can vouch for yet. ",
         h("a", { href: issueLink("suggest-resource.yml", "Resource for " + r.s.name + ": "), text: "Suggest one" }), "."]));
     }
     if (meta.project) {
@@ -524,6 +558,15 @@
     return h("div", { class: "detail", id: "detail-" + r.s.id }, parts);
   }
 
+  function sourcesNote(role) {
+    var top = topEmployer(role);
+    return "Every count on this page comes from the postings below. We keep a link and the list of skills each posting mentions, and nothing else." +
+      (role.last_seen_to ? " Postings last read " + niceDate(role.last_seen_to) + "." : "") +
+      (role.listings > role.postings ? " The same title at one company is counted once, so " + role.listings + " listings became " + role.postings + " postings." : "") +
+      " A posting stays in the sample for up to 120 days after it was last seen open." +
+      (top && top.share >= 10 && top.share < 20 ? " The largest single employer, " + top.name + ", has " + pctText(top.share) + " of the postings; counting by company keeps it from outweighing the rest." : "");
+  }
+
   function sourcesBlock(role) {
     if (!role.postings) return null;
     var postingsList = h("ul", { class: "postings" });
@@ -556,7 +599,7 @@
 
     return h("section", { class: "sources-block" }, [
       h("h2", { text: "Where these numbers come from" }),
-      h("p", { class: "note", text: "Every count on this page comes from the postings below. We keep a link and the list of skills each posting mentions, and nothing else." }),
+      h("p", { class: "note", text: sourcesNote(role) }),
       h("details", {}, [
         h("summary", { text: "Companies (" + role.companies + ")" }),
         h("p", { class: "note", text: "Number of postings from each company." }),
@@ -574,12 +617,12 @@
       h("a", { class: "back", href: "#home", text: "All jobs" }),
       h("h1", { class: "role-title", text: "How the numbers are made" }),
       h("ol", { class: "steps" }, [
-        h("li", { text: "Once a week a script reads the public job boards of the companies on our list, through the Greenhouse and Lever job board APIs. These are the same listings you see on each company's careers page." }),
+        h("li", { text: "Once a week a script reads the public job boards of the companies on our list, through the Greenhouse and Lever job board APIs. These are the same postings you see on each company's careers page." }),
         h("li", { text: "It keeps postings whose title matches one of our jobs and skips senior, staff, lead and manager titles. The same title at one company counts once, even when it is listed in several locations." }),
         h("li", { text: "It looks for each skill in the body of the posting, then saves the link and the matched skill names. The posting text is not stored." }),
         h("li", { text: "Text a company repeats across its postings is ignored: any line shared by half or more of a company's distinct job titles, such as its introduction or benefits. So is the company's own name." }),
-        h("li", { text: "By default each skill shows how many different companies ask for it, out of all the companies hiring for that job. Each company counts once, so one employer with a hundred openings cannot outweigh the rest. You can switch to counting postings instead." }),
-        h("li", { text: "A posting stays in the sample for 120 days after it was last seen open." })
+        h("li", { text: "By default each skill shows how many different companies ask for it, out of all the companies with a posting for that job. Each company counts once, so one employer with a hundred postings cannot outweigh the rest. You can switch to counting postings instead." }),
+        h("li", { text: "A posting stays in the sample for up to 120 days after it was last seen open." })
       ]),
       h("p", { class: "note" }, [
         "The matching rules were checked against samples of real postings. What was found, fixed and left open is in ",
@@ -592,7 +635,8 @@
         h("li", { text: "The sample leans toward venture-backed tech companies, so it may say less about other kinds of employers." }),
         h("li", { text: "A few large employers post far more than others. That is why the default view counts companies, not postings." }),
         h("li", { text: "Matching is by keyword. It can miss a skill described in unusual words and can over-count a word used in another sense. Skills about working with people are the loosest matches." }),
-        h("li", { text: "The learning guides, the 'learn first' links and the 'start here' order are editorial opinions, first drafted with an AI model. Every linked resource was opened and checked. You can challenge any of them." })
+        h("li", { text: "\"Start here\" is editorial: it is the order we would learn things in for each job, fundamentals first, not a ranking by count. The counts shown beside it are measured." }),
+        h("li", { text: "The learning guides and the \"learn first\" links are editorial opinions too, first drafted with an AI model. Every linked resource was opened and checked. You can challenge any of them." })
       ]),
       h("h2", { text: "Help make it better" }),
       h("p", { class: "note" }, [
@@ -630,7 +674,21 @@
 
     // Same job already on screen: open the linked skill in place, without rebuilding.
     if (r.page === "role" && page && page.kind === "role" && page.id === r.id && !r.extra) {
-      if (r.skill) openSkill(r.skill, true, true);
+      // Rows opened by following a link close again when the reader goes Back.
+      Object.keys(page.pushed).forEach(function (id) {
+        if (id !== r.skill) { closeSkill(id); delete page.pushed[id]; }
+      });
+      var st = history.state || {};
+      if (r.skill && !page.open[r.skill]) {
+        page.pushed[r.skill] = 1;
+        openSkill(r.skill, true, true);
+      } else if (r.skill && !has(st.scroll)) {
+        openSkill(r.skill, true, true);
+      } else if (has(st.scroll)) {
+        window.scrollTo(0, st.scroll);
+        var from = st.from && document.getElementById(st.from);
+        if (from) from.focus({ preventScroll: true });
+      }
       return Promise.resolve();
     }
 
@@ -644,9 +702,13 @@
       document.getElementById("updated").textContent = "Data last built " + niceDate(index.generated_at) + ".";
 
       if (r.page === "home") {
-        renderHome(index);
-        page = { kind: "home" };
-        return { scroll: homeScroll };
+        return Promise.all(index.roles.map(function (x) {
+          return getJSON("data/roles/" + x.id + ".json").catch(function () { return null; });
+        })).then(function (files) {
+          renderHome(index, files);
+          page = { kind: "home" };
+          return { scroll: homeScroll };
+        });
       }
       if (r.page === "how-it-works") {
         renderMethod(index);

@@ -554,7 +554,22 @@
     ],
     "level": "You can add logs, metrics and a simple alert to a service, and use them to find out why it is slow or failing.",
     "project": "Run one of your projects with Prometheus and Grafana, add two metrics and one alert, and trigger the alert on purpose.",
-    "resources": []
+    "resources": [
+      {
+        "title": "Site Reliability Engineering: Monitoring Distributed Systems",
+        "url": "https://sre.google/sre-book/monitoring-distributed-systems/",
+        "by": "Google",
+        "free": true,
+        "checked": "2026-11-21"
+      },
+      {
+        "title": "Observability primer",
+        "url": "https://opentelemetry.io/docs/concepts/observability-primer/",
+        "by": "OpenTelemetry",
+        "free": true,
+        "checked": "2026-11-21"
+      }
+    ]
   },
   "jupyter": {
     "name": "Jupyter notebooks",
@@ -564,7 +579,15 @@
     ],
     "level": "You can explore data in a notebook, keep it runnable from top to bottom, and turn the useful parts into a script.",
     "project": "A notebook that answers one question about a public dataset and runs cleanly after Restart and Run All.",
-    "resources": []
+    "resources": [
+      {
+        "title": "Project Jupyter documentation",
+        "url": "https://docs.jupyter.org/en/latest/",
+        "by": "Project Jupyter",
+        "free": true,
+        "checked": "2026-11-21"
+      }
+    ]
   },
   "aws": {
     "name": "AWS",
@@ -754,7 +777,22 @@
     ],
     "level": "You can build a small web API in Django, Flask or FastAPI with routes, input validation and a database.",
     "project": "A notes API with create, read, update and delete, tests for each route, and a README that shows how to run it.",
-    "resources": []
+    "resources": [
+      {
+        "title": "Writing your first Django app",
+        "url": "https://docs.djangoproject.com/en/stable/intro/tutorial01/",
+        "by": "Django",
+        "free": true,
+        "checked": "2026-11-21"
+      },
+      {
+        "title": "Flask tutorial",
+        "url": "https://flask.palletsprojects.com/en/stable/tutorial/",
+        "by": "Pallets",
+        "free": true,
+        "checked": "2026-11-21"
+      }
+    ]
   },
   "spring": {
     "name": "Spring (Java)",
@@ -764,7 +802,15 @@
     ],
     "level": "You can build a REST service with Spring Boot: controllers, dependency injection and a database through Spring Data.",
     "project": "A Spring Boot service for a to-do list with a few endpoints, a database table and tests.",
-    "resources": []
+    "resources": [
+      {
+        "title": "Developing your first Spring Boot application",
+        "url": "https://docs.spring.io/spring-boot/tutorial/first-application/index.html",
+        "by": "Spring",
+        "free": true,
+        "checked": "2026-11-21"
+      }
+    ]
   },
   "angular-vue": {
     "name": "Angular / Vue",
@@ -774,7 +820,22 @@
     ],
     "level": "You can build a small single-page app in Angular or Vue with components, routing and data loaded from an API.",
     "project": "Rebuild one page you know (a search page, a settings form) in Vue or Angular, with loading and error states.",
-    "resources": []
+    "resources": [
+      {
+        "title": "Angular tutorials",
+        "url": "https://angular.dev/tutorials",
+        "by": "Angular",
+        "free": true,
+        "checked": "2026-11-21"
+      },
+      {
+        "title": "Vue.js tutorial",
+        "url": "https://vuejs.org/tutorial/",
+        "by": "Vue.js",
+        "free": true,
+        "checked": "2026-11-21"
+      }
+    ]
   },
   "grpc": {
     "name": "gRPC & Protocol Buffers",
@@ -784,7 +845,22 @@
     ],
     "level": "You can define a service in a .proto file, generate client and server code, and explain when gRPC fits better than JSON over HTTP.",
     "project": "Two small programs, a client and a server, that talk over gRPC, with one call that streams results.",
-    "resources": []
+    "resources": [
+      {
+        "title": "Protocol Buffers tutorials",
+        "url": "https://protobuf.dev/getting-started/",
+        "by": "Google",
+        "free": true,
+        "checked": "2026-11-21"
+      },
+      {
+        "title": "gRPC (source and language guides)",
+        "url": "https://github.com/grpc/grpc",
+        "by": "The gRPC authors",
+        "free": true,
+        "checked": "2026-11-21"
+      }
+    ]
   },
   "nosql": {
     "name": "NoSQL databases",
@@ -953,7 +1029,15 @@
     "prereqs": [],
     "level": "You can index documents, write a full-text query with filters, and explain how relevance scoring ranks results.",
     "project": "Index a few thousand public documents and build a search page with filters and highlighted matches.",
-    "resources": []
+    "resources": [
+      {
+        "title": "Elastic fundamentals",
+        "url": "https://www.elastic.co/docs/get-started",
+        "by": "Elastic",
+        "free": true,
+        "checked": "2026-11-21"
+      }
+    ]
   },
   "excel": {
     "name": "Excel / spreadsheets",
@@ -1124,7 +1208,15 @@
     "prereqs": [],
     "level": "You can set up event tracking in a product analytics tool and build a funnel or retention chart from it.",
     "project": "Track three events in a small app of your own with a free tier of a product analytics tool, and build one funnel.",
-    "resources": []
+    "resources": [
+      {
+        "title": "Amplitude Academy",
+        "url": "https://academy.amplitude.com/",
+        "by": "Amplitude",
+        "free": false,
+        "checked": "2026-11-21"
+      }
+    ]
   },
   "sas-spss": {
     "name": "SAS / SPSS / Stata",
@@ -1134,7 +1226,15 @@
     ],
     "level": "You can load data, run descriptive statistics and a regression in SAS, SPSS or Stata, and read the output.",
     "project": "Reproduce one table from a published study's public data in the tool, and note any number that does not match.",
-    "resources": []
+    "resources": [
+      {
+        "title": "OARC Stats: SAS, SPSS and Stata learning modules",
+        "url": "https://stats.oarc.ucla.edu/",
+        "by": "UCLA",
+        "free": true,
+        "checked": "2026-11-21"
+      }
+    ]
   },
   "machine-learning": {
     "name": "Machine learning",
@@ -1356,7 +1456,22 @@
     ],
     "level": "You can explain states, actions, rewards and policies, and train a simple agent with a standard algorithm.",
     "project": "Train an agent on a classic control task such as CartPole and plot how its reward changes during training.",
-    "resources": []
+    "resources": [
+      {
+        "title": "Spinning Up in Deep RL",
+        "url": "https://spinningup.openai.com/en/latest/",
+        "by": "OpenAI",
+        "free": true,
+        "checked": "2026-11-21"
+      },
+      {
+        "title": "Deep Reinforcement Learning Course",
+        "url": "https://huggingface.co/learn/deep-rl-course/unit0/introduction",
+        "by": "Hugging Face",
+        "free": true,
+        "checked": "2026-11-21"
+      }
+    ]
   },
   "model-evaluation": {
     "name": "Model evaluation",
@@ -1453,7 +1568,15 @@
     ],
     "level": "You can explain how a GPU runs many threads at once, and write and time a simple CUDA kernel or GPU-accelerated function.",
     "project": "Write a vector-add or matrix-multiply kernel, time it against a CPU version, and explain the speed-up.",
-    "resources": []
+    "resources": [
+      {
+        "title": "CUDA Toolkit documentation",
+        "url": "https://docs.nvidia.com/cuda/",
+        "by": "NVIDIA",
+        "free": true,
+        "checked": "2026-11-21"
+      }
+    ]
   },
   "communication": {
     "name": "Written & verbal communication",
@@ -1477,7 +1600,22 @@
     "prereqs": [],
     "level": "You can work in short iterations: break work into small tickets, estimate them, and take part in planning and retrospectives.",
     "project": "Run a group project in two-week sprints with a board, and write a short retrospective after each sprint.",
-    "resources": []
+    "resources": [
+      {
+        "title": "Manifesto for Agile Software Development",
+        "url": "https://agilemanifesto.org/",
+        "by": "agilemanifesto.org",
+        "free": true,
+        "checked": "2026-11-21"
+      },
+      {
+        "title": "The Scrum Guide",
+        "url": "https://scrumguides.org/scrum-guide.html",
+        "by": "Schwaber and Sutherland",
+        "free": true,
+        "checked": "2026-11-21"
+      }
+    ]
   },
   "cross-functional": {
     "name": "Working with non-engineers",
