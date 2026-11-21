@@ -34,6 +34,9 @@
 
 ```bash
 cd ~/Desktop/Emma/cs-career-map
+git init -b main
+git add -A
+git commit -m "First version: collector, site, coach skill, docs (built with Claude)"
 git remote add origin https://github.com/EmmaZhao422/cs-career-map.git
 git push -u origin main
 ```
