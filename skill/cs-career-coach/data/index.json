@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T07:45:16+00:00",
+  "generated_at": "2026-11-21T07:47:27+00:00",
   "demo": false,
   "notice": "Draft. The postings are real, but nobody has yet checked the skill matching against them by hand. Treat the shares as rough.",
   "tiers": {
@@ -12,29 +12,29 @@
       "id": "ai-engineer",
       "title": "AI Engineer",
       "blurb": "Builds products on top of machine learning models and LLMs.",
-      "postings": 185,
-      "companies": 53,
+      "postings": 190,
+      "companies": 55,
       "entry_postings": 23,
       "top_skills": [
         {
-          "name": "Python",
-          "pct": 74.1
+          "name": "Machine learning",
+          "pct": 73.7
         },
         {
-          "name": "Machine learning",
-          "pct": 73.5
+          "name": "Python",
+          "pct": 72.1
         },
         {
           "name": "LLMs",
-          "pct": 65.9
-        },
-        {
-          "name": "Written & verbal communication",
-          "pct": 44.9
+          "pct": 65.8
         },
         {
           "name": "AI agents",
-          "pct": 43.2
+          "pct": 42.6
+        },
+        {
+          "name": "Written & verbal communication",
+          "pct": 35.8
         }
       ]
     },
@@ -72,7 +72,7 @@
       "id": "software-engineer",
       "title": "Software Engineer",
       "blurb": "Designs, writes and ships the code behind a product.",
-      "postings": 751,
+      "postings": 754,
       "companies": 85,
       "entry_postings": 84,
       "top_skills": [
@@ -82,7 +82,7 @@
         },
         {
           "name": "C++",
-          "pct": 37.9
+          "pct": 37.8
         },
         {
           "name": "Working with non-engineers",
@@ -90,11 +90,11 @@
         },
         {
           "name": "Written & verbal communication",
-          "pct": 33.4
+          "pct": 33.3
         },
         {
           "name": "Go",
-          "pct": 32.6
+          "pct": 32.5
         }
       ]
     }

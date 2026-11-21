@@ -40,6 +40,7 @@
       "python",
       "go",
       "system-design",
+      "git",
       "linux",
       "kubernetes",
       "terraform",
@@ -977,7 +978,6 @@
       "typescript",
       "go",
       "kotlin",
-      "ab-testing",
       "agents",
       "communication",
       "cross-functional"
@@ -995,9 +995,6 @@
     "last_seen": "2026-11-21",
     "skills": [
       "python",
-      "data-structures-algorithms",
-      "operating-systems",
-      "computer-vision",
       "cross-functional"
     ]
   },
@@ -1018,8 +1015,6 @@
       "go",
       "rust",
       "data-structures-algorithms",
-      "operating-systems",
-      "computer-vision",
       "cross-functional"
     ]
   },
@@ -1040,8 +1035,6 @@
       "go",
       "rust",
       "data-structures-algorithms",
-      "operating-systems",
-      "computer-vision",
       "cross-functional"
     ]
   },
@@ -1057,9 +1050,6 @@
     "last_seen": "2026-11-21",
     "skills": [
       "python",
-      "data-structures-algorithms",
-      "operating-systems",
-      "computer-vision",
       "cross-functional"
     ]
   },
@@ -1080,8 +1070,6 @@
       "go",
       "rust",
       "data-structures-algorithms",
-      "operating-systems",
-      "computer-vision",
       "cross-functional"
     ]
   },
@@ -1099,8 +1087,6 @@
       "python",
       "java",
       "data-structures-algorithms",
-      "operating-systems",
-      "computer-vision",
       "cross-functional"
     ]
   },
@@ -1117,7 +1103,6 @@
     "skills": [
       "python",
       "go",
-      "operating-systems",
       "networking",
       "linux",
       "docker",
@@ -1126,7 +1111,6 @@
       "terraform",
       "aws",
       "rest-apis",
-      "computer-vision",
       "cross-functional"
     ]
   },
@@ -1143,7 +1127,6 @@
     "skills": [
       "python",
       "go",
-      "operating-systems",
       "networking",
       "linux",
       "docker",
@@ -1152,7 +1135,6 @@
       "terraform",
       "aws",
       "rest-apis",
-      "computer-vision",
       "cross-functional"
     ]
   },
@@ -1171,8 +1153,7 @@
       "c-lang",
       "rust",
       "operating-systems",
-      "linux",
-      "computer-vision"
+      "linux"
     ]
   },
   {
@@ -1187,10 +1168,7 @@
     "last_seen": "2026-11-21",
     "skills": [
       "rust",
-      "data-structures-algorithms",
-      "operating-systems",
-      "linux",
-      "computer-vision"
+      "linux"
     ]
   },
   {
@@ -1206,12 +1184,9 @@
     "skills": [
       "cpp",
       "rust",
-      "data-structures-algorithms",
-      "operating-systems",
       "system-design",
       "linux",
-      "rest-apis",
-      "computer-vision"
+      "rest-apis"
     ]
   },
   {
@@ -1227,10 +1202,8 @@
     "skills": [
       "cpp",
       "c-lang",
-      "operating-systems",
       "system-design",
-      "rest-apis",
-      "computer-vision"
+      "rest-apis"
     ]
   },
   {
@@ -1246,10 +1219,8 @@
     "skills": [
       "cpp",
       "c-lang",
-      "operating-systems",
       "system-design",
-      "rest-apis",
-      "computer-vision"
+      "rest-apis"
     ]
   },
   {
@@ -1265,11 +1236,8 @@
     "skills": [
       "javascript",
       "typescript",
-      "data-structures-algorithms",
-      "operating-systems",
       "react",
-      "agents",
-      "computer-vision"
+      "agents"
     ]
   },
   {
@@ -1285,11 +1253,8 @@
     "skills": [
       "javascript",
       "typescript",
-      "data-structures-algorithms",
-      "operating-systems",
       "react",
-      "agents",
-      "computer-vision"
+      "agents"
     ]
   },
   {
@@ -1311,7 +1276,6 @@
       "cpp",
       "go",
       "rust",
-      "operating-systems",
       "networking",
       "system-design",
       "testing",
@@ -1340,8 +1304,7 @@
       "rag",
       "agents",
       "fine-tuning",
-      "nlp",
-      "computer-vision"
+      "nlp"
     ]
   },
   {
@@ -1361,7 +1324,6 @@
       "cpp",
       "go",
       "rust",
-      "operating-systems",
       "distributed-systems",
       "git",
       "linux",
@@ -1371,8 +1333,7 @@
       "terraform",
       "aws",
       "azure",
-      "react",
-      "computer-vision"
+      "react"
     ]
   },
   {
@@ -1388,10 +1349,8 @@
     "skills": [
       "javascript",
       "typescript",
-      "operating-systems",
       "react",
       "nextjs",
-      "computer-vision",
       "cross-functional"
     ]
   },
@@ -1410,11 +1369,9 @@
       "cpp",
       "c-lang",
       "data-structures-algorithms",
-      "operating-systems",
       "statistics",
       "machine-learning",
       "agents",
-      "computer-vision",
       "cross-functional"
     ]
   },
@@ -1435,10 +1392,7 @@
       "cpp",
       "go",
       "rust",
-      "data-structures-algorithms",
-      "operating-systems",
-      "kubernetes",
-      "computer-vision"
+      "kubernetes"
     ]
   },
   {
@@ -1458,10 +1412,7 @@
       "cpp",
       "go",
       "rust",
-      "data-structures-algorithms",
-      "operating-systems",
-      "kubernetes",
-      "computer-vision"
+      "kubernetes"
     ]
   },
   {
@@ -1481,10 +1432,7 @@
       "cpp",
       "go",
       "rust",
-      "data-structures-algorithms",
-      "operating-systems",
-      "kubernetes",
-      "computer-vision"
+      "kubernetes"
     ]
   },
   {
@@ -1504,10 +1452,7 @@
       "cpp",
       "go",
       "rust",
-      "data-structures-algorithms",
-      "operating-systems",
-      "kubernetes",
-      "computer-vision"
+      "kubernetes"
     ]
   },
   {
@@ -1527,10 +1472,7 @@
       "cpp",
       "go",
       "rust",
-      "data-structures-algorithms",
-      "operating-systems",
-      "kubernetes",
-      "computer-vision"
+      "kubernetes"
     ]
   },
   {
@@ -1550,15 +1492,13 @@
       "cpp",
       "go",
       "rust",
-      "operating-systems",
       "docker",
       "kubernetes",
       "ci-cd",
       "machine-learning",
       "agents",
       "fine-tuning",
-      "mlops",
-      "computer-vision"
+      "mlops"
     ]
   },
   {
@@ -1573,7 +1513,6 @@
     "last_seen": "2026-11-21",
     "skills": [
       "python",
-      "operating-systems",
       "networking",
       "linux",
       "docker",
@@ -1600,15 +1539,13 @@
       "python",
       "sql",
       "c-sharp",
-      "operating-systems",
       "git",
       "linux",
       "ci-cd",
       "aws",
       "azure",
       "rest-apis",
-      "nosql",
-      "computer-vision"
+      "nosql"
     ]
   },
   {
@@ -1625,15 +1562,13 @@
       "python",
       "sql",
       "c-sharp",
-      "operating-systems",
       "git",
       "linux",
       "ci-cd",
       "aws",
       "azure",
       "rest-apis",
-      "nosql",
-      "computer-vision"
+      "nosql"
     ]
   },
   {
@@ -1652,13 +1587,11 @@
       "cpp",
       "go",
       "rust",
-      "operating-systems",
       "distributed-systems",
       "system-design",
       "git",
       "aws",
       "azure",
-      "computer-vision",
       "cross-functional"
     ]
   },
@@ -1676,9 +1609,7 @@
       "python",
       "go",
       "rust",
-      "operating-systems",
-      "react",
-      "computer-vision"
+      "react"
     ]
   },
   {
@@ -1695,11 +1626,9 @@
       "python",
       "typescript",
       "cpp",
-      "operating-systems",
       "linux",
       "react",
       "nodejs",
-      "computer-vision",
       "communication"
     ]
   },
@@ -1718,12 +1647,10 @@
       "cpp",
       "go",
       "rust",
-      "operating-systems",
       "linux",
       "ci-cd",
       "data-pipelines",
-      "dashboards",
-      "computer-vision"
+      "dashboards"
     ]
   },
   {
@@ -1741,12 +1668,10 @@
       "cpp",
       "go",
       "rust",
-      "operating-systems",
       "linux",
       "ci-cd",
       "data-pipelines",
-      "dashboards",
-      "computer-vision"
+      "dashboards"
     ]
   },
   {
@@ -1764,12 +1689,10 @@
       "cpp",
       "go",
       "rust",
-      "operating-systems",
       "linux",
       "ci-cd",
       "data-pipelines",
-      "dashboards",
-      "computer-vision"
+      "dashboards"
     ]
   },
   {
@@ -1788,10 +1711,7 @@
       "cpp",
       "go",
       "rust",
-      "data-structures-algorithms",
-      "operating-systems",
-      "agents",
-      "computer-vision"
+      "agents"
     ]
   },
   {
@@ -1810,12 +1730,10 @@
       "go",
       "rust",
       "data-structures-algorithms",
-      "operating-systems",
       "distributed-systems",
       "linux",
       "ci-cd",
-      "data-pipelines",
-      "computer-vision"
+      "data-pipelines"
     ]
   },
   {
@@ -1831,13 +1749,11 @@
     "skills": [
       "cpp",
       "rust",
-      "operating-systems",
       "distributed-systems",
       "git",
       "linux",
       "docker",
-      "kubernetes",
-      "computer-vision"
+      "kubernetes"
     ]
   },
   {
@@ -1853,9 +1769,7 @@
     "skills": [
       "cpp",
       "rust",
-      "operating-systems",
-      "linux",
-      "computer-vision"
+      "linux"
     ]
   },
   {
@@ -1873,13 +1787,11 @@
       "cpp",
       "go",
       "rust",
-      "operating-systems",
       "git",
       "linux",
       "docker",
       "kubernetes",
-      "ci-cd",
-      "computer-vision"
+      "ci-cd"
     ]
   },
   {
@@ -1895,14 +1807,12 @@
     "skills": [
       "cpp",
       "rust",
-      "operating-systems",
       "networking",
       "distributed-systems",
       "git",
       "linux",
       "docker",
-      "kubernetes",
-      "computer-vision"
+      "kubernetes"
     ]
   },
   {
@@ -1922,10 +1832,7 @@
       "cpp",
       "go",
       "rust",
-      "data-structures-algorithms",
-      "operating-systems",
-      "agents",
-      "computer-vision"
+      "agents"
     ]
   },
   {
@@ -1941,11 +1848,8 @@
     "skills": [
       "cpp",
       "rust",
-      "data-structures-algorithms",
-      "operating-systems",
       "linux",
-      "agents",
-      "computer-vision"
+      "agents"
     ]
   },
   {
@@ -1961,12 +1865,9 @@
     "skills": [
       "cpp",
       "rust",
-      "data-structures-algorithms",
-      "operating-systems",
       "linux",
       "llm",
-      "agents",
-      "computer-vision"
+      "agents"
     ]
   },
   {
@@ -1983,8 +1884,6 @@
       "python",
       "cpp",
       "c-lang",
-      "data-structures-algorithms",
-      "operating-systems",
       "machine-learning",
       "computer-vision"
     ]
@@ -2002,12 +1901,9 @@
     "skills": [
       "cpp",
       "rust",
-      "data-structures-algorithms",
-      "operating-systems",
       "linux",
       "llm",
-      "agents",
-      "computer-vision"
+      "agents"
     ]
   },
   {
@@ -2023,9 +1919,7 @@
     "skills": [
       "javascript",
       "typescript",
-      "operating-systems",
-      "react",
-      "computer-vision"
+      "react"
     ]
   },
   {
@@ -2044,10 +1938,7 @@
       "cpp",
       "go",
       "rust",
-      "data-structures-algorithms",
-      "operating-systems",
-      "agents",
-      "computer-vision"
+      "agents"
     ]
   },
   {
@@ -2064,10 +1955,7 @@
       "python",
       "cpp",
       "rust",
-      "data-structures-algorithms",
-      "operating-systems",
-      "linux",
-      "computer-vision"
+      "linux"
     ]
   },
   {
@@ -2092,7 +1980,6 @@
       "ci-cd",
       "react",
       "rest-apis",
-      "computer-vision",
       "cross-functional"
     ]
   },
@@ -2118,7 +2005,6 @@
       "ci-cd",
       "react",
       "rest-apis",
-      "computer-vision",
       "cross-functional"
     ]
   },
@@ -2135,7 +2021,6 @@
     "skills": [
       "python",
       "cpp",
-      "operating-systems",
       "testing",
       "git",
       "linux",
@@ -2159,7 +2044,6 @@
     "skills": [
       "python",
       "cpp",
-      "operating-systems",
       "networking",
       "testing",
       "git",
@@ -2169,7 +2053,6 @@
       "react",
       "rest-apis",
       "pandas",
-      "computer-vision",
       "communication"
     ]
   },
@@ -2191,8 +2074,7 @@
       "distributed-systems",
       "git",
       "linux",
-      "ci-cd",
-      "computer-vision"
+      "ci-cd"
     ]
   },
   {
@@ -2208,10 +2090,7 @@
     "skills": [
       "cpp",
       "rust",
-      "data-structures-algorithms",
-      "operating-systems",
-      "agents",
-      "computer-vision"
+      "agents"
     ]
   },
   {
@@ -2236,7 +2115,6 @@
       "linux",
       "machine-learning",
       "agents",
-      "computer-vision",
       "communication",
       "cross-functional"
     ]
@@ -2263,7 +2141,6 @@
       "linux",
       "machine-learning",
       "agents",
-      "computer-vision",
       "communication",
       "cross-functional"
     ]
@@ -2283,12 +2160,10 @@
       "c-lang",
       "rust",
       "data-structures-algorithms",
-      "operating-systems",
       "concurrency",
       "statistics",
       "machine-learning",
       "agents",
-      "computer-vision",
       "cross-functional"
     ]
   },
@@ -2305,8 +2180,6 @@
     "skills": [
       "python",
       "cpp",
-      "data-structures-algorithms",
-      "operating-systems",
       "machine-learning",
       "computer-vision",
       "cross-functional"
@@ -2326,10 +2199,7 @@
       "python",
       "cpp",
       "rust",
-      "data-structures-algorithms",
-      "operating-systems",
-      "agents",
-      "computer-vision"
+      "agents"
     ]
   },
   {
@@ -2347,11 +2217,9 @@
       "cpp",
       "go",
       "rust",
-      "operating-systems",
       "distributed-systems",
       "linux",
       "rest-apis",
-      "computer-vision",
       "cross-functional"
     ]
   },
@@ -2372,7 +2240,6 @@
       "operating-systems",
       "machine-learning",
       "agents",
-      "computer-vision",
       "cross-functional"
     ]
   },
@@ -2391,11 +2258,9 @@
       "cpp",
       "rust",
       "data-structures-algorithms",
-      "operating-systems",
       "concurrency",
       "linux",
-      "agents",
-      "computer-vision"
+      "agents"
     ]
   },
   {
@@ -2413,9 +2278,7 @@
       "sql",
       "javascript",
       "cpp",
-      "data-structures-algorithms",
       "oop",
-      "operating-systems",
       "concurrency",
       "distributed-systems",
       "git",
@@ -2424,7 +2287,6 @@
       "nosql",
       "statistics",
       "machine-learning",
-      "computer-vision",
       "communication",
       "cross-functional"
     ]
@@ -2444,9 +2306,7 @@
       "sql",
       "javascript",
       "cpp",
-      "data-structures-algorithms",
       "oop",
-      "operating-systems",
       "concurrency",
       "distributed-systems",
       "git",
@@ -2455,7 +2315,6 @@
       "nosql",
       "statistics",
       "machine-learning",
-      "computer-vision",
       "communication",
       "cross-functional"
     ]
@@ -2475,10 +2334,8 @@
       "cpp",
       "rust",
       "data-structures-algorithms",
-      "operating-systems",
       "concurrency",
       "react",
-      "computer-vision",
       "cross-functional"
     ]
   },
@@ -2497,10 +2354,8 @@
       "cpp",
       "rust",
       "data-structures-algorithms",
-      "operating-systems",
       "concurrency",
       "react",
-      "computer-vision",
       "cross-functional"
     ]
   },
@@ -2517,9 +2372,7 @@
     "skills": [
       "javascript",
       "c-sharp",
-      "operating-systems",
-      "react",
-      "computer-vision"
+      "react"
     ]
   },
   {
@@ -2535,11 +2388,9 @@
     "skills": [
       "javascript",
       "typescript",
-      "operating-systems",
       "kubernetes",
       "aws",
-      "react",
-      "computer-vision"
+      "react"
     ]
   },
   {
@@ -2557,7 +2408,6 @@
       "cpp",
       "rust",
       "data-structures-algorithms",
-      "operating-systems",
       "concurrency",
       "react",
       "computer-vision",
@@ -2579,11 +2429,9 @@
       "cpp",
       "rust",
       "data-structures-algorithms",
-      "operating-systems",
       "concurrency",
       "system-design",
       "react",
-      "computer-vision",
       "cross-functional"
     ]
   },
@@ -2602,11 +2450,9 @@
       "cpp",
       "rust",
       "data-structures-algorithms",
-      "operating-systems",
       "concurrency",
       "system-design",
       "react",
-      "computer-vision",
       "cross-functional"
     ]
   },
@@ -2623,13 +2469,10 @@
     "skills": [
       "python",
       "cpp",
-      "data-structures-algorithms",
-      "operating-systems",
       "system-design",
       "dashboards",
       "data-visualization",
       "machine-learning",
-      "computer-vision",
       "cross-functional"
     ]
   },
@@ -2647,9 +2490,7 @@
       "python",
       "cpp",
       "rust",
-      "operating-systems",
       "linux",
-      "computer-vision",
       "communication",
       "cross-functional"
     ]
@@ -2669,11 +2510,9 @@
       "cpp",
       "rust",
       "data-structures-algorithms",
-      "operating-systems",
       "concurrency",
       "system-design",
       "react",
-      "computer-vision",
       "cross-functional"
     ]
   },
@@ -2692,10 +2531,8 @@
       "cpp",
       "rust",
       "data-structures-algorithms",
-      "operating-systems",
       "concurrency",
       "react",
-      "computer-vision",
       "cross-functional"
     ]
   },
@@ -2714,11 +2551,9 @@
       "cpp",
       "rust",
       "data-structures-algorithms",
-      "operating-systems",
       "concurrency",
       "system-design",
       "react",
-      "computer-vision",
       "cross-functional"
     ]
   },
@@ -2736,10 +2571,7 @@
       "python",
       "go",
       "rust",
-      "data-structures-algorithms",
-      "operating-systems",
-      "agents",
-      "computer-vision"
+      "agents"
     ]
   },
   {
@@ -2753,7 +2585,6 @@
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
     "skills": [
-      "operating-systems",
       "distributed-systems",
       "docker",
       "kubernetes",
@@ -2763,8 +2594,7 @@
       "agents",
       "fine-tuning",
       "model-evaluation",
-      "mlops",
-      "computer-vision"
+      "mlops"
     ]
   },
   {
@@ -2782,9 +2612,7 @@
       "sql",
       "javascript",
       "cpp",
-      "data-structures-algorithms",
       "oop",
-      "operating-systems",
       "concurrency",
       "distributed-systems",
       "git",
@@ -2793,7 +2621,6 @@
       "nosql",
       "statistics",
       "machine-learning",
-      "computer-vision",
       "communication",
       "cross-functional"
     ]
@@ -2814,10 +2641,7 @@
       "cpp",
       "go",
       "rust",
-      "data-structures-algorithms",
-      "operating-systems",
-      "agents",
-      "computer-vision"
+      "agents"
     ]
   },
   {
@@ -2836,10 +2660,7 @@
       "cpp",
       "go",
       "rust",
-      "data-structures-algorithms",
-      "operating-systems",
-      "agents",
-      "computer-vision"
+      "agents"
     ]
   },
   {
@@ -2857,11 +2678,9 @@
       "cpp",
       "rust",
       "data-structures-algorithms",
-      "operating-systems",
       "concurrency",
       "linux",
-      "data-visualization",
-      "computer-vision"
+      "data-visualization"
     ]
   },
   {
@@ -2879,9 +2698,7 @@
       "sql",
       "javascript",
       "cpp",
-      "data-structures-algorithms",
       "oop",
-      "operating-systems",
       "concurrency",
       "distributed-systems",
       "git",
@@ -2890,7 +2707,6 @@
       "nosql",
       "statistics",
       "machine-learning",
-      "computer-vision",
       "communication",
       "cross-functional"
     ]
@@ -2909,12 +2725,9 @@
       "python",
       "cpp",
       "c-lang",
-      "data-structures-algorithms",
-      "operating-systems",
       "nosql",
       "statistics",
-      "machine-learning",
-      "computer-vision"
+      "machine-learning"
     ]
   },
   {
@@ -2931,12 +2744,9 @@
       "python",
       "cpp",
       "c-lang",
-      "data-structures-algorithms",
-      "operating-systems",
       "nosql",
       "statistics",
-      "machine-learning",
-      "computer-vision"
+      "machine-learning"
     ]
   },
   {
@@ -2951,8 +2761,7 @@
     "last_seen": "2026-11-21",
     "skills": [
       "cpp",
-      "operating-systems",
-      "computer-vision"
+      "data-structures-algorithms"
     ]
   },
   {
@@ -2967,8 +2776,7 @@
     "last_seen": "2026-11-21",
     "skills": [
       "cpp",
-      "operating-systems",
-      "computer-vision"
+      "data-structures-algorithms"
     ]
   },
   {
@@ -2983,8 +2791,7 @@
     "last_seen": "2026-11-21",
     "skills": [
       "cpp",
-      "operating-systems",
-      "computer-vision"
+      "data-structures-algorithms"
     ]
   },
   {
@@ -2999,8 +2806,7 @@
     "last_seen": "2026-11-21",
     "skills": [
       "cpp",
-      "operating-systems",
-      "computer-vision"
+      "data-structures-algorithms"
     ]
   },
   {
@@ -3018,9 +2824,7 @@
       "sql",
       "javascript",
       "cpp",
-      "data-structures-algorithms",
       "oop",
-      "operating-systems",
       "concurrency",
       "distributed-systems",
       "git",
@@ -3029,7 +2833,6 @@
       "nosql",
       "statistics",
       "machine-learning",
-      "computer-vision",
       "communication",
       "cross-functional"
     ]
@@ -3049,9 +2852,7 @@
       "sql",
       "javascript",
       "cpp",
-      "data-structures-algorithms",
       "oop",
-      "operating-systems",
       "concurrency",
       "distributed-systems",
       "git",
@@ -3060,7 +2861,6 @@
       "nosql",
       "statistics",
       "machine-learning",
-      "computer-vision",
       "communication",
       "cross-functional"
     ]
@@ -3081,13 +2881,11 @@
       "cpp",
       "go",
       "rust",
-      "operating-systems",
       "distributed-systems",
       "system-design",
       "git",
       "aws",
       "azure",
-      "computer-vision",
       "cross-functional"
     ]
   },
@@ -3108,13 +2906,11 @@
       "c-lang",
       "go",
       "rust",
-      "operating-systems",
       "linux",
       "react",
       "rest-apis",
       "data-modeling",
       "llm",
-      "computer-vision",
       "communication",
       "cross-functional"
     ]
@@ -3135,14 +2931,12 @@
       "java",
       "javascript",
       "typescript",
-      "operating-systems",
       "testing",
       "git",
       "docker",
       "ci-cd",
       "rest-apis",
       "microservices",
-      "computer-vision",
       "cross-functional"
     ]
   },
@@ -3162,13 +2956,10 @@
       "cpp",
       "go",
       "rust",
-      "data-structures-algorithms",
-      "operating-systems",
       "distributed-systems",
       "nosql",
       "data-pipelines",
       "data-modeling",
-      "computer-vision",
       "cross-functional"
     ]
   },
@@ -3194,7 +2985,6 @@
       "linux",
       "machine-learning",
       "agents",
-      "computer-vision",
       "communication",
       "cross-functional"
     ]
@@ -3214,12 +3004,10 @@
       "c-lang",
       "rust",
       "data-structures-algorithms",
-      "operating-systems",
       "concurrency",
       "statistics",
       "machine-learning",
       "agents",
-      "computer-vision",
       "cross-functional"
     ]
   },
@@ -3239,11 +3027,8 @@
       "c-lang",
       "rust",
       "data-structures-algorithms",
-      "operating-systems",
-      "concurrency",
       "statistics",
       "machine-learning",
-      "computer-vision",
       "cross-functional"
     ]
   },
@@ -3260,8 +3045,6 @@
     "skills": [
       "python",
       "cpp",
-      "data-structures-algorithms",
-      "operating-systems",
       "testing",
       "linux",
       "ci-cd",
@@ -3286,11 +3069,9 @@
       "python",
       "cpp",
       "rust",
-      "operating-systems",
       "linux",
       "ci-cd",
-      "terraform",
-      "computer-vision"
+      "terraform"
     ]
   },
   {
@@ -3305,8 +3086,6 @@
     "last_seen": "2026-11-21",
     "skills": [
       "cpp",
-      "data-structures-algorithms",
-      "operating-systems",
       "machine-learning",
       "computer-vision"
     ]
@@ -3325,15 +3104,13 @@
       "python",
       "java",
       "rust",
-      "operating-systems",
       "docker",
       "kubernetes",
       "spark",
       "kafka",
       "airflow",
       "data-pipelines",
-      "machine-learning",
-      "computer-vision"
+      "machine-learning"
     ]
   },
   {
@@ -3350,15 +3127,13 @@
       "python",
       "java",
       "rust",
-      "operating-systems",
       "docker",
       "kubernetes",
       "spark",
       "kafka",
       "airflow",
       "data-pipelines",
-      "machine-learning",
-      "computer-vision"
+      "machine-learning"
     ]
   },
   {
@@ -3376,14 +3151,12 @@
       "rust",
       "data-structures-algorithms",
       "oop",
-      "operating-systems",
       "concurrency",
       "system-design",
       "nosql",
       "data-pipelines",
       "statistics",
       "machine-learning",
-      "computer-vision",
       "cross-functional"
     ]
   },
@@ -3402,14 +3175,12 @@
       "rust",
       "data-structures-algorithms",
       "oop",
-      "operating-systems",
       "concurrency",
       "system-design",
       "nosql",
       "data-pipelines",
       "statistics",
       "machine-learning",
-      "computer-vision",
       "cross-functional"
     ]
   },
@@ -3427,8 +3198,6 @@
       "cpp",
       "go",
       "rust",
-      "data-structures-algorithms",
-      "operating-systems",
       "distributed-systems",
       "docker",
       "kubernetes",
@@ -3436,8 +3205,7 @@
       "terraform",
       "azure",
       "rest-apis",
-      "data-pipelines",
-      "computer-vision"
+      "data-pipelines"
     ]
   },
   {
@@ -3454,8 +3222,6 @@
       "cpp",
       "go",
       "rust",
-      "data-structures-algorithms",
-      "operating-systems",
       "distributed-systems",
       "docker",
       "kubernetes",
@@ -3463,8 +3229,7 @@
       "terraform",
       "azure",
       "rest-apis",
-      "data-pipelines",
-      "computer-vision"
+      "data-pipelines"
     ]
   },
   {
@@ -3482,9 +3247,7 @@
       "sql",
       "javascript",
       "cpp",
-      "data-structures-algorithms",
       "oop",
-      "operating-systems",
       "concurrency",
       "distributed-systems",
       "git",
@@ -3493,7 +3256,6 @@
       "nosql",
       "statistics",
       "machine-learning",
-      "computer-vision",
       "communication",
       "cross-functional"
     ]
@@ -3513,9 +3275,7 @@
       "cpp",
       "go",
       "rust",
-      "operating-systems",
-      "linux",
-      "computer-vision"
+      "linux"
     ]
   },
   {
@@ -3532,10 +3292,7 @@
       "python",
       "cpp",
       "rust",
-      "data-structures-algorithms",
-      "operating-systems",
       "linux",
-      "computer-vision",
       "cross-functional"
     ]
   },
@@ -3553,9 +3310,7 @@
       "python",
       "cpp",
       "rust",
-      "operating-systems",
-      "testing",
-      "computer-vision"
+      "testing"
     ]
   },
   {
@@ -3569,9 +3324,6 @@
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
     "skills": [
-      "data-structures-algorithms",
-      "operating-systems",
-      "concurrency",
       "system-design",
       "machine-learning",
       "computer-vision",
@@ -3594,9 +3346,7 @@
       "cpp",
       "go",
       "rust",
-      "operating-systems",
-      "distributed-systems",
-      "computer-vision"
+      "distributed-systems"
     ]
   },
   {
@@ -3614,9 +3364,7 @@
       "cpp",
       "go",
       "rust",
-      "operating-systems",
-      "distributed-systems",
-      "computer-vision"
+      "distributed-systems"
     ]
   },
   {
@@ -3634,9 +3382,7 @@
       "sql",
       "javascript",
       "cpp",
-      "data-structures-algorithms",
       "oop",
-      "operating-systems",
       "concurrency",
       "distributed-systems",
       "git",
@@ -3645,7 +3391,6 @@
       "nosql",
       "statistics",
       "machine-learning",
-      "computer-vision",
       "communication",
       "cross-functional"
     ]
@@ -3665,9 +3410,7 @@
       "sql",
       "javascript",
       "cpp",
-      "data-structures-algorithms",
       "oop",
-      "operating-systems",
       "concurrency",
       "distributed-systems",
       "git",
@@ -3676,7 +3419,6 @@
       "nosql",
       "statistics",
       "machine-learning",
-      "computer-vision",
       "communication",
       "cross-functional"
     ]
@@ -3695,10 +3437,8 @@
       "python",
       "cpp",
       "c-lang",
-      "operating-systems",
       "testing",
-      "statistics",
-      "computer-vision"
+      "statistics"
     ]
   },
   {
@@ -3715,9 +3455,7 @@
       "python",
       "cpp",
       "rust",
-      "data-structures-algorithms",
       "oop",
-      "operating-systems",
       "testing",
       "git",
       "docker",
@@ -3726,8 +3464,7 @@
       "terraform",
       "aws",
       "data-pipelines",
-      "dashboards",
-      "computer-vision"
+      "dashboards"
     ]
   },
   {
@@ -3744,9 +3481,7 @@
       "python",
       "cpp",
       "rust",
-      "data-structures-algorithms",
       "oop",
-      "operating-systems",
       "testing",
       "git",
       "docker",
@@ -3755,8 +3490,7 @@
       "terraform",
       "aws",
       "data-pipelines",
-      "dashboards",
-      "computer-vision"
+      "dashboards"
     ]
   },
   {
@@ -3773,9 +3507,7 @@
       "python",
       "cpp",
       "c-lang",
-      "data-structures-algorithms",
-      "operating-systems",
-      "computer-vision"
+      "data-structures-algorithms"
     ]
   },
   {
@@ -3792,9 +3524,7 @@
       "python",
       "cpp",
       "c-lang",
-      "data-structures-algorithms",
-      "operating-systems",
-      "computer-vision"
+      "data-structures-algorithms"
     ]
   },
   {
@@ -3814,8 +3544,6 @@
       "go",
       "rust",
       "data-structures-algorithms",
-      "operating-systems",
-      "computer-vision",
       "cross-functional"
     ]
   },
@@ -3871,8 +3599,7 @@
       "linux",
       "terraform",
       "dashboards",
-      "llm",
-      "communication"
+      "llm"
     ]
   },
   {
@@ -3911,8 +3638,7 @@
       "typescript",
       "machine-learning",
       "agents",
-      "model-evaluation",
-      "communication"
+      "model-evaluation"
     ]
   },
   {
@@ -3968,7 +3694,6 @@
       "python",
       "typescript",
       "react",
-      "communication",
       "cross-functional"
     ]
   },
@@ -3986,7 +3711,6 @@
       "python",
       "typescript",
       "react",
-      "communication",
       "cross-functional"
     ]
   },
@@ -4005,7 +3729,6 @@
       "java",
       "go",
       "rust",
-      "operating-systems",
       "kubernetes",
       "aws",
       "gcp",
@@ -4105,7 +3828,7 @@
       "cpp",
       "c-lang",
       "rust",
-      "concurrency",
+      "operating-systems",
       "linux",
       "docker",
       "kubernetes",
@@ -4220,7 +3943,6 @@
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
     "skills": [
-      "data-structures-algorithms",
       "ci-cd",
       "data-modeling",
       "communication",
@@ -4432,8 +4154,7 @@
       "azure",
       "rest-apis",
       "nosql",
-      "kafka",
-      "agents"
+      "kafka"
     ]
   },
   {
@@ -4454,8 +4175,7 @@
       "distributed-systems",
       "react",
       "nosql",
-      "dashboards",
-      "agents"
+      "dashboards"
     ]
   },
   {
@@ -4473,8 +4193,7 @@
       "data-structures-algorithms",
       "distributed-systems",
       "microservices",
-      "data-warehouse",
-      "agents"
+      "data-warehouse"
     ]
   },
   {
@@ -4769,6 +4488,7 @@
       "sql",
       "java",
       "kotlin",
+      "data-structures-algorithms",
       "nosql"
     ]
   },
@@ -4787,6 +4507,7 @@
       "sql",
       "java",
       "kotlin",
+      "data-structures-algorithms",
       "nosql",
       "communication"
     ]
@@ -4804,6 +4525,7 @@
     "skills": [
       "python",
       "sql",
+      "data-structures-algorithms",
       "distributed-systems",
       "rest-apis",
       "nosql",
@@ -4934,7 +4656,6 @@
       "ruby",
       "distributed-systems",
       "rest-apis",
-      "ab-testing",
       "cross-functional"
     ]
   },
@@ -5208,7 +4929,6 @@
       "javascript",
       "typescript",
       "rust",
-      "ruby",
       "concurrency",
       "distributed-systems",
       "rest-apis",
@@ -5489,8 +5209,7 @@
       "system-design",
       "nosql",
       "kafka",
-      "data-modeling",
-      "llm"
+      "data-modeling"
     ]
   },
   {
@@ -5542,8 +5261,7 @@
     "last_seen": "2026-11-21",
     "skills": [
       "go",
-      "distributed-systems",
-      "llm"
+      "distributed-systems"
     ]
   },
   {
@@ -5580,7 +5298,6 @@
       "java",
       "go",
       "system-design",
-      "llm",
       "communication",
       "cross-functional"
     ]
@@ -5618,7 +5335,6 @@
       "aws",
       "gcp",
       "rest-apis",
-      "llm",
       "cross-functional"
     ]
   },
@@ -5640,7 +5356,6 @@
       "aws",
       "gcp",
       "rest-apis",
-      "llm",
       "cross-functional"
     ]
   },
@@ -5660,7 +5375,6 @@
       "ci-cd",
       "data-warehouse",
       "data-pipelines",
-      "llm",
       "cross-functional"
     ]
   },
@@ -5681,7 +5395,6 @@
       "react",
       "rest-apis",
       "graphql",
-      "agents",
       "communication",
       "cross-functional"
     ]
@@ -5703,7 +5416,6 @@
       "react",
       "rest-apis",
       "graphql",
-      "agents",
       "communication",
       "cross-functional"
     ]
@@ -5730,8 +5442,7 @@
       "aws",
       "gcp",
       "azure",
-      "machine-learning",
-      "agents"
+      "machine-learning"
     ]
   },
   {
@@ -5753,7 +5464,6 @@
       "distributed-systems",
       "system-design",
       "rest-apis",
-      "ab-testing",
       "machine-learning",
       "llm",
       "agents"
@@ -5774,7 +5484,6 @@
       "go",
       "rust",
       "scala",
-      "data-warehouse",
       "machine-learning",
       "communication"
     ]
@@ -5796,8 +5505,7 @@
       "scala",
       "distributed-systems",
       "aws",
-      "azure",
-      "data-warehouse"
+      "azure"
     ]
   },
   {
@@ -5820,7 +5528,6 @@
       "aws",
       "azure",
       "spark",
-      "data-warehouse",
       "data-pipelines"
     ]
   },
@@ -5858,8 +5565,7 @@
       "scala",
       "data-structures-algorithms",
       "distributed-systems",
-      "spark",
-      "data-warehouse"
+      "spark"
     ]
   },
   {
@@ -5877,8 +5583,7 @@
       "java",
       "cpp",
       "data-structures-algorithms",
-      "oop",
-      "data-warehouse"
+      "oop"
     ]
   },
   {
@@ -5896,8 +5601,7 @@
       "java",
       "cpp",
       "data-structures-algorithms",
-      "oop",
-      "data-warehouse"
+      "oop"
     ]
   },
   {
@@ -5920,7 +5624,6 @@
       "aws",
       "gcp",
       "azure",
-      "data-warehouse",
       "cross-functional"
     ]
   },
@@ -5944,7 +5647,6 @@
       "aws",
       "gcp",
       "azure",
-      "data-warehouse",
       "cross-functional"
     ]
   },
@@ -5959,7 +5661,6 @@
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
     "skills": [
-      "data-warehouse",
       "rag",
       "agents"
     ]
@@ -5976,7 +5677,6 @@
     "last_seen": "2026-11-21",
     "skills": [
       "distributed-systems",
-      "data-warehouse",
       "llm",
       "rag"
     ]
@@ -5993,7 +5693,6 @@
     "last_seen": "2026-11-21",
     "skills": [
       "distributed-systems",
-      "data-warehouse",
       "llm",
       "rag"
     ]
@@ -6014,7 +5713,6 @@
       "java",
       "go",
       "kotlin",
-      "ruby",
       "distributed-systems",
       "aws",
       "gcp",
@@ -6041,7 +5739,6 @@
       "java",
       "go",
       "kotlin",
-      "ruby",
       "distributed-systems",
       "aws",
       "gcp",
@@ -6301,7 +5998,6 @@
       "kubernetes",
       "ci-cd",
       "gcp",
-      "spark",
       "machine-learning",
       "mlops"
     ]
@@ -6324,8 +6020,6 @@
       "react",
       "nodejs",
       "rest-apis",
-      "spark",
-      "ab-testing",
       "model-evaluation"
     ]
   },
@@ -6380,8 +6074,7 @@
     "skills": [
       "python",
       "cpp",
-      "c-lang",
-      "data-structures-algorithms"
+      "c-lang"
     ]
   },
   {
@@ -6457,8 +6150,6 @@
       "sql",
       "cpp",
       "kotlin",
-      "data-structures-algorithms",
-      "operating-systems",
       "networking",
       "distributed-systems",
       "testing",
@@ -6616,7 +6307,6 @@
       "kotlin",
       "data-structures-algorithms",
       "oop",
-      "operating-systems",
       "testing",
       "git",
       "ci-cd",
@@ -6655,8 +6345,7 @@
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
     "skills": [
-      "cpp",
-      "data-structures-algorithms"
+      "cpp"
     ]
   },
   {
@@ -7040,7 +6729,6 @@
       "python",
       "java",
       "cpp",
-      "data-structures-algorithms",
       "operating-systems",
       "distributed-systems",
       "linux",
@@ -7217,6 +6905,7 @@
     "last_seen": "2026-11-21",
     "skills": [
       "cpp",
+      "data-structures-algorithms",
       "testing",
       "communication",
       "cross-functional"
@@ -7277,7 +6966,6 @@
       "java",
       "cpp",
       "go",
-      "data-structures-algorithms",
       "cross-functional"
     ]
   },
@@ -7294,9 +6982,7 @@
     "skills": [
       "system-design",
       "react",
-      "data-pipelines",
-      "ab-testing",
-      "machine-learning"
+      "data-pipelines"
     ]
   },
   {
@@ -7312,7 +6998,6 @@
     "skills": [
       "cpp",
       "rust",
-      "data-structures-algorithms",
       "git",
       "rest-apis"
     ]
@@ -7504,7 +7189,6 @@
       "react",
       "rest-apis",
       "data-warehouse",
-      "ab-testing",
       "communication",
       "cross-functional"
     ]
@@ -7565,8 +7249,7 @@
       "ruby",
       "distributed-systems",
       "aws",
-      "machine-learning",
-      "agents"
+      "machine-learning"
     ]
   },
   {
@@ -7647,7 +7330,6 @@
       "aws",
       "gcp",
       "azure",
-      "dbt",
       "data-pipelines"
     ]
   },
@@ -7668,8 +7350,8 @@
       "kotlin",
       "ruby",
       "oop",
-      "operating-systems",
       "distributed-systems",
+      "git",
       "docker",
       "microservices"
     ]
@@ -7691,8 +7373,8 @@
       "kotlin",
       "ruby",
       "oop",
-      "operating-systems",
       "distributed-systems",
+      "git",
       "docker",
       "microservices"
     ]
@@ -7715,8 +7397,8 @@
       "kotlin",
       "ruby",
       "oop",
-      "operating-systems",
       "distributed-systems",
+      "git",
       "docker",
       "ci-cd",
       "terraform",
@@ -7788,8 +7470,8 @@
       "c-lang",
       "kotlin",
       "ruby",
-      "operating-systems",
       "distributed-systems",
+      "git",
       "docker",
       "microservices"
     ]
@@ -7824,6 +7506,53 @@
     ]
   },
   {
+    "key": "greenhouse:gitlab:8704363002",
+    "company": "GitLab",
+    "title": "Backend Engineer (Python),AI Engineering: Agent Foundations",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8704363002",
+    "location": "Remote, Canada; Remote, Poland; Remote, United Kingdom",
+    "level": "open",
+    "posted_at": "2026-08-19T09:38:27-04:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "python",
+      "javascript",
+      "ruby",
+      "testing",
+      "rest-apis",
+      "graphql",
+      "data-modeling",
+      "llm",
+      "agents",
+      "communication",
+      "cross-functional"
+    ]
+  },
+  {
+    "key": "greenhouse:gitlab:8940898002",
+    "company": "GitLab",
+    "title": "Backend Engineer (Ruby), AI Engineering: AI Catalog",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8940898002",
+    "location": "Remote, United Kingdom",
+    "level": "open",
+    "posted_at": "2026-11-17T08:18:23-05:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "python",
+      "sql",
+      "ruby",
+      "testing",
+      "rest-apis",
+      "graphql",
+      "data-modeling",
+      "agents",
+      "communication",
+      "cross-functional"
+    ]
+  },
+  {
     "key": "greenhouse:gitlab:8682860002",
     "company": "GitLab",
     "title": "Backend Engineer (Ruby), Plan: Spec-Driven Development",
@@ -7837,7 +7566,6 @@
       "python",
       "sql",
       "ruby",
-      "git",
       "rest-apis",
       "graphql",
       "data-modeling",
@@ -7859,7 +7587,6 @@
       "python",
       "sql",
       "ruby",
-      "git",
       "rest-apis",
       "graphql",
       "data-modeling",
@@ -7883,7 +7610,6 @@
       "rust",
       "ruby",
       "system-design",
-      "git",
       "rest-apis",
       "kafka",
       "data-modeling",
@@ -7905,7 +7631,6 @@
       "go",
       "rust",
       "ruby",
-      "git",
       "kubernetes",
       "agents"
     ]
@@ -7924,7 +7649,6 @@
       "python",
       "go",
       "networking",
-      "git",
       "linux",
       "kubernetes",
       "ci-cd",
@@ -7932,6 +7656,24 @@
       "aws",
       "gcp",
       "azure",
+      "communication"
+    ]
+  },
+  {
+    "key": "greenhouse:gitlab:8698330002",
+    "company": "GitLab",
+    "title": "Fullstack Engineer (TypeScript), AI Engineering: Duo Client SDK",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8698330002",
+    "location": "Remote, Canada",
+    "level": "open",
+    "posted_at": "2026-08-20T21:22:41-04:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "javascript",
+      "typescript",
+      "nodejs",
+      "rest-apis",
       "communication"
     ]
   },
@@ -7970,7 +7712,6 @@
       "rust",
       "ruby",
       "concurrency",
-      "git",
       "docker",
       "kubernetes",
       "ci-cd",
@@ -7994,7 +7735,6 @@
       "go",
       "rust",
       "ruby",
-      "git",
       "docker",
       "ci-cd",
       "rest-apis",
@@ -8019,7 +7759,6 @@
       "rust",
       "ruby",
       "concurrency",
-      "git",
       "docker",
       "kubernetes",
       "ci-cd",
@@ -8042,7 +7781,6 @@
     "skills": [
       "sql",
       "ruby",
-      "git",
       "ci-cd",
       "graphql"
     ]
@@ -8059,7 +7797,6 @@
     "last_seen": "2026-11-21",
     "skills": [
       "ruby",
-      "git",
       "react",
       "communication"
     ]
@@ -8078,7 +7815,6 @@
       "sql",
       "javascript",
       "ruby",
-      "git",
       "dashboards",
       "agents"
     ]
@@ -8095,7 +7831,6 @@
     "last_seen": "2026-11-21",
     "skills": [
       "ruby",
-      "git",
       "docker",
       "ci-cd",
       "terraform"
@@ -8206,7 +7941,6 @@
       "gcp",
       "azure",
       "microservices",
-      "ab-testing",
       "agents",
       "communication",
       "cross-functional"
@@ -8370,7 +8104,6 @@
     "last_seen": "2026-11-21",
     "skills": [
       "cpp",
-      "data-structures-algorithms",
       "operating-systems",
       "testing",
       "git",
@@ -8444,6 +8177,7 @@
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
     "skills": [
+      "data-structures-algorithms",
       "ci-cd",
       "model-evaluation",
       "communication"
@@ -8460,6 +8194,7 @@
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
     "skills": [
+      "data-structures-algorithms",
       "ci-cd",
       "communication"
     ]
@@ -8475,6 +8210,7 @@
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
     "skills": [
+      "data-structures-algorithms",
       "ci-cd",
       "communication"
     ]
@@ -8490,6 +8226,7 @@
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
     "skills": [
+      "data-structures-algorithms",
       "ci-cd",
       "communication"
     ]
@@ -8506,6 +8243,7 @@
     "last_seen": "2026-11-21",
     "skills": [
       "javascript",
+      "data-structures-algorithms",
       "ci-cd",
       "html-css",
       "react",
@@ -8526,6 +8264,7 @@
       "python",
       "javascript",
       "typescript",
+      "data-structures-algorithms",
       "git",
       "linux",
       "ci-cd",
@@ -8572,7 +8311,6 @@
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
     "skills": [
-      "operating-systems",
       "git",
       "linux",
       "docker",
@@ -8638,11 +8376,7 @@
       "go",
       "data-structures-algorithms",
       "oop",
-      "aws",
-      "gcp",
-      "azure",
       "nodejs",
-      "nosql",
       "cross-functional"
     ]
   },
@@ -8664,11 +8398,7 @@
       "go",
       "data-structures-algorithms",
       "oop",
-      "aws",
-      "gcp",
-      "azure",
       "nodejs",
-      "nosql",
       "cross-functional"
     ]
   },
@@ -8685,14 +8415,10 @@
     "skills": [
       "typescript",
       "kubernetes",
-      "aws",
-      "gcp",
-      "azure",
       "react",
       "nodejs",
       "rest-apis",
-      "microservices",
-      "nosql"
+      "microservices"
     ]
   },
   {
@@ -8713,11 +8439,7 @@
       "go",
       "ruby",
       "data-structures-algorithms",
-      "aws",
-      "gcp",
-      "azure",
       "nodejs",
-      "nosql",
       "cross-functional"
     ]
   },
@@ -8923,7 +8645,6 @@
       "java",
       "typescript",
       "kotlin",
-      "data-structures-algorithms",
       "concurrency",
       "kubernetes",
       "aws",
@@ -8952,7 +8673,6 @@
       "java",
       "typescript",
       "kotlin",
-      "data-structures-algorithms",
       "concurrency",
       "kubernetes",
       "aws",
@@ -9116,7 +8836,6 @@
       "c-lang",
       "go",
       "rust",
-      "data-structures-algorithms",
       "system-design",
       "kubernetes",
       "machine-learning"
@@ -9139,7 +8858,6 @@
       "c-lang",
       "go",
       "rust",
-      "data-structures-algorithms",
       "system-design",
       "kubernetes",
       "machine-learning"
@@ -9400,7 +9118,6 @@
     "last_seen": "2026-11-21",
     "skills": [
       "data-structures-algorithms",
-      "operating-systems",
       "concurrency",
       "testing"
     ]
@@ -9476,7 +9193,6 @@
     "skills": [
       "python",
       "cpp",
-      "data-structures-algorithms",
       "operating-systems",
       "concurrency",
       "distributed-systems",
@@ -9523,7 +9239,6 @@
       "data-pipelines",
       "dashboards",
       "statistics",
-      "ab-testing",
       "machine-learning",
       "agents",
       "cross-functional"
@@ -9581,7 +9296,6 @@
     "skills": [
       "cpp",
       "c-lang",
-      "data-structures-algorithms",
       "networking",
       "communication"
     ]
@@ -9606,8 +9320,7 @@
       "terraform",
       "aws",
       "azure",
-      "rest-apis",
-      "machine-learning"
+      "rest-apis"
     ]
   },
   {
@@ -10179,7 +9892,6 @@
     "skills": [
       "javascript",
       "typescript",
-      "data-structures-algorithms",
       "system-design",
       "git",
       "ci-cd",
@@ -10202,7 +9914,6 @@
     "skills": [
       "javascript",
       "typescript",
-      "data-structures-algorithms",
       "system-design",
       "git",
       "ci-cd",
@@ -10224,8 +9935,6 @@
     "last_seen": "2026-11-21",
     "skills": [
       "javascript",
-      "data-structures-algorithms",
-      "operating-systems",
       "system-design",
       "react",
       "rest-apis",
@@ -10245,8 +9954,6 @@
     "last_seen": "2026-11-21",
     "skills": [
       "javascript",
-      "data-structures-algorithms",
-      "operating-systems",
       "system-design",
       "react",
       "rest-apis",
@@ -10296,6 +10003,7 @@
       "cpp",
       "c-lang",
       "rust",
+      "operating-systems",
       "networking",
       "distributed-systems",
       "linux",
@@ -11306,7 +11014,6 @@
       "data-pipelines",
       "dashboards",
       "statistics",
-      "ab-testing",
       "cross-functional"
     ]
   },
@@ -11560,7 +11267,6 @@
       "data-warehouse",
       "dashboards",
       "data-visualization",
-      "ab-testing",
       "machine-learning",
       "mlops",
       "cross-functional"
@@ -11644,7 +11350,6 @@
       "rest-apis",
       "graphql",
       "data-warehouse",
-      "ab-testing",
       "machine-learning",
       "communication",
       "cross-functional"
@@ -11666,6 +11371,7 @@
       "data-structures-algorithms",
       "operating-systems",
       "networking",
+      "git",
       "linux",
       "ci-cd"
     ]
@@ -11694,7 +11400,6 @@
     "last_seen": "2026-11-21",
     "skills": [
       "data-structures-algorithms",
-      "operating-systems",
       "rest-apis",
       "data-pipelines",
       "dashboards",
@@ -11713,7 +11418,6 @@
     "last_seen": "2026-11-21",
     "skills": [
       "data-structures-algorithms",
-      "operating-systems",
       "rest-apis",
       "data-pipelines",
       "dashboards",
@@ -11834,7 +11538,6 @@
       "java",
       "typescript",
       "go",
-      "ruby",
       "oop",
       "distributed-systems",
       "kubernetes",
@@ -11965,7 +11668,6 @@
       "tableau",
       "looker",
       "data-visualization",
-      "ab-testing",
       "machine-learning",
       "communication"
     ]
@@ -12028,7 +11730,6 @@
       "sql",
       "typescript",
       "go",
-      "ruby",
       "distributed-systems",
       "testing",
       "react",
@@ -12217,7 +11918,6 @@
       "c-sharp",
       "distributed-systems",
       "system-design",
-      "ab-testing",
       "machine-learning",
       "mlops",
       "cross-functional"
@@ -12382,8 +12082,7 @@
     "skills": [
       "cpp",
       "c-sharp",
-      "rust",
-      "concurrency"
+      "rust"
     ]
   },
   {
@@ -12400,7 +12099,6 @@
       "javascript",
       "typescript",
       "react",
-      "ab-testing",
       "machine-learning"
     ]
   },
@@ -12463,7 +12161,6 @@
       "distributed-systems",
       "linux",
       "nosql",
-      "agents",
       "communication",
       "cross-functional"
     ]
@@ -12484,8 +12181,7 @@
       "cpp",
       "c-lang",
       "scala",
-      "oop",
-      "agents"
+      "oop"
     ]
   },
   {
@@ -12513,7 +12209,6 @@
       "gcp",
       "azure",
       "microservices",
-      "agents",
       "communication"
     ]
   },
@@ -12534,8 +12229,7 @@
       "aws",
       "gcp",
       "azure",
-      "microservices",
-      "agents"
+      "microservices"
     ]
   },
   {
@@ -12555,7 +12249,6 @@
       "distributed-systems",
       "linux",
       "nosql",
-      "agents",
       "communication",
       "cross-functional"
     ]
@@ -12579,8 +12272,7 @@
       "testing",
       "aws",
       "gcp",
-      "azure",
-      "agents"
+      "azure"
     ]
   },
   {
@@ -12633,8 +12325,7 @@
       "aws",
       "gcp",
       "azure",
-      "rest-apis",
-      "agents"
+      "rest-apis"
     ]
   },
   {
@@ -12656,8 +12347,7 @@
       "system-design",
       "aws",
       "gcp",
-      "azure",
-      "agents"
+      "azure"
     ]
   },
   {
@@ -12675,8 +12365,7 @@
       "java",
       "cpp",
       "c-lang",
-      "scala",
-      "agents"
+      "scala"
     ]
   },
   {
@@ -12703,8 +12392,7 @@
       "aws",
       "gcp",
       "azure",
-      "microservices",
-      "agents"
+      "microservices"
     ]
   },
   {
@@ -12724,8 +12412,7 @@
       "kubernetes",
       "aws",
       "gcp",
-      "azure",
-      "agents"
+      "azure"
     ]
   },
   {
@@ -12877,7 +12564,6 @@
     "skills": [
       "python",
       "typescript",
-      "data-structures-algorithms",
       "react",
       "rest-apis",
       "nosql",
@@ -12902,7 +12588,6 @@
     "skills": [
       "python",
       "typescript",
-      "data-structures-algorithms",
       "react",
       "rest-apis",
       "nosql",
@@ -12927,7 +12612,6 @@
     "skills": [
       "python",
       "typescript",
-      "data-structures-algorithms",
       "react",
       "rest-apis",
       "nosql",
@@ -13039,6 +12723,7 @@
       "concurrency",
       "distributed-systems",
       "testing",
+      "git",
       "rest-apis",
       "cross-functional"
     ]
@@ -13325,8 +13010,7 @@
       "nodejs",
       "rest-apis",
       "microservices",
-      "nosql",
-      "agents"
+      "nosql"
     ]
   },
   {
@@ -13352,8 +13036,7 @@
       "react",
       "rest-apis",
       "microservices",
-      "nosql",
-      "agents"
+      "nosql"
     ]
   },
   {
@@ -13377,7 +13060,6 @@
       "azure",
       "react",
       "rest-apis",
-      "agents",
       "communication"
     ]
   },
@@ -13399,8 +13081,7 @@
       "kubernetes",
       "aws",
       "azure",
-      "rest-apis",
-      "agents"
+      "rest-apis"
     ]
   },
   {
@@ -13467,7 +13148,6 @@
       "rest-apis",
       "nosql",
       "data-warehouse",
-      "agents",
       "cross-functional"
     ]
   },
@@ -13545,7 +13225,6 @@
       "scala",
       "oop",
       "operating-systems",
-      "concurrency",
       "git",
       "linux",
       "docker",
@@ -13576,7 +13255,6 @@
       "scala",
       "oop",
       "operating-systems",
-      "concurrency",
       "git",
       "linux",
       "docker",
@@ -13607,7 +13285,6 @@
       "scala",
       "oop",
       "operating-systems",
-      "concurrency",
       "git",
       "linux",
       "docker",
@@ -13638,7 +13315,6 @@
       "scala",
       "oop",
       "operating-systems",
-      "concurrency",
       "git",
       "linux",
       "docker",
@@ -13669,7 +13345,6 @@
       "scala",
       "oop",
       "operating-systems",
-      "concurrency",
       "git",
       "linux",
       "docker",
@@ -13700,7 +13375,6 @@
       "scala",
       "oop",
       "operating-systems",
-      "concurrency",
       "git",
       "linux",
       "docker",
@@ -13731,7 +13405,6 @@
       "scala",
       "oop",
       "operating-systems",
-      "concurrency",
       "git",
       "linux",
       "docker",
@@ -13762,7 +13435,6 @@
       "scala",
       "oop",
       "operating-systems",
-      "concurrency",
       "git",
       "linux",
       "docker",
@@ -13793,7 +13465,6 @@
       "scala",
       "oop",
       "operating-systems",
-      "concurrency",
       "git",
       "linux",
       "docker",
@@ -13824,7 +13495,6 @@
       "scala",
       "oop",
       "operating-systems",
-      "concurrency",
       "git",
       "linux",
       "docker",
@@ -13855,7 +13525,6 @@
       "scala",
       "oop",
       "operating-systems",
-      "concurrency",
       "git",
       "linux",
       "docker",
@@ -13886,7 +13555,6 @@
       "scala",
       "oop",
       "operating-systems",
-      "concurrency",
       "git",
       "linux",
       "docker",
@@ -13975,7 +13643,6 @@
     "skills": [
       "cpp",
       "c-lang",
-      "operating-systems",
       "networking",
       "linux"
     ]
@@ -13993,7 +13660,6 @@
     "skills": [
       "cpp",
       "c-lang",
-      "operating-systems",
       "networking",
       "linux"
     ]
@@ -14011,7 +13677,6 @@
     "skills": [
       "cpp",
       "c-lang",
-      "operating-systems",
       "networking",
       "linux"
     ]
@@ -14133,7 +13798,6 @@
       "scala",
       "oop",
       "operating-systems",
-      "concurrency",
       "git",
       "linux",
       "docker",
@@ -14164,7 +13828,6 @@
       "scala",
       "oop",
       "operating-systems",
-      "concurrency",
       "git",
       "linux",
       "docker",
@@ -14195,7 +13858,6 @@
       "scala",
       "oop",
       "operating-systems",
-      "concurrency",
       "git",
       "linux",
       "docker",
@@ -14226,7 +13888,6 @@
       "scala",
       "oop",
       "operating-systems",
-      "concurrency",
       "git",
       "linux",
       "docker",
@@ -14257,7 +13918,6 @@
       "scala",
       "oop",
       "operating-systems",
-      "concurrency",
       "git",
       "linux",
       "docker",
@@ -14288,7 +13948,6 @@
       "scala",
       "oop",
       "operating-systems",
-      "concurrency",
       "git",
       "linux",
       "docker",
@@ -14319,7 +13978,6 @@
       "scala",
       "oop",
       "operating-systems",
-      "concurrency",
       "git",
       "linux",
       "docker",
@@ -14350,7 +14008,6 @@
       "scala",
       "oop",
       "operating-systems",
-      "concurrency",
       "git",
       "linux",
       "docker",
@@ -14381,7 +14038,6 @@
       "scala",
       "oop",
       "operating-systems",
-      "concurrency",
       "git",
       "linux",
       "docker",
@@ -14429,7 +14085,6 @@
       "java",
       "javascript",
       "c-sharp",
-      "data-structures-algorithms",
       "oop",
       "operating-systems",
       "linux",
@@ -14513,7 +14168,6 @@
       "c-sharp",
       "rust",
       "oop",
-      "concurrency",
       "distributed-systems",
       "linux",
       "docker",
@@ -14542,7 +14196,6 @@
       "scala",
       "oop",
       "operating-systems",
-      "concurrency",
       "git",
       "linux",
       "docker",
@@ -14571,7 +14224,6 @@
       "c-sharp",
       "go",
       "scala",
-      "data-structures-algorithms",
       "git",
       "ci-cd",
       "react",
@@ -14601,7 +14253,6 @@
       "c-sharp",
       "go",
       "scala",
-      "data-structures-algorithms",
       "git",
       "ci-cd",
       "react",
@@ -14633,7 +14284,6 @@
       "scala",
       "oop",
       "operating-systems",
-      "concurrency",
       "git",
       "linux",
       "docker",
@@ -14664,7 +14314,6 @@
       "scala",
       "oop",
       "operating-systems",
-      "concurrency",
       "git",
       "linux",
       "docker",
@@ -14695,7 +14344,6 @@
       "scala",
       "oop",
       "operating-systems",
-      "concurrency",
       "git",
       "linux",
       "docker",
@@ -14726,7 +14374,6 @@
       "scala",
       "oop",
       "operating-systems",
-      "concurrency",
       "git",
       "linux",
       "docker",
@@ -14757,7 +14404,6 @@
       "scala",
       "oop",
       "operating-systems",
-      "concurrency",
       "git",
       "linux",
       "docker",
@@ -14788,7 +14434,6 @@
       "scala",
       "oop",
       "operating-systems",
-      "concurrency",
       "git",
       "linux",
       "docker",
@@ -14819,7 +14464,6 @@
       "scala",
       "oop",
       "operating-systems",
-      "concurrency",
       "git",
       "linux",
       "docker",
@@ -14850,7 +14494,6 @@
       "scala",
       "oop",
       "operating-systems",
-      "concurrency",
       "git",
       "linux",
       "docker",
@@ -14881,7 +14524,6 @@
       "scala",
       "oop",
       "operating-systems",
-      "concurrency",
       "git",
       "linux",
       "docker",
@@ -14912,7 +14554,6 @@
       "scala",
       "oop",
       "operating-systems",
-      "concurrency",
       "git",
       "linux",
       "docker",
@@ -14943,7 +14584,6 @@
       "scala",
       "oop",
       "operating-systems",
-      "concurrency",
       "git",
       "linux",
       "docker",
@@ -14996,7 +14636,6 @@
       "scala",
       "oop",
       "operating-systems",
-      "concurrency",
       "git",
       "linux",
       "docker",
@@ -15079,7 +14718,6 @@
     "last_seen": "2026-11-21",
     "skills": [
       "networking",
-      "concurrency",
       "cross-functional"
     ]
   },
@@ -15496,7 +15134,6 @@
       "scala",
       "oop",
       "operating-systems",
-      "concurrency",
       "git",
       "linux",
       "docker",
@@ -15527,7 +15164,6 @@
       "scala",
       "oop",
       "operating-systems",
-      "concurrency",
       "git",
       "linux",
       "docker",
@@ -15558,7 +15194,6 @@
       "scala",
       "oop",
       "operating-systems",
-      "concurrency",
       "git",
       "linux",
       "docker",
@@ -15581,7 +15216,6 @@
     "last_seen": "2026-11-21",
     "skills": [
       "python",
-      "data-structures-algorithms",
       "operating-systems",
       "networking",
       "git",
@@ -15800,7 +15434,6 @@
       "cpp",
       "c-sharp",
       "go",
-      "data-structures-algorithms",
       "oop",
       "docker",
       "kubernetes",
@@ -16196,7 +15829,6 @@
       "scala",
       "oop",
       "operating-systems",
-      "concurrency",
       "git",
       "linux",
       "docker",
@@ -16318,7 +15950,6 @@
     "last_seen": "2026-11-21",
     "skills": [
       "cpp",
-      "data-structures-algorithms",
       "linux",
       "ci-cd"
     ]
@@ -16376,7 +16007,6 @@
       "cpp",
       "c-lang",
       "rust",
-      "data-structures-algorithms",
       "distributed-systems",
       "communication"
     ]
@@ -16395,7 +16025,6 @@
       "cpp",
       "c-lang",
       "rust",
-      "data-structures-algorithms",
       "distributed-systems",
       "communication"
     ]
@@ -16414,7 +16043,6 @@
       "cpp",
       "c-lang",
       "rust",
-      "data-structures-algorithms",
       "distributed-systems",
       "communication"
     ]
@@ -16456,7 +16084,6 @@
       "python",
       "cpp",
       "c-lang",
-      "data-structures-algorithms",
       "operating-systems",
       "networking",
       "git",
@@ -16482,7 +16109,6 @@
       "c-sharp",
       "go",
       "scala",
-      "data-structures-algorithms",
       "git",
       "ci-cd",
       "react",
@@ -16512,7 +16138,6 @@
       "c-sharp",
       "go",
       "scala",
-      "data-structures-algorithms",
       "git",
       "ci-cd",
       "react",
@@ -16820,7 +16445,6 @@
       "scala",
       "oop",
       "operating-systems",
-      "concurrency",
       "git",
       "linux",
       "docker",
@@ -16844,7 +16468,6 @@
     "skills": [
       "cpp",
       "c-lang",
-      "operating-systems",
       "networking",
       "linux"
     ]
@@ -16862,7 +16485,6 @@
     "skills": [
       "cpp",
       "c-lang",
-      "operating-systems",
       "networking",
       "linux"
     ]
@@ -16880,7 +16502,6 @@
     "skills": [
       "cpp",
       "c-lang",
-      "operating-systems",
       "networking",
       "linux"
     ]
@@ -16937,7 +16558,6 @@
       "scala",
       "oop",
       "operating-systems",
-      "concurrency",
       "git",
       "linux",
       "docker",
@@ -16968,7 +16588,6 @@
       "scala",
       "oop",
       "operating-systems",
-      "concurrency",
       "git",
       "linux",
       "docker",
@@ -17067,7 +16686,6 @@
       "cpp",
       "c-lang",
       "rust",
-      "data-structures-algorithms",
       "git",
       "ci-cd"
     ]
@@ -17228,7 +16846,6 @@
     "skills": [
       "cpp",
       "c-lang",
-      "operating-systems",
       "networking",
       "linux"
     ]
@@ -17246,7 +16863,6 @@
     "skills": [
       "cpp",
       "c-lang",
-      "operating-systems",
       "networking",
       "linux"
     ]
@@ -17264,7 +16880,6 @@
     "skills": [
       "cpp",
       "c-lang",
-      "operating-systems",
       "networking",
       "linux"
     ]
@@ -17385,7 +17000,6 @@
       "python",
       "cpp",
       "c-lang",
-      "data-structures-algorithms",
       "git",
       "linux",
       "ci-cd",
@@ -17498,7 +17112,6 @@
       "javascript",
       "c-sharp",
       "scala",
-      "data-structures-algorithms",
       "oop",
       "operating-systems",
       "git",
@@ -17633,7 +17246,6 @@
       "gcp",
       "rest-apis",
       "data-pipelines",
-      "ab-testing",
       "machine-learning",
       "cross-functional"
     ]
@@ -17815,7 +17427,6 @@
       "go",
       "ruby",
       "ci-cd",
-      "ab-testing",
       "llm",
       "communication",
       "cross-functional"
@@ -17866,7 +17477,6 @@
       "rest-apis",
       "graphql",
       "dashboards",
-      "ab-testing",
       "agents",
       "communication"
     ]
@@ -17900,7 +17510,6 @@
     "last_seen": "2026-11-21",
     "skills": [
       "sql",
-      "ruby",
       "distributed-systems",
       "rest-apis",
       "communication"
@@ -18079,7 +17688,6 @@
     "skills": [
       "python",
       "typescript",
-      "ruby",
       "kubernetes",
       "terraform",
       "aws",
@@ -18149,7 +17757,6 @@
     "last_seen": "2026-11-21",
     "skills": [
       "sql",
-      "ruby",
       "distributed-systems",
       "rest-apis",
       "communication"
@@ -18760,7 +18367,6 @@
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
     "skills": [
-      "ruby",
       "distributed-systems",
       "aws",
       "react",
@@ -19031,8 +18637,7 @@
       "aws",
       "rest-apis",
       "kafka",
-      "data-modeling",
-      "ab-testing"
+      "data-modeling"
     ]
   },
   {
@@ -19055,7 +18660,6 @@
       "nosql",
       "kafka",
       "data-modeling",
-      "ab-testing",
       "communication",
       "cross-functional"
     ]
@@ -19218,7 +18822,6 @@
       "java",
       "javascript",
       "typescript",
-      "operating-systems",
       "testing",
       "git",
       "ci-cd",
@@ -19227,9 +18830,7 @@
       "nodejs",
       "rest-apis",
       "graphql",
-      "dashboards",
-      "agents",
-      "cross-functional"
+      "dashboards"
     ]
   },
   {
@@ -19301,7 +18902,6 @@
       "azure",
       "machine-learning",
       "llm",
-      "fine-tuning",
       "nlp",
       "communication",
       "cross-functional"
@@ -19530,7 +19130,6 @@
       "go",
       "kotlin",
       "swift",
-      "concurrency",
       "aws",
       "react",
       "nosql"
@@ -19551,7 +19150,6 @@
       "go",
       "kotlin",
       "swift",
-      "concurrency",
       "aws",
       "react",
       "nosql"
@@ -19749,8 +19347,7 @@
       "ci-cd",
       "terraform",
       "aws",
-      "rest-apis",
-      "agents"
+      "rest-apis"
     ]
   },
   {
@@ -19771,8 +19368,7 @@
       "aws",
       "gcp",
       "nodejs",
-      "rest-apis",
-      "agents"
+      "rest-apis"
     ]
   },
   {
@@ -19790,8 +19386,7 @@
       "typescript",
       "html-css",
       "react",
-      "nextjs",
-      "agents"
+      "nextjs"
     ]
   },
   {
@@ -19857,7 +19452,6 @@
       "nodejs",
       "rest-apis",
       "nosql",
-      "agents",
       "cross-functional"
     ]
   },
@@ -19879,8 +19473,7 @@
       "aws",
       "gcp",
       "react",
-      "nextjs",
-      "agents"
+      "nextjs"
     ]
   },
   {
@@ -19904,8 +19497,7 @@
       "nextjs",
       "nodejs",
       "nosql",
-      "dashboards",
-      "agents"
+      "dashboards"
     ]
   },
   {
@@ -19925,7 +19517,6 @@
       "docker",
       "kubernetes",
       "terraform",
-      "agents",
       "communication"
     ]
   },
@@ -19943,8 +19534,7 @@
       "typescript",
       "git",
       "rest-apis",
-      "data-warehouse",
-      "agents"
+      "data-warehouse"
     ]
   },
   {
@@ -19961,8 +19551,7 @@
       "typescript",
       "go",
       "rust",
-      "distributed-systems",
-      "agents"
+      "distributed-systems"
     ]
   },
   {
@@ -20004,7 +19593,6 @@
       "concurrency",
       "distributed-systems",
       "rest-apis",
-      "agents",
       "communication"
     ]
   },
@@ -20071,9 +19659,7 @@
       "typescript",
       "react",
       "nextjs",
-      "rest-apis",
-      "ab-testing",
-      "agents"
+      "rest-apis"
     ]
   },
   {
@@ -20098,7 +19684,6 @@
       "microservices",
       "nosql",
       "kafka",
-      "agents",
       "computer-vision"
     ]
   },
@@ -20123,7 +19708,6 @@
       "microservices",
       "nosql",
       "kafka",
-      "agents",
       "computer-vision",
       "cross-functional"
     ]
@@ -20145,8 +19729,7 @@
       "go",
       "operating-systems",
       "distributed-systems",
-      "linux",
-      "agents"
+      "linux"
     ]
   },
   {
@@ -20166,8 +19749,7 @@
       "go",
       "operating-systems",
       "distributed-systems",
-      "linux",
-      "agents"
+      "linux"
     ]
   },
   {
@@ -20186,7 +19768,6 @@
       "aws",
       "rest-apis",
       "data-pipelines",
-      "agents",
       "cross-functional"
     ]
   },
@@ -20209,8 +19790,7 @@
       "concurrency",
       "distributed-systems",
       "linux",
-      "aws",
-      "agents"
+      "aws"
     ]
   },
   {
@@ -20228,8 +19808,7 @@
       "cpp",
       "rust",
       "git",
-      "linux",
-      "agents"
+      "linux"
     ]
   },
   {
@@ -20246,7 +19825,6 @@
       "python",
       "go",
       "spark",
-      "agents",
       "cross-functional"
     ]
   },
@@ -20262,9 +19840,7 @@
     "last_seen": "2026-11-21",
     "skills": [
       "cpp",
-      "data-structures-algorithms",
       "linux",
-      "agents",
       "computer-vision",
       "cross-functional"
     ]
@@ -20284,7 +19860,6 @@
       "kubernetes",
       "terraform",
       "aws",
-      "agents",
       "communication"
     ]
   },
@@ -20304,7 +19879,6 @@
       "terraform",
       "aws",
       "microservices",
-      "agents",
       "communication"
     ]
   },
@@ -20494,9 +20068,7 @@
     "last_seen": "2026-11-21",
     "skills": [
       "cpp",
-      "data-structures-algorithms",
       "distributed-systems",
-      "ab-testing",
       "machine-learning"
     ]
   },
@@ -20512,7 +20084,6 @@
     "last_seen": "2026-11-21",
     "skills": [
       "cpp",
-      "data-structures-algorithms",
       "system-design",
       "machine-learning",
       "model-evaluation"
@@ -20660,6 +20231,7 @@
       "java",
       "cpp",
       "go",
+      "operating-systems",
       "git",
       "linux",
       "kubernetes",
@@ -20704,8 +20276,7 @@
     "last_seen": "2026-11-21",
     "skills": [
       "python",
-      "cpp",
-      "machine-learning"
+      "cpp"
     ]
   },
   {
@@ -20728,8 +20299,7 @@
       "git",
       "linux",
       "ci-cd",
-      "dashboards",
-      "machine-learning"
+      "dashboards"
     ]
   },
   {
@@ -20762,8 +20332,6 @@
     "skills": [
       "cpp",
       "c-lang",
-      "data-structures-algorithms",
-      "machine-learning",
       "cross-functional"
     ]
   },
@@ -20781,7 +20349,6 @@
       "cpp",
       "c-lang",
       "oop",
-      "machine-learning",
       "cross-functional"
     ]
   },
@@ -20798,7 +20365,6 @@
     "skills": [
       "cpp",
       "c-lang",
-      "machine-learning",
       "cross-functional"
     ]
   },
@@ -20835,7 +20401,6 @@
     "skills": [
       "cpp",
       "data-structures-algorithms",
-      "machine-learning",
       "cross-functional"
     ]
   },
@@ -20852,7 +20417,6 @@
     "skills": [
       "cpp",
       "concurrency",
-      "machine-learning",
       "communication",
       "cross-functional"
     ]
@@ -20869,7 +20433,6 @@
     "last_seen": "2026-11-21",
     "skills": [
       "cpp",
-      "data-structures-algorithms",
       "machine-learning",
       "cross-functional"
     ]
@@ -20892,7 +20455,6 @@
       "operating-systems",
       "linux",
       "docker",
-      "machine-learning",
       "communication",
       "cross-functional"
     ]
@@ -20909,10 +20471,8 @@
     "last_seen": "2026-11-21",
     "skills": [
       "cpp",
-      "data-structures-algorithms",
       "rest-apis",
       "statistics",
-      "machine-learning",
       "cross-functional"
     ]
   },
@@ -20928,8 +20488,6 @@
     "last_seen": "2026-11-21",
     "skills": [
       "cpp",
-      "data-structures-algorithms",
-      "machine-learning",
       "cross-functional"
     ]
   },
@@ -20945,7 +20503,6 @@
     "last_seen": "2026-11-21",
     "skills": [
       "cpp",
-      "data-structures-algorithms",
       "machine-learning"
     ]
   },
@@ -20967,8 +20524,7 @@
       "react",
       "airflow",
       "looker",
-      "dashboards",
-      "machine-learning"
+      "dashboards"
     ]
   },
   {
@@ -20984,8 +20540,8 @@
     "skills": [
       "java",
       "kotlin",
-      "data-structures-algorithms",
       "oop",
+      "git",
       "microservices",
       "machine-learning",
       "cross-functional"
@@ -21007,11 +20563,9 @@
       "javascript",
       "cpp",
       "rust",
-      "data-structures-algorithms",
       "aws",
       "react",
-      "rest-apis",
-      "machine-learning"
+      "rest-apis"
     ]
   },
   {
@@ -21033,7 +20587,6 @@
       "linux",
       "docker",
       "ci-cd",
-      "machine-learning",
       "communication",
       "cross-functional"
     ]
@@ -21080,7 +20633,6 @@
       "linux",
       "looker",
       "dashboards",
-      "machine-learning",
       "communication"
     ]
   },
@@ -21121,7 +20673,6 @@
       "cpp",
       "c-lang",
       "linux",
-      "machine-learning",
       "cross-functional"
     ]
   }

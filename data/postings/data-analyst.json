@@ -12,7 +12,6 @@
     "skills": [
       "python",
       "sql",
-      "operating-systems",
       "rest-apis",
       "data-warehouse",
       "data-pipelines",
@@ -43,13 +42,11 @@
     "skills": [
       "python",
       "sql",
-      "operating-systems",
       "git",
       "spark",
       "data-warehouse",
       "data-modeling",
       "dashboards",
-      "computer-vision",
       "communication",
       "cross-functional"
     ]
@@ -67,12 +64,10 @@
     "skills": [
       "python",
       "sql",
-      "operating-systems",
       "excel",
       "tableau",
       "power-bi",
       "data-visualization",
-      "computer-vision",
       "cross-functional"
     ]
   },
@@ -183,7 +178,6 @@
     "skills": [
       "python",
       "sql",
-      "operating-systems",
       "dbt",
       "data-pipelines",
       "data-modeling",

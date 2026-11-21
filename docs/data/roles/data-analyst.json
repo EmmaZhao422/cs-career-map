@@ -211,16 +211,6 @@
       "entry_count": 1
     },
     {
-      "id": "operating-systems",
-      "name": "Operating systems",
-      "category": "CS fundamentals",
-      "count": 4,
-      "pct": 12.5,
-      "tier": "some",
-      "companies": 2,
-      "entry_count": 1
-    },
-    {
       "id": "spark",
       "name": "Spark",
       "category": "Data engineering",
@@ -239,16 +229,6 @@
       "tier": "some",
       "companies": 3,
       "entry_count": 2
-    },
-    {
-      "id": "computer-vision",
-      "name": "Computer vision",
-      "category": "AI & ML",
-      "count": 3,
-      "pct": 9.4,
-      "tier": "some",
-      "companies": 1,
-      "entry_count": 1
     },
     {
       "id": "llm",
@@ -309,6 +289,16 @@
       "tier": "some",
       "companies": 2,
       "entry_count": 0
+    },
+    {
+      "id": "computer-vision",
+      "name": "Computer vision",
+      "category": "AI & ML",
+      "count": 1,
+      "pct": 3.1,
+      "tier": "rare",
+      "companies": 1,
+      "entry_count": 1
     },
     {
       "id": "linux",
@@ -693,5 +683,5 @@
       "last_seen": "2026-11-21"
     }
   ],
-  "generated_at": "2026-11-21T07:45:16+00:00"
+  "generated_at": "2026-11-21T07:47:27+00:00"
 }
