@@ -23,7 +23,7 @@
     ]
   },
   "sql": {
-    "name": "SQL",
+    "name": "SQL & relational databases",
     "category": "Languages",
     "prereqs": [],
     "level": "You can answer a business question with joins, GROUP BY and a window function without looking up the syntax.",

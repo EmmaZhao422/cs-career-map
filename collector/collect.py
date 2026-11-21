@@ -71,6 +71,52 @@ def html_to_text(raw: str | None) -> str:
     return _SPACE.sub(" ", text).strip()
 
 
+BOILERPLATE_MIN_POSTINGS = 6   # only judge boilerplate when a board has this many postings
+BOILERPLATE_SHARE = 0.5        # a line shared by this share of a board's postings is boilerplate
+BOILERPLATE_MIN_LENGTH = 40    # short lines ("Python", "SQL and Tableau") are never boilerplate
+
+
+def _norm_line(line: str) -> str:
+    return " ".join(line.lower().split())
+
+
+def strip_boilerplate(jobs: list[dict]) -> None:
+    """Remove lines that most of a company's postings share: the company intro,
+    benefits, legal text. A skill named there says nothing about one job."""
+    if len(jobs) < BOILERPLATE_MIN_POSTINGS:
+        return
+    counts: dict[str, int] = {}
+    for job in jobs:
+        for line in {_norm_line(l) for l in job["text"].split("\n") if len(l.strip()) >= BOILERPLATE_MIN_LENGTH}:
+            counts[line] = counts.get(line, 0) + 1
+    cutoff = max(3, len(jobs) * BOILERPLATE_SHARE)
+    common = {line for line, n in counts.items() if n >= cutoff}
+    if not common:
+        return
+    for job in jobs:
+        job["text"] = "\n".join(l for l in job["text"].split("\n") if _norm_line(l) not in common)
+
+
+def strip_names(text: str, names) -> str:
+    """Blank out the company's own name, so 'MongoDB' in a MongoDB posting is
+    not counted as a database skill."""
+    for name in sorted({n.strip() for n in names if n and len(n.strip()) >= 3}, key=len, reverse=True):
+        text = re.sub(r"(?<![A-Za-z0-9])" + re.escape(name) + r"(?![A-Za-z0-9])", " ", text, flags=re.IGNORECASE)
+    return text
+
+
+def prepare_board(jobs: list[dict], company: dict) -> str:
+    """Clean one board's postings in place and return the company's display name."""
+    api_names = [j["company_name"].strip() for j in jobs if j.get("company_name")]
+    # The board's own company name is more reliable than the label in our list.
+    display_name = max(set(api_names), key=api_names.count) if api_names else company["name"]
+    strip_boilerplate(jobs)
+    names = {display_name, company["name"], company["board"]}
+    for job in jobs:
+        job["text"] = strip_names(job["text"], names)
+    return display_name
+
+
 # ---------------------------------------------------------------- skills
 
 class SkillMatcher:
@@ -200,10 +246,9 @@ def collect(companies: list[dict], classifier: RoleClassifier, matcher: SkillMat
             report.append(entry)
             continue
         kept = 0
-        api_names = [j["company_name"].strip() for j in jobs if j.get("company_name")]
-        # The board's own company name is more reliable than the label in our list.
-        display_name = max(set(api_names), key=api_names.count) if api_names else company["name"]
-        entry["api_name"] = display_name if api_names else None
+        has_api_name = any(j.get("company_name") for j in jobs)
+        display_name = prepare_board(jobs, company)
+        entry["api_name"] = display_name if has_api_name else None
         for job in jobs:
             role_id = classifier.classify(job["title"])
             if role_id is None or not job.get("url"):

@@ -12,7 +12,7 @@
   "skills": [
     {
       "id": "sql",
-      "name": "SQL",
+      "name": "SQL & relational databases",
       "category": "Languages",
       "count": 30,
       "pct": 93.8,
@@ -361,5 +361,5 @@
       "entry_count": 0
     }
   ],
-  "generated_at": "2026-11-21T07:42:59+00:00"
+  "generated_at": "2026-11-21T07:45:16+00:00"
 }

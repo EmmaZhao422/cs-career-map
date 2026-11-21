@@ -8,13 +8,13 @@
       "title": "AI Engineer",
       "blurb": "Builds products on top of machine learning models and LLMs.",
       "include": [
-        "\\b(ai|ml|machine learning|deep learning|llm|genai|generative ai|applied ai)\\b.*\\b(engineer|developer)\\b",
-        "\\b(engineer|developer)\\b.*\\b(ai|ml|machine learning|llm|genai|generative ai)\\b",
+        "\\b(ai|ml|machine learning|deep learning|llm|genai|generative ai)\\b[^,(\\-–]*\\b(engineer|developer)\\b",
+        "\\b(software|research|applied) (engineer|developer|scientist)\\b.*\\b(ai|ml|machine learning|deep learning|llm|genai|generative ai)\\b",
         "\\bapplied scientist\\b",
         "\\bresearch engineer\\b"
       ],
       "exclude": [
-        "\\b(sales|solutions|support|recruit\\w*|hardware|mechanical|electrical|email)\\b",
+        "\\b(sales|solutions|support|recruit\\w*|hardware|mechanical|electrical|email|marketing|value|threat|site reliability)\\b",
         "\\bforward[- ]deployed\\b"
       ]
     },
@@ -36,7 +36,7 @@
       "blurb": "Designs, writes and ships the code behind a product.",
       "include": [
         "\\bsoftware (engineer|developer)\\b",
-        "\\b(backend|back-end|back end|frontend|front-end|front end|full[- ]?stack|web|mobile|ios|android|platform|infrastructure|systems|product) (software )?(engineer|developer)\\b",
+        "\\b(backend|back-end|back end|frontend|front-end|front end|full[- ]?stack|web|mobile|ios|android|platform|infrastructure|product) (software )?(engineer|developer)\\b",
         "\\b(swe|sde)\\b",
         "\\bmember of technical staff\\b"
       ],

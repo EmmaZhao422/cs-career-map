@@ -24,6 +24,31 @@ class TextTests(unittest.TestCase):
         self.assertEqual(collect.html_to_text(None), "")
 
 
+class CleaningTests(unittest.TestCase):
+    def test_lines_shared_by_most_postings_are_dropped(self):
+        intro = "We build autonomy, AI and computer vision products for a safer world."
+        jobs = [{"text": intro + "\nYou will write Python.\nRequirement number %d for this particular job only." % i}
+                for i in range(8)]
+        jobs.append({"text": "A different posting that mentions computer vision in its own requirements section."})
+        collect.strip_boilerplate(jobs)
+        self.assertNotIn("autonomy", jobs[0]["text"])
+        self.assertIn("You will write Python.", jobs[0]["text"])       # short lines always stay
+        self.assertIn("Requirement number 0", jobs[0]["text"])
+        self.assertIn("computer vision", jobs[8]["text"])              # said once, so it stays
+
+    def test_small_boards_are_left_alone(self):
+        jobs = [{"text": "The same long introduction line appears in every posting here."} for _ in range(3)]
+        collect.strip_boilerplate(jobs)
+        self.assertTrue(all(j["text"] for j in jobs))
+
+    def test_company_name_is_not_a_skill(self):
+        matcher = collect.SkillMatcher(SKILLS)
+        text = collect.strip_names("Join MongoDB. You will use Redis and MongoDB Atlas.", {"MongoDB", "mongodb"})
+        self.assertIn("nosql", matcher.match(text))        # Redis still counts
+        only = collect.strip_names("MongoDB is hiring. MongoDB values ownership.", {"MongoDB"})
+        self.assertNotIn("nosql", matcher.match(only))
+
+
 class SkillTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
@@ -78,6 +103,20 @@ class SkillTests(unittest.TestCase):
         hits = self.found("Ship LLM features: RAG pipelines, evals, prompt engineering, and AI agents in PyTorch")
         self.assertTrue({"llm", "rag", "model-evaluation", "prompt-engineering", "agents", "pytorch"} <= hits)
 
+    def test_patterns_tightened_after_the_first_audit(self):
+        self.assertNotIn("ruby", self.found("integrating with local payment rails"))
+        self.assertIn("ruby", self.found("a large Ruby on Rails monolith"))
+        self.assertNotIn("data-structures-algorithms", self.found("infrastructure, algorithms, and integrations"))
+        self.assertIn("data-structures-algorithms", self.found("solid grasp of algorithms and data structures"))
+        self.assertNotIn("operating-systems", self.found("Lattice OS, an AI-powered operating system that turns data"))
+        self.assertIn("operating-systems", self.found("coursework in operating systems and networking"))
+        self.assertNotIn("concurrency", self.found("supports concurrent streams of data; ship features concurrently"))
+        self.assertIn("concurrency", self.found("multithreading, concurrency and locking"))
+        self.assertNotIn("ab-testing", self.found("field exercises, test events, experimentation campaigns"))
+        self.assertIn("ab-testing", self.found("design A/B tests and read the results"))
+        self.assertNotIn("git", self.found("GitLab is an open core software company"))
+        self.assertIn("git", self.found("comfortable with Git and code review"))
+
     def test_model_evaluation_not_business_benchmarking(self):
         self.assertNotIn("model-evaluation", self.found("benchmark our pricing against competitors"))
         self.assertIn("model-evaluation", self.found("build evals and benchmarks for models"))
@@ -106,6 +145,16 @@ class RoleTests(unittest.TestCase):
             "Product Analyst, Growth": "data-analyst",
             "Business Intelligence Analyst": "data-analyst",
             "Software Engineer II, Frontend": "software-engineer",
+            "Software Engineer, Applied AI Infrastructure": "ai-engineer",
+            "AI Software Engineer II": "ai-engineer",
+            "AI/ML Engineer": "ai-engineer",
+            "Site Reliability Engineer, AI Infrastructure (Starshield)": None,
+            "GNC Engineer - Embedded Controls, AI Satellites (Starmind)": None,
+            "AI Marketing Engineer": None,
+            "Threat Research Engineer, Security Factory": None,
+            "IT Systems Engineer": None,
+            "People Systems Engineer": None,
+            "Platform Engineer - Commercial Services Tools": "software-engineer",
             "Technical Operations & Insights Analyst": "data-analyst",
             "Software Engineer 3": None,
             "Software Engineer 3, Identity and Access Management": None,

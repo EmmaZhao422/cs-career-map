@@ -46,6 +46,7 @@ def main(argv=None) -> int:
             jobs = fetcher(company["board"])
         except Exception:
             continue
+        collect.prepare_board(jobs, company)
         for job in jobs:
             role_id = classifier.classify(job["title"])
             if role_id is None:

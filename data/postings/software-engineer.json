@@ -984,54 +984,6 @@
     ]
   },
   {
-    "key": "greenhouse:airbnb:8312713",
-    "company": "Airbnb",
-    "title": "Systems Engineer, Tech Foundations (Jira cloud)",
-    "url": "https://careers.airbnb.com/positions/8312713?gh_jid=8312713",
-    "location": "Remote - Bangalore, India",
-    "level": "open",
-    "posted_at": "2026-10-22T11:01:04-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "javascript",
-      "rest-apis",
-      "dashboards",
-      "machine-learning",
-      "agents",
-      "communication",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "greenhouse:andurilindustries:5300647007",
-    "company": "Anduril Industries",
-    "title": "2027 Business Systems Engineer Intern",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5300647007?gh_jid=5300647007",
-    "location": "Costa Mesa, California, United States",
-    "level": "entry",
-    "posted_at": "2026-11-18T11:45:29-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "sql",
-      "javascript",
-      "typescript",
-      "operating-systems",
-      "rest-apis",
-      "data-pipelines",
-      "excel",
-      "tableau",
-      "power-bi",
-      "dashboards",
-      "data-visualization",
-      "computer-vision",
-      "communication",
-      "cross-functional"
-    ]
-  },
-  {
     "key": "greenhouse:andurilindustries:5228868007",
     "company": "Anduril Industries",
     "title": "2027 Early Career Flight Software Engineer",
@@ -1094,23 +1046,6 @@
     ]
   },
   {
-    "key": "greenhouse:andurilindustries:5262340007",
-    "company": "Anduril Industries",
-    "title": "2027 Early Career Systems Engineer",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5262340007?gh_jid=5262340007",
-    "location": "Boston, Massachusetts, United States; Boulder, Colorado, United States; Costa Mesa, California, United States; Foothill Ranch, California, United States; Huntsville, Alabama, United States; Reston, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States",
-    "level": "entry",
-    "posted_at": "2026-10-09T12:28:14-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "operating-systems",
-      "linux",
-      "computer-vision",
-      "communication"
-    ]
-  },
-  {
     "key": "greenhouse:andurilindustries:5239083007",
     "company": "Anduril Industries",
     "title": "2027 Flight Software Engineer Intern",
@@ -1170,72 +1105,6 @@
     ]
   },
   {
-    "key": "greenhouse:andurilindustries:5257690007",
-    "company": "Anduril Industries",
-    "title": "2027 Systems Engineer Intern",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007",
-    "location": "Boston, Massachusetts, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Reston, Virginia, United States; Seattle, Washington, United States",
-    "level": "entry",
-    "posted_at": "2026-10-05T20:08:43-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "operating-systems",
-      "linux",
-      "computer-vision",
-      "communication"
-    ]
-  },
-  {
-    "key": "greenhouse:andurilindustries:5131822007",
-    "company": "Anduril Industries",
-    "title": "AD&S, Air Vehicle Software Systems Engineer",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5131822007?gh_jid=5131822007",
-    "location": "Costa Mesa, California, United States",
-    "level": "open",
-    "posted_at": "2026-05-07T13:10:48-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "operating-systems",
-      "system-design",
-      "computer-vision",
-      "communication",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "greenhouse:andurilindustries:5300687007",
-    "company": "Anduril Industries",
-    "title": "Avionics Systems Engineer, Space",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5300687007?gh_jid=5300687007",
-    "location": "Costa Mesa, California, United States",
-    "level": "open",
-    "posted_at": "2026-11-19T00:52:06-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "data-structures-algorithms",
-      "operating-systems",
-      "computer-vision"
-    ]
-  },
-  {
-    "key": "greenhouse:andurilindustries:5290158007",
-    "company": "Anduril Industries",
-    "title": "Battery Systems Engineer",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5290158007?gh_jid=5290158007",
-    "location": "Costa Mesa, California, United States",
-    "level": "open",
-    "posted_at": "2026-11-09T17:11:46-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "operating-systems",
-      "computer-vision"
-    ]
-  },
-  {
     "key": "greenhouse:andurilindustries:5269017007",
     "company": "Anduril Industries",
     "title": "Classified Cloud & Platform Engineer",
@@ -1288,29 +1157,6 @@
     ]
   },
   {
-    "key": "greenhouse:andurilindustries:5267122007",
-    "company": "Anduril Industries",
-    "title": "Classified Systems Engineer",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5267122007?gh_jid=5267122007",
-    "location": "Costa Mesa, California, United States",
-    "level": "open",
-    "posted_at": "2026-10-15T20:09:50-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "operating-systems",
-      "linux",
-      "docker",
-      "kubernetes",
-      "ci-cd",
-      "terraform",
-      "aws",
-      "gcp",
-      "azure",
-      "computer-vision"
-    ]
-  },
-  {
     "key": "greenhouse:andurilindustries:5206527007",
     "company": "Anduril Industries",
     "title": "Embedded Software Engineer, Anti-Tamper",
@@ -1345,22 +1191,6 @@
       "operating-systems",
       "linux",
       "computer-vision"
-    ]
-  },
-  {
-    "key": "greenhouse:andurilindustries:5303884007",
-    "company": "Anduril Industries",
-    "title": "EMC Systems Engineer, Air Dominance and Strike",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5303884007?gh_jid=5303884007",
-    "location": "Costa Mesa, California, United States",
-    "level": "open",
-    "posted_at": "2026-11-20T13:42:09-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "operating-systems",
-      "computer-vision",
-      "communication"
     ]
   },
   {
@@ -1460,22 +1290,6 @@
       "react",
       "agents",
       "computer-vision"
-    ]
-  },
-  {
-    "key": "greenhouse:andurilindustries:5220401007",
-    "company": "Anduril Industries",
-    "title": "Fuel Systems Engineer, Air Vehicles",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5220401007?gh_jid=5220401007",
-    "location": "Costa Mesa, California, United States",
-    "level": "open",
-    "posted_at": "2026-08-25T16:34:48-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "operating-systems",
-      "computer-vision",
-      "cross-functional"
     ]
   },
   {
@@ -1717,29 +1531,6 @@
       "operating-systems",
       "kubernetes",
       "computer-vision"
-    ]
-  },
-  {
-    "key": "greenhouse:andurilindustries:5278381007",
-    "company": "Anduril Industries",
-    "title": "HPC Systems Engineer",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5278381007?gh_jid=5278381007",
-    "location": "Costa Mesa, California, United States",
-    "level": "open",
-    "posted_at": "2026-10-28T20:53:53-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "operating-systems",
-      "linux",
-      "aws",
-      "azure",
-      "machine-learning",
-      "pytorch",
-      "tensorflow",
-      "fine-tuning",
-      "computer-vision",
-      "cross-functional"
     ]
   },
   {
@@ -2260,77 +2051,6 @@
     ]
   },
   {
-    "key": "greenhouse:andurilindustries:5303479007",
-    "company": "Anduril Industries",
-    "title": "Mission Systems Engineer, Early Career",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5303479007?gh_jid=5303479007",
-    "location": "Costa Mesa, California, United States",
-    "level": "entry",
-    "posted_at": "2026-11-20T11:40:06-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "operating-systems",
-      "computer-vision"
-    ]
-  },
-  {
-    "key": "greenhouse:andurilindustries:5173109007",
-    "company": "Anduril Industries",
-    "title": "Open Architecture Systems Engineer, Ground Systems",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5173109007?gh_jid=5173109007",
-    "location": "Costa Mesa, California, United States; Washington, District of Columbia, United States",
-    "level": "open",
-    "posted_at": "2026-06-24T14:34:07-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "operating-systems",
-      "computer-vision",
-      "communication",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "greenhouse:andurilindustries:5173074007",
-    "company": "Anduril Industries",
-    "title": "Open Architecture Systems Engineer, Mission Systems",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5173074007?gh_jid=5173074007",
-    "location": "Costa Mesa, California, United States; Washington, District of Columbia, United States",
-    "level": "open",
-    "posted_at": "2026-06-24T14:20:33-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "operating-systems",
-      "system-design",
-      "computer-vision",
-      "communication",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "greenhouse:andurilindustries:4657146007",
-    "company": "Anduril Industries",
-    "title": "Open Architecture Systems Engineer, UCI Command & Control",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/4657146007?gh_jid=4657146007",
-    "location": "Costa Mesa, California, United States; Washington, District of Columbia, United States",
-    "level": "open",
-    "posted_at": "2025-02-19T19:30:27-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "operating-systems",
-      "system-design",
-      "computer-vision",
-      "communication",
-      "cross-functional"
-    ]
-  },
-  {
     "key": "greenhouse:andurilindustries:4872480007",
     "company": "Anduril Industries",
     "title": "Orbital Software Engineer, Space",
@@ -2454,53 +2174,6 @@
     ]
   },
   {
-    "key": "greenhouse:andurilindustries:5236058007",
-    "company": "Anduril Industries",
-    "title": "Quality Systems Engineer, Battlespace Awareness",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236058007?gh_jid=5236058007",
-    "location": "Fort Collins, Colorado, United States",
-    "level": "open",
-    "posted_at": "2026-10-22T23:36:21-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "operating-systems",
-      "dashboards",
-      "computer-vision"
-    ]
-  },
-  {
-    "key": "greenhouse:andurilindustries:5281720007",
-    "company": "Anduril Industries",
-    "title": "Radar Quality Systems Engineer",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5281720007?gh_jid=5281720007",
-    "location": "Fort Collins, Colorado, United States",
-    "level": "open",
-    "posted_at": "2026-11-02T13:30:36-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "operating-systems",
-      "dashboards",
-      "computer-vision"
-    ]
-  },
-  {
-    "key": "greenhouse:andurilindustries:5303553007",
-    "company": "Anduril Industries",
-    "title": "Radar Systems Engineer, Early Career",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5303553007?gh_jid=5303553007",
-    "location": "Costa Mesa, California, United States",
-    "level": "entry",
-    "posted_at": "2026-11-20T11:43:30-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "operating-systems",
-      "computer-vision"
-    ]
-  },
-  {
     "key": "greenhouse:andurilindustries:5294365007",
     "company": "Anduril Industries",
     "title": "Realtime Software Engineer",
@@ -2519,37 +2192,6 @@
       "git",
       "linux",
       "ci-cd",
-      "computer-vision"
-    ]
-  },
-  {
-    "key": "greenhouse:andurilindustries:5303550007",
-    "company": "Anduril Industries",
-    "title": "RF Integration Systems Engineer, Early Career",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5303550007?gh_jid=5303550007",
-    "location": "Costa Mesa, California, United States",
-    "level": "entry",
-    "posted_at": "2026-11-20T11:42:31-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "operating-systems",
-      "computer-vision"
-    ]
-  },
-  {
-    "key": "greenhouse:andurilindustries:5181436007",
-    "company": "Anduril Industries",
-    "title": "RF Mission Systems Engineer, Air Dominance & Strike, Active Clearance",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5181436007?gh_jid=5181436007",
-    "location": "Costa Mesa, California, United States",
-    "level": "open",
-    "posted_at": "2026-07-07T12:37:32-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "operating-systems",
-      "testing",
       "computer-vision"
     ]
   },
@@ -4118,520 +3760,6 @@
     ]
   },
   {
-    "key": "greenhouse:andurilindustries:4843948007",
-    "company": "Anduril Industries",
-    "title": "Systems Engineer",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/4843948007?gh_jid=4843948007",
-    "location": "Irvine, California, United States",
-    "level": "open",
-    "posted_at": "2025-10-01T10:32:15-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "cpp",
-      "c-lang",
-      "rust",
-      "operating-systems",
-      "linux",
-      "data-visualization",
-      "statistics",
-      "machine-learning",
-      "computer-vision",
-      "communication",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "greenhouse:andurilindustries:4929997007",
-    "company": "Anduril Industries",
-    "title": "Systems Engineer",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/4929997007?gh_jid=4929997007",
-    "location": "Irvine, California, United States",
-    "level": "open",
-    "posted_at": "2025-10-03T16:00:28-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "operating-systems",
-      "computer-vision",
-      "communication",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "greenhouse:andurilindustries:4931248007",
-    "company": "Anduril Industries",
-    "title": "Systems Engineer",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/4931248007?gh_jid=4931248007",
-    "location": "Irvine, California, United States",
-    "level": "open",
-    "posted_at": "2025-10-03T16:00:30-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "operating-systems",
-      "computer-vision",
-      "communication",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "greenhouse:andurilindustries:5043205007",
-    "company": "Anduril Industries",
-    "title": "Systems Engineer",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5043205007?gh_jid=5043205007",
-    "location": "Irvine, California, United States",
-    "level": "open",
-    "posted_at": "2026-02-04T18:58:34-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "operating-systems",
-      "computer-vision",
-      "communication",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "greenhouse:andurilindustries:5151191007",
-    "company": "Anduril Industries",
-    "title": "Systems Engineer",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5151191007?gh_jid=5151191007",
-    "location": "Costa Mesa, California, United States",
-    "level": "open",
-    "posted_at": "2026-06-02T14:38:27-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "operating-systems",
-      "system-design",
-      "computer-vision",
-      "communication"
-    ]
-  },
-  {
-    "key": "greenhouse:andurilindustries:5223625007",
-    "company": "Anduril Industries",
-    "title": "Systems Engineer",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5223625007?gh_jid=5223625007",
-    "location": "Huntsville, Alabama, United States; McHenry, Mississippi, United States",
-    "level": "open",
-    "posted_at": "2026-10-06T15:17:26-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "operating-systems",
-      "computer-vision",
-      "communication",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "greenhouse:andurilindustries:5272035007",
-    "company": "Anduril Industries",
-    "title": "Systems Engineer - Missile Defense",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5272035007?gh_jid=5272035007",
-    "location": "Colorado Springs, Colorado, United States; Huntsville, Alabama, United States",
-    "level": "open",
-    "posted_at": "2026-10-23T11:36:57-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "cpp",
-      "data-structures-algorithms",
-      "operating-systems",
-      "linux",
-      "computer-vision"
-    ]
-  },
-  {
-    "key": "greenhouse:andurilindustries:4657118007",
-    "company": "Anduril Industries",
-    "title": "Systems Engineer, Advanced Effects, Active Clearance",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/4657118007?gh_jid=4657118007",
-    "location": "Costa Mesa, California, United States",
-    "level": "open",
-    "posted_at": "2025-04-21T14:14:03-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "operating-systems",
-      "system-design",
-      "computer-vision",
-      "communication",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "greenhouse:andurilindustries:4843950007",
-    "company": "Anduril Industries",
-    "title": "Systems Engineer, Air Defense",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/4843950007?gh_jid=4843950007",
-    "location": "Irvine, California, United States",
-    "level": "open",
-    "posted_at": "2025-09-02T08:31:47-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "cpp",
-      "c-lang",
-      "rust",
-      "operating-systems",
-      "linux",
-      "data-visualization",
-      "statistics",
-      "machine-learning",
-      "computer-vision",
-      "communication",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "greenhouse:andurilindustries:5242751007",
-    "company": "Anduril Industries",
-    "title": "Systems Engineer, Air Defense",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5242751007?gh_jid=5242751007",
-    "location": "Irvine, California, United States",
-    "level": "open",
-    "posted_at": "2026-09-21T11:40:10-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "operating-systems",
-      "computer-vision",
-      "communication",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "greenhouse:andurilindustries:5242787007",
-    "company": "Anduril Industries",
-    "title": "Systems Engineer, Air Defense",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5242787007?gh_jid=5242787007",
-    "location": "Irvine, California, United States",
-    "level": "open",
-    "posted_at": "2026-09-21T11:49:41-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "operating-systems",
-      "computer-vision",
-      "communication",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "greenhouse:andurilindustries:5173154007",
-    "company": "Anduril Industries",
-    "title": "Systems Engineer, Air Vehicle Systems",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5173154007?gh_jid=5173154007",
-    "location": "Costa Mesa, California, United States",
-    "level": "open",
-    "posted_at": "2026-06-24T15:12:50-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "operating-systems",
-      "computer-vision",
-      "communication",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "greenhouse:andurilindustries:5233972007",
-    "company": "Anduril Industries",
-    "title": "Systems Engineer, C2 Integration, Active Clearance",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5233972007?gh_jid=5233972007",
-    "location": "Ashville, Ohio, United States; Costa Mesa, California, United States",
-    "level": "open",
-    "posted_at": "2026-09-11T16:42:08-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "operating-systems",
-      "distributed-systems",
-      "system-design",
-      "testing",
-      "computer-vision",
-      "communication",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "greenhouse:andurilindustries:5233962007",
-    "company": "Anduril Industries",
-    "title": "Systems Engineer, C2 Networking, Edge Compute and Communications, Active Clearance",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5233962007?gh_jid=5233962007",
-    "location": "Costa Mesa, California, United States",
-    "level": "open",
-    "posted_at": "2026-09-11T17:00:42-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "operating-systems",
-      "distributed-systems",
-      "linux",
-      "computer-vision",
-      "communication"
-    ]
-  },
-  {
-    "key": "greenhouse:andurilindustries:5278854007",
-    "company": "Anduril Industries",
-    "title": "Systems Engineer, Decision Advantage",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5278854007?gh_jid=5278854007",
-    "location": "Broomfield, Colorado, United States",
-    "level": "open",
-    "posted_at": "2026-10-28T19:18:44-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "cpp",
-      "c-lang",
-      "rust",
-      "data-structures-algorithms",
-      "operating-systems",
-      "system-design",
-      "linux",
-      "data-visualization",
-      "statistics",
-      "ab-testing",
-      "machine-learning",
-      "computer-vision",
-      "communication",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "greenhouse:andurilindustries:5278857007",
-    "company": "Anduril Industries",
-    "title": "Systems Engineer, Decision Advantage",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5278857007?gh_jid=5278857007",
-    "location": "Waltham, Massachusetts, United States",
-    "level": "open",
-    "posted_at": "2026-10-28T19:20:40-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "cpp",
-      "c-lang",
-      "rust",
-      "data-structures-algorithms",
-      "operating-systems",
-      "system-design",
-      "linux",
-      "data-visualization",
-      "statistics",
-      "ab-testing",
-      "machine-learning",
-      "computer-vision",
-      "communication",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "greenhouse:andurilindustries:5042157007",
-    "company": "Anduril Industries",
-    "title": "Systems Engineer, Electro Optical, Space",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5042157007?gh_jid=5042157007",
-    "location": "Costa Mesa, California, United States",
-    "level": "open",
-    "posted_at": "2026-02-03T21:22:52-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "data-structures-algorithms",
-      "operating-systems",
-      "computer-vision"
-    ]
-  },
-  {
-    "key": "greenhouse:andurilindustries:5232483007",
-    "company": "Anduril Industries",
-    "title": "Systems Engineer, Enterprise Mesh (Active Clearance)",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5232483007?gh_jid=5232483007",
-    "location": "Washington, District of Columbia, United States",
-    "level": "open",
-    "posted_at": "2026-10-01T16:24:30-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "operating-systems",
-      "rest-apis",
-      "computer-vision",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "greenhouse:andurilindustries:5304457007",
-    "company": "Anduril Industries",
-    "title": "Systems Engineer, EW",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5304457007?gh_jid=5304457007",
-    "location": "Costa Mesa, California, United States",
-    "level": "open",
-    "posted_at": "2026-11-20T19:09:13-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "operating-systems",
-      "system-design",
-      "computer-vision",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "greenhouse:andurilindustries:5289311007",
-    "company": "Anduril Industries",
-    "title": "Systems Engineer, Ground Maneuver Programs",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5289311007?gh_jid=5289311007",
-    "location": "Costa Mesa, California, United States",
-    "level": "open",
-    "posted_at": "2026-11-09T10:29:03-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "operating-systems",
-      "git",
-      "computer-vision",
-      "communication"
-    ]
-  },
-  {
-    "key": "greenhouse:andurilindustries:5232496007",
-    "company": "Anduril Industries",
-    "title": "Systems Engineer, Intelligence Systems",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5232496007?gh_jid=5232496007",
-    "location": "Reston, Virginia, United States",
-    "level": "open",
-    "posted_at": "2026-09-08T14:32:54-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "operating-systems",
-      "agents",
-      "computer-vision",
-      "communication",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "greenhouse:andurilindustries:5214985007",
-    "company": "Anduril Industries",
-    "title": "Systems Engineer, Launched Effects",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5214985007?gh_jid=5214985007",
-    "location": "Atlanta, Georgia, United States",
-    "level": "open",
-    "posted_at": "2026-08-18T13:24:52-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "operating-systems",
-      "testing",
-      "computer-vision",
-      "communication",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "greenhouse:andurilindustries:5242250007",
-    "company": "Anduril Industries",
-    "title": "Systems Engineer, Maritime",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5242250007?gh_jid=5242250007",
-    "location": "Santa Ana, California, United States",
-    "level": "open",
-    "posted_at": "2026-09-21T14:23:50-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "operating-systems",
-      "computer-vision",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "greenhouse:andurilindustries:4653705007",
-    "company": "Anduril Industries",
-    "title": "Systems Engineer, Mission Autonomy, Active Clearance",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/4653705007?gh_jid=4653705007",
-    "location": "Costa Mesa, California, United States; Washington, District of Columbia, United States",
-    "level": "open",
-    "posted_at": "2025-02-20T12:02:21-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "operating-systems",
-      "system-design",
-      "computer-vision",
-      "communication",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "greenhouse:andurilindustries:4922336007",
-    "company": "Anduril Industries",
-    "title": "Systems Engineer, Space",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/4922336007?gh_jid=4922336007",
-    "location": "Costa Mesa, California, United States",
-    "level": "open",
-    "posted_at": "2025-09-26T18:49:41-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "operating-systems",
-      "ci-cd",
-      "computer-vision",
-      "communication"
-    ]
-  },
-  {
-    "key": "greenhouse:andurilindustries:5248689007",
-    "company": "Anduril Industries",
-    "title": "Systems Engineer, Space Imaging",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5248689007?gh_jid=5248689007",
-    "location": "Boulder, Colorado, United States",
-    "level": "open",
-    "posted_at": "2026-09-24T17:12:02-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "operating-systems",
-      "system-design",
-      "computer-vision",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "greenhouse:andurilindustries:5248692007",
-    "company": "Anduril Industries",
-    "title": "Systems Engineer, Space Imaging",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5248692007?gh_jid=5248692007",
-    "location": "Waltham, Massachusetts, United States",
-    "level": "open",
-    "posted_at": "2026-09-24T17:12:10-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "operating-systems",
-      "system-design",
-      "computer-vision",
-      "cross-functional"
-    ]
-  },
-  {
     "key": "greenhouse:andurilindustries:5111994007",
     "company": "Anduril Industries",
     "title": "Tracking Software Engineer, Space",
@@ -4670,46 +3798,6 @@
     ]
   },
   {
-    "key": "greenhouse:andurilindustries:5279960007",
-    "company": "Anduril Industries",
-    "title": "Training Systems Engineer",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5279960007?gh_jid=5279960007",
-    "location": "Santa Ana, California, United States",
-    "level": "open",
-    "posted_at": "2026-11-19T13:01:43-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "javascript",
-      "operating-systems",
-      "kubernetes",
-      "rest-apis",
-      "tableau",
-      "power-bi",
-      "data-visualization",
-      "computer-vision",
-      "communication",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "greenhouse:andurilindustries:5267767007",
-    "company": "Anduril Industries",
-    "title": "Vehicle Battery Systems Engineer",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5267767007?gh_jid=5267767007",
-    "location": "Santa Ana, California, United States",
-    "level": "open",
-    "posted_at": "2026-10-16T15:53:03-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "operating-systems",
-      "system-design",
-      "computer-vision",
-      "cross-functional"
-    ]
-  },
-  {
     "key": "greenhouse:andurilindustries:5236563007",
     "company": "Anduril Industries",
     "title": "Winter 2027 Software Engineer Co-op",
@@ -4728,24 +3816,6 @@
       "data-structures-algorithms",
       "operating-systems",
       "computer-vision",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "greenhouse:andurilindustries:5236599007",
-    "company": "Anduril Industries",
-    "title": "Winter 2027 Systems Engineer Co-op",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236599007?gh_jid=5236599007",
-    "location": "Quincy, Massachusetts, United States",
-    "level": "entry",
-    "posted_at": "2026-09-15T13:53:53-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "operating-systems",
-      "ci-cd",
-      "computer-vision",
-      "communication",
       "cross-functional"
     ]
   },
@@ -4802,22 +3872,6 @@
       "terraform",
       "dashboards",
       "llm",
-      "communication"
-    ]
-  },
-  {
-    "key": "greenhouse:anthropic:5450479008",
-    "company": "Anthropic",
-    "title": "IT Systems Engineer, M&A",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5450479008",
-    "location": "Boston, MA; Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY; Washington, DC",
-    "level": "open",
-    "posted_at": "2026-10-13T07:53:32-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "rest-apis",
       "communication"
     ]
   },
@@ -5516,29 +4570,6 @@
     ]
   },
   {
-    "key": "greenhouse:braze:8273690",
-    "company": "Braze",
-    "title": "Systems Engineer II",
-    "url": "https://job-boards.greenhouse.io/braze/jobs/8273690",
-    "location": "London",
-    "level": "open",
-    "posted_at": "2026-10-13T10:53:41-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "system-design",
-      "git",
-      "terraform",
-      "aws",
-      "gcp",
-      "azure",
-      "rest-apis",
-      "agents",
-      "cross-functional"
-    ]
-  },
-  {
     "key": "greenhouse:brex:8815438002",
     "company": "Brex",
     "title": "Software Engineer II, Backend",
@@ -5961,73 +4992,6 @@
       "rest-apis",
       "data-modeling",
       "agents"
-    ]
-  },
-  {
-    "key": "greenhouse:cloudflare:7462801",
-    "company": "Cloudflare",
-    "title": "Distributed Systems Engineer - Data Platform (Delivery, Database, Retrieval)",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/7462801?gh_jid=7462801",
-    "location": "Hybrid",
-    "level": "open",
-    "posted_at": "2026-01-22T11:50:06-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "sql",
-      "cpp",
-      "go",
-      "rust",
-      "concurrency",
-      "distributed-systems",
-      "linux",
-      "docker",
-      "kubernetes",
-      "terraform",
-      "rest-apis",
-      "graphql",
-      "kafka",
-      "data-pipelines"
-    ]
-  },
-  {
-    "key": "greenhouse:cloudflare:8401112",
-    "company": "Cloudflare",
-    "title": "Distributed Systems Engineer - Network Services",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/8401112?gh_jid=8401112",
-    "location": "Hybrid",
-    "level": "open",
-    "posted_at": "2026-11-20T20:53:19-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "sql",
-      "go",
-      "rust",
-      "networking",
-      "distributed-systems",
-      "rest-apis",
-      "kafka",
-      "data-pipelines",
-      "communication"
-    ]
-  },
-  {
-    "key": "greenhouse:cloudflare:8224347",
-    "company": "Cloudflare",
-    "title": "Enterprise Systems Developer- Order to Cash",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/8224347?gh_jid=8224347",
-    "location": "Hybrid",
-    "level": "open",
-    "posted_at": "2026-09-28T13:08:11-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "system-design",
-      "rest-apis",
-      "machine-learning",
-      "communication",
-      "cross-functional"
     ]
   },
   {
@@ -6481,391 +5445,6 @@
       "kubernetes",
       "rest-apis",
       "graphql"
-    ]
-  },
-  {
-    "key": "greenhouse:cloudflare:8022909",
-    "company": "Cloudflare",
-    "title": "Systems Engineer (Data Intelligence & Analytics Team)",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/8022909?gh_jid=8022909",
-    "location": "In-Office",
-    "level": "open",
-    "posted_at": "2026-07-07T02:29:52-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "sql",
-      "java",
-      "javascript",
-      "typescript",
-      "go",
-      "git",
-      "docker",
-      "kubernetes",
-      "ci-cd",
-      "gcp",
-      "react",
-      "data-pipelines",
-      "statistics",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "greenhouse:cloudflare:8257140",
-    "company": "Cloudflare",
-    "title": "Systems Engineer - Data Security",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/8257140?gh_jid=8257140",
-    "location": "Hybrid",
-    "level": "open",
-    "posted_at": "2026-10-08T20:15:00-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "sql",
-      "javascript",
-      "typescript",
-      "go",
-      "kubernetes",
-      "aws",
-      "gcp",
-      "azure",
-      "react",
-      "rest-apis",
-      "nosql",
-      "kafka",
-      "data-warehouse",
-      "communication"
-    ]
-  },
-  {
-    "key": "greenhouse:cloudflare:8158016",
-    "company": "Cloudflare",
-    "title": "Systems Engineer - Database Platform",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/8158016?gh_jid=8158016",
-    "location": "Hybrid",
-    "level": "open",
-    "posted_at": "2026-09-04T18:47:51-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "sql",
-      "cpp",
-      "c-lang",
-      "go",
-      "ruby",
-      "linux",
-      "docker",
-      "kubernetes",
-      "terraform",
-      "nosql"
-    ]
-  },
-  {
-    "key": "greenhouse:cloudflare:8398448",
-    "company": "Cloudflare",
-    "title": "Systems Engineer - iOS",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/8398448?gh_jid=8398448",
-    "location": "In-Office",
-    "level": "open",
-    "posted_at": "2026-11-18T10:07:40-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "javascript",
-      "typescript",
-      "kotlin",
-      "react",
-      "agents",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "greenhouse:cloudflare:8401119",
-    "company": "Cloudflare",
-    "title": "Systems Engineer - Network Data Plane Software",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/8401119?gh_jid=8401119",
-    "location": "Hybrid",
-    "level": "open",
-    "posted_at": "2026-11-20T20:56:07-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "cpp",
-      "go",
-      "rust",
-      "distributed-systems",
-      "linux",
-      "communication"
-    ]
-  },
-  {
-    "key": "greenhouse:cloudflare:8401122",
-    "company": "Cloudflare",
-    "title": "Systems Engineer - Network Software Performance",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/8401122?gh_jid=8401122",
-    "location": "Hybrid",
-    "level": "open",
-    "posted_at": "2026-11-20T20:57:14-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "cpp",
-      "go",
-      "rust",
-      "data-structures-algorithms",
-      "distributed-systems",
-      "linux",
-      "communication"
-    ]
-  },
-  {
-    "key": "greenhouse:cloudflare:8276155",
-    "company": "Cloudflare",
-    "title": "Systems Engineer, Browser Isolation",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/8276155?gh_jid=8276155",
-    "location": "Hybrid",
-    "level": "open",
-    "posted_at": "2026-10-13T16:31:55-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "typescript",
-      "cpp",
-      "go",
-      "rust",
-      "data-structures-algorithms",
-      "concurrency",
-      "distributed-systems",
-      "testing",
-      "linux",
-      "docker",
-      "kubernetes"
-    ]
-  },
-  {
-    "key": "greenhouse:cloudflare:8050813",
-    "company": "Cloudflare",
-    "title": "Systems Engineer, Data Intelligence & Analytics Team",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/8050813?gh_jid=8050813",
-    "location": "In-Office",
-    "level": "open",
-    "posted_at": "2026-07-09T11:17:49-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "sql",
-      "java",
-      "javascript",
-      "typescript",
-      "go",
-      "git",
-      "docker",
-      "kubernetes",
-      "ci-cd",
-      "gcp",
-      "react",
-      "data-pipelines",
-      "statistics",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "greenhouse:cloudflare:8386246",
-    "company": "Cloudflare",
-    "title": "Systems Engineer, Data Loss Prevention",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/8386246?gh_jid=8386246",
-    "location": "Hybrid",
-    "level": "open",
-    "posted_at": "2026-11-18T11:08:32-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "sql",
-      "rust",
-      "distributed-systems",
-      "docker",
-      "kubernetes",
-      "rest-apis",
-      "data-warehouse",
-      "statistics",
-      "machine-learning"
-    ]
-  },
-  {
-    "key": "greenhouse:cloudflare:8275392",
-    "company": "Cloudflare",
-    "title": "Systems Engineer, DNS",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/8275392?gh_jid=8275392",
-    "location": "Hybrid",
-    "level": "open",
-    "posted_at": "2026-10-13T18:09:00-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "go",
-      "rust",
-      "concurrency",
-      "distributed-systems",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "greenhouse:cloudflare:8175620",
-    "company": "Cloudflare",
-    "title": "Systems Engineer, Growth Engineering",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/8175620?gh_jid=8175620",
-    "location": "Hybrid",
-    "level": "open",
-    "posted_at": "2026-09-03T16:53:24-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "javascript",
-      "typescript",
-      "go",
-      "rust",
-      "system-design",
-      "aws",
-      "azure",
-      "html-css",
-      "rest-apis",
-      "ab-testing",
-      "llm",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "greenhouse:cloudflare:7742773",
-    "company": "Cloudflare",
-    "title": "Systems Engineer, MAPS",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/7742773?gh_jid=7742773",
-    "location": "Hybrid",
-    "level": "open",
-    "posted_at": "2026-03-24T13:33:28-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "go",
-      "rust",
-      "networking",
-      "concurrency",
-      "linux",
-      "data-pipelines"
-    ]
-  },
-  {
-    "key": "greenhouse:cloudflare:8207326",
-    "company": "Cloudflare",
-    "title": "Systems Engineer, MCP Portals",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/8207326?gh_jid=8207326",
-    "location": "Hybrid",
-    "level": "open",
-    "posted_at": "2026-09-18T04:47:58-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "javascript",
-      "typescript",
-      "cpp",
-      "go",
-      "rust",
-      "concurrency",
-      "distributed-systems",
-      "rest-apis",
-      "dashboards",
-      "agents",
-      "communication"
-    ]
-  },
-  {
-    "key": "greenhouse:cloudflare:8142261",
-    "company": "Cloudflare",
-    "title": "Systems Engineer, Network Automation",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/8142261?gh_jid=8142261",
-    "location": "Lisbon, Portugal",
-    "level": "open",
-    "posted_at": "2026-08-21T11:30:49-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "sql",
-      "oop",
-      "operating-systems",
-      "distributed-systems",
-      "linux",
-      "docker",
-      "ci-cd"
-    ]
-  },
-  {
-    "key": "greenhouse:cloudflare:8089031",
-    "company": "Cloudflare",
-    "title": "Systems Engineer, Product Platform Tools",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/8089031?gh_jid=8089031",
-    "location": "Hybrid",
-    "level": "open",
-    "posted_at": "2026-07-27T12:59:53-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "sql",
-      "typescript",
-      "go",
-      "git",
-      "docker",
-      "kubernetes",
-      "ci-cd",
-      "terraform",
-      "rest-apis",
-      "nosql",
-      "dashboards",
-      "communication",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "greenhouse:cloudflare:8130936",
-    "company": "Cloudflare",
-    "title": "Systems Engineer, SSL/TLS Team",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/8130936?gh_jid=8130936",
-    "location": "Hybrid",
-    "level": "open",
-    "posted_at": "2026-08-27T11:54:15-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "sql",
-      "go",
-      "distributed-systems",
-      "linux",
-      "rest-apis",
-      "kafka"
-    ]
-  },
-  {
-    "key": "greenhouse:cloudflare:8336674",
-    "company": "Cloudflare",
-    "title": "Systems Engineer, WARP",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/8336674?gh_jid=8336674",
-    "location": "Hybrid",
-    "level": "open",
-    "posted_at": "2026-11-02T04:35:19-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "sql",
-      "typescript",
-      "go",
-      "rust",
-      "kubernetes",
-      "rest-apis",
-      "nosql"
     ]
   },
   {
@@ -7417,28 +5996,6 @@
       "data-warehouse",
       "llm",
       "rag"
-    ]
-  },
-  {
-    "key": "greenhouse:deliveroo:8355927",
-    "company": "Deliveroo",
-    "title": "Enterprise Systems Engineer",
-    "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8355927",
-    "location": "London, United Kingdom",
-    "level": "open",
-    "posted_at": "2026-11-06T03:17:20-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "javascript",
-      "go",
-      "aws",
-      "gcp",
-      "azure",
-      "rest-apis",
-      "llm",
-      "cross-functional"
     ]
   },
   {
@@ -8470,38 +7027,6 @@
     ]
   },
   {
-    "key": "greenhouse:purestorage:8393948",
-    "company": "Everpure",
-    "title": "Associate Systems Engineer",
-    "url": "https://job-boards.greenhouse.io/purestorage/jobs/8393948",
-    "location": "Chicago, Illinois; Lehi, Utah; Raleigh, North Carolina",
-    "level": "entry",
-    "posted_at": "2026-11-19T09:16:00-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "linux",
-      "communication",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "greenhouse:purestorage:8383151",
-    "company": "Everpure",
-    "title": "Associate Systems Engineer, Excellence Center, (Prague)",
-    "url": "https://job-boards.greenhouse.io/purestorage/jobs/8383151",
-    "location": "Prague, Czech Republic",
-    "level": "entry",
-    "posted_at": "2026-11-15T15:06:42-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "linux",
-      "communication",
-      "cross-functional"
-    ]
-  },
-  {
     "key": "greenhouse:purestorage:8402288",
     "company": "Everpure",
     "title": "Backend Engineer, Secrets Management (C++/Java)",
@@ -8521,31 +7046,6 @@
       "linux",
       "docker",
       "aws"
-    ]
-  },
-  {
-    "key": "greenhouse:purestorage:8317428",
-    "company": "Everpure",
-    "title": "Consulting Systems Engineer Data Intelligence",
-    "url": "https://job-boards.greenhouse.io/purestorage/jobs/8317428",
-    "location": "Melbourne, Australia; Perth, Australia; Sydney, Australia",
-    "level": "open",
-    "posted_at": "2026-10-23T03:18:05-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "sql",
-      "docker",
-      "kubernetes",
-      "terraform",
-      "aws",
-      "gcp",
-      "azure",
-      "microservices",
-      "nosql",
-      "communication",
-      "cross-functional"
     ]
   },
   {
@@ -8645,28 +7145,6 @@
       "kubernetes",
       "ci-cd",
       "terraform",
-      "communication"
-    ]
-  },
-  {
-    "key": "greenhouse:purestorage:8210922",
-    "company": "Everpure",
-    "title": "Quality Systems Engineer - FlashBlade and FlashArray",
-    "url": "https://job-boards.greenhouse.io/purestorage/jobs/8210922",
-    "location": "Santa Clara, California",
-    "level": "open",
-    "posted_at": "2026-09-17T10:35:30-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "sql",
-      "oop",
-      "operating-systems",
-      "testing",
-      "linux",
-      "aws",
-      "machine-learning",
       "communication"
     ]
   },
@@ -8801,24 +7279,6 @@
       "go",
       "data-structures-algorithms",
       "cross-functional"
-    ]
-  },
-  {
-    "key": "greenhouse:purestorage:8172524",
-    "company": "Everpure",
-    "title": "Systems Engineer",
-    "url": "https://job-boards.greenhouse.io/purestorage/jobs/8172524",
-    "location": "Remote, Malaysia",
-    "level": "open",
-    "posted_at": "2026-09-02T22:24:22-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "operating-systems",
-      "networking",
-      "distributed-systems",
-      "linux",
-      "communication"
     ]
   },
   {
@@ -9090,24 +7550,6 @@
     ]
   },
   {
-    "key": "greenhouse:intercom:7918638",
-    "company": "Fin",
-    "title": "IT Systems Engineer",
-    "url": "https://job-boards.greenhouse.io/intercom/jobs/7918638",
-    "location": "San Francisco, California",
-    "level": "open",
-    "posted_at": "2026-05-14T10:46:23-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "ruby",
-      "operating-systems",
-      "aws",
-      "agents"
-    ]
-  },
-  {
     "key": "greenhouse:intercom:7371989",
     "company": "Fin",
     "title": "Product Engineer",
@@ -9207,29 +7649,6 @@
       "azure",
       "dbt",
       "data-pipelines"
-    ]
-  },
-  {
-    "key": "greenhouse:fivetran:8201478003",
-    "company": "Fivetran",
-    "title": "Systems Engineer II - R&D Business Systems",
-    "url": "https://www.fivetran.com/careers/job?gh_jid=8201478003",
-    "location": "Bengaluru, Karnataka, India, APAC",
-    "level": "open",
-    "posted_at": "2026-11-12T03:13:12-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "sql",
-      "git",
-      "terraform",
-      "rest-apis",
-      "dbt",
-      "data-pipelines",
-      "dashboards",
-      "communication",
-      "cross-functional"
     ]
   },
   {
@@ -9665,32 +8084,6 @@
     ]
   },
   {
-    "key": "greenhouse:gitlab:8861748002",
-    "company": "GitLab",
-    "title": "People Systems Engineer",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8861748002",
-    "location": "Bangalore, India; Remote, Poland",
-    "level": "open",
-    "posted_at": "2026-10-09T16:55:56-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "javascript",
-      "ruby",
-      "git",
-      "docker",
-      "kubernetes",
-      "ci-cd",
-      "aws",
-      "gcp",
-      "rest-apis",
-      "llm",
-      "agents",
-      "cross-functional"
-    ]
-  },
-  {
     "key": "greenhouse:gitlab:8916232002",
     "company": "GitLab",
     "title": "Software Engineer, Delivery : Release",
@@ -9950,20 +8343,6 @@
     ]
   },
   {
-    "key": "greenhouse:lucidmotors:5213971007",
-    "company": "Lucid Motors",
-    "title": "Cabin Thermal Systems Engineer, Vehicle Efficiency Engineering",
-    "url": "https://lucidmotors.com/careers/search/5213971007?gh_jid=5213971007",
-    "location": "Newark, CA",
-    "level": "open",
-    "posted_at": "2026-09-09T20:09:28-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "cross-functional"
-    ]
-  },
-  {
     "key": "greenhouse:lucidmotors:5290911007",
     "company": "Lucid Motors",
     "title": "Intern, Software Engineer, SDET, Summer 2027",
@@ -10037,57 +8416,6 @@
     "skills": [
       "kotlin",
       "testing"
-    ]
-  },
-  {
-    "key": "greenhouse:lyft:8802222002",
-    "company": "Lyft",
-    "title": "Business Systems Engineer Intern, Finance Technology (Summer 2027)",
-    "url": "https://app.careerpuck.com/job-board/lyft/job/8802222002?gh_jid=8802222002",
-    "location": "Toronto, Canada",
-    "level": "entry",
-    "posted_at": "2026-09-28T17:33:25-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "sql",
-      "data-pipelines",
-      "data-modeling",
-      "excel",
-      "dashboards",
-      "communication",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "greenhouse:lyft:8790623002",
-    "company": "Lyft",
-    "title": "Business Systems Engineer, Intelligent Automation",
-    "url": "https://app.careerpuck.com/job-board/lyft/job/8790623002?gh_jid=8790623002",
-    "location": "Toronto, Canada",
-    "level": "open",
-    "posted_at": "2026-09-11T12:00:17-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "sql",
-      "java",
-      "javascript",
-      "ruby",
-      "git",
-      "ci-cd",
-      "aws",
-      "gcp",
-      "azure",
-      "rest-apis",
-      "nosql",
-      "data-pipelines",
-      "data-modeling",
-      "prompt-engineering",
-      "agents",
-      "cross-functional"
     ]
   },
   {
@@ -10268,46 +8596,6 @@
     "skills": [
       "typescript",
       "react",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "greenhouse:mixpanel:8194551",
-    "company": "Mixpanel",
-    "title": "Marketing Systems Engineer",
-    "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8194551",
-    "location": "San Francisco, US (Hybrid)",
-    "level": "open",
-    "posted_at": "2026-09-14T11:55:51-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "javascript",
-      "concurrency",
-      "html-css",
-      "data-pipelines",
-      "ab-testing",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "greenhouse:mixpanel:8201470",
-    "company": "Mixpanel",
-    "title": "Marketing Systems Engineer",
-    "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8201470",
-    "location": "New York City, US (Hybrid)",
-    "level": "open",
-    "posted_at": "2026-09-14T11:55:53-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "javascript",
-      "concurrency",
-      "html-css",
-      "data-pipelines",
-      "ab-testing",
       "cross-functional"
     ]
   },
@@ -11769,82 +10057,6 @@
       "typescript",
       "cpp",
       "data-structures-algorithms"
-    ]
-  },
-  {
-    "key": "lever:palantir:8704b8c0-80b3-48b1-a82c-939994a0316c",
-    "company": "Palantir",
-    "title": "Security Systems Engineer",
-    "url": "https://jobs.lever.co/palantir/8704b8c0-80b3-48b1-a82c-939994a0316c",
-    "location": "Denver, CO",
-    "level": "open",
-    "posted_at": "2018-11-13T19:28:20+00:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "java",
-      "javascript",
-      "cpp",
-      "data-structures-algorithms",
-      "operating-systems"
-    ]
-  },
-  {
-    "key": "lever:palantir:98c244fc-444b-43ba-b152-30227191170b",
-    "company": "Palantir",
-    "title": "Security Systems Engineer",
-    "url": "https://jobs.lever.co/palantir/98c244fc-444b-43ba-b152-30227191170b",
-    "location": "Seattle, WA",
-    "level": "open",
-    "posted_at": "2026-09-23T20:22:09+00:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "java",
-      "javascript",
-      "cpp",
-      "data-structures-algorithms",
-      "operating-systems"
-    ]
-  },
-  {
-    "key": "lever:palantir:a9788f77-d6d2-4ef9-9d57-7002d587b84f",
-    "company": "Palantir",
-    "title": "Security Systems Engineer",
-    "url": "https://jobs.lever.co/palantir/a9788f77-d6d2-4ef9-9d57-7002d587b84f",
-    "location": "Palo Alto, CA",
-    "level": "open",
-    "posted_at": "2016-12-08T22:18:29+00:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "java",
-      "javascript",
-      "cpp",
-      "data-structures-algorithms",
-      "operating-systems"
-    ]
-  },
-  {
-    "key": "lever:palantir:fdbc68df-8817-49dc-96f3-18a53f4fcd4c",
-    "company": "Palantir",
-    "title": "Security Systems Engineer",
-    "url": "https://jobs.lever.co/palantir/fdbc68df-8817-49dc-96f3-18a53f4fcd4c",
-    "location": "New York, NY",
-    "level": "open",
-    "posted_at": "2018-08-23T18:23:40+00:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "java",
-      "javascript",
-      "cpp",
-      "data-structures-algorithms",
-      "operating-systems"
     ]
   },
   {
@@ -13528,22 +11740,6 @@
     ]
   },
   {
-    "key": "greenhouse:relativity:8734508002",
-    "company": "Relativity Space",
-    "title": "Vehicle Fluid Systems Engineer II",
-    "url": "https://boards.greenhouse.io/relativity/jobs/8734508002?gh_jid=8734508002",
-    "location": "Long Beach, California, United States",
-    "level": "open",
-    "posted_at": "2026-08-25T16:54:09-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "system-design",
-      "testing"
-    ]
-  },
-  {
     "key": "greenhouse:riotgames:8348367",
     "company": "Riot Games",
     "title": "Software Engineer - League of Legends",
@@ -13620,31 +11816,6 @@
       "go",
       "docker",
       "ci-cd"
-    ]
-  },
-  {
-    "key": "greenhouse:riotgames:8240678",
-    "company": "Riot Games",
-    "title": "Systems Engineer, Wild Rift",
-    "url": "https://www.riotgames.com/en/work-with-us/job/8240678?gh_jid=8240678",
-    "location": "Sydney, Australia",
-    "level": "open",
-    "posted_at": "2026-10-13T22:44:42-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "sql",
-      "java",
-      "go",
-      "distributed-systems",
-      "git",
-      "linux",
-      "kubernetes",
-      "terraform",
-      "aws",
-      "nosql",
-      "dashboards"
     ]
   },
   {
@@ -14694,25 +12865,6 @@
     ]
   },
   {
-    "key": "greenhouse:scaleai:4704551005",
-    "company": "Scale AI",
-    "title": "IT Systems Engineer",
-    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4704551005",
-    "location": "Washington, DC",
-    "level": "open",
-    "posted_at": "2026-06-10T14:42:38-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "linux",
-      "terraform",
-      "aws",
-      "azure",
-      "rest-apis"
-    ]
-  },
-  {
     "key": "greenhouse:scaleai:4730836005",
     "company": "Scale AI",
     "title": "Software Engineer - New Grad",
@@ -15746,70 +13898,6 @@
     ]
   },
   {
-    "key": "greenhouse:spacex:8805284002",
-    "company": "SpaceX",
-    "title": "Avionics Systems Engineer (Falcon & Dragon)",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8805284002?gh_jid=8805284002",
-    "location": "Hawthorne, CA",
-    "level": "open",
-    "posted_at": "2026-09-12T20:55:58-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "cpp",
-      "communication",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "greenhouse:spacex:8929143002",
-    "company": "SpaceX",
-    "title": "Avionics Systems Engineer (Special Programs)",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8929143002?gh_jid=8929143002",
-    "location": "Hawthorne, CA",
-    "level": "open",
-    "posted_at": "2026-11-03T18:18:32-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "cpp"
-    ]
-  },
-  {
-    "key": "greenhouse:spacex:8929464002",
-    "company": "SpaceX",
-    "title": "Avionics Systems Engineer (Special Programs) - Top Secret Clearance",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8929464002?gh_jid=8929464002",
-    "location": "Hawthorne, CA",
-    "level": "open",
-    "posted_at": "2026-11-03T18:18:34-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "cpp"
-    ]
-  },
-  {
-    "key": "greenhouse:spacex:8739392002",
-    "company": "SpaceX",
-    "title": "Avionics Systems Engineer (Starship)",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8739392002?gh_jid=8739392002",
-    "location": "Starbase, TX",
-    "level": "open",
-    "posted_at": "2026-09-10T18:23:10-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "cpp",
-      "communication",
-      "cross-functional"
-    ]
-  },
-  {
     "key": "greenhouse:spacex:8753321002",
     "company": "SpaceX",
     "title": "Backend Software Engineer, GNC (Starlink)",
@@ -16023,47 +14111,6 @@
       "linux",
       "ci-cd",
       "communication"
-    ]
-  },
-  {
-    "key": "greenhouse:spacex:8906243002",
-    "company": "SpaceX",
-    "title": "Fluid Systems Engineer, Production (Starship)",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8906243002?gh_jid=8906243002",
-    "location": "Starbase, TX",
-    "level": "open",
-    "posted_at": "2026-10-21T11:34:31-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": []
-  },
-  {
-    "key": "greenhouse:spacex:8672670002",
-    "company": "SpaceX",
-    "title": "Fluid Systems Engineer, Solar Cell Factory (Starlink)",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8672670002?gh_jid=8672670002",
-    "location": "Bastrop, TX",
-    "level": "open",
-    "posted_at": "2026-08-03T15:18:50-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "system-design",
-      "communication"
-    ]
-  },
-  {
-    "key": "greenhouse:spacex:8926072002",
-    "company": "SpaceX",
-    "title": "Fluid Systems Engineer, Starlink Infrastructure",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8926072002?gh_jid=8926072002",
-    "location": "Bastrop, TX",
-    "level": "open",
-    "posted_at": "2026-11-06T10:51:25-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "system-design"
     ]
   },
   {
@@ -16961,35 +15008,6 @@
     ]
   },
   {
-    "key": "greenhouse:spacex:8931372002",
-    "company": "SpaceX",
-    "title": "Ground Systems Engineer, Asset Engineering",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8931372002?gh_jid=8931372002",
-    "location": "Hawthorne, CA",
-    "level": "open",
-    "posted_at": "2026-11-04T20:11:59-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": []
-  },
-  {
-    "key": "greenhouse:spacex:8942392002",
-    "company": "SpaceX",
-    "title": "High Performance Computing Systems Engineer (HPC)",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8942392002?gh_jid=8942392002",
-    "location": "Hawthorne, CA",
-    "level": "open",
-    "posted_at": "2026-11-13T14:54:39-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "linux",
-      "docker",
-      "kubernetes"
-    ]
-  },
-  {
     "key": "greenhouse:spacex:8604308002",
     "company": "SpaceX",
     "title": "Infrastructure Engineer",
@@ -17050,28 +15068,6 @@
     ]
   },
   {
-    "key": "greenhouse:spacex:8930419002",
-    "company": "SpaceX",
-    "title": "IT Linux Systems Engineer",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8930419002?gh_jid=8930419002",
-    "location": "Memphis, TN",
-    "level": "open",
-    "posted_at": "2026-11-04T14:12:27-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "cpp",
-      "c-lang",
-      "git",
-      "linux",
-      "docker",
-      "kubernetes",
-      "terraform",
-      "statistics"
-    ]
-  },
-  {
     "key": "greenhouse:spacex:8933928002",
     "company": "SpaceX",
     "title": "IT Network Infrastructure Engineer, Launch",
@@ -17124,61 +15120,6 @@
     "skills": []
   },
   {
-    "key": "greenhouse:spacex:8815160002",
-    "company": "SpaceX",
-    "title": "IT Systems Engineer, Propellant Generation & Industrial Systems",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8815160002?gh_jid=8815160002",
-    "location": "Starbase, TX",
-    "level": "open",
-    "posted_at": "2026-09-17T18:51:02-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "concurrency",
-      "linux",
-      "terraform",
-      "communication",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "greenhouse:spacex:8948601002",
-    "company": "SpaceX",
-    "title": "IT Systems Engineer, Requirements and Interfaces - Mission Systems",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8948601002?gh_jid=8948601002",
-    "location": "Cape Canaveral, FL",
-    "level": "open",
-    "posted_at": "2026-11-17T18:25:00-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "linux",
-      "communication",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "greenhouse:spacex:8927740002",
-    "company": "SpaceX",
-    "title": "IT Windows Systems Engineer",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8927740002?gh_jid=8927740002",
-    "location": "Memphis, TN",
-    "level": "open",
-    "posted_at": "2026-11-04T13:59:43-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "c-sharp",
-      "operating-systems",
-      "system-design",
-      "ci-cd",
-      "terraform",
-      "statistics",
-      "communication"
-    ]
-  },
-  {
     "key": "greenhouse:spacex:8573281002",
     "company": "SpaceX",
     "title": "Kubernetes Platform Infrastructure Engineer (Starlink)",
@@ -17223,42 +15164,6 @@
     ]
   },
   {
-    "key": "greenhouse:spacex:8940768002",
-    "company": "SpaceX",
-    "title": "OT Systems Engineer",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8940768002?gh_jid=8940768002",
-    "location": "Memphis, TN",
-    "level": "open",
-    "posted_at": "2026-11-13T10:38:16-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "linux",
-      "terraform",
-      "communication",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "greenhouse:spacex:8679947002",
-    "company": "SpaceX",
-    "title": "OT Systems Engineer, Mission Systems",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8679947002?gh_jid=8679947002",
-    "location": "Cape Canaveral, FL",
-    "level": "open",
-    "posted_at": "2026-08-12T19:23:33-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "linux",
-      "terraform",
-      "communication",
-      "cross-functional"
-    ]
-  },
-  {
     "key": "greenhouse:spacex:8692268002",
     "company": "SpaceX",
     "title": "Platform Engineer, Flight Software (Starlink)",
@@ -17275,78 +15180,6 @@
       "git",
       "linux",
       "ci-cd",
-      "communication"
-    ]
-  },
-  {
-    "key": "greenhouse:spacex:8731134002",
-    "company": "SpaceX",
-    "title": "Power Systems Engineer",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8731134002?gh_jid=8731134002",
-    "location": "Bastrop, TX",
-    "level": "open",
-    "posted_at": "2026-08-19T16:14:13-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "deep-learning",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "greenhouse:spacex:8942436002",
-    "company": "SpaceX",
-    "title": "Power Systems Engineer",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8942436002?gh_jid=8942436002",
-    "location": "Starbase, TX",
-    "level": "open",
-    "posted_at": "2026-11-16T12:34:53-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "system-design",
-      "deep-learning",
-      "communication",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "greenhouse:spacex:8627222002",
-    "company": "SpaceX",
-    "title": "Power Systems Engineer (Starship Avionics)",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8627222002?gh_jid=8627222002",
-    "location": "Starbase, TX",
-    "level": "open",
-    "posted_at": "2026-07-09T17:14:35-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": []
-  },
-  {
-    "key": "greenhouse:spacex:8627410002",
-    "company": "SpaceX",
-    "title": "Power Systems Engineer (Starship Avionics)",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8627410002?gh_jid=8627410002",
-    "location": "Hawthorne, CA",
-    "level": "open",
-    "posted_at": "2026-07-09T17:14:36-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": []
-  },
-  {
-    "key": "greenhouse:spacex:8916039002",
-    "company": "SpaceX",
-    "title": "Power Systems Engineer, Launch Pad (Starship)",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8916039002?gh_jid=8916039002",
-    "location": "Starbase, TX",
-    "level": "open",
-    "posted_at": "2026-10-25T23:26:22-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "system-design",
-      "deep-learning",
       "communication"
     ]
   },
@@ -19679,18 +17512,6 @@
     ]
   },
   {
-    "key": "greenhouse:spacex:8919948002",
-    "company": "SpaceX",
-    "title": "Voice Systems Engineer",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8919948002?gh_jid=8919948002",
-    "location": "Memphis, TN",
-    "level": "open",
-    "posted_at": "2026-10-27T20:39:52-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": []
-  },
-  {
     "key": "greenhouse:spacex:8715500002",
     "company": "SpaceX",
     "title": "Wi-Fi Software Engineer (Starlink)",
@@ -21549,23 +19370,6 @@
     ]
   },
   {
-    "key": "greenhouse:trivago:8424124002",
-    "company": "trivago",
-    "title": "Systems Engineer - Platform / SRE (Kubernetes/GCP)",
-    "url": "https://careers.trivago.com/apply/8424124002.?gh_jid=8424124002",
-    "location": "Düsseldorf",
-    "level": "open",
-    "posted_at": "2026-02-24T01:29:21-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "linux",
-      "kubernetes",
-      "gcp",
-      "machine-learning"
-    ]
-  },
-  {
     "key": "greenhouse:twilio:8405807",
     "company": "Twilio",
     "title": "Software Engineer (L2) SuperNetwork",
@@ -21922,25 +19726,6 @@
       "rag",
       "agents",
       "communication"
-    ]
-  },
-  {
-    "key": "greenhouse:vercel:6218743004",
-    "company": "Vercel",
-    "title": "IT Systems Engineer",
-    "url": "https://job-boards.greenhouse.io/vercel/jobs/6218743004",
-    "location": "Hybrid - San Francisco, New York City, Austin",
-    "level": "open",
-    "posted_at": "2026-10-07T15:59:48-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "linux",
-      "terraform",
-      "aws",
-      "rest-apis",
-      "agents"
     ]
   },
   {
@@ -22622,22 +20407,6 @@
     ]
   },
   {
-    "key": "greenhouse:waymo:8231711",
-    "company": "Waymo",
-    "title": "2027 Summer Intern, MS/PhD, Systems Engineer, Autonomous Vehicle Networks & Diagnostics",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8231711",
-    "location": "Mountain View, CA, USA ",
-    "level": "entry",
-    "posted_at": "2026-09-25T16:33:28-04:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "testing",
-      "ci-cd"
-    ]
-  },
-  {
     "key": "greenhouse:waymo:8301918",
     "company": "Waymo",
     "title": "Software Engineer",
@@ -22747,27 +20516,6 @@
       "system-design",
       "machine-learning",
       "model-evaluation"
-    ]
-  },
-  {
-    "key": "greenhouse:waymo:8407651",
-    "company": "Waymo",
-    "title": "Systems Engineer",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8407651",
-    "location": "PERM - N/A",
-    "level": "open",
-    "posted_at": "2026-11-20T19:56:19-05:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "sql",
-      "system-design",
-      "data-visualization",
-      "statistics",
-      "machine-learning",
-      "model-evaluation",
-      "cross-functional"
     ]
   },
   {
@@ -23373,26 +21121,6 @@
       "cpp",
       "c-lang",
       "linux",
-      "machine-learning",
-      "cross-functional"
-    ]
-  },
-  {
-    "key": "lever:zoox:1d0b857f-cd93-4ba3-a9d2-a23721c4c97c",
-    "company": "Zoox",
-    "title": "Systems Engineer, Autonomy Verification and Validation",
-    "url": "https://jobs.lever.co/zoox/1d0b857f-cd93-4ba3-a9d2-a23721c4c97c",
-    "location": "Foster City, CA",
-    "level": "open",
-    "posted_at": "2026-10-14T21:28:14+00:00",
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "python",
-      "sql",
-      "cpp",
-      "c-lang",
-      "system-design",
       "machine-learning",
       "cross-functional"
     ]
