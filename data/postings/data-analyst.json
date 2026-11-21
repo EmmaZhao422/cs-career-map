@@ -1,5 +1,82 @@
 [
   {
+    "key": "greenhouse:andurilindustries:5269977007",
+    "company": "Anduril Industries",
+    "title": "2027 Finance Data Analyst Intern",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5269977007?gh_jid=5269977007",
+    "location": "Costa Mesa, California, United States",
+    "level": "entry",
+    "posted_at": "2026-10-20T18:14:02-04:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "python",
+      "sql",
+      "operating-systems",
+      "rest-apis",
+      "data-warehouse",
+      "data-pipelines",
+      "excel",
+      "tableau",
+      "power-bi",
+      "dashboards",
+      "data-visualization",
+      "statistics",
+      "llm",
+      "prompt-engineering",
+      "agents",
+      "computer-vision",
+      "communication",
+      "cross-functional"
+    ]
+  },
+  {
+    "key": "greenhouse:andurilindustries:5296416007",
+    "company": "Anduril Industries",
+    "title": "Finance Business Intelligence & Analytics Analyst",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5296416007?gh_jid=5296416007",
+    "location": "Costa Mesa, California, United States",
+    "level": "open",
+    "posted_at": "2026-11-16T12:32:47-05:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "python",
+      "sql",
+      "operating-systems",
+      "git",
+      "spark",
+      "data-warehouse",
+      "data-modeling",
+      "dashboards",
+      "computer-vision",
+      "communication",
+      "cross-functional"
+    ]
+  },
+  {
+    "key": "greenhouse:andurilindustries:4985350007",
+    "company": "Anduril Industries",
+    "title": "Production Master Data Analyst",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/4985350007?gh_jid=4985350007",
+    "location": "Costa Mesa, California, United States",
+    "level": "open",
+    "posted_at": "2025-11-18T13:08:35-05:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "python",
+      "sql",
+      "operating-systems",
+      "excel",
+      "tableau",
+      "power-bi",
+      "data-visualization",
+      "computer-vision",
+      "cross-functional"
+    ]
+  },
+  {
     "key": "greenhouse:cloudflare:8109620",
     "company": "Cloudflare",
     "title": "Data Analyst",
@@ -41,6 +118,31 @@
       "power-bi",
       "looker",
       "dashboards",
+      "cross-functional"
+    ]
+  },
+  {
+    "key": "greenhouse:purestorage:8129789",
+    "company": "Everpure",
+    "title": "Business Intelligence Analyst - Tableau & SQL",
+    "url": "https://job-boards.greenhouse.io/purestorage/jobs/8129789",
+    "location": "Bangalore, India",
+    "level": "open",
+    "posted_at": "2026-10-05T22:28:47-04:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "python",
+      "sql",
+      "data-warehouse",
+      "excel",
+      "tableau",
+      "dashboards",
+      "data-visualization",
+      "statistics",
+      "machine-learning",
+      "prompt-engineering",
+      "agents",
       "cross-functional"
     ]
   },
@@ -94,6 +196,322 @@
     ]
   },
   {
+    "key": "greenhouse:gocardless:8190692",
+    "company": "GoCardless",
+    "title": "Junior Data Analyst",
+    "url": "https://job-boards.greenhouse.io/gocardless/jobs/8190692",
+    "location": "Riga, Latvia",
+    "level": "entry",
+    "posted_at": "2026-09-10T06:14:32-04:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "sql",
+      "dbt",
+      "data-warehouse",
+      "looker",
+      "dashboards",
+      "data-visualization"
+    ]
+  },
+  {
+    "key": "greenhouse:hellofresh:7387627",
+    "company": "HelloFresh",
+    "title": "[HelloConnect] Product Data Analyst (SQL/Python)",
+    "url": "https://careers.hellofresh.com/global/en/job/7387627?gh_jid=7387627",
+    "location": "Manila, Manila, Philippines",
+    "level": "open",
+    "posted_at": "2025-11-11T00:37:13-05:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "python",
+      "sql",
+      "data-pipelines",
+      "tableau",
+      "power-bi",
+      "looker",
+      "dashboards",
+      "data-visualization",
+      "statistics",
+      "ab-testing",
+      "pandas",
+      "scikit-learn",
+      "cross-functional"
+    ]
+  },
+  {
+    "key": "greenhouse:hellofresh:7741137",
+    "company": "HelloFresh",
+    "title": "Delivery Operations Business Analyst Intern France et Benelux(M/F/X)",
+    "url": "https://careers.hellofresh.com/global/en/job/7741137?gh_jid=7741137",
+    "location": "Paris, Paris, France",
+    "level": "entry",
+    "posted_at": "2026-03-22T18:02:26-04:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "sql",
+      "excel"
+    ]
+  },
+  {
+    "key": "greenhouse:hellofresh:7704587",
+    "company": "HelloFresh",
+    "title": "Growth Strategy Data Analyst - Intern (M/F/N)",
+    "url": "https://careers.hellofresh.com/global/en/job/7704587?gh_jid=7704587",
+    "location": "Paris, Paris, France",
+    "level": "entry",
+    "posted_at": "2026-03-11T10:07:43-04:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "sql",
+      "data-pipelines",
+      "data-modeling",
+      "excel",
+      "tableau",
+      "dashboards",
+      "data-visualization",
+      "ab-testing",
+      "cross-functional"
+    ]
+  },
+  {
+    "key": "greenhouse:lucidmotors:4924654007",
+    "company": "Lucid Motors",
+    "title": "Data Analyst",
+    "url": "https://lucidmotors.com/careers/search/4924654007?gh_jid=4924654007",
+    "location": "King Abdullah Economic City, 02",
+    "level": "open",
+    "posted_at": "2025-10-02T11:34:30-04:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "python",
+      "sql",
+      "data-warehouse",
+      "tableau",
+      "dashboards",
+      "data-visualization",
+      "statistics",
+      "communication",
+      "cross-functional"
+    ]
+  },
+  {
+    "key": "greenhouse:lucidmotors:4928050007",
+    "company": "Lucid Motors",
+    "title": "Data Analyst",
+    "url": "https://lucidmotors.com/careers/search/4928050007?gh_jid=4928050007",
+    "location": "King Abdullah Economic City, 02",
+    "level": "open",
+    "posted_at": "2025-10-02T11:34:30-04:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "python",
+      "sql",
+      "data-warehouse",
+      "tableau",
+      "dashboards",
+      "data-visualization",
+      "statistics",
+      "communication",
+      "cross-functional"
+    ]
+  },
+  {
+    "key": "greenhouse:gomotive:8925908002",
+    "company": "Motive",
+    "title": "Business Intelligence Analyst II",
+    "url": "https://job-boards.greenhouse.io/gomotive/jobs/8925908002",
+    "location": "Hybrid - Lahore; Remote - Islamabad",
+    "level": "open",
+    "posted_at": "2026-10-30T15:38:29-04:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "python",
+      "sql",
+      "r",
+      "dashboards",
+      "data-visualization",
+      "communication",
+      "cross-functional"
+    ]
+  },
+  {
+    "key": "greenhouse:gomotive:8858120002",
+    "company": "Motive",
+    "title": "Data Analyst II",
+    "url": "https://job-boards.greenhouse.io/gomotive/jobs/8858120002",
+    "location": "Hybrid - Lahore; Remote - Islamabad",
+    "level": "open",
+    "posted_at": "2026-10-06T17:30:14-04:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "python",
+      "sql",
+      "r",
+      "dashboards",
+      "data-visualization",
+      "communication",
+      "cross-functional"
+    ]
+  },
+  {
+    "key": "greenhouse:riotgames:8356372",
+    "company": "Riot Games",
+    "title": "Insights Analyst Intern, League of Legends - Summer 2027",
+    "url": "https://www.riotgames.com/en/work-with-us/job/8356372?gh_jid=8356372",
+    "location": "Los Angeles, USA",
+    "level": "entry",
+    "posted_at": "2026-11-11T14:49:32-05:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "python",
+      "sql",
+      "tableau",
+      "dashboards",
+      "data-visualization",
+      "statistics",
+      "cross-functional"
+    ]
+  },
+  {
+    "key": "greenhouse:scopely:5212408008",
+    "company": "Scopely",
+    "title": "Data Analyst (CRM)",
+    "url": "https://job-boards.greenhouse.io/scopely/jobs/5212408008?gh_jid=5212408008",
+    "location": "ES - Barcelona, Spain",
+    "level": "open",
+    "posted_at": "2026-05-07T09:01:24-04:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "sql",
+      "data-warehouse",
+      "data-pipelines",
+      "excel",
+      "tableau",
+      "looker",
+      "dashboards",
+      "statistics",
+      "ab-testing",
+      "cross-functional"
+    ]
+  },
+  {
+    "key": "greenhouse:scopely:5283492008",
+    "company": "Scopely",
+    "title": "Product Analyst -  Star Trek Fleet Command",
+    "url": "https://job-boards.greenhouse.io/scopely/jobs/5283492008?gh_jid=5283492008",
+    "location": "IE - Dublin, Ireland",
+    "level": "open",
+    "posted_at": "2026-06-29T11:57:16-04:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "python",
+      "sql",
+      "data-structures-algorithms",
+      "dashboards",
+      "data-visualization",
+      "statistics",
+      "ab-testing",
+      "machine-learning",
+      "communication",
+      "cross-functional"
+    ]
+  },
+  {
+    "key": "greenhouse:spacex:8641231002",
+    "company": "SpaceX",
+    "title": "Business Analyst (Customer Success)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8641231002?gh_jid=8641231002",
+    "location": "Bastrop, TX",
+    "level": "open",
+    "posted_at": "2026-07-21T12:01:11-04:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "python",
+      "sql",
+      "r",
+      "data-pipelines",
+      "tableau",
+      "power-bi",
+      "looker",
+      "dashboards",
+      "data-visualization",
+      "statistics",
+      "ab-testing",
+      "cross-functional"
+    ]
+  },
+  {
+    "key": "greenhouse:spacex:8641250002",
+    "company": "SpaceX",
+    "title": "Business Analyst (Customer Success)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8641250002?gh_jid=8641250002",
+    "location": "Redmond, WA",
+    "level": "open",
+    "posted_at": "2026-07-21T12:01:11-04:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "python",
+      "sql",
+      "r",
+      "data-pipelines",
+      "tableau",
+      "power-bi",
+      "looker",
+      "dashboards",
+      "data-visualization",
+      "statistics",
+      "ab-testing",
+      "cross-functional"
+    ]
+  },
+  {
+    "key": "greenhouse:spacex:8681172002",
+    "company": "SpaceX",
+    "title": "Business Analyst (Starlink Growth)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8681172002?gh_jid=8681172002",
+    "location": "Hawthorne, CA",
+    "level": "open",
+    "posted_at": "2026-08-05T17:01:39-04:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "python",
+      "sql",
+      "excel",
+      "communication",
+      "cross-functional"
+    ]
+  },
+  {
+    "key": "greenhouse:spacex:8657082002",
+    "company": "SpaceX",
+    "title": "Business Analyst (Starlink Market Analysis)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8657082002?gh_jid=8657082002",
+    "location": "Hawthorne, CA",
+    "level": "open",
+    "posted_at": "2026-08-10T16:03:34-04:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "concurrency",
+      "dashboards",
+      "communication"
+    ]
+  },
+  {
     "key": "greenhouse:stripe:5416444",
     "company": "Stripe",
     "title": "Data Analyst",
@@ -110,7 +528,6 @@
       "data-pipelines",
       "dashboards",
       "statistics",
-      "model-evaluation",
       "cross-functional"
     ]
   },
@@ -131,7 +548,6 @@
       "data-pipelines",
       "dashboards",
       "statistics",
-      "model-evaluation",
       "cross-functional"
     ]
   },
@@ -156,7 +572,6 @@
       "dashboards",
       "statistics",
       "agents",
-      "model-evaluation",
       "cross-functional"
     ]
   },
@@ -217,7 +632,6 @@
       "data-pipelines",
       "dashboards",
       "statistics",
-      "model-evaluation",
       "cross-functional"
     ]
   },
@@ -235,6 +649,142 @@
       "dashboards",
       "data-visualization",
       "cross-functional"
+    ]
+  },
+  {
+    "key": "greenhouse:sumup:8907441002",
+    "company": "SumUp",
+    "title": "Business Analyst (Mid-level)",
+    "url": "https://sumup.com/careers/positions/8907441002?gh_jid=8907441002",
+    "location": "São Paulo, São Paulo, Brazil",
+    "level": "open",
+    "posted_at": "2026-10-26T13:54:01-04:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "sql",
+      "excel",
+      "tableau",
+      "dashboards",
+      "cross-functional"
+    ]
+  },
+  {
+    "key": "lever:veeva:39b95683-9c50-4721-aafe-68f3dad04f83",
+    "company": "Veeva",
+    "title": "Data Analyst",
+    "url": "https://jobs.lever.co/veeva/39b95683-9c50-4721-aafe-68f3dad04f83",
+    "location": "China - Dalian",
+    "level": "open",
+    "posted_at": "2026-03-20T15:17:28+00:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "python",
+      "sql",
+      "concurrency",
+      "rest-apis",
+      "data-pipelines",
+      "excel",
+      "llm",
+      "prompt-engineering",
+      "rag",
+      "agents",
+      "cross-functional"
+    ]
+  },
+  {
+    "key": "lever:veeva:6b656fac-75cf-4768-ad43-9422124892d6",
+    "company": "Veeva",
+    "title": "Data Analyst - OpenData Commercial - Asia Pacific",
+    "url": "https://jobs.lever.co/veeva/6b656fac-75cf-4768-ad43-9422124892d6",
+    "location": "Taiwan - Taipei",
+    "level": "open",
+    "posted_at": "2025-03-19T15:21:59+00:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "sql",
+      "communication"
+    ]
+  },
+  {
+    "key": "lever:veeva:873c7161-8ff9-413d-abb4-25a79cb1fa9f",
+    "company": "Veeva",
+    "title": "Data Analyst - OpenData Commercial - Asia Pacific",
+    "url": "https://jobs.lever.co/veeva/873c7161-8ff9-413d-abb4-25a79cb1fa9f",
+    "location": "Singapore - Singapore",
+    "level": "open",
+    "posted_at": "2026-11-20T14:44:52+00:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "sql",
+      "communication"
+    ]
+  },
+  {
+    "key": "lever:veeva:c36c9d3b-fa88-4f43-87f9-ec32d53fc5f9",
+    "company": "Veeva",
+    "title": "Data Analyst - Pioneer",
+    "url": "https://jobs.lever.co/veeva/c36c9d3b-fa88-4f43-87f9-ec32d53fc5f9",
+    "location": "Israel - Kiryat Ono",
+    "level": "open",
+    "posted_at": "2026-09-17T14:33:56+00:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "sql",
+      "dashboards",
+      "statistics",
+      "communication"
+    ]
+  },
+  {
+    "key": "lever:veeva:28c47d34-3ad6-4485-85a9-686b4239b9ea",
+    "company": "Veeva",
+    "title": "Marketing Analytics - Data Analyst - July 2027 Start Date - ADP",
+    "url": "https://jobs.lever.co/veeva/28c47d34-3ad6-4485-85a9-686b4239b9ea",
+    "location": "New York - New York City",
+    "level": "open",
+    "posted_at": "2022-07-14T16:40:35+00:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "python",
+      "sql",
+      "data-structures-algorithms",
+      "system-design",
+      "excel",
+      "data-visualization",
+      "communication"
+    ]
+  },
+  {
+    "key": "greenhouse:wizinc:4720879006",
+    "company": "Wiz, Inc.",
+    "title": "CTO Data Analyst",
+    "url": "https://www.wiz.io/careers/job/4720879006/:title?gh_jid=4720879006",
+    "location": "Tel Aviv",
+    "level": "open",
+    "posted_at": "2026-11-18T06:10:32-05:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "python",
+      "sql",
+      "git",
+      "linux",
+      "airflow",
+      "dbt",
+      "data-warehouse",
+      "data-pipelines",
+      "data-modeling",
+      "dashboards",
+      "statistics",
+      "pandas",
+      "llm",
+      "agents"
     ]
   },
   {

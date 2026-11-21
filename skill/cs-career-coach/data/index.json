@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T07:26:14+00:00",
+  "generated_at": "2026-11-21T07:42:59+00:00",
   "demo": false,
   "notice": "Draft. The postings are real, but nobody has yet checked the skill matching against them by hand. Treat the shares as rough.",
   "tiers": {
@@ -12,28 +12,28 @@
       "id": "ai-engineer",
       "title": "AI Engineer",
       "blurb": "Builds products on top of machine learning models and LLMs.",
-      "postings": 129,
-      "companies": 28,
-      "entry_postings": 18,
+      "postings": 221,
+      "companies": 56,
+      "entry_postings": 29,
       "top_skills": [
         {
+          "name": "Python",
+          "pct": 73.3
+        },
+        {
           "name": "Machine learning",
-          "pct": 76.0
+          "pct": 67.4
         },
         {
           "name": "LLMs",
-          "pct": 71.3
-        },
-        {
-          "name": "Python",
-          "pct": 69.0
+          "pct": 62.0
         },
         {
           "name": "Written & verbal communication",
-          "pct": 55.0
+          "pct": 45.2
         },
         {
-          "name": "Model evaluation",
+          "name": "AI agents",
           "pct": 43.4
         }
       ]
@@ -42,29 +42,29 @@
       "id": "data-analyst",
       "title": "Data Analyst",
       "blurb": "Turns raw data into answers a team can act on.",
-      "postings": 9,
-      "companies": 6,
-      "entry_postings": 2,
+      "postings": 32,
+      "companies": 18,
+      "entry_postings": 7,
       "top_skills": [
         {
           "name": "SQL",
-          "pct": 88.9
-        },
-        {
-          "name": "Working with non-engineers",
-          "pct": 88.9
+          "pct": 93.8
         },
         {
           "name": "Dashboards & reporting",
-          "pct": 77.8
+          "pct": 75.0
+        },
+        {
+          "name": "Working with non-engineers",
+          "pct": 75.0
         },
         {
           "name": "Python",
-          "pct": 66.7
+          "pct": 65.6
         },
         {
           "name": "Statistics",
-          "pct": 66.7
+          "pct": 50.0
         }
       ]
     },
@@ -72,29 +72,29 @@
       "id": "software-engineer",
       "title": "Software Engineer",
       "blurb": "Designs, writes and ships the code behind a product.",
-      "postings": 363,
-      "companies": 34,
-      "entry_postings": 62,
+      "postings": 855,
+      "companies": 86,
+      "entry_postings": 95,
       "top_skills": [
         {
           "name": "Python",
-          "pct": 43.0
+          "pct": 51.2
         },
         {
           "name": "Working with non-engineers",
-          "pct": 42.7
+          "pct": 37.0
         },
         {
-          "name": "APIs (REST)",
-          "pct": 42.4
+          "name": "C++",
+          "pct": 35.3
         },
         {
           "name": "Written & verbal communication",
-          "pct": 42.1
+          "pct": 34.9
         },
         {
-          "name": "Distributed systems",
-          "pct": 31.7
+          "name": "Go",
+          "pct": 30.8
         }
       ]
     }

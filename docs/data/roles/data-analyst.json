@@ -3,10 +3,10 @@
   "title": "Data Analyst",
   "blurb": "Turns raw data into answers a team can act on.",
   "demo": false,
-  "postings": 9,
-  "listings": 12,
-  "companies": 6,
-  "entry_postings": 2,
+  "postings": 32,
+  "listings": 38,
+  "companies": 18,
+  "entry_postings": 7,
   "last_seen_from": "2026-11-21",
   "last_seen_to": "2026-11-21",
   "skills": [
@@ -14,209 +14,309 @@
       "id": "sql",
       "name": "SQL",
       "category": "Languages",
-      "count": 8,
-      "pct": 88.9,
+      "count": 30,
+      "pct": 93.8,
       "tier": "most",
-      "companies": 6,
-      "entry_count": 2
-    },
-    {
-      "id": "cross-functional",
-      "name": "Working with non-engineers",
-      "category": "Working with people",
-      "count": 8,
-      "pct": 88.9,
-      "tier": "most",
-      "companies": 5,
-      "entry_count": 1
+      "companies": 18,
+      "entry_count": 7
     },
     {
       "id": "dashboards",
       "name": "Dashboards & reporting",
       "category": "Analysis",
-      "count": 7,
-      "pct": 77.8,
+      "count": 24,
+      "pct": 75.0,
       "tier": "most",
-      "companies": 4,
-      "entry_count": 2
+      "companies": 16,
+      "entry_count": 6
+    },
+    {
+      "id": "cross-functional",
+      "name": "Working with non-engineers",
+      "category": "Working with people",
+      "count": 24,
+      "pct": 75.0,
+      "tier": "most",
+      "companies": 15,
+      "entry_count": 4
     },
     {
       "id": "python",
       "name": "Python",
       "category": "Languages",
-      "count": 6,
-      "pct": 66.7,
+      "count": 21,
+      "pct": 65.6,
       "tier": "most",
-      "companies": 5,
-      "entry_count": 1
+      "companies": 15,
+      "entry_count": 3
     },
     {
       "id": "statistics",
       "name": "Statistics",
       "category": "Analysis",
-      "count": 6,
-      "pct": 66.7,
+      "count": 16,
+      "pct": 50.0,
       "tier": "most",
-      "companies": 4,
-      "entry_count": 1
+      "companies": 13,
+      "entry_count": 3
     },
     {
-      "id": "data-modeling",
-      "name": "Data modeling",
-      "category": "Data engineering",
-      "count": 4,
-      "pct": 44.4,
+      "id": "data-visualization",
+      "name": "Data visualization",
+      "category": "Analysis",
+      "count": 15,
+      "pct": 46.9,
       "tier": "most",
-      "companies": 4,
-      "entry_count": 0
+      "companies": 12,
+      "entry_count": 4
+    },
+    {
+      "id": "communication",
+      "name": "Written & verbal communication",
+      "category": "Working with people",
+      "count": 13,
+      "pct": 40.6,
+      "tier": "most",
+      "companies": 8,
+      "entry_count": 1
     },
     {
       "id": "data-pipelines",
       "name": "Data pipelines (ETL)",
       "category": "Data engineering",
-      "count": 4,
-      "pct": 44.4,
-      "tier": "most",
-      "companies": 2,
+      "count": 11,
+      "pct": 34.4,
+      "tier": "many",
+      "companies": 8,
+      "entry_count": 3
+    },
+    {
+      "id": "excel",
+      "name": "Excel / spreadsheets",
+      "category": "Analysis",
+      "count": 11,
+      "pct": 34.4,
+      "tier": "many",
+      "companies": 8,
+      "entry_count": 3
+    },
+    {
+      "id": "tableau",
+      "name": "Tableau",
+      "category": "Analysis",
+      "count": 11,
+      "pct": 34.4,
+      "tier": "many",
+      "companies": 9,
+      "entry_count": 3
+    },
+    {
+      "id": "data-warehouse",
+      "name": "Data warehouses",
+      "category": "Data engineering",
+      "count": 9,
+      "pct": 28.1,
+      "tier": "many",
+      "companies": 8,
+      "entry_count": 3
+    },
+    {
+      "id": "ab-testing",
+      "name": "A/B testing",
+      "category": "Analysis",
+      "count": 7,
+      "pct": 21.9,
+      "tier": "many",
+      "companies": 5,
+      "entry_count": 2
+    },
+    {
+      "id": "data-modeling",
+      "name": "Data modeling",
+      "category": "Data engineering",
+      "count": 7,
+      "pct": 21.9,
+      "tier": "many",
+      "companies": 7,
+      "entry_count": 1
+    },
+    {
+      "id": "looker",
+      "name": "Looker",
+      "category": "Analysis",
+      "count": 6,
+      "pct": 18.8,
+      "tier": "many",
+      "companies": 6,
       "entry_count": 1
     },
     {
       "id": "dbt",
       "name": "dbt",
       "category": "Data engineering",
-      "count": 3,
-      "pct": 33.3,
+      "count": 5,
+      "pct": 15.6,
       "tier": "many",
-      "companies": 3,
-      "entry_count": 0
-    },
-    {
-      "id": "spark",
-      "name": "Spark",
-      "category": "Data engineering",
-      "count": 3,
-      "pct": 33.3,
-      "tier": "many",
-      "companies": 2,
+      "companies": 5,
       "entry_count": 1
     },
     {
-      "id": "ab-testing",
-      "name": "A/B testing",
+      "id": "power-bi",
+      "name": "Power BI",
       "category": "Analysis",
-      "count": 2,
-      "pct": 22.2,
+      "count": 5,
+      "pct": 15.6,
       "tier": "many",
-      "companies": 2,
+      "companies": 4,
       "entry_count": 1
     },
     {
-      "id": "data-visualization",
-      "name": "Data visualization",
-      "category": "Analysis",
-      "count": 2,
-      "pct": 22.2,
+      "id": "r",
+      "name": "R",
+      "category": "Languages",
+      "count": 5,
+      "pct": 15.6,
       "tier": "many",
-      "companies": 2,
+      "companies": 4,
       "entry_count": 0
     },
     {
-      "id": "data-warehouse",
-      "name": "Data warehouses",
-      "category": "Data engineering",
-      "count": 2,
-      "pct": 22.2,
-      "tier": "many",
-      "companies": 2,
+      "id": "agents",
+      "name": "AI agents",
+      "category": "AI & ML",
+      "count": 4,
+      "pct": 12.5,
+      "tier": "some",
+      "companies": 4,
       "entry_count": 1
     },
     {
       "id": "git",
       "name": "Git",
       "category": "Tools",
-      "count": 2,
-      "pct": 22.2,
-      "tier": "many",
-      "companies": 2,
-      "entry_count": 0
-    },
-    {
-      "id": "looker",
-      "name": "Looker",
-      "category": "Analysis",
-      "count": 2,
-      "pct": 22.2,
-      "tier": "many",
-      "companies": 2,
+      "count": 4,
+      "pct": 12.5,
+      "tier": "some",
+      "companies": 4,
       "entry_count": 0
     },
     {
       "id": "machine-learning",
       "name": "Machine learning",
       "category": "AI & ML",
-      "count": 2,
-      "pct": 22.2,
-      "tier": "many",
+      "count": 4,
+      "pct": 12.5,
+      "tier": "some",
+      "companies": 4,
+      "entry_count": 1
+    },
+    {
+      "id": "operating-systems",
+      "name": "Operating systems",
+      "category": "CS fundamentals",
+      "count": 4,
+      "pct": 12.5,
+      "tier": "some",
       "companies": 2,
       "entry_count": 1
     },
     {
-      "id": "model-evaluation",
-      "name": "Model evaluation",
-      "category": "AI & ML",
-      "count": 2,
-      "pct": 22.2,
-      "tier": "many",
-      "companies": 1,
-      "entry_count": 0
-    },
-    {
-      "id": "r",
-      "name": "R",
-      "category": "Languages",
-      "count": 2,
-      "pct": 22.2,
-      "tier": "many",
-      "companies": 2,
-      "entry_count": 0
-    },
-    {
-      "id": "communication",
-      "name": "Written & verbal communication",
-      "category": "Working with people",
-      "count": 2,
-      "pct": 22.2,
-      "tier": "many",
-      "companies": 2,
-      "entry_count": 0
-    },
-    {
-      "id": "airflow",
-      "name": "Airflow",
+      "id": "spark",
+      "name": "Spark",
       "category": "Data engineering",
-      "count": 1,
-      "pct": 11.1,
+      "count": 4,
+      "pct": 12.5,
       "tier": "some",
-      "companies": 1,
-      "entry_count": 0
+      "companies": 3,
+      "entry_count": 1
     },
     {
       "id": "rest-apis",
       "name": "APIs (REST)",
       "category": "Web",
-      "count": 1,
-      "pct": 11.1,
+      "count": 3,
+      "pct": 9.4,
+      "tier": "some",
+      "companies": 3,
+      "entry_count": 2
+    },
+    {
+      "id": "computer-vision",
+      "name": "Computer vision",
+      "category": "AI & ML",
+      "count": 3,
+      "pct": 9.4,
       "tier": "some",
       "companies": 1,
       "entry_count": 1
     },
     {
-      "id": "excel",
-      "name": "Excel / spreadsheets",
-      "category": "Analysis",
-      "count": 1,
-      "pct": 11.1,
+      "id": "llm",
+      "name": "LLMs",
+      "category": "AI & ML",
+      "count": 3,
+      "pct": 9.4,
       "tier": "some",
+      "companies": 3,
+      "entry_count": 1
+    },
+    {
+      "id": "prompt-engineering",
+      "name": "Prompt engineering",
+      "category": "AI & ML",
+      "count": 3,
+      "pct": 9.4,
+      "tier": "some",
+      "companies": 3,
+      "entry_count": 1
+    },
+    {
+      "id": "airflow",
+      "name": "Airflow",
+      "category": "Data engineering",
+      "count": 2,
+      "pct": 6.2,
+      "tier": "some",
+      "companies": 2,
+      "entry_count": 0
+    },
+    {
+      "id": "concurrency",
+      "name": "Concurrency",
+      "category": "CS fundamentals",
+      "count": 2,
+      "pct": 6.2,
+      "tier": "some",
+      "companies": 2,
+      "entry_count": 0
+    },
+    {
+      "id": "data-structures-algorithms",
+      "name": "Data structures & algorithms",
+      "category": "CS fundamentals",
+      "count": 2,
+      "pct": 6.2,
+      "tier": "some",
+      "companies": 2,
+      "entry_count": 0
+    },
+    {
+      "id": "pandas",
+      "name": "pandas / NumPy",
+      "category": "Analysis",
+      "count": 2,
+      "pct": 6.2,
+      "tier": "some",
+      "companies": 2,
+      "entry_count": 0
+    },
+    {
+      "id": "linux",
+      "name": "Linux & command line",
+      "category": "Tools",
+      "count": 1,
+      "pct": 3.1,
+      "tier": "rare",
       "companies": 1,
       "entry_count": 0
     },
@@ -225,38 +325,38 @@
       "name": "Model deployment (MLOps)",
       "category": "AI & ML",
       "count": 1,
-      "pct": 11.1,
-      "tier": "some",
+      "pct": 3.1,
+      "tier": "rare",
       "companies": 1,
       "entry_count": 0
     },
     {
-      "id": "operating-systems",
-      "name": "Operating systems",
+      "id": "rag",
+      "name": "RAG & vector search",
+      "category": "AI & ML",
+      "count": 1,
+      "pct": 3.1,
+      "tier": "rare",
+      "companies": 1,
+      "entry_count": 0
+    },
+    {
+      "id": "scikit-learn",
+      "name": "scikit-learn",
+      "category": "AI & ML",
+      "count": 1,
+      "pct": 3.1,
+      "tier": "rare",
+      "companies": 1,
+      "entry_count": 0
+    },
+    {
+      "id": "system-design",
+      "name": "System design",
       "category": "CS fundamentals",
       "count": 1,
-      "pct": 11.1,
-      "tier": "some",
-      "companies": 1,
-      "entry_count": 0
-    },
-    {
-      "id": "power-bi",
-      "name": "Power BI",
-      "category": "Analysis",
-      "count": 1,
-      "pct": 11.1,
-      "tier": "some",
-      "companies": 1,
-      "entry_count": 0
-    },
-    {
-      "id": "tableau",
-      "name": "Tableau",
-      "category": "Analysis",
-      "count": 1,
-      "pct": 11.1,
-      "tier": "some",
+      "pct": 3.1,
+      "tier": "rare",
       "companies": 1,
       "entry_count": 0
     }
@@ -267,11 +367,39 @@
       4
     ],
     [
+      "Veeva",
+      4
+    ],
+    [
+      "Anduril Industries",
+      3
+    ],
+    [
+      "HelloFresh",
+      3
+    ],
+    [
+      "SpaceX",
+      3
+    ],
+    [
+      "Motive",
+      2
+    ],
+    [
+      "Scopely",
+      2
+    ],
+    [
       "Cloudflare",
       1
     ],
     [
       "Elastic",
+      1
+    ],
+    [
+      "Everpure",
       1
     ],
     [
@@ -283,11 +411,55 @@
       1
     ],
     [
+      "GoCardless",
+      1
+    ],
+    [
+      "Lucid Motors",
+      1
+    ],
+    [
+      "Riot Games",
+      1
+    ],
+    [
+      "SumUp",
+      1
+    ],
+    [
+      "Wiz, Inc.",
+      1
+    ],
+    [
       "Zoox",
       1
     ]
   ],
   "sample": [
+    {
+      "company": "Anduril Industries",
+      "title": "2027 Finance Data Analyst Intern",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5269977007?gh_jid=5269977007",
+      "location": "Costa Mesa, California, United States",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Finance Business Intelligence & Analytics Analyst",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5296416007?gh_jid=5296416007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Production Master Data Analyst",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4985350007?gh_jid=4985350007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
     {
       "company": "Cloudflare",
       "title": "Data Analyst",
@@ -305,6 +477,14 @@
       "last_seen": "2026-11-21"
     },
     {
+      "company": "Everpure",
+      "title": "Business Intelligence Analyst - Tableau & SQL",
+      "url": "https://job-boards.greenhouse.io/purestorage/jobs/8129789",
+      "location": "Bangalore, India",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
       "company": "Figma",
       "title": "Technical Operations & Insights Analyst",
       "url": "https://boards.greenhouse.io/figma/jobs/6249978004?gh_jid=6249978004",
@@ -317,6 +497,110 @@
       "title": "Product Data Analyst",
       "url": "https://job-boards.greenhouse.io/flexport/jobs/8040985",
       "location": "Shanghai, China",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "GoCardless",
+      "title": "Junior Data Analyst",
+      "url": "https://job-boards.greenhouse.io/gocardless/jobs/8190692",
+      "location": "Riga, Latvia",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "HelloFresh",
+      "title": "[HelloConnect] Product Data Analyst (SQL/Python)",
+      "url": "https://careers.hellofresh.com/global/en/job/7387627?gh_jid=7387627",
+      "location": "Manila, Manila, Philippines",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "HelloFresh",
+      "title": "Delivery Operations Business Analyst Intern France et Benelux(M/F/X)",
+      "url": "https://careers.hellofresh.com/global/en/job/7741137?gh_jid=7741137",
+      "location": "Paris, Paris, France",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "HelloFresh",
+      "title": "Growth Strategy Data Analyst - Intern (M/F/N)",
+      "url": "https://careers.hellofresh.com/global/en/job/7704587?gh_jid=7704587",
+      "location": "Paris, Paris, France",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Lucid Motors",
+      "title": "Data Analyst",
+      "url": "https://lucidmotors.com/careers/search/4924654007?gh_jid=4924654007",
+      "location": "King Abdullah Economic City, 02",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Motive",
+      "title": "Business Intelligence Analyst II",
+      "url": "https://job-boards.greenhouse.io/gomotive/jobs/8925908002",
+      "location": "Hybrid - Lahore; Remote - Islamabad",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Motive",
+      "title": "Data Analyst II",
+      "url": "https://job-boards.greenhouse.io/gomotive/jobs/8858120002",
+      "location": "Hybrid - Lahore; Remote - Islamabad",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Riot Games",
+      "title": "Insights Analyst Intern, League of Legends - Summer 2027",
+      "url": "https://www.riotgames.com/en/work-with-us/job/8356372?gh_jid=8356372",
+      "location": "Los Angeles, USA",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Scopely",
+      "title": "Data Analyst (CRM)",
+      "url": "https://job-boards.greenhouse.io/scopely/jobs/5212408008?gh_jid=5212408008",
+      "location": "ES - Barcelona, Spain",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Scopely",
+      "title": "Product Analyst -  Star Trek Fleet Command",
+      "url": "https://job-boards.greenhouse.io/scopely/jobs/5283492008?gh_jid=5283492008",
+      "location": "IE - Dublin, Ireland",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Business Analyst (Customer Success)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8641231002?gh_jid=8641231002",
+      "location": "Bastrop, TX",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Business Analyst (Starlink Growth)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8681172002?gh_jid=8681172002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Business Analyst (Starlink Market Analysis)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8657082002?gh_jid=8657082002",
+      "location": "Hawthorne, CA",
       "level": "open",
       "last_seen": "2026-11-21"
     },
@@ -353,6 +637,54 @@
       "last_seen": "2026-11-21"
     },
     {
+      "company": "SumUp",
+      "title": "Business Analyst (Mid-level)",
+      "url": "https://sumup.com/careers/positions/8907441002?gh_jid=8907441002",
+      "location": "São Paulo, São Paulo, Brazil",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Veeva",
+      "title": "Data Analyst",
+      "url": "https://jobs.lever.co/veeva/39b95683-9c50-4721-aafe-68f3dad04f83",
+      "location": "China - Dalian",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Veeva",
+      "title": "Data Analyst - OpenData Commercial - Asia Pacific",
+      "url": "https://jobs.lever.co/veeva/6b656fac-75cf-4768-ad43-9422124892d6",
+      "location": "Taiwan - Taipei",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Veeva",
+      "title": "Data Analyst - Pioneer",
+      "url": "https://jobs.lever.co/veeva/c36c9d3b-fa88-4f43-87f9-ec32d53fc5f9",
+      "location": "Israel - Kiryat Ono",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Veeva",
+      "title": "Marketing Analytics - Data Analyst - July 2027 Start Date - ADP",
+      "url": "https://jobs.lever.co/veeva/28c47d34-3ad6-4485-85a9-686b4239b9ea",
+      "location": "New York - New York City",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Wiz, Inc.",
+      "title": "CTO Data Analyst",
+      "url": "https://www.wiz.io/careers/job/4720879006/:title?gh_jid=4720879006",
+      "location": "Tel Aviv",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
       "company": "Zoox",
       "title": "Contract  Student Worker - Data Analyst (Part-time)",
       "url": "https://jobs.lever.co/zoox/5e03b357-0cc1-4194-9488-14f85044f4f9",
@@ -361,5 +693,5 @@
       "last_seen": "2026-11-21"
     }
   ],
-  "generated_at": "2026-11-21T07:26:14+00:00"
+  "generated_at": "2026-11-21T07:42:59+00:00"
 }

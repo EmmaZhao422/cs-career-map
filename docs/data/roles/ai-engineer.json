@@ -3,529 +3,529 @@
   "title": "AI Engineer",
   "blurb": "Builds products on top of machine learning models and LLMs.",
   "demo": false,
-  "postings": 129,
-  "listings": 140,
-  "companies": 28,
-  "entry_postings": 18,
+  "postings": 221,
+  "listings": 266,
+  "companies": 56,
+  "entry_postings": 29,
   "last_seen_from": "2026-11-21",
   "last_seen_to": "2026-11-21",
   "skills": [
     {
+      "id": "python",
+      "name": "Python",
+      "category": "Languages",
+      "count": 162,
+      "pct": 73.3,
+      "tier": "most",
+      "companies": 48,
+      "entry_count": 28
+    },
+    {
       "id": "machine-learning",
       "name": "Machine learning",
       "category": "AI & ML",
-      "count": 98,
-      "pct": 76.0,
+      "count": 149,
+      "pct": 67.4,
       "tier": "most",
-      "companies": 20,
-      "entry_count": 16
+      "companies": 42,
+      "entry_count": 25
     },
     {
       "id": "llm",
       "name": "LLMs",
       "category": "AI & ML",
-      "count": 92,
-      "pct": 71.3,
+      "count": 137,
+      "pct": 62.0,
       "tier": "most",
-      "companies": 24,
-      "entry_count": 8
-    },
-    {
-      "id": "python",
-      "name": "Python",
-      "category": "Languages",
-      "count": 89,
-      "pct": 69.0,
-      "tier": "most",
-      "companies": 25,
-      "entry_count": 17
+      "companies": 45,
+      "entry_count": 15
     },
     {
       "id": "communication",
       "name": "Written & verbal communication",
       "category": "Working with people",
-      "count": 71,
-      "pct": 55.0,
+      "count": 100,
+      "pct": 45.2,
       "tier": "most",
-      "companies": 18,
-      "entry_count": 6
-    },
-    {
-      "id": "model-evaluation",
-      "name": "Model evaluation",
-      "category": "AI & ML",
-      "count": 56,
-      "pct": 43.4,
-      "tier": "most",
-      "companies": 16,
-      "entry_count": 5
+      "companies": 30,
+      "entry_count": 13
     },
     {
       "id": "agents",
       "name": "AI agents",
       "category": "AI & ML",
-      "count": 54,
-      "pct": 41.9,
+      "count": 96,
+      "pct": 43.4,
       "tier": "most",
-      "companies": 21,
-      "entry_count": 5
-    },
-    {
-      "id": "pytorch",
-      "name": "PyTorch",
-      "category": "AI & ML",
-      "count": 43,
-      "pct": 33.3,
-      "tier": "many",
-      "companies": 14,
-      "entry_count": 10
-    },
-    {
-      "id": "deep-learning",
-      "name": "Deep learning",
-      "category": "AI & ML",
-      "count": 40,
-      "pct": 31.0,
-      "tier": "many",
-      "companies": 13,
-      "entry_count": 7
+      "companies": 40,
+      "entry_count": 12
     },
     {
       "id": "cross-functional",
       "name": "Working with non-engineers",
       "category": "Working with people",
-      "count": 39,
-      "pct": 30.2,
+      "count": 69,
+      "pct": 31.2,
       "tier": "many",
-      "companies": 21,
+      "companies": 37,
       "entry_count": 7
     },
     {
-      "id": "tensorflow",
-      "name": "TensorFlow / JAX",
+      "id": "pytorch",
+      "name": "PyTorch",
       "category": "AI & ML",
-      "count": 32,
-      "pct": 24.8,
+      "count": 62,
+      "pct": 28.1,
       "tier": "many",
-      "companies": 11,
-      "entry_count": 10
+      "companies": 23,
+      "entry_count": 16
+    },
+    {
+      "id": "model-evaluation",
+      "name": "Model evaluation",
+      "category": "AI & ML",
+      "count": 55,
+      "pct": 24.9,
+      "tier": "many",
+      "companies": 22,
+      "entry_count": 2
     },
     {
       "id": "cpp",
       "name": "C++",
       "category": "Languages",
-      "count": 30,
-      "pct": 23.3,
+      "count": 54,
+      "pct": 24.4,
       "tier": "many",
-      "companies": 9,
-      "entry_count": 7
+      "companies": 16,
+      "entry_count": 11
     },
     {
       "id": "rest-apis",
       "name": "APIs (REST)",
       "category": "Web",
-      "count": 28,
-      "pct": 21.7,
+      "count": 50,
+      "pct": 22.6,
       "tier": "many",
-      "companies": 14,
-      "entry_count": 1
+      "companies": 28,
+      "entry_count": 3
     },
     {
-      "id": "distributed-systems",
-      "name": "Distributed systems",
-      "category": "CS fundamentals",
-      "count": 26,
-      "pct": 20.2,
+      "id": "deep-learning",
+      "name": "Deep learning",
+      "category": "AI & ML",
+      "count": 50,
+      "pct": 22.6,
       "tier": "many",
-      "companies": 12,
-      "entry_count": 2
-    },
-    {
-      "id": "data-pipelines",
-      "name": "Data pipelines (ETL)",
-      "category": "Data engineering",
-      "count": 24,
-      "pct": 18.6,
-      "tier": "many",
-      "companies": 12,
-      "entry_count": 2
-    },
-    {
-      "id": "ab-testing",
-      "name": "A/B testing",
-      "category": "Analysis",
-      "count": 23,
-      "pct": 17.8,
-      "tier": "many",
-      "companies": 13,
-      "entry_count": 4
+      "companies": 19,
+      "entry_count": 9
     },
     {
       "id": "rag",
       "name": "RAG & vector search",
       "category": "AI & ML",
-      "count": 23,
-      "pct": 17.8,
+      "count": 48,
+      "pct": 21.7,
       "tier": "many",
-      "companies": 15,
-      "entry_count": 3
+      "companies": 29,
+      "entry_count": 11
+    },
+    {
+      "id": "distributed-systems",
+      "name": "Distributed systems",
+      "category": "CS fundamentals",
+      "count": 42,
+      "pct": 19.0,
+      "tier": "many",
+      "companies": 20,
+      "entry_count": 4
     },
     {
       "id": "fine-tuning",
       "name": "Fine-tuning",
       "category": "AI & ML",
-      "count": 22,
-      "pct": 17.1,
+      "count": 42,
+      "pct": 19.0,
       "tier": "many",
-      "companies": 10,
-      "entry_count": 2
+      "companies": 19,
+      "entry_count": 7
+    },
+    {
+      "id": "kubernetes",
+      "name": "Kubernetes",
+      "category": "Tools",
+      "count": 40,
+      "pct": 18.1,
+      "tier": "many",
+      "companies": 13,
+      "entry_count": 0
     },
     {
       "id": "mlops",
       "name": "Model deployment (MLOps)",
       "category": "AI & ML",
-      "count": 22,
-      "pct": 17.1,
+      "count": 40,
+      "pct": 18.1,
       "tier": "many",
-      "companies": 12,
-      "entry_count": 1
-    },
-    {
-      "id": "statistics",
-      "name": "Statistics",
-      "category": "Analysis",
-      "count": 21,
-      "pct": 16.3,
-      "tier": "many",
-      "companies": 10,
-      "entry_count": 5
-    },
-    {
-      "id": "data-structures-algorithms",
-      "name": "Data structures & algorithms",
-      "category": "CS fundamentals",
-      "count": 20,
-      "pct": 15.5,
-      "tier": "many",
-      "companies": 11,
-      "entry_count": 2
-    },
-    {
-      "id": "prompt-engineering",
-      "name": "Prompt engineering",
-      "category": "AI & ML",
-      "count": 18,
-      "pct": 14.0,
-      "tier": "some",
-      "companies": 13,
+      "companies": 22,
       "entry_count": 3
     },
     {
       "id": "sql",
       "name": "SQL",
       "category": "Languages",
-      "count": 18,
-      "pct": 14.0,
-      "tier": "some",
-      "companies": 11,
-      "entry_count": 4
+      "count": 39,
+      "pct": 17.6,
+      "tier": "many",
+      "companies": 22,
+      "entry_count": 10
     },
     {
-      "id": "computer-vision",
-      "name": "Computer vision",
+      "id": "tensorflow",
+      "name": "TensorFlow / JAX",
       "category": "AI & ML",
-      "count": 17,
-      "pct": 13.2,
-      "tier": "some",
-      "companies": 9,
-      "entry_count": 8
+      "count": 38,
+      "pct": 17.2,
+      "tier": "many",
+      "companies": 15,
+      "entry_count": 11
+    },
+    {
+      "id": "data-pipelines",
+      "name": "Data pipelines (ETL)",
+      "category": "Data engineering",
+      "count": 36,
+      "pct": 16.3,
+      "tier": "many",
+      "companies": 20,
+      "entry_count": 2
+    },
+    {
+      "id": "data-structures-algorithms",
+      "name": "Data structures & algorithms",
+      "category": "CS fundamentals",
+      "count": 35,
+      "pct": 15.8,
+      "tier": "many",
+      "companies": 20,
+      "entry_count": 6
+    },
+    {
+      "id": "ab-testing",
+      "name": "A/B testing",
+      "category": "Analysis",
+      "count": 34,
+      "pct": 15.4,
+      "tier": "many",
+      "companies": 22,
+      "entry_count": 4
     },
     {
       "id": "aws",
       "name": "AWS",
       "category": "Cloud",
-      "count": 16,
-      "pct": 12.4,
-      "tier": "some",
-      "companies": 11,
-      "entry_count": 0
+      "count": 34,
+      "pct": 15.4,
+      "tier": "many",
+      "companies": 24,
+      "entry_count": 1
     },
     {
-      "id": "spark",
-      "name": "Spark",
-      "category": "Data engineering",
-      "count": 15,
-      "pct": 11.6,
-      "tier": "some",
-      "companies": 8,
-      "entry_count": 6
-    },
-    {
-      "id": "typescript",
-      "name": "TypeScript",
-      "category": "Languages",
-      "count": 15,
-      "pct": 11.6,
-      "tier": "some",
-      "companies": 9,
-      "entry_count": 0
-    },
-    {
-      "id": "kubernetes",
-      "name": "Kubernetes",
-      "category": "Tools",
-      "count": 14,
-      "pct": 10.9,
-      "tier": "some",
-      "companies": 2,
-      "entry_count": 0
-    },
-    {
-      "id": "nlp",
-      "name": "NLP",
+      "id": "prompt-engineering",
+      "name": "Prompt engineering",
       "category": "AI & ML",
-      "count": 14,
-      "pct": 10.9,
+      "count": 32,
+      "pct": 14.5,
       "tier": "some",
-      "companies": 6,
-      "entry_count": 4
-    },
-    {
-      "id": "git",
-      "name": "Git",
-      "category": "Tools",
-      "count": 12,
-      "pct": 9.3,
-      "tier": "some",
-      "companies": 7,
-      "entry_count": 4
+      "companies": 20,
+      "entry_count": 8
     },
     {
       "id": "go",
       "name": "Go",
       "category": "Languages",
-      "count": 12,
-      "pct": 9.3,
+      "count": 30,
+      "pct": 13.6,
       "tier": "some",
-      "companies": 10,
+      "companies": 20,
       "entry_count": 2
     },
     {
-      "id": "gcp",
-      "name": "Google Cloud",
-      "category": "Cloud",
-      "count": 12,
-      "pct": 9.3,
-      "tier": "some",
-      "companies": 7,
-      "entry_count": 0
-    },
-    {
-      "id": "javascript",
-      "name": "JavaScript",
-      "category": "Languages",
-      "count": 10,
-      "pct": 7.8,
-      "tier": "some",
-      "companies": 6,
-      "entry_count": 1
-    },
-    {
-      "id": "rust",
-      "name": "Rust",
-      "category": "Languages",
-      "count": 10,
-      "pct": 7.8,
-      "tier": "some",
-      "companies": 4,
-      "entry_count": 1
-    },
-    {
-      "id": "java",
-      "name": "Java",
-      "category": "Languages",
-      "count": 9,
-      "pct": 7.0,
-      "tier": "some",
-      "companies": 7,
-      "entry_count": 4
-    },
-    {
-      "id": "system-design",
-      "name": "System design",
-      "category": "CS fundamentals",
-      "count": 9,
-      "pct": 7.0,
-      "tier": "some",
-      "companies": 6,
-      "entry_count": 1
-    },
-    {
-      "id": "azure",
-      "name": "Azure",
-      "category": "Cloud",
-      "count": 7,
-      "pct": 5.4,
-      "tier": "some",
-      "companies": 3,
-      "entry_count": 0
-    },
-    {
-      "id": "data-modeling",
-      "name": "Data modeling",
-      "category": "Data engineering",
-      "count": 7,
-      "pct": 5.4,
-      "tier": "some",
-      "companies": 4,
-      "entry_count": 2
-    },
-    {
-      "id": "docker",
-      "name": "Docker",
-      "category": "Tools",
-      "count": 7,
-      "pct": 5.4,
-      "tier": "some",
-      "companies": 3,
-      "entry_count": 0
-    },
-    {
-      "id": "ruby",
-      "name": "Ruby",
-      "category": "Languages",
-      "count": 7,
-      "pct": 5.4,
-      "tier": "some",
-      "companies": 4,
-      "entry_count": 0
-    },
-    {
-      "id": "testing",
-      "name": "Testing",
-      "category": "CS fundamentals",
-      "count": 7,
-      "pct": 5.4,
-      "tier": "some",
-      "companies": 5,
-      "entry_count": 0
-    },
-    {
-      "id": "scikit-learn",
-      "name": "scikit-learn",
+      "id": "computer-vision",
+      "name": "Computer vision",
       "category": "AI & ML",
-      "count": 6,
-      "pct": 4.7,
-      "tier": "rare",
-      "companies": 4,
-      "entry_count": 3
+      "count": 27,
+      "pct": 12.2,
+      "tier": "some",
+      "companies": 11,
+      "entry_count": 10
     },
     {
-      "id": "concurrency",
-      "name": "Concurrency",
-      "category": "CS fundamentals",
-      "count": 5,
-      "pct": 3.9,
-      "tier": "rare",
-      "companies": 2,
+      "id": "typescript",
+      "name": "TypeScript",
+      "category": "Languages",
+      "count": 27,
+      "pct": 12.2,
+      "tier": "some",
+      "companies": 18,
       "entry_count": 0
     },
     {
-      "id": "dashboards",
-      "name": "Dashboards & reporting",
+      "id": "git",
+      "name": "Git",
+      "category": "Tools",
+      "count": 26,
+      "pct": 11.8,
+      "tier": "some",
+      "companies": 15,
+      "entry_count": 5
+    },
+    {
+      "id": "statistics",
+      "name": "Statistics",
       "category": "Analysis",
-      "count": 5,
-      "pct": 3.9,
-      "tier": "rare",
-      "companies": 3,
-      "entry_count": 1
-    },
-    {
-      "id": "data-warehouse",
-      "name": "Data warehouses",
-      "category": "Data engineering",
-      "count": 5,
-      "pct": 3.9,
-      "tier": "rare",
-      "companies": 4,
-      "entry_count": 0
-    },
-    {
-      "id": "oop",
-      "name": "Object-oriented design",
-      "category": "CS fundamentals",
-      "count": 5,
-      "pct": 3.9,
-      "tier": "rare",
-      "companies": 4,
-      "entry_count": 1
+      "count": 25,
+      "pct": 11.3,
+      "tier": "some",
+      "companies": 14,
+      "entry_count": 6
     },
     {
       "id": "ci-cd",
       "name": "CI/CD",
       "category": "Tools",
-      "count": 4,
-      "pct": 3.1,
-      "tier": "rare",
-      "companies": 4,
-      "entry_count": 0
+      "count": 23,
+      "pct": 10.4,
+      "tier": "some",
+      "companies": 13,
+      "entry_count": 4
+    },
+    {
+      "id": "docker",
+      "name": "Docker",
+      "category": "Tools",
+      "count": 22,
+      "pct": 10.0,
+      "tier": "some",
+      "companies": 10,
+      "entry_count": 1
+    },
+    {
+      "id": "gcp",
+      "name": "Google Cloud",
+      "category": "Cloud",
+      "count": 21,
+      "pct": 9.5,
+      "tier": "some",
+      "companies": 13,
+      "entry_count": 1
+    },
+    {
+      "id": "spark",
+      "name": "Spark",
+      "category": "Data engineering",
+      "count": 21,
+      "pct": 9.5,
+      "tier": "some",
+      "companies": 13,
+      "entry_count": 6
+    },
+    {
+      "id": "data-warehouse",
+      "name": "Data warehouses",
+      "category": "Data engineering",
+      "count": 20,
+      "pct": 9.0,
+      "tier": "some",
+      "companies": 14,
+      "entry_count": 5
+    },
+    {
+      "id": "rust",
+      "name": "Rust",
+      "category": "Languages",
+      "count": 20,
+      "pct": 9.0,
+      "tier": "some",
+      "companies": 10,
+      "entry_count": 1
+    },
+    {
+      "id": "javascript",
+      "name": "JavaScript",
+      "category": "Languages",
+      "count": 19,
+      "pct": 8.6,
+      "tier": "some",
+      "companies": 12,
+      "entry_count": 1
+    },
+    {
+      "id": "operating-systems",
+      "name": "Operating systems",
+      "category": "CS fundamentals",
+      "count": 19,
+      "pct": 8.6,
+      "tier": "some",
+      "companies": 6,
+      "entry_count": 2
+    },
+    {
+      "id": "java",
+      "name": "Java",
+      "category": "Languages",
+      "count": 18,
+      "pct": 8.1,
+      "tier": "some",
+      "companies": 15,
+      "entry_count": 4
     },
     {
       "id": "linux",
       "name": "Linux & command line",
       "category": "Tools",
-      "count": 4,
-      "pct": 3.1,
-      "tier": "rare",
-      "companies": 3,
+      "count": 18,
+      "pct": 8.1,
+      "tier": "some",
+      "companies": 7,
+      "entry_count": 2
+    },
+    {
+      "id": "nlp",
+      "name": "NLP",
+      "category": "AI & ML",
+      "count": 17,
+      "pct": 7.7,
+      "tier": "some",
+      "companies": 9,
+      "entry_count": 5
+    },
+    {
+      "id": "system-design",
+      "name": "System design",
+      "category": "CS fundamentals",
+      "count": 15,
+      "pct": 6.8,
+      "tier": "some",
+      "companies": 11,
       "entry_count": 1
     },
     {
-      "id": "pandas",
-      "name": "pandas / NumPy",
+      "id": "concurrency",
+      "name": "Concurrency",
+      "category": "CS fundamentals",
+      "count": 14,
+      "pct": 6.3,
+      "tier": "some",
+      "companies": 8,
+      "entry_count": 3
+    },
+    {
+      "id": "dashboards",
+      "name": "Dashboards & reporting",
       "category": "Analysis",
-      "count": 3,
-      "pct": 2.3,
-      "tier": "rare",
-      "companies": 2,
+      "count": 14,
+      "pct": 6.3,
+      "tier": "some",
+      "companies": 11,
       "entry_count": 2
     },
     {
       "id": "react",
       "name": "React",
       "category": "Web",
-      "count": 3,
-      "pct": 2.3,
-      "tier": "rare",
-      "companies": 3,
+      "count": 14,
+      "pct": 6.3,
+      "tier": "some",
+      "companies": 10,
       "entry_count": 0
     },
     {
-      "id": "scala",
-      "name": "Scala",
-      "category": "Languages",
-      "count": 3,
-      "pct": 2.3,
-      "tier": "rare",
-      "companies": 2,
-      "entry_count": 2
-    },
-    {
-      "id": "graphql",
-      "name": "GraphQL",
-      "category": "Web",
-      "count": 2,
-      "pct": 1.6,
-      "tier": "rare",
-      "companies": 1,
-      "entry_count": 0
-    },
-    {
-      "id": "kafka",
-      "name": "Kafka",
+      "id": "data-modeling",
+      "name": "Data modeling",
       "category": "Data engineering",
-      "count": 2,
-      "pct": 1.6,
+      "count": 13,
+      "pct": 5.9,
+      "tier": "some",
+      "companies": 8,
+      "entry_count": 3
+    },
+    {
+      "id": "pandas",
+      "name": "pandas / NumPy",
+      "category": "Analysis",
+      "count": 13,
+      "pct": 5.9,
+      "tier": "some",
+      "companies": 7,
+      "entry_count": 8
+    },
+    {
+      "id": "scikit-learn",
+      "name": "scikit-learn",
+      "category": "AI & ML",
+      "count": 13,
+      "pct": 5.9,
+      "tier": "some",
+      "companies": 6,
+      "entry_count": 8
+    },
+    {
+      "id": "azure",
+      "name": "Azure",
+      "category": "Cloud",
+      "count": 12,
+      "pct": 5.4,
+      "tier": "some",
+      "companies": 7,
+      "entry_count": 0
+    },
+    {
+      "id": "terraform",
+      "name": "Terraform",
+      "category": "Tools",
+      "count": 12,
+      "pct": 5.4,
+      "tier": "some",
+      "companies": 9,
+      "entry_count": 0
+    },
+    {
+      "id": "testing",
+      "name": "Testing",
+      "category": "CS fundamentals",
+      "count": 12,
+      "pct": 5.4,
+      "tier": "some",
+      "companies": 9,
+      "entry_count": 0
+    },
+    {
+      "id": "ruby",
+      "name": "Ruby",
+      "category": "Languages",
+      "count": 9,
+      "pct": 4.1,
+      "tier": "rare",
+      "companies": 6,
+      "entry_count": 0
+    },
+    {
+      "id": "oop",
+      "name": "Object-oriented design",
+      "category": "CS fundamentals",
+      "count": 8,
+      "pct": 3.6,
+      "tier": "rare",
+      "companies": 6,
+      "entry_count": 1
+    },
+    {
+      "id": "networking",
+      "name": "Computer networking",
+      "category": "CS fundamentals",
+      "count": 5,
+      "pct": 2.3,
       "tier": "rare",
       "companies": 2,
       "entry_count": 0
@@ -534,48 +534,98 @@
       "id": "nodejs",
       "name": "Node.js",
       "category": "Web",
-      "count": 2,
-      "pct": 1.6,
+      "count": 5,
+      "pct": 2.3,
       "tier": "rare",
-      "companies": 2,
+      "companies": 5,
+      "entry_count": 0
+    },
+    {
+      "id": "scala",
+      "name": "Scala",
+      "category": "Languages",
+      "count": 5,
+      "pct": 2.3,
+      "tier": "rare",
+      "companies": 3,
+      "entry_count": 2
+    },
+    {
+      "id": "airflow",
+      "name": "Airflow",
+      "category": "Data engineering",
+      "count": 4,
+      "pct": 1.8,
+      "tier": "rare",
+      "companies": 4,
       "entry_count": 0
     },
     {
       "id": "nosql",
       "name": "NoSQL databases",
       "category": "Data engineering",
-      "count": 2,
-      "pct": 1.6,
+      "count": 4,
+      "pct": 1.8,
       "tier": "rare",
-      "companies": 2,
-      "entry_count": 0
-    },
-    {
-      "id": "airflow",
-      "name": "Airflow",
-      "category": "Data engineering",
-      "count": 1,
-      "pct": 0.8,
-      "tier": "rare",
-      "companies": 1,
+      "companies": 4,
       "entry_count": 0
     },
     {
       "id": "c-lang",
       "name": "C",
       "category": "Languages",
-      "count": 1,
-      "pct": 0.8,
+      "count": 3,
+      "pct": 1.4,
       "tier": "rare",
-      "companies": 1,
+      "companies": 2,
       "entry_count": 0
     },
     {
-      "id": "networking",
-      "name": "Computer networking",
-      "category": "CS fundamentals",
-      "count": 1,
-      "pct": 0.8,
+      "id": "excel",
+      "name": "Excel / spreadsheets",
+      "category": "Analysis",
+      "count": 3,
+      "pct": 1.4,
+      "tier": "rare",
+      "companies": 2,
+      "entry_count": 0
+    },
+    {
+      "id": "graphql",
+      "name": "GraphQL",
+      "category": "Web",
+      "count": 3,
+      "pct": 1.4,
+      "tier": "rare",
+      "companies": 2,
+      "entry_count": 0
+    },
+    {
+      "id": "kafka",
+      "name": "Kafka",
+      "category": "Data engineering",
+      "count": 3,
+      "pct": 1.4,
+      "tier": "rare",
+      "companies": 3,
+      "entry_count": 0
+    },
+    {
+      "id": "microservices",
+      "name": "Microservices",
+      "category": "Web",
+      "count": 3,
+      "pct": 1.4,
+      "tier": "rare",
+      "companies": 3,
+      "entry_count": 0
+    },
+    {
+      "id": "c-sharp",
+      "name": "C#",
+      "category": "Languages",
+      "count": 2,
+      "pct": 0.9,
       "tier": "rare",
       "companies": 1,
       "entry_count": 0
@@ -585,27 +635,37 @@
       "name": "Data visualization",
       "category": "Analysis",
       "count": 1,
-      "pct": 0.8,
+      "pct": 0.5,
       "tier": "rare",
       "companies": 1,
       "entry_count": 0
     },
     {
-      "id": "excel",
-      "name": "Excel / spreadsheets",
-      "category": "Analysis",
+      "id": "dbt",
+      "name": "dbt",
+      "category": "Data engineering",
       "count": 1,
-      "pct": 0.8,
+      "pct": 0.5,
       "tier": "rare",
       "companies": 1,
       "entry_count": 0
     },
     {
-      "id": "microservices",
-      "name": "Microservices",
+      "id": "html-css",
+      "name": "HTML & CSS",
       "category": "Web",
       "count": 1,
-      "pct": 0.8,
+      "pct": 0.5,
+      "tier": "rare",
+      "companies": 1,
+      "entry_count": 0
+    },
+    {
+      "id": "kotlin",
+      "name": "Kotlin",
+      "category": "Languages",
+      "count": 1,
+      "pct": 0.5,
       "tier": "rare",
       "companies": 1,
       "entry_count": 0
@@ -615,40 +675,40 @@
       "name": "Next.js",
       "category": "Web",
       "count": 1,
-      "pct": 0.8,
+      "pct": 0.5,
       "tier": "rare",
       "companies": 1,
       "entry_count": 0
     },
     {
-      "id": "operating-systems",
-      "name": "Operating systems",
-      "category": "CS fundamentals",
+      "id": "power-bi",
+      "name": "Power BI",
+      "category": "Analysis",
       "count": 1,
-      "pct": 0.8,
+      "pct": 0.5,
       "tier": "rare",
       "companies": 1,
-      "entry_count": 0
+      "entry_count": 1
     },
     {
       "id": "r",
       "name": "R",
       "category": "Languages",
       "count": 1,
-      "pct": 0.8,
+      "pct": 0.5,
       "tier": "rare",
       "companies": 1,
       "entry_count": 0
     },
     {
-      "id": "terraform",
-      "name": "Terraform",
-      "category": "Tools",
+      "id": "tableau",
+      "name": "Tableau",
+      "category": "Analysis",
       "count": 1,
-      "pct": 0.8,
+      "pct": 0.5,
       "tier": "rare",
       "companies": 1,
-      "entry_count": 0
+      "entry_count": 1
     }
   ],
   "company_counts": [
@@ -657,11 +717,27 @@
       39
     ],
     [
+      "SpaceX",
+      25
+    ],
+    [
       "Waymo",
       14
     ],
     [
+      "Anduril Industries",
+      9
+    ],
+    [
+      "Celonis",
+      8
+    ],
+    [
       "Figma",
+      7
+    ],
+    [
+      "Nuro",
       7
     ],
     [
@@ -685,15 +761,31 @@
       5
     ],
     [
+      "Sonarsource",
+      5
+    ],
+    [
+      "Together AI",
+      5
+    ],
+    [
+      "DoorDash USA",
+      4
+    ],
+    [
       "GitLab",
       4
     ],
     [
-      "Chime",
+      "Chime Financial, Inc",
       3
     ],
     [
       "Coinbase",
+      3
+    ],
+    [
+      "Cresta",
       3
     ],
     [
@@ -717,7 +809,31 @@
       2
     ],
     [
+      "Everpure",
+      2
+    ],
+    [
+      "Fin",
+      2
+    ],
+    [
+      "Lucid Motors",
+      2
+    ],
+    [
+      "Relativity Space",
+      2
+    ],
+    [
       "Samsara",
+      2
+    ],
+    [
+      "Sendbird",
+      2
+    ],
+    [
+      "Tanium",
       2
     ],
     [
@@ -727,6 +843,10 @@
     [
       "Vercel",
       2
+    ],
+    [
+      "Abnormal",
+      1
     ],
     [
       "Affirm",
@@ -745,11 +865,19 @@
       1
     ],
     [
+      "Deliveroo",
+      1
+    ],
+    [
       "Duolingo",
       1
     ],
     [
-      "Gusto",
+      "Epic Games",
+      1
+    ],
+    [
+      "Gusto, Inc.",
       1
     ],
     [
@@ -757,15 +885,67 @@
       1
     ],
     [
+      "Mercury",
+      1
+    ],
+    [
+      "Motive",
+      1
+    ],
+    [
+      "Neo4j",
+      1
+    ],
+    [
+      "Nextdoor",
+      1
+    ],
+    [
+      "Observe.AI",
+      1
+    ],
+    [
+      "PlanetScale",
+      1
+    ],
+    [
+      "Scopely",
+      1
+    ],
+    [
+      "Smartsheet",
+      1
+    ],
+    [
       "Spotify",
+      1
+    ],
+    [
+      "Tripadvisor",
       1
     ],
     [
       "Twitch",
       1
+    ],
+    [
+      "Veeva",
+      1
+    ],
+    [
+      "Verkada",
+      1
     ]
   ],
   "sample": [
+    {
+      "company": "Abnormal",
+      "title": "Machine Learning Engineer 1",
+      "url": "https://abnormal.ai/careers/jobs/8002099003?gh_jid=8002099003",
+      "location": "Remote - Singapore",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
     {
       "company": "Affirm",
       "title": "Machine Learning Engineer II (ROA + LTV ML)",
@@ -780,6 +960,78 @@
       "url": "https://careers.airbnb.com/positions/7716341?gh_jid=7716341",
       "location": "China",
       "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "2027 Machine Learning Engineer Intern",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5274037007?gh_jid=5274037007",
+      "location": "Santa Ana, California, United States",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Applied LLM Systems Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5197253007?gh_jid=5197253007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Machine Learning Tracking Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5248869007?gh_jid=5248869007",
+      "location": "Waltham, Massachusetts, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Robotics Software Engineer, ML",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5136146007?gh_jid=5136146007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Software Engineer - ML Infrastructure",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5195642007?gh_jid=5195642007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Software Engineer, AI",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5293883007?gh_jid=5293883007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Software Engineer, AI Platform",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5210930007?gh_jid=5210930007",
+      "location": "Boston, Massachusetts, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Systems Engineer - Machine Learning",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5272037007?gh_jid=5272037007",
+      "location": "Colorado Springs, Colorado, United States; Huntsville, Alabama, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Winter 2027 Research Engineer Co-op",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265127007?gh_jid=5265127007",
+      "location": "Santa Ana, California, United States",
+      "level": "entry",
       "last_seen": "2026-11-21"
     },
     {
@@ -1119,7 +1371,71 @@
       "last_seen": "2026-11-21"
     },
     {
-      "company": "Chime",
+      "company": "Celonis",
+      "title": "Applied AI Engineer - Technology Consultant",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7765659003?gh_jid=7765659003",
+      "location": "New York, US, New York",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Celonis",
+      "title": "Associate Applied (AI) Value Engineer (APAC) - Orbit Program",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7995509003?gh_jid=7995509003",
+      "location": "Madrid, Spain",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Celonis",
+      "title": "Associate Applied (AI) Value Engineer (DACH) - Orbit Program",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7986218003?gh_jid=7986218003",
+      "location": "Madrid, Spain",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Celonis",
+      "title": "Associate Applied (AI) Value Engineer (Japan) - Orbit Program",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7786762003?gh_jid=7786762003",
+      "location": "Madrid, Spain",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Celonis",
+      "title": "Associate Applied (AI) Value Engineer (Nordics) - Orbit Program",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7885913003?gh_jid=7885913003",
+      "location": "Madrid, Spain",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Celonis",
+      "title": "Associate Applied (AI) Value Engineer (Scale EMEA/French-Speaking) - Orbit Program",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7885993003?gh_jid=7885993003",
+      "location": "Madrid, Spain",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Celonis",
+      "title": "Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7885816003?gh_jid=7885816003",
+      "location": "New York, US, New York",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Celonis",
+      "title": "Full stack AI Engineer",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7885808003?gh_jid=7885808003",
+      "location": "Bangalore, India",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Chime Financial, Inc",
       "title": "AI/ML Engineer",
       "url": "https://boards.greenhouse.io/chime/jobs/8569366002?gh_jid=8569366002",
       "location": "Chicago, IL, USA; New York, NY, USA; San Francisco, CA, USA",
@@ -1127,7 +1443,7 @@
       "last_seen": "2026-11-21"
     },
     {
-      "company": "Chime",
+      "company": "Chime Financial, Inc",
       "title": "Software Engineer, Jade Awareness - AI Financial Partner",
       "url": "https://boards.greenhouse.io/chime/jobs/8922481002?gh_jid=8922481002",
       "location": "San Francisco, CA, USA",
@@ -1135,7 +1451,7 @@
       "last_seen": "2026-11-21"
     },
     {
-      "company": "Chime",
+      "company": "Chime Financial, Inc",
       "title": "Software Engineer, Jade Foundation - AI Financial Partner",
       "url": "https://boards.greenhouse.io/chime/jobs/8868948002?gh_jid=8868948002",
       "location": "San Francisco, CA, USA",
@@ -1183,6 +1499,30 @@
       "last_seen": "2026-11-21"
     },
     {
+      "company": "Cresta",
+      "title": "AI Agent Evaluation Engineer",
+      "url": "https://job-boards.greenhouse.io/cresta/jobs/5480801008",
+      "location": "Canada (Remote); United States (Remote)",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Cresta",
+      "title": "AI Growth Engineer",
+      "url": "https://job-boards.greenhouse.io/cresta/jobs/5476118008",
+      "location": "United States (Remote)",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Cresta",
+      "title": "Marketing Engineer (AI Agents)",
+      "url": "https://job-boards.greenhouse.io/cresta/jobs/5476127008",
+      "location": "United States (Remote)",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
       "company": "Databricks",
       "title": "AI Automation Engineer",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8829033002",
@@ -1207,11 +1547,75 @@
       "last_seen": "2026-11-21"
     },
     {
+      "company": "Deliveroo",
+      "title": "Machine Learning Engineer II - Growth & Personalisation",
+      "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8202399",
+      "location": "London, England",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "DoorDash USA",
+      "title": "Software Engineer, Data and AI Platform",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8192187",
+      "location": "San Francisco, CA; Sunnyvale, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "DoorDash USA",
+      "title": "Software Engineer, Machine Learning Platform - Gen AI",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8264542",
+      "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "DoorDash USA",
+      "title": "Software Engineer, ML Infrastructure (MDX)",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8283735",
+      "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "DoorDash USA",
+      "title": "Software Engineer, ML Serving Platform",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8263726",
+      "location": "San Francisco, CA; Sunnyvale, CA; • Seattle, WA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
       "company": "Duolingo",
       "title": "AI Research Engineer, New PhD Graduate",
       "url": "https://careers.duolingo.com/jobs/8881612002?gh_jid=8881612002",
       "location": "New York, NY; Pittsburgh, PA",
       "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Epic Games",
+      "title": "Machine Learning Engineer, Memory",
+      "url": "https://epicgames.com/careers/jobs/6134271004?gh_jid=6134271004",
+      "location": "Cary,North Carolina,United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Everpure",
+      "title": "AI Enablement Engineer",
+      "url": "https://job-boards.greenhouse.io/purestorage/jobs/8331163",
+      "location": "Santa Clara, California",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Everpure",
+      "title": "Data Engineer - Data Platform & AI Enablement",
+      "url": "https://job-boards.greenhouse.io/purestorage/jobs/8261038",
+      "location": "Prague, Czech Republic",
+      "level": "open",
       "last_seen": "2026-11-21"
     },
     {
@@ -1271,6 +1675,22 @@
       "last_seen": "2026-11-21"
     },
     {
+      "company": "Fin",
+      "title": "AI Infrastructure Engineer",
+      "url": "https://job-boards.greenhouse.io/intercom/jobs/7820671",
+      "location": "Dublin, Ireland",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Fin",
+      "title": "GTM Engineer (Applied AI)",
+      "url": "https://job-boards.greenhouse.io/intercom/jobs/7749323",
+      "location": "Dublin, Ireland; London, England",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
       "company": "GitLab",
       "title": "Backend Engineer (Python),AI Engineering: Agent Foundations",
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8704363002",
@@ -1303,7 +1723,7 @@
       "last_seen": "2026-11-21"
     },
     {
-      "company": "Gusto",
+      "company": "Gusto, Inc.",
       "title": "Enterprise Application AI Engineer",
       "url": "https://job-boards.greenhouse.io/gusto/jobs/7369003",
       "location": "San Francisco, CA - Hybrid",
@@ -1315,6 +1735,22 @@
       "title": "Applied Scientist II - Advertiser Optimization",
       "url": "https://instacart.careers/job/?gh_jid=8403432",
       "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Lucid Motors",
+      "title": "Machine Learning Engineer",
+      "url": "https://lucidmotors.com/careers/search/5254390007?gh_jid=5254390007",
+      "location": "Southfield, MI",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Lucid Motors",
+      "title": "Perception Machine Learning Engineer – ADAS",
+      "url": "https://lucidmotors.com/careers/search/5199878007?gh_jid=5199878007",
+      "location": "Southfield, MI",
       "level": "open",
       "last_seen": "2026-11-21"
     },
@@ -1356,6 +1792,102 @@
       "url": "https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002",
       "location": "Toronto, Canada",
       "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Mercury",
+      "title": "Software Engineer - AI Experiences",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6233238004",
+      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Motive",
+      "title": "AI Engineer",
+      "url": "https://job-boards.greenhouse.io/gomotive/jobs/8785039002",
+      "location": "Bangalore, India",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Neo4j",
+      "title": "Research Engineer",
+      "url": "https://boards.greenhouse.io/neo4j/jobs/4708465006?gh_jid=4708465006",
+      "location": "London",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Nextdoor",
+      "title": "Machine Learning Engineer - Ads",
+      "url": "https://about.nextdoor.com/careers-list/?gh_jid=6005888",
+      "location": "US Remote",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Nuro",
+      "title": "Software Engineer, AI Platform - Intern",
+      "url": "https://nuro.ai/careersitem?gh_jid=7351061",
+      "location": "Mountain View, California (HQ)",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Nuro",
+      "title": "Software Engineer, AI Platform - New Grad",
+      "url": "https://nuro.ai/careersitem?gh_jid=7351066",
+      "location": "Mountain View, California (HQ)",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Nuro",
+      "title": "Software Engineer, Applied AI Infrastructure",
+      "url": "https://nuro.ai/careersitem?gh_jid=8122990",
+      "location": "Mountain View, California (HQ)",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Nuro",
+      "title": "Software Engineer, ML Inference Platform",
+      "url": "https://nuro.ai/careersitem?gh_jid=8122537",
+      "location": "Mountain View, California (HQ)",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Nuro",
+      "title": "Software Engineer, ML Infrastructure",
+      "url": "https://nuro.ai/careersitem?gh_jid=6909931",
+      "location": "Mountain View, California (HQ)",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Nuro",
+      "title": "Software Engineer, ML Infrastructure Platform",
+      "url": "https://nuro.ai/careersitem?gh_jid=8122483",
+      "location": "Mountain View, California (HQ)",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Nuro",
+      "title": "Software Engineer, ML Infrastructure, Optimization",
+      "url": "https://nuro.ai/careersitem?gh_jid=6916236",
+      "location": "Mountain View, California (HQ)",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Observe.AI",
+      "title": "AI Agent Engineer, Client Facing",
+      "url": "https://www.observe.ai/position?gh_jid=5254531008",
+      "location": "Redwood City, CA (Hybrid)",
+      "level": "open",
       "last_seen": "2026-11-21"
     },
     {
@@ -1428,6 +1960,30 @@
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140363",
       "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",
       "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "PlanetScale",
+      "title": "AI Developer Experience Engineer",
+      "url": "https://job-boards.greenhouse.io/planetscale/jobs/4463390009",
+      "location": "Remote US ",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Relativity Space",
+      "title": "AI Software Engineer I",
+      "url": "https://boards.greenhouse.io/relativity/jobs/8726261002?gh_jid=8726261002",
+      "location": "Long Beach, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Relativity Space",
+      "title": "AI Software Engineer II",
+      "url": "https://boards.greenhouse.io/relativity/jobs/8726264002?gh_jid=8726264002",
+      "location": "Long Beach, California, United States",
+      "level": "open",
       "last_seen": "2026-11-21"
     },
     {
@@ -1527,6 +2083,278 @@
       "last_seen": "2026-11-21"
     },
     {
+      "company": "Scopely",
+      "title": "Software Engineer, Machine Learning",
+      "url": "https://job-boards.greenhouse.io/scopely/jobs/5456049008?gh_jid=5456049008",
+      "location": "US - San Francisco, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Sendbird",
+      "title": "AI Agent Engineer, Intern",
+      "url": "https://sendbird.com/careers?gh_jid=8276676002",
+      "location": "Seoul, South Korea",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Sendbird",
+      "title": "Software Engineer, AI Agent",
+      "url": "https://sendbird.com/careers?gh_jid=8395379002",
+      "location": "Seoul, South Korea",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Smartsheet",
+      "title": "AI ML Ops Software Engineer (Bangalore Hybrid)",
+      "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8232492",
+      "location": "Bangalore, INDIA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Sonarsource",
+      "title": "AI Systems Engineer",
+      "url": "https://jobs.lever.co/sonarsource/3cae19c4-144b-41b9-89c1-03203547a8d3",
+      "location": "Geneva",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Sonarsource",
+      "title": "AI Systems Engineer (f/m/d)",
+      "url": "https://jobs.lever.co/sonarsource/6ae7c963-dd85-4ee4-a436-092490d1677c",
+      "location": "Bochum",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Sonarsource",
+      "title": "Marketing AI Engineer",
+      "url": "https://jobs.lever.co/sonarsource/3d1597a7-4535-4f22-8554-9a4a5df242b9",
+      "location": "Geneva",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Sonarsource",
+      "title": "Research Engineer",
+      "url": "https://jobs.lever.co/sonarsource/2f1af926-9595-4031-8a26-3c776a6dfbcd",
+      "location": "Singapore",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Sonarsource",
+      "title": "Research Engineer (f/m/d)",
+      "url": "https://jobs.lever.co/sonarsource/9984dd32-2082-4ca2-9ee5-d47cb6940da8",
+      "location": "Bochum",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "AI Security Software Engineer (Starshield)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8880556002?gh_jid=8880556002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "AI Software Engineer (Vehicle Engineering)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8910071002?gh_jid=8910071002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Application Software Engineer, Applied AI",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Automation and Controls Engineer, AI Satellites (Starmind)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8727884002?gh_jid=8727884002",
+      "location": "Bastrop, TX",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Construction Safety Engineer (AI Supercomputer)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8838006002?gh_jid=8838006002",
+      "location": "Memphis, TN",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Environmental Engineer (AI Supercomputer)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8639498002?gh_jid=8639498002",
+      "location": "Memphis, TN",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Environmental Health & Safety Engineer (AI Supercomputer)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8861009002?gh_jid=8861009002",
+      "location": "Memphis, TN",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "GNC Engineer - Embedded Controls, AI Satellites (Starmind)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8677846002?gh_jid=8677846002",
+      "location": "Bastrop, TX",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Integration & Test Engineer, AI Satellites (Starmind)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8727656002?gh_jid=8727656002",
+      "location": "Bastrop, TX",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Manufacturing Engineer, AI Satellites (Starmind)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8697063002?gh_jid=8697063002",
+      "location": "Bastrop, TX",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Materials Engineer, AI Satellites (Starmind)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8645074002?gh_jid=8645074002",
+      "location": "Bastrop, TX",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Mission Integration Engineer, AI (Starshield) - Top Secret Clearance",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8569184002?gh_jid=8569184002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Network Engineer, AI Infrastructure (Starshield)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8808150002?gh_jid=8808150002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Operations Engineer, Applied AI (Application Software)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8652229002?gh_jid=8652229002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Optical Test Engineer, AI Satellites (Starmind)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8931042002?gh_jid=8931042002",
+      "location": "Bastrop, TX",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Power Electronics Engineer, AI Satellites (Starmind)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8931110002?gh_jid=8931110002",
+      "location": "Bastrop, TX",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Process Engineer, AI Satellites (Starmind)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8954083002?gh_jid=8954083002",
+      "location": "Bastrop, TX",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Site Reliability Engineer, AI Infrastructure (Starshield)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8807493002?gh_jid=8807493002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer (AI Data Engineering)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8880868002?gh_jid=8880868002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer, AI Infrastructure (Starshield)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8861900002?gh_jid=8861900002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer, AI Satellites (Starmind)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8676015002?gh_jid=8676015002",
+      "location": "Bastrop, TX",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer, Applied AI (Starlink)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8637712002?gh_jid=8637712002",
+      "location": "Redmond, WA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer, Inference (AI Data Engineering)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8717350002?gh_jid=8717350002",
+      "location": "Palo Alto, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Thermal Engineer, AI Satellites (Starmind)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8728358002?gh_jid=8728358002",
+      "location": "Bastrop, TX",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Tooling Engineer, AI Satellites (Starmind)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8727903002?gh_jid=8727903002",
+      "location": "Bastrop, TX",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
       "company": "Spotify",
       "title": "Machine Learning Engineer - Subscriptions",
       "url": "https://jobs.lever.co/spotify/19c12e29-b6d4-4d97-9053-48238fb7c381",
@@ -1591,6 +2419,70 @@
       "last_seen": "2026-11-21"
     },
     {
+      "company": "Tanium",
+      "title": "Applied AI Engineer II",
+      "url": "https://job-boards.greenhouse.io/tanium/jobs/8335147",
+      "location": "Addison, TX (Hybrid); Durham, NC (Hybrid)",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Tanium",
+      "title": "Software Engineer II, AI Security",
+      "url": "https://job-boards.greenhouse.io/tanium/jobs/8359784",
+      "location": "Durham, NC (Hybrid)",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Together AI",
+      "title": "AI Infrastructure System Engineer",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5180155007",
+      "location": "Bangalore, India",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Together AI",
+      "title": "AI Infrastructure Systems Engineer",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/4555544007",
+      "location": "Amsterdam ",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Together AI",
+      "title": "Machine Learning Engineer - Inference",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/4385540007",
+      "location": "San Francisco ",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Together AI",
+      "title": "Research Engineer, Large-Scale Training",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5199554007",
+      "location": "San Francisco",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Together AI",
+      "title": "Systems Research Engineer, GPU Programming",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/4188119007",
+      "location": "San Francisco",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Tripadvisor",
+      "title": "ML Ops Engineer II (Experiences)",
+      "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/8222892",
+      "location": "UK",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
       "company": "Twilio",
       "title": "Machine Learning Engineer (L3)",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8258587",
@@ -1615,6 +2507,14 @@
       "last_seen": "2026-11-21"
     },
     {
+      "company": "Veeva",
+      "title": "Technical Curriculum Developer - AI Agents - Remote",
+      "url": "https://jobs.lever.co/veeva/1e141fa7-d296-4e16-ba2d-894da2c26b02",
+      "location": "Massachusetts - Boston",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
       "company": "Vercel",
       "title": "Machine Learning Engineer, Trust & Safety",
       "url": "https://job-boards.greenhouse.io/vercel/jobs/6208037004",
@@ -1627,6 +2527,14 @@
       "title": "Software Engineer, AI Gateway",
       "url": "https://job-boards.greenhouse.io/vercel/jobs/5798406004",
       "location": "Hybrid - San Francisco",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Verkada",
+      "title": "AI Marketing Engineer",
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5199940007",
+      "location": "London",
       "level": "open",
       "last_seen": "2026-11-21"
     },
@@ -1799,5 +2707,5 @@
       "last_seen": "2026-11-21"
     }
   ],
-  "generated_at": "2026-11-21T07:26:14+00:00"
+  "generated_at": "2026-11-21T07:42:59+00:00"
 }

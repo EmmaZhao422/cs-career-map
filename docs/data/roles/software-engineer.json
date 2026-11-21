@@ -3,10 +3,10 @@
   "title": "Software Engineer",
   "blurb": "Designs, writes and ships the code behind a product.",
   "demo": false,
-  "postings": 363,
-  "listings": 465,
-  "companies": 34,
-  "entry_postings": 62,
+  "postings": 855,
+  "listings": 1077,
+  "companies": 86,
+  "entry_postings": 95,
   "last_seen_from": "2026-11-21",
   "last_seen_to": "2026-11-21",
   "skills": [
@@ -14,684 +14,732 @@
       "id": "python",
       "name": "Python",
       "category": "Languages",
-      "count": 156,
-      "pct": 43.0,
+      "count": 438,
+      "pct": 51.2,
       "tier": "most",
-      "companies": 26,
-      "entry_count": 42
+      "companies": 65,
+      "entry_count": 59
     },
     {
       "id": "cross-functional",
       "name": "Working with non-engineers",
       "category": "Working with people",
-      "count": 155,
-      "pct": 42.7,
-      "tier": "most",
-      "companies": 32,
+      "count": 316,
+      "pct": 37.0,
+      "tier": "many",
+      "companies": 67,
+      "entry_count": 35
+    },
+    {
+      "id": "cpp",
+      "name": "C++",
+      "category": "Languages",
+      "count": 302,
+      "pct": 35.3,
+      "tier": "many",
+      "companies": 33,
+      "entry_count": 43
+    },
+    {
+      "id": "communication",
+      "name": "Written & verbal communication",
+      "category": "Working with people",
+      "count": 298,
+      "pct": 34.9,
+      "tier": "many",
+      "companies": 55,
+      "entry_count": 36
+    },
+    {
+      "id": "go",
+      "name": "Go",
+      "category": "Languages",
+      "count": 263,
+      "pct": 30.8,
+      "tier": "many",
+      "companies": 49,
       "entry_count": 21
     },
     {
       "id": "rest-apis",
       "name": "APIs (REST)",
       "category": "Web",
-      "count": 154,
-      "pct": 42.4,
-      "tier": "most",
-      "companies": 28,
-      "entry_count": 19
-    },
-    {
-      "id": "communication",
-      "name": "Written & verbal communication",
-      "category": "Working with people",
-      "count": 153,
-      "pct": 42.1,
-      "tier": "most",
-      "companies": 26,
-      "entry_count": 26
+      "count": 256,
+      "pct": 29.9,
+      "tier": "many",
+      "companies": 68,
+      "entry_count": 28
     },
     {
       "id": "distributed-systems",
       "name": "Distributed systems",
       "category": "CS fundamentals",
-      "count": 115,
-      "pct": 31.7,
+      "count": 237,
+      "pct": 27.7,
       "tier": "many",
-      "companies": 26,
-      "entry_count": 12
-    },
-    {
-      "id": "go",
-      "name": "Go",
-      "category": "Languages",
-      "count": 112,
-      "pct": 30.9,
-      "tier": "many",
-      "companies": 23,
-      "entry_count": 15
-    },
-    {
-      "id": "cpp",
-      "name": "C++",
-      "category": "Languages",
-      "count": 104,
-      "pct": 28.7,
-      "tier": "many",
-      "companies": 16,
-      "entry_count": 35
+      "companies": 54,
+      "entry_count": 17
     },
     {
       "id": "java",
       "name": "Java",
       "category": "Languages",
-      "count": 103,
-      "pct": 28.4,
+      "count": 237,
+      "pct": 27.7,
       "tier": "many",
-      "companies": 25,
-      "entry_count": 34
-    },
-    {
-      "id": "typescript",
-      "name": "TypeScript",
-      "category": "Languages",
-      "count": 92,
-      "pct": 25.3,
-      "tier": "many",
-      "companies": 26,
-      "entry_count": 20
-    },
-    {
-      "id": "react",
-      "name": "React",
-      "category": "Web",
-      "count": 84,
-      "pct": 23.1,
-      "tier": "many",
-      "companies": 28,
-      "entry_count": 14
+      "companies": 52,
+      "entry_count": 46
     },
     {
       "id": "kubernetes",
       "name": "Kubernetes",
       "category": "Tools",
-      "count": 75,
-      "pct": 20.7,
+      "count": 234,
+      "pct": 27.4,
       "tier": "many",
-      "companies": 22,
-      "entry_count": 5
+      "companies": 58,
+      "entry_count": 8
+    },
+    {
+      "id": "operating-systems",
+      "name": "Operating systems",
+      "category": "CS fundamentals",
+      "count": 225,
+      "pct": 26.3,
+      "tier": "many",
+      "companies": 23,
+      "entry_count": 21
     },
     {
       "id": "sql",
       "name": "SQL",
       "category": "Languages",
-      "count": 74,
-      "pct": 20.4,
+      "count": 218,
+      "pct": 25.5,
       "tier": "many",
-      "companies": 21,
-      "entry_count": 6
-    },
-    {
-      "id": "aws",
-      "name": "AWS",
-      "category": "Cloud",
-      "count": 73,
-      "pct": 20.1,
-      "tier": "many",
-      "companies": 26,
-      "entry_count": 3
-    },
-    {
-      "id": "javascript",
-      "name": "JavaScript",
-      "category": "Languages",
-      "count": 71,
-      "pct": 19.6,
-      "tier": "many",
-      "companies": 18,
-      "entry_count": 28
-    },
-    {
-      "id": "machine-learning",
-      "name": "Machine learning",
-      "category": "AI & ML",
-      "count": 69,
-      "pct": 19.0,
-      "tier": "many",
-      "companies": 22,
-      "entry_count": 15
-    },
-    {
-      "id": "data-structures-algorithms",
-      "name": "Data structures & algorithms",
-      "category": "CS fundamentals",
-      "count": 66,
-      "pct": 18.2,
-      "tier": "many",
-      "companies": 19,
-      "entry_count": 25
-    },
-    {
-      "id": "rust",
-      "name": "Rust",
-      "category": "Languages",
-      "count": 64,
-      "pct": 17.6,
-      "tier": "many",
-      "companies": 13,
-      "entry_count": 6
-    },
-    {
-      "id": "git",
-      "name": "Git",
-      "category": "Tools",
-      "count": 63,
-      "pct": 17.4,
-      "tier": "many",
-      "companies": 13,
-      "entry_count": 22
-    },
-    {
-      "id": "agents",
-      "name": "AI agents",
-      "category": "AI & ML",
-      "count": 59,
-      "pct": 16.3,
-      "tier": "many",
-      "companies": 19,
-      "entry_count": 6
+      "companies": 53,
+      "entry_count": 18
     },
     {
       "id": "ci-cd",
       "name": "CI/CD",
       "category": "Tools",
-      "count": 57,
-      "pct": 15.7,
+      "count": 216,
+      "pct": 25.3,
       "tier": "many",
-      "companies": 20,
+      "companies": 54,
+      "entry_count": 14
+    },
+    {
+      "id": "linux",
+      "name": "Linux & command line",
+      "category": "Tools",
+      "count": 212,
+      "pct": 24.8,
+      "tier": "many",
+      "companies": 35,
       "entry_count": 9
     },
     {
-      "id": "ruby",
-      "name": "Ruby",
-      "category": "Languages",
-      "count": 55,
-      "pct": 15.2,
+      "id": "react",
+      "name": "React",
+      "category": "Web",
+      "count": 193,
+      "pct": 22.6,
       "tier": "many",
-      "companies": 14,
-      "entry_count": 9
+      "companies": 54,
+      "entry_count": 17
+    },
+    {
+      "id": "git",
+      "name": "Git",
+      "category": "Tools",
+      "count": 182,
+      "pct": 21.3,
+      "tier": "many",
+      "companies": 40,
+      "entry_count": 25
     },
     {
       "id": "docker",
       "name": "Docker",
       "category": "Tools",
-      "count": 51,
-      "pct": 14.0,
-      "tier": "some",
-      "companies": 17,
-      "entry_count": 1
-    },
-    {
-      "id": "nosql",
-      "name": "NoSQL databases",
-      "category": "Data engineering",
-      "count": 49,
-      "pct": 13.5,
-      "tier": "some",
-      "companies": 15,
-      "entry_count": 13
-    },
-    {
-      "id": "llm",
-      "name": "LLMs",
-      "category": "AI & ML",
-      "count": 43,
-      "pct": 11.8,
-      "tier": "some",
-      "companies": 14,
-      "entry_count": 9
-    },
-    {
-      "id": "system-design",
-      "name": "System design",
-      "category": "CS fundamentals",
-      "count": 41,
-      "pct": 11.3,
-      "tier": "some",
-      "companies": 14,
+      "count": 181,
+      "pct": 21.2,
+      "tier": "many",
+      "companies": 44,
       "entry_count": 3
+    },
+    {
+      "id": "aws",
+      "name": "AWS",
+      "category": "Cloud",
+      "count": 180,
+      "pct": 21.1,
+      "tier": "many",
+      "companies": 63,
+      "entry_count": 7
+    },
+    {
+      "id": "data-structures-algorithms",
+      "name": "Data structures & algorithms",
+      "category": "CS fundamentals",
+      "count": 180,
+      "pct": 21.1,
+      "tier": "many",
+      "companies": 35,
+      "entry_count": 38
+    },
+    {
+      "id": "javascript",
+      "name": "JavaScript",
+      "category": "Languages",
+      "count": 165,
+      "pct": 19.3,
+      "tier": "many",
+      "companies": 40,
+      "entry_count": 35
+    },
+    {
+      "id": "typescript",
+      "name": "TypeScript",
+      "category": "Languages",
+      "count": 159,
+      "pct": 18.6,
+      "tier": "many",
+      "companies": 56,
+      "entry_count": 27
+    },
+    {
+      "id": "agents",
+      "name": "AI agents",
+      "category": "AI & ML",
+      "count": 155,
+      "pct": 18.1,
+      "tier": "many",
+      "companies": 49,
+      "entry_count": 10
+    },
+    {
+      "id": "rust",
+      "name": "Rust",
+      "category": "Languages",
+      "count": 153,
+      "pct": 17.9,
+      "tier": "many",
+      "companies": 25,
+      "entry_count": 11
+    },
+    {
+      "id": "computer-vision",
+      "name": "Computer vision",
+      "category": "AI & ML",
+      "count": 135,
+      "pct": 15.8,
+      "tier": "many",
+      "companies": 5,
+      "entry_count": 15
+    },
+    {
+      "id": "machine-learning",
+      "name": "Machine learning",
+      "category": "AI & ML",
+      "count": 134,
+      "pct": 15.7,
+      "tier": "many",
+      "companies": 42,
+      "entry_count": 17
     },
     {
       "id": "terraform",
       "name": "Terraform",
       "category": "Tools",
-      "count": 39,
-      "pct": 10.7,
+      "count": 120,
+      "pct": 14.0,
       "tier": "some",
-      "companies": 17,
-      "entry_count": 0
+      "companies": 46,
+      "entry_count": 2
     },
     {
-      "id": "kotlin",
-      "name": "Kotlin",
-      "category": "Languages",
-      "count": 38,
+      "id": "nosql",
+      "name": "NoSQL databases",
+      "category": "Data engineering",
+      "count": 106,
+      "pct": 12.4,
+      "tier": "some",
+      "companies": 38,
+      "entry_count": 16
+    },
+    {
+      "id": "concurrency",
+      "name": "Concurrency",
+      "category": "CS fundamentals",
+      "count": 105,
+      "pct": 12.3,
+      "tier": "some",
+      "companies": 23,
+      "entry_count": 6
+    },
+    {
+      "id": "system-design",
+      "name": "System design",
+      "category": "CS fundamentals",
+      "count": 99,
+      "pct": 11.6,
+      "tier": "some",
+      "companies": 34,
+      "entry_count": 5
+    },
+    {
+      "id": "testing",
+      "name": "Testing",
+      "category": "CS fundamentals",
+      "count": 97,
+      "pct": 11.3,
+      "tier": "some",
+      "companies": 36,
+      "entry_count": 8
+    },
+    {
+      "id": "oop",
+      "name": "Object-oriented design",
+      "category": "CS fundamentals",
+      "count": 93,
+      "pct": 10.9,
+      "tier": "some",
+      "companies": 23,
+      "entry_count": 9
+    },
+    {
+      "id": "kafka",
+      "name": "Kafka",
+      "category": "Data engineering",
+      "count": 90,
       "pct": 10.5,
       "tier": "some",
-      "companies": 13,
+      "companies": 26,
+      "entry_count": 2
+    },
+    {
+      "id": "c-lang",
+      "name": "C",
+      "category": "Languages",
+      "count": 87,
+      "pct": 10.2,
+      "tier": "some",
+      "companies": 17,
+      "entry_count": 6
+    },
+    {
+      "id": "gcp",
+      "name": "Google Cloud",
+      "category": "Cloud",
+      "count": 86,
+      "pct": 10.1,
+      "tier": "some",
+      "companies": 40,
+      "entry_count": 4
+    },
+    {
+      "id": "llm",
+      "name": "LLMs",
+      "category": "AI & ML",
+      "count": 80,
+      "pct": 9.4,
+      "tier": "some",
+      "companies": 32,
+      "entry_count": 13
+    },
+    {
+      "id": "c-sharp",
+      "name": "C#",
+      "category": "Languages",
+      "count": 78,
+      "pct": 9.1,
+      "tier": "some",
+      "companies": 12,
+      "entry_count": 2
+    },
+    {
+      "id": "azure",
+      "name": "Azure",
+      "category": "Cloud",
+      "count": 72,
+      "pct": 8.4,
+      "tier": "some",
+      "companies": 32,
       "entry_count": 4
     },
     {
       "id": "data-pipelines",
       "name": "Data pipelines (ETL)",
       "category": "Data engineering",
-      "count": 36,
-      "pct": 9.9,
+      "count": 72,
+      "pct": 8.4,
       "tier": "some",
-      "companies": 17,
-      "entry_count": 5
+      "companies": 32,
+      "entry_count": 6
     },
     {
-      "id": "linux",
-      "name": "Linux & command line",
-      "category": "Tools",
-      "count": 36,
-      "pct": 9.9,
-      "tier": "some",
-      "companies": 11,
-      "entry_count": 3
-    },
-    {
-      "id": "gcp",
-      "name": "Google Cloud",
-      "category": "Cloud",
-      "count": 34,
-      "pct": 9.4,
-      "tier": "some",
-      "companies": 16,
-      "entry_count": 3
-    },
-    {
-      "id": "testing",
-      "name": "Testing",
-      "category": "CS fundamentals",
-      "count": 30,
+      "id": "ruby",
+      "name": "Ruby",
+      "category": "Languages",
+      "count": 71,
       "pct": 8.3,
       "tier": "some",
-      "companies": 15,
-      "entry_count": 4
+      "companies": 23,
+      "entry_count": 10
     },
     {
-      "id": "data-warehouse",
-      "name": "Data warehouses",
-      "category": "Data engineering",
-      "count": 29,
+      "id": "scala",
+      "name": "Scala",
+      "category": "Languages",
+      "count": 71,
+      "pct": 8.3,
+      "tier": "some",
+      "companies": 14,
+      "entry_count": 11
+    },
+    {
+      "id": "kotlin",
+      "name": "Kotlin",
+      "category": "Languages",
+      "count": 68,
       "pct": 8.0,
       "tier": "some",
-      "companies": 13,
-      "entry_count": 3
+      "companies": 26,
+      "entry_count": 8
     },
     {
       "id": "microservices",
       "name": "Microservices",
       "category": "Web",
-      "count": 28,
+      "count": 66,
       "pct": 7.7,
       "tier": "some",
-      "companies": 10,
-      "entry_count": 7
+      "companies": 28,
+      "entry_count": 8
+    },
+    {
+      "id": "dashboards",
+      "name": "Dashboards & reporting",
+      "category": "Analysis",
+      "count": 55,
+      "pct": 6.4,
+      "tier": "some",
+      "companies": 31,
+      "entry_count": 6
+    },
+    {
+      "id": "networking",
+      "name": "Computer networking",
+      "category": "CS fundamentals",
+      "count": 53,
+      "pct": 6.2,
+      "tier": "some",
+      "companies": 21,
+      "entry_count": 5
     },
     {
       "id": "data-modeling",
       "name": "Data modeling",
       "category": "Data engineering",
-      "count": 27,
-      "pct": 7.4,
+      "count": 46,
+      "pct": 5.4,
       "tier": "some",
-      "companies": 15,
+      "companies": 28,
       "entry_count": 2
     },
     {
       "id": "spark",
       "name": "Spark",
       "category": "Data engineering",
-      "count": 27,
-      "pct": 7.4,
+      "count": 46,
+      "pct": 5.4,
       "tier": "some",
-      "companies": 11,
+      "companies": 20,
       "entry_count": 8
     },
     {
-      "id": "c-lang",
-      "name": "C",
-      "category": "Languages",
-      "count": 25,
-      "pct": 6.9,
-      "tier": "some",
-      "companies": 9,
-      "entry_count": 4
-    },
-    {
-      "id": "kafka",
-      "name": "Kafka",
+      "id": "data-warehouse",
+      "name": "Data warehouses",
       "category": "Data engineering",
-      "count": 25,
-      "pct": 6.9,
+      "count": 44,
+      "pct": 5.1,
       "tier": "some",
-      "companies": 11,
-      "entry_count": 1
-    },
-    {
-      "id": "model-evaluation",
-      "name": "Model evaluation",
-      "category": "AI & ML",
-      "count": 25,
-      "pct": 6.9,
-      "tier": "some",
-      "companies": 12,
-      "entry_count": 4
-    },
-    {
-      "id": "ab-testing",
-      "name": "A/B testing",
-      "category": "Analysis",
-      "count": 24,
-      "pct": 6.6,
-      "tier": "some",
-      "companies": 14,
-      "entry_count": 0
-    },
-    {
-      "id": "azure",
-      "name": "Azure",
-      "category": "Cloud",
-      "count": 24,
-      "pct": 6.6,
-      "tier": "some",
-      "companies": 13,
+      "companies": 23,
       "entry_count": 3
-    },
-    {
-      "id": "concurrency",
-      "name": "Concurrency",
-      "category": "CS fundamentals",
-      "count": 24,
-      "pct": 6.6,
-      "tier": "some",
-      "companies": 11,
-      "entry_count": 2
-    },
-    {
-      "id": "dashboards",
-      "name": "Dashboards & reporting",
-      "category": "Analysis",
-      "count": 21,
-      "pct": 5.8,
-      "tier": "some",
-      "companies": 11,
-      "entry_count": 4
-    },
-    {
-      "id": "oop",
-      "name": "Object-oriented design",
-      "category": "CS fundamentals",
-      "count": 20,
-      "pct": 5.5,
-      "tier": "some",
-      "companies": 11,
-      "entry_count": 5
-    },
-    {
-      "id": "graphql",
-      "name": "GraphQL",
-      "category": "Web",
-      "count": 19,
-      "pct": 5.2,
-      "tier": "some",
-      "companies": 9,
-      "entry_count": 1
-    },
-    {
-      "id": "operating-systems",
-      "name": "Operating systems",
-      "category": "CS fundamentals",
-      "count": 19,
-      "pct": 5.2,
-      "tier": "some",
-      "companies": 9,
-      "entry_count": 4
-    },
-    {
-      "id": "scala",
-      "name": "Scala",
-      "category": "Languages",
-      "count": 18,
-      "pct": 5.0,
-      "tier": "some",
-      "companies": 8,
-      "entry_count": 8
-    },
-    {
-      "id": "swift",
-      "name": "Swift",
-      "category": "Languages",
-      "count": 14,
-      "pct": 3.9,
-      "tier": "rare",
-      "companies": 9,
-      "entry_count": 4
-    },
-    {
-      "id": "networking",
-      "name": "Computer networking",
-      "category": "CS fundamentals",
-      "count": 13,
-      "pct": 3.6,
-      "tier": "rare",
-      "companies": 6,
-      "entry_count": 3
-    },
-    {
-      "id": "nodejs",
-      "name": "Node.js",
-      "category": "Web",
-      "count": 13,
-      "pct": 3.6,
-      "tier": "rare",
-      "companies": 7,
-      "entry_count": 4
     },
     {
       "id": "statistics",
       "name": "Statistics",
       "category": "Analysis",
-      "count": 13,
-      "pct": 3.6,
+      "count": 42,
+      "pct": 4.9,
       "tier": "rare",
-      "companies": 5,
+      "companies": 12,
       "entry_count": 6
+    },
+    {
+      "id": "ab-testing",
+      "name": "A/B testing",
+      "category": "Analysis",
+      "count": 38,
+      "pct": 4.4,
+      "tier": "rare",
+      "companies": 24,
+      "entry_count": 1
+    },
+    {
+      "id": "graphql",
+      "name": "GraphQL",
+      "category": "Web",
+      "count": 28,
+      "pct": 3.3,
+      "tier": "rare",
+      "companies": 16,
+      "entry_count": 1
+    },
+    {
+      "id": "nodejs",
+      "name": "Node.js",
+      "category": "Web",
+      "count": 28,
+      "pct": 3.3,
+      "tier": "rare",
+      "companies": 15,
+      "entry_count": 5
     },
     {
       "id": "html-css",
       "name": "HTML & CSS",
       "category": "Web",
-      "count": 12,
-      "pct": 3.3,
+      "count": 23,
+      "pct": 2.7,
       "tier": "rare",
-      "companies": 11,
-      "entry_count": 3
-    },
-    {
-      "id": "c-sharp",
-      "name": "C#",
-      "category": "Languages",
-      "count": 11,
-      "pct": 3.0,
-      "tier": "rare",
-      "companies": 2,
-      "entry_count": 2
-    },
-    {
-      "id": "rag",
-      "name": "RAG & vector search",
-      "category": "AI & ML",
-      "count": 10,
-      "pct": 2.8,
-      "tier": "rare",
-      "companies": 8,
-      "entry_count": 3
+      "companies": 18,
+      "entry_count": 5
     },
     {
       "id": "airflow",
       "name": "Airflow",
       "category": "Data engineering",
-      "count": 9,
+      "count": 21,
       "pct": 2.5,
       "tier": "rare",
-      "companies": 8,
-      "entry_count": 0
-    },
-    {
-      "id": "nextjs",
-      "name": "Next.js",
-      "category": "Web",
-      "count": 8,
-      "pct": 2.2,
-      "tier": "rare",
-      "companies": 3,
+      "companies": 16,
       "entry_count": 0
     },
     {
       "id": "data-visualization",
       "name": "Data visualization",
       "category": "Analysis",
-      "count": 6,
-      "pct": 1.7,
+      "count": 21,
+      "pct": 2.5,
       "tier": "rare",
-      "companies": 5,
-      "entry_count": 1
+      "companies": 10,
+      "entry_count": 2
+    },
+    {
+      "id": "rag",
+      "name": "RAG & vector search",
+      "category": "AI & ML",
+      "count": 18,
+      "pct": 2.1,
+      "tier": "rare",
+      "companies": 16,
+      "entry_count": 3
+    },
+    {
+      "id": "swift",
+      "name": "Swift",
+      "category": "Languages",
+      "count": 18,
+      "pct": 2.1,
+      "tier": "rare",
+      "companies": 13,
+      "entry_count": 5
+    },
+    {
+      "id": "model-evaluation",
+      "name": "Model evaluation",
+      "category": "AI & ML",
+      "count": 14,
+      "pct": 1.6,
+      "tier": "rare",
+      "companies": 10,
+      "entry_count": 2
+    },
+    {
+      "id": "nextjs",
+      "name": "Next.js",
+      "category": "Web",
+      "count": 14,
+      "pct": 1.6,
+      "tier": "rare",
+      "companies": 7,
+      "entry_count": 2
     },
     {
       "id": "deep-learning",
       "name": "Deep learning",
       "category": "AI & ML",
-      "count": 5,
+      "count": 12,
       "pct": 1.4,
       "tier": "rare",
-      "companies": 1,
+      "companies": 4,
       "entry_count": 5
     },
     {
       "id": "fine-tuning",
       "name": "Fine-tuning",
       "category": "AI & ML",
-      "count": 5,
-      "pct": 1.4,
+      "count": 11,
+      "pct": 1.3,
       "tier": "rare",
-      "companies": 4,
-      "entry_count": 0
-    },
-    {
-      "id": "prompt-engineering",
-      "name": "Prompt engineering",
-      "category": "AI & ML",
-      "count": 5,
-      "pct": 1.4,
-      "tier": "rare",
-      "companies": 4,
+      "companies": 7,
       "entry_count": 0
     },
     {
       "id": "mlops",
       "name": "Model deployment (MLOps)",
       "category": "AI & ML",
-      "count": 4,
-      "pct": 1.1,
+      "count": 11,
+      "pct": 1.3,
       "tier": "rare",
-      "companies": 4,
+      "companies": 10,
+      "entry_count": 1
+    },
+    {
+      "id": "power-bi",
+      "name": "Power BI",
+      "category": "Analysis",
+      "count": 11,
+      "pct": 1.3,
+      "tier": "rare",
+      "companies": 2,
+      "entry_count": 1
+    },
+    {
+      "id": "prompt-engineering",
+      "name": "Prompt engineering",
+      "category": "AI & ML",
+      "count": 10,
+      "pct": 1.2,
+      "tier": "rare",
+      "companies": 8,
       "entry_count": 1
     },
     {
       "id": "dbt",
       "name": "dbt",
       "category": "Data engineering",
-      "count": 3,
+      "count": 9,
+      "pct": 1.1,
+      "tier": "rare",
+      "companies": 8,
+      "entry_count": 0
+    },
+    {
+      "id": "tableau",
+      "name": "Tableau",
+      "category": "Analysis",
+      "count": 7,
       "pct": 0.8,
       "tier": "rare",
-      "companies": 3,
-      "entry_count": 0
+      "companies": 4,
+      "entry_count": 1
     },
     {
       "id": "looker",
       "name": "Looker",
       "category": "Analysis",
-      "count": 3,
-      "pct": 0.8,
+      "count": 6,
+      "pct": 0.7,
       "tier": "rare",
-      "companies": 2,
-      "entry_count": 1
-    },
-    {
-      "id": "computer-vision",
-      "name": "Computer vision",
-      "category": "AI & ML",
-      "count": 1,
-      "pct": 0.3,
-      "tier": "rare",
-      "companies": 1,
-      "entry_count": 1
-    },
-    {
-      "id": "excel",
-      "name": "Excel / spreadsheets",
-      "category": "Analysis",
-      "count": 1,
-      "pct": 0.3,
-      "tier": "rare",
-      "companies": 1,
-      "entry_count": 1
-    },
-    {
-      "id": "pandas",
-      "name": "pandas / NumPy",
-      "category": "Analysis",
-      "count": 1,
-      "pct": 0.3,
-      "tier": "rare",
-      "companies": 1,
+      "companies": 5,
       "entry_count": 1
     },
     {
       "id": "pytorch",
       "name": "PyTorch",
       "category": "AI & ML",
-      "count": 1,
-      "pct": 0.3,
+      "count": 6,
+      "pct": 0.7,
       "tier": "rare",
-      "companies": 1,
+      "companies": 3,
       "entry_count": 1
     },
     {
-      "id": "tableau",
-      "name": "Tableau",
+      "id": "pandas",
+      "name": "pandas / NumPy",
       "category": "Analysis",
-      "count": 1,
-      "pct": 0.3,
+      "count": 5,
+      "pct": 0.6,
       "tier": "rare",
-      "companies": 1,
-      "entry_count": 0
+      "companies": 3,
+      "entry_count": 1
     },
     {
       "id": "tensorflow",
       "name": "TensorFlow / JAX",
       "category": "AI & ML",
+      "count": 4,
+      "pct": 0.5,
+      "tier": "rare",
+      "companies": 2,
+      "entry_count": 1
+    },
+    {
+      "id": "excel",
+      "name": "Excel / spreadsheets",
+      "category": "Analysis",
+      "count": 2,
+      "pct": 0.2,
+      "tier": "rare",
+      "companies": 2,
+      "entry_count": 2
+    },
+    {
+      "id": "nlp",
+      "name": "NLP",
+      "category": "AI & ML",
+      "count": 2,
+      "pct": 0.2,
+      "tier": "rare",
+      "companies": 2,
+      "entry_count": 0
+    },
+    {
+      "id": "scikit-learn",
+      "name": "scikit-learn",
+      "category": "AI & ML",
+      "count": 2,
+      "pct": 0.2,
+      "tier": "rare",
+      "companies": 2,
+      "entry_count": 0
+    },
+    {
+      "id": "r",
+      "name": "R",
+      "category": "Languages",
       "count": 1,
-      "pct": 0.3,
+      "pct": 0.1,
       "tier": "rare",
       "companies": 1,
-      "entry_count": 1
+      "entry_count": 0
     }
   ],
   "company_counts": [
+    [
+      "SpaceX",
+      143
+    ],
+    [
+      "Anduril Industries",
+      129
+    ],
     [
       "Stripe",
       50
@@ -709,8 +757,16 @@
       24
     ],
     [
+      "DoorDash USA",
+      22
+    ],
+    [
       "Affirm",
       18
+    ],
+    [
+      "Everpure",
+      17
     ],
     [
       "Roblox",
@@ -725,11 +781,23 @@
       16
     ],
     [
+      "Deliveroo",
+      14
+    ],
+    [
+      "Neo4j",
+      13
+    ],
+    [
       "Robinhood",
       13
     ],
     [
       "GitLab",
+      12
+    ],
+    [
+      "Rubrik Job Board",
       12
     ],
     [
@@ -741,11 +809,27 @@
       11
     ],
     [
+      "Verkada",
+      11
+    ],
+    [
+      "Nuro",
+      10
+    ],
+    [
       "Waymo",
       10
     ],
     [
+      "Abnormal",
+      9
+    ],
+    [
       "Coinbase",
+      9
+    ],
+    [
+      "SumUp",
       9
     ],
     [
@@ -753,19 +837,27 @@
       8
     ],
     [
+      "Block",
+      7
+    ],
+    [
       "Brex",
       7
     ],
     [
-      "Chime",
+      "Chime Financial, Inc",
       7
     ],
     [
       "Pinterest",
-      6
+      7
     ],
     [
       "Reddit",
+      6
+    ],
+    [
+      "Relativity Space",
       6
     ],
     [
@@ -773,7 +865,19 @@
       6
     ],
     [
+      "Scopely",
+      6
+    ],
+    [
+      "SingleStore",
+      6
+    ],
+    [
       "Asana",
+      5
+    ],
+    [
+      "Braze",
       5
     ],
     [
@@ -789,7 +893,19 @@
       5
     ],
     [
+      "Adyen",
+      4
+    ],
+    [
       "Dropbox",
+      4
+    ],
+    [
+      "Klaviyo",
+      4
+    ],
+    [
+      "Lucid Motors",
       4
     ],
     [
@@ -797,7 +913,35 @@
       4
     ],
     [
+      "Riot Games",
+      4
+    ],
+    [
+      "Smartsheet",
+      4
+    ],
+    [
+      "Sonarsource",
+      4
+    ],
+    [
+      "Wiz, Inc.",
+      4
+    ],
+    [
       "Airbnb",
+      3
+    ],
+    [
+      "Motive",
+      3
+    ],
+    [
+      "New Relic",
+      3
+    ],
+    [
+      "Tripadvisor",
       3
     ],
     [
@@ -805,7 +949,39 @@
       3
     ],
     [
+      "Celonis",
+      2
+    ],
+    [
+      "Cresta",
+      2
+    ],
+    [
+      "Descript",
+      2
+    ],
+    [
       "Elastic",
+      2
+    ],
+    [
+      "Fin",
+      2
+    ],
+    [
+      "Fivetran",
+      2
+    ],
+    [
+      "Mercury",
+      2
+    ],
+    [
+      "Mixpanel",
+      2
+    ],
+    [
+      "PlanetScale",
       2
     ],
     [
@@ -813,7 +989,27 @@
       2
     ],
     [
+      "Veeva",
+      2
+    ],
+    [
+      "Betterment",
+      1
+    ],
+    [
+      "CircleCI",
+      1
+    ],
+    [
+      "Contentful",
+      1
+    ],
+    [
       "Duolingo",
+      1
+    ],
+    [
+      "Epic Games",
       1
     ],
     [
@@ -821,15 +1017,171 @@
       1
     ],
     [
-      "Gusto",
+      "Ginkgo Bioworks Inc.",
+      1
+    ],
+    [
+      "Greenhouse",
+      1
+    ],
+    [
+      "Gusto, Inc.",
+      1
+    ],
+    [
+      "HelloFresh",
+      1
+    ],
+    [
+      "Justworks",
+      1
+    ],
+    [
+      "Monzo",
+      1
+    ],
+    [
+      "Natera",
       1
     ],
     [
       "Okta",
       1
+    ],
+    [
+      "Ripple",
+      1
+    ],
+    [
+      "Salesloft",
+      1
+    ],
+    [
+      "Sumo Logic",
+      1
+    ],
+    [
+      "Tanium",
+      1
+    ],
+    [
+      "Toast",
+      1
+    ],
+    [
+      "Together AI",
+      1
+    ],
+    [
+      "trivago",
+      1
     ]
   ],
   "sample": [
+    {
+      "company": "Abnormal",
+      "title": "Software Engineer - Backend - Behavioral Security Products",
+      "url": "https://abnormal.ai/careers/jobs/7995027003?gh_jid=7995027003",
+      "location": "Remote - UK",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Abnormal",
+      "title": "Software Engineer 1 - Cloud Infrastructure",
+      "url": "https://abnormal.ai/careers/jobs/8015179003?gh_jid=8015179003",
+      "location": "Remote - USA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Abnormal",
+      "title": "Software Engineer 1 - Platform & Infrastructure",
+      "url": "https://abnormal.ai/careers/jobs/8016870003?gh_jid=8016870003",
+      "location": "Hybrid - Bangalore, India",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Abnormal",
+      "title": "Software Engineer 2 - ADEX",
+      "url": "https://abnormal.ai/careers/jobs/8210392003?gh_jid=8210392003",
+      "location": "Hybrid - Bangalore, India",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Abnormal",
+      "title": "Software Engineer 2 - Development Infrastructure",
+      "url": "https://abnormal.ai/careers/jobs/8015189003?gh_jid=8015189003",
+      "location": "Remote - USA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Abnormal",
+      "title": "Software Engineer II -  Data Integration Platform (DIP) Ingestion",
+      "url": "https://abnormal.ai/careers/jobs/8006504003?gh_jid=8006504003",
+      "location": "Hybrid - Bangalore, India",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Abnormal",
+      "title": "Software Engineer II - ADEX",
+      "url": "https://abnormal.ai/careers/jobs/7774637003?gh_jid=7774637003",
+      "location": "Hybrid - Bangalore, India",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Abnormal",
+      "title": "Software Engineer II - Platform & Infrastructure",
+      "url": "https://abnormal.ai/careers/jobs/7741028003?gh_jid=7741028003",
+      "location": "Hybrid - Bangalore, India",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Abnormal",
+      "title": "Software Engineer II, Attack Detection",
+      "url": "https://abnormal.ai/careers/jobs/8197230003?gh_jid=8197230003",
+      "location": "Remote - USA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Adyen",
+      "title": "Software Engineer (Full-Stack)",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8105757",
+      "location": "Amsterdam",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Adyen",
+      "title": "Software Engineer (Java)",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/7095304",
+      "location": "Sao Jose dos Campos",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Adyen",
+      "title": "Software Engineer (Java) - Screening Team",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/7342892",
+      "location": "Amsterdam",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Adyen",
+      "title": "Software Engineer II (Kotlin) - Core Experience",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8210671",
+      "location": "Chicago",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
     {
       "company": "Affirm",
       "title": "Software Engineer I, Backend (Continuous Delivery)",
@@ -996,6 +1348,1038 @@
       "url": "https://careers.airbnb.com/positions/8312713?gh_jid=8312713",
       "location": "Remote - Bangalore, India",
       "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "2027 Business Systems Engineer Intern",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5300647007?gh_jid=5300647007",
+      "location": "Costa Mesa, California, United States",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "2027 Early Career Flight Software Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007",
+      "location": "Costa Mesa, California, United States",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "2027 Early Career Software Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007",
+      "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "2027 Early Career Systems Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5262340007?gh_jid=5262340007",
+      "location": "Boston, Massachusetts, United States; Boulder, Colorado, United States; Costa Mesa, California, United States; Foothill Ranch, California, United States; Huntsville, Alabama, United States; Reston, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "2027 Flight Software Engineer Intern",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007",
+      "location": "Costa Mesa, California, United States",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "2027 Software Engineer Intern",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
+      "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "2027 Systems Engineer Intern",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007",
+      "location": "Boston, Massachusetts, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Reston, Virginia, United States; Seattle, Washington, United States",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "AD&S, Air Vehicle Software Systems Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5131822007?gh_jid=5131822007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Avionics Systems Engineer, Space",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5300687007?gh_jid=5300687007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Battery Systems Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5290158007?gh_jid=5290158007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Classified Cloud & Platform Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5269017007?gh_jid=5269017007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Classified Systems Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5267122007?gh_jid=5267122007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Embedded Software Engineer, Anti-Tamper",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5206527007?gh_jid=5206527007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Embedded Software Engineer, EW",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5178470007?gh_jid=5178470007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "EMC Systems Engineer, Air Dominance and Strike",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5303884007?gh_jid=5303884007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Flight Software Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5102166007?gh_jid=5102166007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Flight Software Engineer, Embedded C/C++, Air Dominance & Strike",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4164476007?gh_jid=4164476007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Flight Software Engineer, Embedded C/C++, Air Dominance & Strike - Missiles",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5035788007?gh_jid=5035788007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Frontend Software Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5147775007?gh_jid=5147775007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Fuel Systems Engineer, Air Vehicles",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5220401007?gh_jid=5220401007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Full Stack Software Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5089044007?gh_jid=5089044007",
+      "location": "Washington, District of Columbia, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Full Stack Software Engineer - Core Infrastructure",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5271092007?gh_jid=5271092007",
+      "location": "Atlanta, Georgia, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Fullstack Software Engineer, ArsenalOS",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5186859007?gh_jid=5186859007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "GNC Software Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5281208007?gh_jid=5281208007",
+      "location": "Waltham, Massachusetts, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Ground Software Engineer, Space",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4497427007?gh_jid=4497427007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "HPC Systems Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5278381007?gh_jid=5278381007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Infra Software Engineer, Agentic Runtime",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5211164007?gh_jid=5211164007",
+      "location": "Costa Mesa, California, United States; Washington, District of Columbia, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Infrastructure Engineer, Space",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5282155007?gh_jid=5282155007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Manufacturing Software Engineer, Intelligence Systems",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5080387007?gh_jid=5080387007",
+      "location": "Ashville, Ohio, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Mission Software Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5102993007?gh_jid=5102993007",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Mission Software Engineer - Undersea Reconnaissance & Strike",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5221253007?gh_jid=5221253007",
+      "location": "Quincy, Massachusetts, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Mission Software Engineer - Vehicle Software",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5295391007?gh_jid=5295391007",
+      "location": "Melbourne, Victoria, Australia",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Mission Software Engineer, EW",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5161108007?gh_jid=5161108007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Mission Software Engineer, Mission Systems",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5249750007?gh_jid=5249750007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Mission Software Engineer, Mission Systems, Cyber Security",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5260387007?gh_jid=5260387007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Mission Software Engineer, Mission Systems, Deployment and Infrastructure",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5260431007?gh_jid=5260431007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Mission Software Engineer, Mission Systems, Networking",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5260436007?gh_jid=5260436007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Mission Software Engineer, Vehicle Software, Active Clearance",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4672916007?gh_jid=4672916007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Mission Software Engineer, Vehicle Software, C++",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4672888007?gh_jid=4672888007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Mission Software Engineer, Vehicle Software, Communications",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5176751007?gh_jid=5176751007",
+      "location": "Boston, Massachusetts, United States; Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Mission Software Engineer, Vehicle Software, Computer Vision",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4734570007?gh_jid=4734570007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Mission Software Engineer, Vehicle Software, Consensus",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5176752007?gh_jid=5176752007",
+      "location": "Boston, Massachusetts, United States; Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Mission Software Engineer, Vehicle Software, Frontend",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4672911007?gh_jid=4672911007",
+      "location": "Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Mission Software Engineer, Vehicle Software, GenSWE",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4672868007?gh_jid=4672868007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Mission Systems Engineer, Early Career",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5303479007?gh_jid=5303479007",
+      "location": "Costa Mesa, California, United States",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Open Architecture Systems Engineer, Ground Systems",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5173109007?gh_jid=5173109007",
+      "location": "Costa Mesa, California, United States; Washington, District of Columbia, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Open Architecture Systems Engineer, Mission Systems",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5173074007?gh_jid=5173074007",
+      "location": "Costa Mesa, California, United States; Washington, District of Columbia, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Open Architecture Systems Engineer, UCI Command & Control",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4657146007?gh_jid=4657146007",
+      "location": "Costa Mesa, California, United States; Washington, District of Columbia, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Orbital Software Engineer, Space",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4872480007?gh_jid=4872480007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Platform Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5295246007?gh_jid=5295246007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Platform Engineer, Radar",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5256305007?gh_jid=5256305007",
+      "location": "Fort Collins, Colorado, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Production Software Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5189514007?gh_jid=5189514007",
+      "location": "Fort Collins, Colorado, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Quality Systems Engineer, Battlespace Awareness",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236058007?gh_jid=5236058007",
+      "location": "Fort Collins, Colorado, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Radar Quality Systems Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5281720007?gh_jid=5281720007",
+      "location": "Fort Collins, Colorado, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Radar Systems Engineer, Early Career",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5303553007?gh_jid=5303553007",
+      "location": "Costa Mesa, California, United States",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Realtime Software Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5294365007?gh_jid=5294365007",
+      "location": "Waltham, Massachusetts, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "RF Integration Systems Engineer, Early Career",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5303550007?gh_jid=5303550007",
+      "location": "Costa Mesa, California, United States",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "RF Mission Systems Engineer, Air Dominance & Strike, Active Clearance",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5181436007?gh_jid=5181436007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Robotic Software Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5183145007?gh_jid=5183145007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Robotics Software Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4968127007?gh_jid=4968127007",
+      "location": "Atlanta, Georgia, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Robotics Software Engineer - Undersea Dominance",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5196757007?gh_jid=5196757007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Robotics Software Engineer, Maneuver Dominance",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5047469007?gh_jid=5047469007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Robotics Software Engineer, Sensor Integration",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5096506007?gh_jid=5096506007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Robotics Software Engineer, Vehicle Software",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4672892007?gh_jid=4672892007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Scientific Software Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5226942007?gh_jid=5226942007",
+      "location": "Broomfield, Colorado, United States; Fort Collins, Colorado, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Software Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4948307007?gh_jid=4948307007",
+      "location": "Sydney, New South Wales, Australia",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Software Engineer (Active Clearance), Intelligence Systems",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4961005007?gh_jid=4961005007",
+      "location": "Reston, Virginia, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Software Engineer (Frontend), Space",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5138370007?gh_jid=5138370007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Software Engineer - Maritime",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5131034007?gh_jid=5131034007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Software Engineer - Maritime Integrated Systems",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5167630007?gh_jid=5167630007",
+      "location": "Quincy, Massachusetts, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Software Engineer - Modeling & Simulation",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5062357007?gh_jid=5062357007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Software Engineer - Payload Integrations",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5269031007?gh_jid=5269031007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Software Engineer - Surface Dominance",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5244194007?gh_jid=5244194007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Software Engineer - Undersea Dominance",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5171114007?gh_jid=5171114007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Software Engineer - Underseas Recon & Strike",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5239515007?gh_jid=5239515007",
+      "location": "Boston, Massachusetts, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Software Engineer, Active Clearance, Air Defense",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4939543007?gh_jid=4939543007",
+      "location": "Irvine, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Software Engineer, Agent Platform",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5174717007?gh_jid=5174717007",
+      "location": "Washington, District of Columbia, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Software Engineer, Air & Missile Defense",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5240173007?gh_jid=5240173007",
+      "location": "Huntsville, Alabama, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Software Engineer, Air Defense",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5134169007?gh_jid=5134169007",
+      "location": "Broomfield, Colorado, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Software Engineer, Anvil",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4932828007?gh_jid=4932828007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Software Engineer, Battlespace Awareness",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5240165007?gh_jid=5240165007",
+      "location": "Broomfield, Colorado, United States; Fort Collins, Colorado, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Software Engineer, C++",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5008367007?gh_jid=5008367007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Software Engineer, Connected Warfare",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4596297007?gh_jid=4596297007",
+      "location": "Washington, District of Columbia, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Software Engineer, Discovery",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5242907007?gh_jid=5242907007",
+      "location": "Boston, Massachusetts, United States; Costa Mesa, California, United States; Washington, District of Columbia, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Software Engineer, ERP Applications & Development",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5279793007?gh_jid=5279793007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Software Engineer, Generalist",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5009117007?gh_jid=5009117007",
+      "location": "Irvine, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Software Engineer, Ghost",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4932891007?gh_jid=4932891007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Software Engineer, GNC",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5248676007?gh_jid=5248676007",
+      "location": "Waltham, Massachusetts, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Software Engineer, GNC Modeling",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5208637007?gh_jid=5208637007",
+      "location": "Waltham, Massachusetts, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Software Engineer, Perception",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5165250007?gh_jid=5165250007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Software Engineer, Platform Overlay & Networking",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5216136007?gh_jid=5216136007",
+      "location": "Irvine, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Software Engineer, Robotics",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4959625007?gh_jid=4959625007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Software Engineer, Robotics Data Foundation (Cloud)",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5185965007?gh_jid=5185965007",
+      "location": "Seattle, Washington, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Software Engineer, Rust",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5281216007?gh_jid=5281216007",
+      "location": "Broomfield, Colorado, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Software Engineer, Satellite Command and Control",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5179761007?gh_jid=5179761007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Software Engineer, Sensor Fusion",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5240169007?gh_jid=5240169007",
+      "location": "Broomfield, Colorado, United States; Fort Collins, Colorado, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Software Engineer, Sentry Software (Allied Customer Deployment)",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5290223007?gh_jid=5290223007",
+      "location": "Irvine, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Software Engineer, Sentry Software (Ground Based Air Defense)",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5290228007?gh_jid=5290228007",
+      "location": "Irvine, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Software Engineer, Sentry Software (Manufacturing)",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5290232007?gh_jid=5290232007",
+      "location": "Irvine, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Software Engineer, Space Special Programs",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5169861007?gh_jid=5169861007",
+      "location": "Chantilly, Virginia, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Software Engineer, Strategic Defense",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5260733007?gh_jid=5260733007",
+      "location": "Costa Mesa, California, United States; Reston, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Software Engineer, Strategic Defense (Active Clearance)",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5244366007?gh_jid=5244366007",
+      "location": "Costa Mesa, California, United States; Reston, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Software Engineer, Target Tracking",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5226944007?gh_jid=5226944007",
+      "location": "Broomfield, Colorado, United States; Fort Collins, Colorado, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Software Engineer, Tracking",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5215629007?gh_jid=5215629007",
+      "location": "Broomfield, Colorado, United States; Fort Collins, Colorado, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Software Engineer, Vehicle Software, V&V",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4673813007?gh_jid=4673813007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Software Engineer- Infrastructure",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5274647007?gh_jid=5274647007",
+      "location": "Waltham, Massachusetts, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Systems Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4843948007?gh_jid=4843948007",
+      "location": "Irvine, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Systems Engineer - Missile Defense",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5272035007?gh_jid=5272035007",
+      "location": "Colorado Springs, Colorado, United States; Huntsville, Alabama, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Systems Engineer, Advanced Effects, Active Clearance",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4657118007?gh_jid=4657118007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Systems Engineer, Air Defense",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4843950007?gh_jid=4843950007",
+      "location": "Irvine, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Systems Engineer, Air Vehicle Systems",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5173154007?gh_jid=5173154007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Systems Engineer, C2 Integration, Active Clearance",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5233972007?gh_jid=5233972007",
+      "location": "Ashville, Ohio, United States; Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Systems Engineer, C2 Networking, Edge Compute and Communications, Active Clearance",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5233962007?gh_jid=5233962007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Systems Engineer, Decision Advantage",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5278854007?gh_jid=5278854007",
+      "location": "Broomfield, Colorado, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Systems Engineer, Electro Optical, Space",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5042157007?gh_jid=5042157007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Systems Engineer, Enterprise Mesh (Active Clearance)",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5232483007?gh_jid=5232483007",
+      "location": "Washington, District of Columbia, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Systems Engineer, EW",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5304457007?gh_jid=5304457007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Systems Engineer, Ground Maneuver Programs",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5289311007?gh_jid=5289311007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Systems Engineer, Intelligence Systems",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5232496007?gh_jid=5232496007",
+      "location": "Reston, Virginia, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Systems Engineer, Launched Effects",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5214985007?gh_jid=5214985007",
+      "location": "Atlanta, Georgia, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Systems Engineer, Maritime",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5242250007?gh_jid=5242250007",
+      "location": "Santa Ana, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Systems Engineer, Mission Autonomy, Active Clearance",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4653705007?gh_jid=4653705007",
+      "location": "Costa Mesa, California, United States; Washington, District of Columbia, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Systems Engineer, Space",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4922336007?gh_jid=4922336007",
+      "location": "Costa Mesa, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Systems Engineer, Space Imaging",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5248689007?gh_jid=5248689007",
+      "location": "Boulder, Colorado, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Tracking Software Engineer, Space",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5111994007?gh_jid=5111994007",
+      "location": "Foothill Ranch, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Training Systems Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5279960007?gh_jid=5279960007",
+      "location": "Santa Ana, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Vehicle Battery Systems Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5267767007?gh_jid=5267767007",
+      "location": "Santa Ana, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Winter 2027 Software Engineer Co-op",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236563007?gh_jid=5236563007",
+      "location": "Quincy, Massachusetts, United States",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Winter 2027 Systems Engineer Co-op",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236599007?gh_jid=5236599007",
+      "location": "Quincy, Massachusetts, United States",
+      "level": "entry",
       "last_seen": "2026-11-21"
     },
     {
@@ -1167,6 +2551,110 @@
       "last_seen": "2026-11-21"
     },
     {
+      "company": "Betterment",
+      "title": "Mobile Engineer",
+      "url": "https://www.betterment.com/careers/current-openings/job?gh_jid=8356891&gh_jid=8356891",
+      "location": "Betterment HQ - New York City",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Block",
+      "title": "Software Engineer, Data Platform",
+      "url": "http://block.xyz/careers/jobs/5381381008?gh_jid=5381381008",
+      "location": "Bay Area, CA, United States of America",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Block",
+      "title": "Software Engineer, Finance Applications",
+      "url": "http://block.xyz/careers/jobs/4901418008?gh_jid=4901418008",
+      "location": "Bay Area, CA, United States of America",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Block",
+      "title": "Software Engineer, Financial Platform - Issuing",
+      "url": "http://block.xyz/careers/jobs/5369947008?gh_jid=5369947008",
+      "location": "Melbourne, Australia",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Block",
+      "title": "Software Engineer, Payment Interfaces",
+      "url": "http://block.xyz/careers/jobs/5426213008?gh_jid=5426213008",
+      "location": "Bay Area, CA, United States of America",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Block",
+      "title": "Software Engineer, Privacy Engineering",
+      "url": "http://block.xyz/careers/jobs/5418586008?gh_jid=5418586008",
+      "location": "Bay Area, CA, United States of America",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Block",
+      "title": "Software Engineer, Program Engineering",
+      "url": "http://block.xyz/careers/jobs/5427880008?gh_jid=5427880008",
+      "location": "Bay Area, CA, United States of America",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Block",
+      "title": "Software Engineer, Reconciliation & Reporting",
+      "url": "http://block.xyz/careers/jobs/5369941008?gh_jid=5369941008",
+      "location": "Bay Area, CA, United States of America",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Braze",
+      "title": "Platform Infrastructure Engineer II",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8399184",
+      "location": "New York City",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Braze",
+      "title": "Software Engineer II",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8220764",
+      "location": "Toronto",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Braze",
+      "title": "Software Engineer II, Data Lakehouse",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8222294",
+      "location": "Toronto",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Braze",
+      "title": "Software Engineer II, User Targeting",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8262294",
+      "location": "New York City",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Braze",
+      "title": "Systems Engineer II",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8273690",
+      "location": "London",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
       "company": "Brex",
       "title": "Software Engineer II, Backend",
       "url": "https://www.brex.com/careers/8815438002?gh_jid=8815438002",
@@ -1223,7 +2711,23 @@
       "last_seen": "2026-11-21"
     },
     {
-      "company": "Chime",
+      "company": "Celonis",
+      "title": "Software Engineer",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/8190822003?gh_jid=8190822003",
+      "location": "Cambridge, US, Massachusetts ",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Celonis",
+      "title": "Software Engineer - Infrastructure",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/8190831003?gh_jid=8190831003",
+      "location": "Cambridge, US, Massachusetts ",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Chime Financial, Inc",
       "title": "Software Engineer, Financial Platform",
       "url": "https://boards.greenhouse.io/chime/jobs/8594959002?gh_jid=8594959002",
       "location": "New York, NY, USA; San Francisco, CA, USA",
@@ -1231,7 +2735,7 @@
       "last_seen": "2026-11-21"
     },
     {
-      "company": "Chime",
+      "company": "Chime Financial, Inc",
       "title": "Software Engineer, Growth",
       "url": "https://boards.greenhouse.io/chime/jobs/8782503002?gh_jid=8782503002",
       "location": "San Francisco, CA, USA",
@@ -1239,7 +2743,7 @@
       "last_seen": "2026-11-21"
     },
     {
-      "company": "Chime",
+      "company": "Chime Financial, Inc",
       "title": "Software Engineer, Infrastructure",
       "url": "https://boards.greenhouse.io/chime/jobs/8616359002?gh_jid=8616359002",
       "location": "Chicago, IL, USA; New York, NY, USA; San Francisco, CA, USA",
@@ -1247,7 +2751,7 @@
       "last_seen": "2026-11-21"
     },
     {
-      "company": "Chime",
+      "company": "Chime Financial, Inc",
       "title": "Software Engineer, Infrastructure Platform",
       "url": "https://boards.greenhouse.io/chime/jobs/8859182002?gh_jid=8859182002",
       "location": "Chicago, IL, USA; New York, NY, USA; San Francisco, CA, USA",
@@ -1255,7 +2759,7 @@
       "last_seen": "2026-11-21"
     },
     {
-      "company": "Chime",
+      "company": "Chime Financial, Inc",
       "title": "Software Engineer, Lending",
       "url": "https://boards.greenhouse.io/chime/jobs/8657011002?gh_jid=8657011002",
       "location": "San Francisco, CA, USA",
@@ -1263,7 +2767,7 @@
       "last_seen": "2026-11-21"
     },
     {
-      "company": "Chime",
+      "company": "Chime Financial, Inc",
       "title": "Software Engineer, Membership Experience",
       "url": "https://boards.greenhouse.io/chime/jobs/8614188002?gh_jid=8614188002",
       "location": "San Francisco, CA, USA",
@@ -1271,10 +2775,18 @@
       "last_seen": "2026-11-21"
     },
     {
-      "company": "Chime",
+      "company": "Chime Financial, Inc",
       "title": "Software Engineer, Trust & Safety",
       "url": "https://boards.greenhouse.io/chime/jobs/8875663002?gh_jid=8875663002",
       "location": "Chicago, IL, USA; San Francisco, CA, USA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "CircleCI",
+      "title": "Software Engineer",
+      "url": "http://www.circleci.com/careers/jobs/8420901002/?gh_jid=8420901002",
+      "location": "Canada (Remote), United States (Remote)",
       "level": "open",
       "last_seen": "2026-11-21"
     },
@@ -1679,6 +3191,30 @@
       "last_seen": "2026-11-21"
     },
     {
+      "company": "Contentful",
+      "title": "Demo Software Engineer (f/m/d)",
+      "url": "https://job-boards.greenhouse.io/contentful/jobs/8356206",
+      "location": "London, England, United Kingdom",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Cresta",
+      "title": "Infrastructure Engineer/SRE",
+      "url": "https://job-boards.greenhouse.io/cresta/jobs/4929391008",
+      "location": "Canada (Remote)",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Cresta",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/cresta/jobs/4123841008",
+      "location": "Toronto Canada",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
       "company": "Databricks",
       "title": "Software Engineer - Backend",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7737233002",
@@ -1743,6 +3279,310 @@
       "last_seen": "2026-11-21"
     },
     {
+      "company": "Deliveroo",
+      "title": "Enterprise Systems Engineer",
+      "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8355927",
+      "location": "London, United Kingdom",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Deliveroo",
+      "title": "Golang Backend Engineer, Financial Product Fraud",
+      "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8206659",
+      "location": "London, England",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Deliveroo",
+      "title": "Software Engineer",
+      "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8206351",
+      "location": "London, United Kingdom - Deliveroo",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Deliveroo",
+      "title": "Software Engineer II (Backend) - Home Page & Merchandising Platform",
+      "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8266845",
+      "location": "London, United Kingdom - Deliveroo",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Deliveroo",
+      "title": "Software Engineer II (Backend) - Subscriptions",
+      "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8266851",
+      "location": "London, United Kingdom - Deliveroo",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Deliveroo",
+      "title": "Software Engineer II (Full-Stack) - Consumer Order Experience",
+      "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8402841",
+      "location": "London, United Kingdom - Deliveroo",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Deliveroo",
+      "title": "Software Engineer II (Full-Stack) - Growth",
+      "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8286801",
+      "location": "London, United Kingdom - Deliveroo",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Deliveroo",
+      "title": "Software Engineer II - Android",
+      "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8202481",
+      "location": "London, United Kingdom - Deliveroo",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Deliveroo",
+      "title": "Software Engineer II - Code Context",
+      "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8312275",
+      "location": "London, England",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Deliveroo",
+      "title": "Software Engineer II - New Verticals",
+      "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8243100",
+      "location": "London, United Kingdom - Deliveroo",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Deliveroo",
+      "title": "Software Engineer, Backend (BI Platform)",
+      "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8206463",
+      "location": "London, United Kingdom - Deliveroo",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Deliveroo",
+      "title": "Software Engineer, New Grad",
+      "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8202627",
+      "location": "London, United Kingdom - Deliveroo",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Deliveroo",
+      "title": "Software Engineer, Operational Excellence",
+      "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8271399",
+      "location": "London, United Kingdom - Deliveroo",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Deliveroo",
+      "title": "Software Platform Engineer, EU Traffic",
+      "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8334486",
+      "location": "London, United Kingdom - Deliveroo",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Descript",
+      "title": "Software Engineer, Infrastructure",
+      "url": "https://boards.greenhouse.io/descript/jobs/7987057003?gh_jid=7987057003",
+      "location": "San Francisco, CA or Remote, US",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Descript",
+      "title": "Software Engineer, Product",
+      "url": "https://boards.greenhouse.io/descript/jobs/7986059003?gh_jid=7986059003",
+      "location": "San Francisco, CA or Remote, US",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "DoorDash USA",
+      "title": "Autonomy Platform Engineer",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8225722",
+      "location": "San Francisco, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "DoorDash USA",
+      "title": "Embedded Software Engineer (Firmware) - DoorDash Air",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8122134",
+      "location": "San Francisco, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "DoorDash USA",
+      "title": "Robotics Software Engineer - Labs, DoorDash Air",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/6682078",
+      "location": "San Francisco, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "DoorDash USA",
+      "title": "Software Engineer - Developer Experience, Android",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8197854",
+      "location": "San Francisco, CA; Sunnyvale, CA; Los Angeles, CA; Seattle, WA; New York, NY",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "DoorDash USA",
+      "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8163709",
+      "location": "Los Angeles, CA; New York, NY; San Francisco, CA; Sunnyvale, CA; Seattle, WA",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "DoorDash USA",
+      "title": "Software Engineer, Backend (All Teams)",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8138486",
+      "location": "San Francisco, CA; New York City, NY;  Sunnyvale, CA; Seattle, WA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "DoorDash USA",
+      "title": "Software Engineer, Backend - DoorDash Air",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/6599474",
+      "location": "San Francisco, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "DoorDash USA",
+      "title": "Software Engineer, Cloud Infrastructure",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8180903",
+      "location": "New York, NY",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "DoorDash USA",
+      "title": "Software Engineer, Code Quality",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8202736",
+      "location": "San Francisco, CA; Seattle, WA; New York, NY; Los Angeles, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "DoorDash USA",
+      "title": "Software Engineer, Data Engineering",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8192116",
+      "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "DoorDash USA",
+      "title": "Software Engineer, Data Platform",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8191886",
+      "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA; New York City, NY",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "DoorDash USA",
+      "title": "Software Engineer, Full Stack - Developer Insights",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8207877",
+      "location": "San Francisco, CA; New York, NY; Los Angeles, CA; Seattle, WA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "DoorDash USA",
+      "title": "Software Engineer, Intern (Summer 2027) - US",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8171041",
+      "location": "New York, NY; San Francisco, CA; Sunnyvale, CA; Los Angeles, CA; Seattle, WA",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "DoorDash USA",
+      "title": "Software Engineer, Intern - Labs (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8263774",
+      "location": " San Francisco, CA; Sunnyvale, CA",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "DoorDash USA",
+      "title": "Software Engineer, iOS",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8141072",
+      "location": "Sunnyvale, CA; San Francisco, CA; Seattle, WA; New York, NY",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "DoorDash USA",
+      "title": "Software Engineer, Planning & Controls - Autonomy & Robotics, DoorDash Air",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8046982",
+      "location": "San Francisco, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "DoorDash USA",
+      "title": "Software Engineer, Reliability Platform",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8304878",
+      "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA; New York City, NY",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "DoorDash USA",
+      "title": "Software Engineer, Robotics Infrastructure - Autonomy & Robotics, DoorDash Air",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8046909",
+      "location": "San Francisco, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "DoorDash USA",
+      "title": "Software Engineer, Spark Platform",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8192190",
+      "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA; New York City, NY",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "DoorDash USA",
+      "title": "Software Engineer, Storage",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8024644",
+      "location": "San Francisco, CA; Seattle, WA; New York, NY",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "DoorDash USA",
+      "title": "Software Engineer, Storage - Distributed Caching",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8191134",
+      "location": "San Francisco, CA; Seattle, WA; New York, NY",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "DoorDash USA",
+      "title": "Software Engineer, Visualization Tools | DoorDash Labs",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8212984",
+      "location": "San Francisco, CA; Seattle, WA; New York, NY",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
       "company": "Dropbox",
       "title": "Backend Product Software Engineer",
       "url": "https://jobs.dropbox.com/listing/7172701?gh_jid=7172701",
@@ -1795,6 +3635,150 @@
       "title": "Software Engineer II - Control Plane (Hosted Foundations / Applications)",
       "url": "https://jobs.elastic.co/jobs?gh_jid=8274383&gh_jid=8274383",
       "location": "United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Epic Games",
+      "title": "Web Engineer Intern",
+      "url": "https://epicgames.com/careers/jobs/6163851004?gh_jid=6163851004",
+      "location": "London,England,United Kingdom",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Everpure",
+      "title": "Associate Systems Engineer",
+      "url": "https://job-boards.greenhouse.io/purestorage/jobs/8393948",
+      "location": "Chicago, Illinois; Lehi, Utah; Raleigh, North Carolina",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Everpure",
+      "title": "Associate Systems Engineer, Excellence Center, (Prague)",
+      "url": "https://job-boards.greenhouse.io/purestorage/jobs/8383151",
+      "location": "Prague, Czech Republic",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Everpure",
+      "title": "Backend Engineer, Secrets Management (C++/Java)",
+      "url": "https://job-boards.greenhouse.io/purestorage/jobs/8402288",
+      "location": "Prague, Czech Republic",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Everpure",
+      "title": "Consulting Systems Engineer Data Intelligence",
+      "url": "https://job-boards.greenhouse.io/purestorage/jobs/8317428",
+      "location": "Melbourne, Australia; Perth, Australia; Sydney, Australia",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Everpure",
+      "title": "Java Software Engineer",
+      "url": "https://job-boards.greenhouse.io/purestorage/jobs/8378714",
+      "location": "Prague, Czech Republic",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Everpure",
+      "title": "Linux Kernel Software Engineer - Systems Engineering",
+      "url": "https://job-boards.greenhouse.io/purestorage/jobs/6676814",
+      "location": "Santa Clara, California",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Everpure",
+      "title": "Product Engineer, NPI",
+      "url": "https://job-boards.greenhouse.io/purestorage/jobs/8241414",
+      "location": "Santa Clara, California",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Everpure",
+      "title": "Python Software Engineer - Infrastructure & Platform",
+      "url": "https://job-boards.greenhouse.io/purestorage/jobs/8383657",
+      "location": "Prague, Czech Republic",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Everpure",
+      "title": "Quality Systems Engineer - FlashBlade and FlashArray",
+      "url": "https://job-boards.greenhouse.io/purestorage/jobs/8210922",
+      "location": "Santa Clara, California",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Everpure",
+      "title": "Software Engineer",
+      "url": "https://job-boards.greenhouse.io/purestorage/jobs/8350702",
+      "location": "Santa Clara, California",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Everpure",
+      "title": "Software Engineer - Forensics",
+      "url": "https://job-boards.greenhouse.io/purestorage/jobs/8018603",
+      "location": "Santa Clara, California",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Everpure",
+      "title": "Software Engineer Grad 2027",
+      "url": "https://job-boards.greenhouse.io/purestorage/jobs/8249851",
+      "location": "Santa Clara, California",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Everpure",
+      "title": "Software Engineer Intern (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/purestorage/jobs/8249749",
+      "location": "Santa Clara, California",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Everpure",
+      "title": "Software Engineer, FlashBlade",
+      "url": "https://job-boards.greenhouse.io/purestorage/jobs/8383627",
+      "location": "Prague, Czech Republic",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Everpure",
+      "title": "Software Engineer, Janus team, DDX",
+      "url": "https://job-boards.greenhouse.io/purestorage/jobs/8385794",
+      "location": "Prague, Czech Republic",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Everpure",
+      "title": "System Software Engineer (Golang/Java)",
+      "url": "https://job-boards.greenhouse.io/purestorage/jobs/8402414",
+      "location": "Prague, Czech Republic",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Everpure",
+      "title": "Systems Engineer",
+      "url": "https://job-boards.greenhouse.io/purestorage/jobs/8172524",
+      "location": "Remote, Malaysia",
       "level": "open",
       "last_seen": "2026-11-21"
     },
@@ -1895,6 +3879,38 @@
       "last_seen": "2026-11-21"
     },
     {
+      "company": "Fin",
+      "title": "IT Systems Engineer",
+      "url": "https://job-boards.greenhouse.io/intercom/jobs/7918638",
+      "location": "San Francisco, California",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Fin",
+      "title": "Product Engineer",
+      "url": "https://job-boards.greenhouse.io/intercom/jobs/7371989",
+      "location": "Berlin, Germany",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Fivetran",
+      "title": "Software Engineer",
+      "url": "https://www.fivetran.com/careers/job?gh_jid=7778979003",
+      "location": "Oakland, California, United States, AMER",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Fivetran",
+      "title": "Systems Engineer II - R&D Business Systems",
+      "url": "https://www.fivetran.com/careers/job?gh_jid=8201478003",
+      "location": "Bengaluru, Karnataka, India, APAC",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
       "company": "Flexport",
       "title": "Software Engineer I",
       "url": "https://job-boards.greenhouse.io/flexport/jobs/7978127",
@@ -1931,6 +3947,14 @@
       "title": "Software Engineer Ⅰ",
       "url": "https://job-boards.greenhouse.io/flexport/jobs/7978696",
       "location": "Shenzhen, China",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Ginkgo Bioworks Inc.",
+      "title": "Software Engineer 2, Autonomous Lab",
+      "url": "https://job-boards.greenhouse.io/ginkgobioworks/jobs/5166911007",
+      "location": "Boston, Massachusetts",
       "level": "open",
       "last_seen": "2026-11-21"
     },
@@ -2031,10 +4055,98 @@
       "last_seen": "2026-11-21"
     },
     {
-      "company": "Gusto",
+      "company": "Greenhouse",
+      "title": "Software Engineer",
+      "url": "https://job-boards.greenhouse.io/greenhouse/jobs/8214721?gh_jid=8214721",
+      "location": "Ontario",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Gusto, Inc.",
       "title": "Software Engineer,  Financial Data & Payments",
       "url": "https://job-boards.greenhouse.io/gusto/jobs/8360497",
       "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Seattle, WA - Remote",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "HelloFresh",
+      "title": "Backend Engineer, Consumer",
+      "url": "https://careers.hellofresh.com/global/en/job/7408822?gh_jid=7408822",
+      "location": "Toronto, Ontario, Canada",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Justworks",
+      "title": "Software Engineer, Backend",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8179714?gh_jid=8179714",
+      "location": "New York, New York",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Klaviyo",
+      "title": "Software Engineer II (Mobile Developer - Android/Kotlin) - Remote",
+      "url": "https://www.klaviyo.com/careers/jobs/7792539003?gh_jid=7792539003",
+      "location": "Boston, MA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Klaviyo",
+      "title": "Software Engineer II - Flows Experience",
+      "url": "https://www.klaviyo.com/careers/jobs/8199437003?gh_jid=8199437003",
+      "location": "Boston, MA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Klaviyo",
+      "title": "Software Engineer II - SMS International",
+      "url": "https://www.klaviyo.com/careers/jobs/8006729003?gh_jid=8006729003",
+      "location": "London, UK",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Klaviyo",
+      "title": "Software Engineer, Conversational Products & Agent Workflows",
+      "url": "https://www.klaviyo.com/careers/jobs/8041054003?gh_jid=8041054003",
+      "location": "Boston, MA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Lucid Motors",
+      "title": "Cabin Thermal Systems Engineer, Vehicle Efficiency Engineering",
+      "url": "https://lucidmotors.com/careers/search/5213971007?gh_jid=5213971007",
+      "location": "Newark, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Lucid Motors",
+      "title": "Intern, Software Engineer, SDET, Summer 2027",
+      "url": "https://lucidmotors.com/careers/search/5290911007?gh_jid=5290911007",
+      "location": "Newark, CA",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Lucid Motors",
+      "title": "Perception Software Engineer, Autonomous Driving",
+      "url": "https://lucidmotors.com/careers/search/5242880007?gh_jid=5242880007",
+      "location": "Newark, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Lucid Motors",
+      "title": "Software Engineer, Data Infrastructure",
+      "url": "https://lucidmotors.com/careers/search/5199841007?gh_jid=5199841007",
+      "location": "Southfield, MI",
       "level": "open",
       "last_seen": "2026-11-21"
     },
@@ -2127,6 +4239,38 @@
       "last_seen": "2026-11-21"
     },
     {
+      "company": "Mercury",
+      "title": "Software Engineer - Infrastructure",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6150432004",
+      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Mercury",
+      "title": "Software Engineer - Product",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6101145004",
+      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Mixpanel",
+      "title": "Marketing Systems Engineer",
+      "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8194551",
+      "location": "San Francisco, US (Hybrid)",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Mixpanel",
+      "title": "Software Engineer, Growth",
+      "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8157627",
+      "location": "San Francisco, US (Hybrid)",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
       "company": "MongoDB",
       "title": "2027 - Software Engineer Intern, Dublin - 6 Month Internship",
       "url": "https://www.mongodb.com/careers/job/?gh_jid=8258279",
@@ -2155,6 +4299,254 @@
       "title": "Software Engineer 2",
       "url": "https://www.mongodb.com/careers/job/?gh_jid=7613695",
       "location": "Dublin",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Monzo",
+      "title": "Android Engineer",
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7343996",
+      "location": "Barcelona",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Motive",
+      "title": "Security Software Engineer",
+      "url": "https://job-boards.greenhouse.io/gomotive/jobs/8831546002",
+      "location": "Canada - Hybrid",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Motive",
+      "title": "Software Engineer - Android",
+      "url": "https://job-boards.greenhouse.io/gomotive/jobs/8109192002",
+      "location": "Hybrid - Bangalore",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Motive",
+      "title": "Software Engineer, Platform IOT",
+      "url": "https://job-boards.greenhouse.io/gomotive/jobs/8950900002",
+      "location": "Hybrid - San Francisco, California",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Natera",
+      "title": "Salesforce Software Engineer",
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6209754004",
+      "location": "Austin, TX",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Neo4j",
+      "title": "Full-Stack Software Engineer - Aura, Instances",
+      "url": "https://boards.greenhouse.io/neo4j/jobs/4711176006?gh_jid=4711176006",
+      "location": "Malmö",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Neo4j",
+      "title": "Software Engineer - Aura DevRel",
+      "url": "https://boards.greenhouse.io/neo4j/jobs/4711507006?gh_jid=4711507006",
+      "location": "London",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Neo4j",
+      "title": "Software Engineer - Cloud Platform (Networks)",
+      "url": "https://boards.greenhouse.io/neo4j/jobs/4692127006?gh_jid=4692127006",
+      "location": "London",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Neo4j",
+      "title": "Software Engineer - Connectors",
+      "url": "https://boards.greenhouse.io/neo4j/jobs/4711499006?gh_jid=4711499006",
+      "location": "Malmö",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Neo4j",
+      "title": "Software Engineer - Core Networking",
+      "url": "https://boards.greenhouse.io/neo4j/jobs/4699949006?gh_jid=4699949006",
+      "location": "London",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Neo4j",
+      "title": "Software Engineer - Cypher Planner",
+      "url": "https://boards.greenhouse.io/neo4j/jobs/4722190006?gh_jid=4722190006",
+      "location": "Malmö",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Neo4j",
+      "title": "Software Engineer - Developer Experience",
+      "url": "https://boards.greenhouse.io/neo4j/jobs/4711510006?gh_jid=4711510006",
+      "location": "Malmö",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Neo4j",
+      "title": "Software Engineer - Go/Kubernetes, Sharding team",
+      "url": "https://boards.greenhouse.io/neo4j/jobs/4715846006?gh_jid=4715846006",
+      "location": "London; Malmö",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Neo4j",
+      "title": "Software Engineer - Graph Analytics",
+      "url": "https://boards.greenhouse.io/neo4j/jobs/4721378006?gh_jid=4721378006",
+      "location": "London",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Neo4j",
+      "title": "Software Engineer - IAM, Aura",
+      "url": "https://boards.greenhouse.io/neo4j/jobs/4687944006?gh_jid=4687944006",
+      "location": "London",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Neo4j",
+      "title": "Software Engineer - Kubernetes & Go",
+      "url": "https://boards.greenhouse.io/neo4j/jobs/4688680006?gh_jid=4688680006",
+      "location": "London",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Neo4j",
+      "title": "Software Engineer - Platform Security",
+      "url": "https://boards.greenhouse.io/neo4j/jobs/4687941006?gh_jid=4687941006",
+      "location": "London",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Neo4j",
+      "title": "Software Engineer – Database Kernel",
+      "url": "https://boards.greenhouse.io/neo4j/jobs/4727060006?gh_jid=4727060006",
+      "location": "London",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "New Relic",
+      "title": "Associate IT infrastructure Engineer",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5481206008",
+      "location": "Dublin, Ireland",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "New Relic",
+      "title": "Associate Software Engineer - Java (Distributed Systems and Databases)",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5390637008",
+      "location": "Portland, Oregon, USA",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "New Relic",
+      "title": "Software Engineer II - Query Gateway",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5438172008",
+      "location": "Arlington, Virginia, USA; Austin, Texas, USA; Charlotte, North Carolina, USA; Chicago, Illinois, USA; Dallas, Texas, USA; Portland, Oregon, USA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Nuro",
+      "title": "Embedded Software Engineer",
+      "url": "https://nuro.ai/careersitem?gh_jid=8180955",
+      "location": "Mountain View, California (HQ)",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Nuro",
+      "title": "Software Engineer, Autonomy Visualization",
+      "url": "https://nuro.ai/careersitem?gh_jid=7896063",
+      "location": "Mountain View, California (HQ)",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Nuro",
+      "title": "Software Engineer, Cloud Infrastructure and Observability",
+      "url": "https://nuro.ai/careersitem?gh_jid=8221208",
+      "location": "Mountain View, California (HQ)",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Nuro",
+      "title": "Software Engineer, Offboard Infrastructure",
+      "url": "https://nuro.ai/careersitem?gh_jid=7638789",
+      "location": "Mountain View, California (HQ)",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Nuro",
+      "title": "Software Engineer, Onboard Platform",
+      "url": "https://nuro.ai/careersitem?gh_jid=7998328",
+      "location": "Mountain View, California (HQ)",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Nuro",
+      "title": "Software Engineer, Performance",
+      "url": "https://nuro.ai/careersitem?gh_jid=6810051",
+      "location": "Mountain View, California (HQ)",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Nuro",
+      "title": "Software Engineer, Performance Tooling and Infrastructure",
+      "url": "https://nuro.ai/careersitem?gh_jid=7786521",
+      "location": "Mountain View, California (HQ)",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Nuro",
+      "title": "Software Engineer, Sensor Platform",
+      "url": "https://nuro.ai/careersitem?gh_jid=8163179",
+      "location": "Mountain View, California (HQ)",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Nuro",
+      "title": "Software Engineer, Software Updates",
+      "url": "https://nuro.ai/careersitem?gh_jid=8230855",
+      "location": "Mountain View, California (HQ)",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Nuro",
+      "title": "Software Engineer, Video Streaming",
+      "url": "https://nuro.ai/careersitem?gh_jid=8164473",
+      "location": "Mountain View, California (HQ)",
       "level": "open",
       "last_seen": "2026-11-21"
     },
@@ -2432,6 +4824,14 @@
     },
     {
       "company": "Pinterest",
+      "title": "Software Engineer II, Data Analytics & Engineering",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8213988",
+      "location": "San Francisco, CA, US; Remote, US",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Pinterest",
       "title": "Software Engineer II, EPD Ads",
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8227344",
       "location": "San Francisco, CA; Palo Alto, CA; Seattle, WA; New York, NY; Remote, US",
@@ -2468,6 +4868,22 @@
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838591",
       "location": "San Francisco, CA, US; Remote, US",
       "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "PlanetScale",
+      "title": "Software Engineer - Internal Tools",
+      "url": "https://job-boards.greenhouse.io/planetscale/jobs/4389100009",
+      "location": "San Francisco Office",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "PlanetScale",
+      "title": "Software Engineer - PlanetScale Postgres",
+      "url": "https://job-boards.greenhouse.io/planetscale/jobs/4251150009",
+      "location": "Remote",
+      "level": "open",
       "last_seen": "2026-11-21"
     },
     {
@@ -2515,6 +4931,94 @@
       "title": "Software Engineer, Infrastructure Engineering",
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8337444",
       "location": "Remote - United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Relativity Space",
+      "title": "Flight Software Engineer II",
+      "url": "https://boards.greenhouse.io/relativity/jobs/8945929002?gh_jid=8945929002",
+      "location": "Long Beach, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Relativity Space",
+      "title": "Infrastructure Engineer II",
+      "url": "https://boards.greenhouse.io/relativity/jobs/8608644002?gh_jid=8608644002",
+      "location": "Cape Canaveral, Florida",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Relativity Space",
+      "title": "Software Engineer I (Factory Platform)",
+      "url": "https://boards.greenhouse.io/relativity/jobs/8949325002?gh_jid=8949325002",
+      "location": "Long Beach, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Relativity Space",
+      "title": "Software Engineer II (Factory Platform)",
+      "url": "https://boards.greenhouse.io/relativity/jobs/8834015002?gh_jid=8834015002",
+      "location": "Long Beach, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Relativity Space",
+      "title": "Software Engineer II, Front-End Platforms",
+      "url": "https://boards.greenhouse.io/relativity/jobs/8929521002?gh_jid=8929521002",
+      "location": "Long Beach, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Relativity Space",
+      "title": "Vehicle Fluid Systems Engineer II",
+      "url": "https://boards.greenhouse.io/relativity/jobs/8734508002?gh_jid=8734508002",
+      "location": "Long Beach, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Riot Games",
+      "title": "Software Engineer - League of Legends",
+      "url": "https://www.riotgames.com/en/work-with-us/job/8348367?gh_jid=8348367",
+      "location": "Dublin, Ireland",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Riot Games",
+      "title": "Software Engineer, Gameplay - Unpublished R&D Product (Contract)",
+      "url": "https://www.riotgames.com/en/work-with-us/job/7271179?gh_jid=7271179",
+      "location": "Shanghai, China",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Riot Games",
+      "title": "Software Engineer, Services - Unpublished R&D Product (Contract)",
+      "url": "https://www.riotgames.com/en/work-with-us/job/7449588?gh_jid=7449588",
+      "location": "Guangzhou, China",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Riot Games",
+      "title": "Systems Engineer, Wild Rift",
+      "url": "https://www.riotgames.com/en/work-with-us/job/8240678?gh_jid=8240678",
+      "location": "Sydney, Australia",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Ripple",
+      "title": "Software Engineer II",
+      "url": "https://ripple.com/careers/all-jobs/job/8241603?gh_jid=8241603",
+      "location": "San Francisco, CA, United States",
       "level": "open",
       "last_seen": "2026-11-21"
     },
@@ -2759,6 +5263,110 @@
       "last_seen": "2026-11-21"
     },
     {
+      "company": "Rubrik Job Board",
+      "title": "Software Engineer",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8349847?gh_jid=8349847",
+      "location": "bangalore",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Rubrik Job Board",
+      "title": "Software Engineer (CPD) - Winter Intern",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537",
+      "location": "Bangalore",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Rubrik Job Board",
+      "title": "Software Engineer - Cloud Native Protection",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8327940?gh_jid=8327940",
+      "location": "Bangalore ",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Rubrik Job Board",
+      "title": "Software Engineer - Entra ID",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8267709?gh_jid=8267709",
+      "location": "Palo Alto, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Rubrik Job Board",
+      "title": "Software Engineer - IAM",
+      "url": "https://www.rubrik.com/company/careers/departments/job.7956918?gh_jid=7956918",
+      "location": "Pune",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Rubrik Job Board",
+      "title": "Software Engineer - Orchestrated Application Recovery",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8335812?gh_jid=8335812",
+      "location": "Palo Alto, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Rubrik Job Board",
+      "title": "Software Engineer - Product Platform Security",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8243737?gh_jid=8243737",
+      "location": "Palo Alto, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Rubrik Job Board",
+      "title": "Software Engineer - SaaS Data Protection",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8157246?gh_jid=8157246",
+      "location": "Palo Alto, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Rubrik Job Board",
+      "title": "Software Engineer - Virtual Platform",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8351288?gh_jid=8351288",
+      "location": "Palo Alto, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Rubrik Job Board",
+      "title": "Software Engineer - Winter Intern",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523",
+      "location": "Bangalore",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Rubrik Job Board",
+      "title": "Software Engineer Product Infra: Core Services",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8282005?gh_jid=8282005",
+      "location": "Bengaluru",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Rubrik Job Board",
+      "title": "Software Engineer, Atlas Distributed Systems",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8122613?gh_jid=8122613",
+      "location": "Palo Alto, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Salesloft",
+      "title": "Software Engineer II - Database Engineering (PostgreSQL)",
+      "url": "https://www.salesloft.com/company/careers?gh_jid=8067552",
+      "location": "Guadalajara, Mexico",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
       "company": "Samsara",
       "title": "Software Engineer - Data Platform",
       "url": "https://www.samsara.com/company/careers/roles/7922530?gh_jid=7922530",
@@ -2820,6 +5428,1310 @@
       "url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005",
       "location": "San Francisco, CA",
       "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Scopely",
+      "title": "Full Stack Engineer",
+      "url": "https://job-boards.greenhouse.io/scopely/jobs/5476480008?gh_jid=5476480008",
+      "location": "US - United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Scopely",
+      "title": "Software Engineer",
+      "url": "https://job-boards.greenhouse.io/scopely/jobs/5354144008?gh_jid=5354144008",
+      "location": "MX - Mexico City, Mexico",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Scopely",
+      "title": "Software Engineer (Ad Tech)",
+      "url": "https://job-boards.greenhouse.io/scopely/jobs/5342840008?gh_jid=5342840008",
+      "location": "ES - Barcelona, Spain",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Scopely",
+      "title": "Software Engineer (Backend) - WWE Champions",
+      "url": "https://job-boards.greenhouse.io/scopely/jobs/5347395008?gh_jid=5347395008",
+      "location": "IN - Bangalore, India",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Scopely",
+      "title": "Software Engineer - Pokemon GO Platform",
+      "url": "https://job-boards.greenhouse.io/scopely/jobs/5261506008?gh_jid=5261506008",
+      "location": "MX - Mexico City, Mexico",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Scopely",
+      "title": "Software Engineer, Data Infrastructure",
+      "url": "https://job-boards.greenhouse.io/scopely/jobs/5395475008?gh_jid=5395475008",
+      "location": "JP - Tokyo, Japan",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SingleStore",
+      "title": "Cloud Platform Engineer",
+      "url": "https://job-boards.greenhouse.io/singlestore/jobs/7573638",
+      "location": "India",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SingleStore",
+      "title": "Software Engineer",
+      "url": "https://job-boards.greenhouse.io/singlestore/jobs/8395551",
+      "location": "Lisbon",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SingleStore",
+      "title": "Software Engineer Intern- Engine-2027",
+      "url": "https://job-boards.greenhouse.io/singlestore/jobs/8154399",
+      "location": "United States",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SingleStore",
+      "title": "Software Engineer Intern- Helios- 2027",
+      "url": "https://job-boards.greenhouse.io/singlestore/jobs/8205514",
+      "location": "United States",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SingleStore",
+      "title": "Software Engineer-Engine-New Grad 2027",
+      "url": "https://job-boards.greenhouse.io/singlestore/jobs/8205427",
+      "location": "United States",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SingleStore",
+      "title": "Software Engineer-Helios-New Grad 2027",
+      "url": "https://job-boards.greenhouse.io/singlestore/jobs/8205389",
+      "location": "United States",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Smartsheet",
+      "title": "Software Engineer  (Remote Eligible in Bulgaria)",
+      "url": "https://job-boards.greenhouse.io/smartsheet/jobs/6366648",
+      "location": "-REMOTE, BULGARIA-",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Smartsheet",
+      "title": "Software Engineer - Full Stack",
+      "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8317352",
+      "location": "Bangalore, INDIA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Smartsheet",
+      "title": "Software Engineer I (Remote Eligible)",
+      "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8347710",
+      "location": " -REMOTE, USA-",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Smartsheet",
+      "title": "Software Engineer II - Full Stack (Remote Eligible)",
+      "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8097667",
+      "location": " -REMOTE, USA-",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Sonarsource",
+      "title": "Cloud Platform Engineer",
+      "url": "https://jobs.lever.co/sonarsource/2af7d7de-0c0d-4178-a538-8989e24f37c8",
+      "location": "Austin, Texas",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Sonarsource",
+      "title": "Full Stack Engineer",
+      "url": "https://jobs.lever.co/sonarsource/abcfa050-35f9-4545-87d2-cece138c588d",
+      "location": "Geneva",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Sonarsource",
+      "title": "FullStack Engineer",
+      "url": "https://jobs.lever.co/sonarsource/01f62bc5-820d-4dd6-bc53-32241c097bc8",
+      "location": "Singapore",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Sonarsource",
+      "title": "Software Engineer - Agentic Code Review (Gitar)",
+      "url": "https://jobs.lever.co/sonarsource/e503ad3d-13bc-4e9c-a141-228df320e010",
+      "location": "San Mateo, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Aerospace Software Engineer (Starfall)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8939698002?gh_jid=8939698002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Application Software Engineer",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8611118002?gh_jid=8611118002",
+      "location": "Starbase, TX",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Application Software Engineer - Memphis",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8611191002?gh_jid=8611191002",
+      "location": "Memphis, TN",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Application Software Engineer, Employee Experience",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8873383002?gh_jid=8873383002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Application Software Engineer, Flight Software",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8899128002?gh_jid=8899128002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Application Software Engineer, Internal Systems",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8785507002?gh_jid=8785507002",
+      "location": "Starbase, TX",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Application Software Engineer, Launch Software",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8915956002?gh_jid=8915956002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Application Software Engineer, Manufacturing Systems",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8861910002?gh_jid=8861910002",
+      "location": "Bastrop, TX",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Application Software Engineer, Spaceport Experience",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8632106002?gh_jid=8632106002",
+      "location": "Starbase, TX",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Avionics Systems Engineer (Falcon & Dragon)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8805284002?gh_jid=8805284002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Avionics Systems Engineer (Special Programs)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8929143002?gh_jid=8929143002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Avionics Systems Engineer (Special Programs) - Top Secret Clearance",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8929464002?gh_jid=8929464002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Avionics Systems Engineer (Starship)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8739392002?gh_jid=8739392002",
+      "location": "Starbase, TX",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Backend Software Engineer, GNC (Starlink)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8753321002?gh_jid=8753321002",
+      "location": "Redmond, WA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Embedded Software Engineer (Starlink)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8706480002?gh_jid=8706480002",
+      "location": "Bastrop, TX",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Embedded Software Engineer, Data Center Engineering (Starmind)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8871006002?gh_jid=8871006002",
+      "location": "Bastrop, TX",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Embedded Software Engineer, Laser Mesh Routing (Starlink)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8849599002?gh_jid=8849599002",
+      "location": "Redmond, WA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Embedded Software Engineer, OS/Platform  (Starlink)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8752935002?gh_jid=8752935002",
+      "location": "Redmond, WA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Embedded Software Engineer, Platform (Starshield)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8880385002?gh_jid=8880385002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Embedded Software Engineer, Satellite Antenna (Starlink)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8925605002?gh_jid=8925605002",
+      "location": "Redmond, WA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Factory Software Engineer (Starlink)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8574053002?gh_jid=8574053002",
+      "location": "Bastrop, TX",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Flight Software Infrastructure Engineer (Starlink)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8692260002?gh_jid=8692260002",
+      "location": "Redmond, WA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Fluid Systems Engineer, Production (Starship)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8906243002?gh_jid=8906243002",
+      "location": "Starbase, TX",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Fluid Systems Engineer, Solar Cell Factory (Starlink)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8672670002?gh_jid=8672670002",
+      "location": "Bastrop, TX",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Fluid Systems Engineer, Starlink Infrastructure",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8926072002?gh_jid=8926072002",
+      "location": "Bastrop, TX",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Full Stack Engineer (Application Software)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8675232002?gh_jid=8675232002",
+      "location": "Palo Alto, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Full Stack Engineer, Employee Experience",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8763492002?gh_jid=8763492002",
+      "location": "Palo Alto, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Full Stack Engineer, Flight Software",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8769729002?gh_jid=8769729002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Full Stack Software Engineer",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8784864002?gh_jid=8784864002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Full Stack Software Engineer (Application Software)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8639573002?gh_jid=8639573002",
+      "location": "Starbase, TX",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Full Stack Software Engineer (Build Reliability)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8955898002?gh_jid=8955898002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Full Stack Software Engineer (Components)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8839057002?gh_jid=8839057002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Full Stack Software Engineer (Starlink)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8943586002?gh_jid=8943586002",
+      "location": "Palo Alto, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Full Stack Software Engineer (Starshield)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8610872002?gh_jid=8610872002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Full Stack Software Engineer - Simulation & Flight Systems",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8731959002?gh_jid=8731959002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Full Stack Software Engineer, Application Software - Memphis",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8648213002?gh_jid=8648213002",
+      "location": "Memphis, TN",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Full Stack Software Engineer, Data (Starlink)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8656465002?gh_jid=8656465002",
+      "location": "Redmond, WA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Full Stack Software Engineer, Data Platform (Starlink)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8746439002?gh_jid=8746439002",
+      "location": "Redmond, WA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Full Stack Software Engineer, Developer Systems",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8763489002?gh_jid=8763489002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Full Stack Software Engineer, Flight Software",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8784863002?gh_jid=8784863002",
+      "location": "Cape Canaveral, FL",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Full Stack Software Engineer, Internal Platforms",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8934563002?gh_jid=8934563002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Full Stack Software Engineer, Internal Systems",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8741940002?gh_jid=8741940002",
+      "location": "Cape Canaveral, FL",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Full Stack Software Engineer, Internal Systems - Memphis",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8686286002?gh_jid=8686286002",
+      "location": "Memphis, TN",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Full Stack Software Engineer, Launch Software",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8849598002?gh_jid=8849598002",
+      "location": "Cape Canaveral, FL",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Full Stack Software Engineer, Manufacturing Systems",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8703540002?gh_jid=8703540002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Full Stack Software Engineer, Operations Software (Starlink)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8722645002?gh_jid=8722645002",
+      "location": "Redmond, WA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Full Stack Software Engineer, Platform",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8859566002?gh_jid=8859566002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Ground Systems Engineer, Asset Engineering",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8931372002?gh_jid=8931372002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "High Performance Computing Systems Engineer (HPC)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8942392002?gh_jid=8942392002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Infrastructure Engineer",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8604308002?gh_jid=8604308002",
+      "location": "Redmond, WA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Infrastructure Engineer (Enterprise Products)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8927289002?gh_jid=8927289002",
+      "location": "Redmond, WA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "IT Infrastructure Engineer, Virtualization & Storage",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8875925002?gh_jid=8875925002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "IT Linux Systems Engineer",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8930419002?gh_jid=8930419002",
+      "location": "Memphis, TN",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "IT Network Infrastructure Engineer, Launch",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8933928002?gh_jid=8933928002",
+      "location": "Starbase, TX",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "IT Network Infrastructure Engineer, Outside Plant",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8815068002?gh_jid=8815068002",
+      "location": "Starbase, TX",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "IT Systems Engineer, Propellant Generation & Industrial Systems",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8815160002?gh_jid=8815160002",
+      "location": "Starbase, TX",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "IT Systems Engineer, Requirements and Interfaces - Mission Systems",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8948601002?gh_jid=8948601002",
+      "location": "Cape Canaveral, FL",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "IT Windows Systems Engineer",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8927740002?gh_jid=8927740002",
+      "location": "Memphis, TN",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Kubernetes Platform Infrastructure Engineer (Starlink)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8573281002?gh_jid=8573281002",
+      "location": "Redmond, WA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "OS/Platform Software Engineer (Starlink)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8752620002?gh_jid=8752620002",
+      "location": "Redmond, WA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "OT Systems Engineer",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8940768002?gh_jid=8940768002",
+      "location": "Memphis, TN",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "OT Systems Engineer, Mission Systems",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8679947002?gh_jid=8679947002",
+      "location": "Cape Canaveral, FL",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Platform Engineer, Flight Software (Starlink)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8692268002?gh_jid=8692268002",
+      "location": "Redmond, WA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Power Systems Engineer",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8731134002?gh_jid=8731134002",
+      "location": "Bastrop, TX",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Power Systems Engineer (Starship Avionics)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8627222002?gh_jid=8627222002",
+      "location": "Starbase, TX",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Power Systems Engineer, Launch Pad (Starship)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8916039002?gh_jid=8916039002",
+      "location": "Starbase, TX",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Propulsion Software Engineer (Falcon Engineering)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8927858002?gh_jid=8927858002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "RF Silicon Software Engineer (RFIC Engineering)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8856971002?gh_jid=8856971002",
+      "location": "Redmond, WA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "RF Software Engineer (Starlink)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8624761002?gh_jid=8624761002",
+      "location": "Bastrop, TX",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "RF Software Engineer (Starshield)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8937195002?gh_jid=8937195002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Satellite On-Orbit Operations Software Engineer (Starlink)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8706537002?gh_jid=8706537002",
+      "location": "Redmond, WA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Satellite Systems Software Engineer (Starlink)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8751097002?gh_jid=8751097002",
+      "location": "Redmond, WA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Security Software Engineer (Starlink)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719854002?gh_jid=8719854002",
+      "location": "Redmond, WA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Security Software Engineer (Starshield)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8795658002?gh_jid=8795658002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Security Software Engineer - Top Secret Clearance",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8564158002?gh_jid=8564158002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Simulation Software Engineer (Vehicle Engineering)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8829312002?gh_jid=8829312002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8563110002?gh_jid=8563110002",
+      "location": "McGregor, TX",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer (Application Software)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8731256002?gh_jid=8731256002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer (Components)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8842775002?gh_jid=8842775002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer (Controls Software)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8822280002?gh_jid=8822280002",
+      "location": "Starbase, TX",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer (Platform Team)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8940459002?gh_jid=8940459002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer (Special Projects) - Top Secret Clearance",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8568970002?gh_jid=8568970002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer (Starfall)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8642274002?gh_jid=8642274002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer (Starlink Enterprise)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8927257002?gh_jid=8927257002",
+      "location": "Palo Alto, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer (Starlink Ground Network)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8841324002?gh_jid=8841324002",
+      "location": "Redmond, WA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer (Starlink Mobile)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8567634002?gh_jid=8567634002",
+      "location": "Palo Alto, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer (Starlink)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8569790002?gh_jid=8569790002",
+      "location": "Redmond, WA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer (Starlink/Akoustis)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8696779002?gh_jid=8696779002",
+      "location": "Canandaigua, NY ",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer (Starshield)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8605075002?gh_jid=8605075002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer (Starshield) - Top Secret Clearance",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8621649002?gh_jid=8621649002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer (Starship)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8937000002?gh_jid=8937000002",
+      "location": "Starbase, TX",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer (Thermal & Fluid Analysis)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8562437002?gh_jid=8562437002",
+      "location": "Starbase, TX",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer - Simulation & Flight Systems",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8735368002?gh_jid=8735368002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer, Alerts (Starlink)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8948735002?gh_jid=8948735002",
+      "location": "Redmond, WA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer, Application Software - Memphis",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8763491002?gh_jid=8763491002",
+      "location": "Memphis, TN",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer, Backend (C/C++)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8672397002?gh_jid=8672397002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer, Backend (Python/C++)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8845089002?gh_jid=8845089002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer, Beam Planning (Starlink)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8578907002?gh_jid=8578907002",
+      "location": "Palo Alto, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer, C++ (Dragon)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8601802002?gh_jid=8601802002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer, C++ (Raptor)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8598038002?gh_jid=8598038002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer, C++ (Simulations)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8829309002?gh_jid=8829309002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer, C++ Simulations (Starlink)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8682197002?gh_jid=8682197002",
+      "location": "Redmond, WA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer, CDN (Starlink)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8632172002?gh_jid=8632172002",
+      "location": "Redmond, WA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer, Collision Avoidance (Starshield)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8749208002?gh_jid=8749208002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer, Components (Starshield)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8625617002?gh_jid=8625617002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer, Data (Starlink)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8631217002?gh_jid=8631217002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer, Data - Top Secret Clearance (Starlink)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8640537002?gh_jid=8640537002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer, Design Engineering (Starlink)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8637713002?gh_jid=8637713002",
+      "location": "Redmond, WA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer, Design Software (Starship)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8949395002?gh_jid=8949395002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer, DevOps (Starlink)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8573204002?gh_jid=8573204002",
+      "location": "Redmond, WA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer, Embedded Software (Starlink)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8752598002?gh_jid=8752598002",
+      "location": "Redmond, WA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer, Flight Software (Starlink)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8752581002?gh_jid=8752581002",
+      "location": "Redmond, WA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer, Flight Software C++ (Starshield)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8593183002?gh_jid=8593183002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer, Full Stack (Data & Video Analysis)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8927919002?gh_jid=8927919002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer, High Performance Computing",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8621463002?gh_jid=8621463002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer, High Performance Computing (Starlink)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8578909002?gh_jid=8578909002",
+      "location": "Palo Alto, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer, HITL - Top Secret Clearance",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8749210002?gh_jid=8749210002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer, Internal Applications",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8812137002?gh_jid=8812137002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer, Linux Kernel (Starlink)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8852114002?gh_jid=8852114002",
+      "location": "Redmond, WA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer, Low Latency Computing (Starlink)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8578910002?gh_jid=8578910002",
+      "location": "Palo Alto, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer, Manufacturing",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8928919002?gh_jid=8928919002",
+      "location": "Bastrop, TX",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer, Manufacturing Infrastructure",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8848613002?gh_jid=8848613002",
+      "location": "Starbase, TX",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer, Mobile Apps (Starlink)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8637756002?gh_jid=8637756002",
+      "location": "Redmond, WA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer, Network Observability (Starlink)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8577262002?gh_jid=8577262002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer, Platform / Infrastructure (Starlink)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8632322002?gh_jid=8632322002",
+      "location": "Palo Alto, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer, Power Optimization (Starlink)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8647459002?gh_jid=8647459002",
+      "location": "Redmond, WA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer, Product Development (Starshield)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8621621002?gh_jid=8621621002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer, Propulsion Simulation & Data Analysis",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8581299002?gh_jid=8581299002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer, Satellite Systems (Starshield)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8621508002?gh_jid=8621508002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer, Simulation",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8695142002?gh_jid=8695142002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer, Simulations (Vehicle Engineering)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8829307002?gh_jid=8829307002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer, Starlink UX (Starlink)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8637755002?gh_jid=8637755002",
+      "location": "Redmond, WA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer, Supercomputer Network (Starlink)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8852113002?gh_jid=8852113002",
+      "location": "Redmond, WA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer, Telemetry (Starlink)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8631930002?gh_jid=8631930002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer, Telemetry - Top Secret Clearance (Starlink)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8656274002?gh_jid=8656274002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer, Tracking (Starshield)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8749199002?gh_jid=8749199002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer, Vehicle Operations (Starshield)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8609228002?gh_jid=8609228002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Engineer, Wireless Validation (Starlink Mobile)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8943817002?gh_jid=8943817002",
+      "location": "Palo Alto, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Infrastructure Engineer (Starlink)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8573279002?gh_jid=8573279002",
+      "location": "Redmond, WA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Software Infrastructure Engineer, Flight Software (Starlink)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8692270002?gh_jid=8692270002",
+      "location": "Redmond, WA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Space Operations Software Engineer",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8931476002?gh_jid=8931476002",
+      "location": "Hawthorne, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Voice Systems Engineer",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8919948002?gh_jid=8919948002",
+      "location": "Memphis, TN",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SpaceX",
+      "title": "Wi-Fi Software Engineer (Starlink)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8715500002?gh_jid=8715500002",
+      "location": "Bastrop, TX",
+      "level": "open",
       "last_seen": "2026-11-21"
     },
     {
@@ -3263,6 +7175,142 @@
       "last_seen": "2026-11-21"
     },
     {
+      "company": "Sumo Logic",
+      "title": "Software Engineer II",
+      "url": "https://job-boards.greenhouse.io/sumologic/jobs/8402011",
+      "location": "Noida , Uttar Pradesh , India",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SumUp",
+      "title": "Android Engineer",
+      "url": "https://sumup.com/careers/positions/8348937002?gh_jid=8348937002",
+      "location": "São Paulo, São Paulo, Brazil",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SumUp",
+      "title": "Backend Engineer (Global Bank Tribe)",
+      "url": "https://sumup.com/careers/positions/8928909002?gh_jid=8928909002",
+      "location": "Florianópolis, Santa Catarina, Brazil; São Paulo, Brazil",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SumUp",
+      "title": "Backend Engineer (Golang) - Bank Balance",
+      "url": "https://sumup.com/careers/positions/8785611002?gh_jid=8785611002",
+      "location": "Vilnius, Lithuania",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SumUp",
+      "title": "Backend Engineer (Golang) - Transfers Europe",
+      "url": "https://sumup.com/careers/positions/8785999002?gh_jid=8785999002",
+      "location": "Vilnius, Lithuania",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SumUp",
+      "title": "Backend Engineer - Cards",
+      "url": "https://sumup.com/careers/positions/8583427002?gh_jid=8583427002",
+      "location": "Sofia, Bulgaria",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SumUp",
+      "title": "Backend Engineer- Global Bank",
+      "url": "https://sumup.com/careers/positions/6651430002?gh_jid=6651430002",
+      "location": "Sofia, Bulgaria",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SumUp",
+      "title": "Data Platform Engineer (Mid-Level)",
+      "url": "https://sumup.com/careers/positions/8364212002?gh_jid=8364212002",
+      "location": "Berlin, Germany",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SumUp",
+      "title": "Software Engineer II - LatAm",
+      "url": "https://sumup.com/careers/positions/8940482002?gh_jid=8940482002",
+      "location": "Santiago, Chile",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "SumUp",
+      "title": "Software Engineer Java - Payouts Platform",
+      "url": "https://sumup.com/careers/positions/8343751002?gh_jid=8343751002",
+      "location": "Sofia, Bulgaria",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Tanium",
+      "title": "Software Engineer II - Partner Integrations",
+      "url": "https://job-boards.greenhouse.io/tanium/jobs/8250447",
+      "location": "Durham, NC (Hybrid)",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Toast",
+      "title": "Android Software Engineer",
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8038744",
+      "location": "Dublin, Ireland",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Together AI",
+      "title": "Platform Engineer, Model Shaping",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/4790243007",
+      "location": "San Francisco ",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Tripadvisor",
+      "title": "Back-end Software Engineer",
+      "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/8221338",
+      "location": "Reykjavik, Iceland",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Tripadvisor",
+      "title": "Front-end Software Engineer",
+      "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/8221493",
+      "location": "Reykjavik, Iceland",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Tripadvisor",
+      "title": "Jr Software Engineer",
+      "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/8221273",
+      "location": "Reykjavik, Iceland",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "trivago",
+      "title": "Systems Engineer - Platform / SRE (Kubernetes/GCP)",
+      "url": "https://careers.trivago.com/apply/8424124002.?gh_jid=8424124002",
+      "location": "Düsseldorf",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
       "company": "Twilio",
       "title": "Software Engineer (L2) SuperNetwork",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8405807",
@@ -3323,6 +7371,22 @@
       "title": "Software Engineer II, Fintech",
       "url": "https://job-boards.greenhouse.io/twitch/jobs/8937278002",
       "location": "San Francisco, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Veeva",
+      "title": "Associate Software Engineer - 2027 Start Dates",
+      "url": "https://jobs.lever.co/veeva/52ba79af-1086-457d-b5d2-8e184f111ffd",
+      "location": "Massachusetts - Boston",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Veeva",
+      "title": "Platform Engineer - Commercial Services Tools",
+      "url": "https://jobs.lever.co/veeva/47279623-8cbf-42f9-8f41-461c25af2edf",
+      "location": "Massachusetts - Boston",
       "level": "open",
       "last_seen": "2026-11-21"
     },
@@ -3463,6 +7527,94 @@
       "last_seen": "2026-11-21"
     },
     {
+      "company": "Verkada",
+      "title": "Backend Engineer - Connectivity",
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5296748007",
+      "location": "San Mateo, CA United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Verkada",
+      "title": "Backend Software Engineer - University Graduate 2027",
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5280545007",
+      "location": "San Mateo, CA United States",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Verkada",
+      "title": "Embedded Software Engineer - Access Control",
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5233102007",
+      "location": "San Mateo, CA United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Verkada",
+      "title": "Embedded Software Engineer, Access Control",
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5194716007",
+      "location": "San Mateo, CA United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Verkada",
+      "title": "Full Stack Engineer, Business Systems",
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5101666007",
+      "location": "San Mateo, CA United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Verkada",
+      "title": "Go Software Engineer",
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/4702541007",
+      "location": "Poland",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Verkada",
+      "title": "Linux Embedded Software Engineer",
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/4134153007",
+      "location": "Poland",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Verkada",
+      "title": "Software Engineer - Data Platform",
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/4129304007",
+      "location": "San Mateo, CA United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Verkada",
+      "title": "Software Engineer - Imaging Systems",
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/4134234007",
+      "location": "San Mateo, CA United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Verkada",
+      "title": "Software Engineer, Cloud Infrastructure",
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5283655007",
+      "location": "San Mateo, CA United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Verkada",
+      "title": "Software Engineer, Platform Infrastructure",
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/4759062007",
+      "location": "San Mateo, CA United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
       "company": "Waymo",
       "title": "2027 Summer Intern, BS/MS, Software Engineer, Multiverse",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8350832",
@@ -3539,6 +7691,38 @@
       "title": "Systems Engineer",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8407651",
       "location": "PERM - N/A",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Wiz, Inc.",
+      "title": "Backend Engineer",
+      "url": "https://www.wiz.io/careers/job/4615162006/:title?gh_jid=4615162006",
+      "location": "Tel Aviv",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Wiz, Inc.",
+      "title": "Expert Backend Engineer",
+      "url": "https://www.wiz.io/careers/job/4614638006/:title?gh_jid=4614638006",
+      "location": "London, UK",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Wiz, Inc.",
+      "title": "Expert Frontend Engineer",
+      "url": "https://www.wiz.io/careers/job/4615218006/:title?gh_jid=4615218006",
+      "location": "Tel Aviv",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Wiz, Inc.",
+      "title": "Software Engineer – CTO Office",
+      "url": "https://www.wiz.io/careers/job/4650548006/:title?gh_jid=4650548006",
+      "location": "Tel Aviv",
       "level": "open",
       "last_seen": "2026-11-21"
     },
@@ -3735,5 +7919,5 @@
       "last_seen": "2026-11-21"
     }
   ],
-  "generated_at": "2026-11-21T07:26:14+00:00"
+  "generated_at": "2026-11-21T07:42:59+00:00"
 }
