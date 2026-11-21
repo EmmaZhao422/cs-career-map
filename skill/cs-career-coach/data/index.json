@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-21T07:47:27+00:00",
+  "generated_at": "2026-11-21T07:49:41+00:00",
   "demo": false,
-  "notice": "Draft. The postings are real, but nobody has yet checked the skill matching against them by hand. Treat the shares as rough.",
+  "notice": null,
   "tiers": {
     "most": 40.0,
     "many": 15.0,

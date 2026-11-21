@@ -4,7 +4,9 @@ Which skills do job postings ask for? This project counts.
 
 For each job, CS Career Map reads public postings from company career pages, counts how often each skill is mentioned, and pairs every skill with one or two checked places to learn it and a small project that proves you can do it. It ships as a website and as a Claude skill that coaches you through the plan.
 
-> **Status: pre-launch.** The data is real (first collected on 21 Nov 2026) but the skill matching has **not yet been spot-checked by a person** against the postings. Treat the numbers as a draft until this note is removed.
+**Live site:** <https://emmazhao422.github.io/cs-career-map/>
+
+Data was first collected on 21 November 2026 and refreshes every Monday. The matching rules were audited the same day; what was found, fixed and left open is in [AUDIT.md](AUDIT.md).
 
 ## Why another roadmap
 
@@ -20,7 +22,7 @@ Most learning roadmaps are written from experience: an editor decides what belon
 
 1. Once a week a script reads the public job boards of the companies in [`config/companies.json`](config/companies.json). It uses the public job board APIs of Greenhouse and Lever, the same listings a company's careers page shows.
 2. It keeps postings whose title matches a job in [`config/roles.json`](config/roles.json) and skips senior, staff, lead and manager titles. The same title at one company counts once, even when it is listed in several locations.
-3. It checks each posting against the skill patterns in [`config/taxonomy.json`](config/taxonomy.json) and saves the link and the matched skill names. **The posting text is not stored.**
+3. It checks each posting against the skill patterns in [`config/taxonomy.json`](config/taxonomy.json) and saves the link and the matched skill names. Text a company repeats in most of its postings is ignored, and so is the company's own name. **The posting text is not stored.**
 4. It writes the counts the site reads, under `docs/data/`.
 
 A posting stays in the sample for 120 days after it was last seen open.
@@ -60,7 +62,7 @@ python -m http.server 8000 --directory docs   # open http://localhost:8000
 
 ## Use the coach
 
-`skill/cs-career-coach/` is a Claude skill: a folder with a `SKILL.md` and a copy of the data. Add the folder to Claude as a skill, then ask something like "coach me toward a data analyst internship; I have ten hours a week". It builds a plan from the counts, teaches one skill at a time, and only recommends resources from this repository.
+`skill/cs-career-coach/` is a Claude skill (beta, not yet tested with students): a folder with a `SKILL.md` and a copy of the data. Add the folder to Claude as a skill, then ask something like "coach me toward a data analyst internship; I have ten hours a week". It builds a plan from the counts, teaches one skill at a time, and only recommends resources from this repository.
 
 ## Contribute
 
@@ -69,6 +71,10 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). The most useful things you can do:
 - **You hire or interview for one of these jobs:** [add a practitioner note](../../issues/new?template=practitioner-note.yml).
 - **You know a better free resource:** [suggest it](../../issues/new?template=suggest-resource.yml).
 - **A company is missing:** [add its job board](../../issues/new?template=add-company.yml).
+
+## Who made this
+
+CS Career Map is a project by Emma Zhao. The first version of the code, the site and the learning guides was written with Claude, Anthropic's AI model, working to her direction: what to build, for whom, and where the data should come from. The commit history shows who wrote what.
 
 ## License
 

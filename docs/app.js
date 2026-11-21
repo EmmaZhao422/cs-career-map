@@ -281,7 +281,7 @@
       h("ol", { class: "steps" }, [
         h("li", { text: "Once a week a script reads the public job boards of the companies on our list. These are the same listings you see on each company's careers page." }),
         h("li", { text: "It keeps postings whose title matches one of our jobs and skips senior, staff, lead and manager titles. The same title at one company counts once, even when it is listed in several locations." }),
-        h("li", { text: "For each posting it checks which skills from our list are mentioned, then saves the link and those skill names. The posting text is not stored." }),
+        h("li", { text: "For each posting it checks which skills from our list are mentioned, then saves the link and those skill names. Text that a company repeats in most of its postings, such as its introduction, is ignored, and so is the company's own name. The posting text is not stored." }),
         h("li", { text: "The site shows, for each skill, how many postings mention it. A posting stays in the sample for 120 days after it was last seen open." })
       ]),
       h("h2", { text: "What this cannot tell you" }),
@@ -295,7 +295,8 @@
       h("h2", { text: "Help make it better" }),
       h("p", { class: "note" }, [
         "The company list, the skill list and the guides are plain files in the repository. ",
-        h("a", { href: REPO, text: "Open the repository" }), " to add a company, fix a pattern, or suggest a resource."
+        h("a", { href: REPO, text: "Open the repository" }), " to add a company, fix a pattern, or suggest a resource. ",
+        h("a", { href: REPO + "/blob/main/AUDIT.md", text: "Read the latest audit of the matching rules" }), "."
       ]),
       index.demo ? h("p", { class: "note", text: "This copy of the site is showing demo data: the collection script has not run yet." }) : null
     ], "How it works");
