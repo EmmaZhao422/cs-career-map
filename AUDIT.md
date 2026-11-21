@@ -82,7 +82,7 @@ Software Engineer lost 48 listings to the new exclusions and gained 3 that moved
 - Dashboards & reporting no longer counts "monitoring dashboards", "Grafana dashboards", "Datadog dashboards" or "observability dashboards"; those belong to the new Observability skill. Done with a fixed list of preceding words, so other operations dashboards may still count.
 - False negatives fixed: Go in "we use Go", "Go-based", "such as Go and Rust"; C in "C, Java", "Embedded C", "written in C."; hyphenated "machine-learning", "deep-learning", "infrastructure-as-code", "natural-language processing"; "ML Ops" and "LLMOps"; "function calling", "tool calling" and "tool-use" as AI agents; "A/B-tests".
 - Looker includes Looker Studio, which is a separate free product; the skill carries a note saying so.
-- Twelve new skills: Python web frameworks (Django, Flask, FastAPI), Spring (Java), Angular / Vue, gRPC & Protocol Buffers, Observability & monitoring, Jupyter notebooks, Elasticsearch / OpenSearch, Product analytics tools, SAS / SPSS / Stata, Reinforcement learning, GPU programming (CUDA), Agile & Scrum. Each has a level sentence and a project; none has a resource yet, because no link has been opened and checked for them.
+- Twelve new skills: Python web frameworks (Django, Flask, FastAPI), Spring (Java), Angular / Vue, gRPC & Protocol Buffers, Observability & monitoring, Jupyter notebooks, Elasticsearch / OpenSearch, Product analytics tools, SAS / SPSS / Stata, Reinforcement learning, GPU programming (CUDA), Agile & Scrum. Each has a level sentence and a project; none had a resource at this pass, because no link had been opened and checked for them. Checked resources were added later the same day.
 
 **Cleaning.**
 
@@ -100,7 +100,7 @@ Software Engineer lost 48 listings to the new exclusions and gained 3 that moved
 ### Knowingly left open
 
 - **The skill changes above do not show in the current numbers.** Stored postings keep no text, so their skills were matched with the old patterns, on title and body. The site's skill shares will change when the next collection reads the boards again. At that collection, every stored posting that is no longer open is dropped, because it has no `rules` version.
-- **Tiers now read high.** With the 40/15/5 cutoffs applied to company shares, Software Engineer has 23 skills in the top tier (it had 1 when tiers used posting shares). The cutoffs were kept as instructed; they may need to be raised.
+- **Tiers read high.** With the 40/15/5 cutoffs then in use applied to company shares, Software Engineer had 23 skills in the top tier (it had 1 when tiers used posting shares). The cutoffs were later raised to 60%, 30% and 10% of companies, the values the site uses now.
 - Spark and Swift still count when a capitalised word is used mid-sentence in its ordinary sense ("make Swift progress"). Agile counts the capitalised word anywhere.
 - The place list used to merge titles is a fixed list of cities and countries. Places not on it keep titles apart, and regional words such as "LatAm" or "EMEA" are treated as team names.
 - An advanced-degree posting is one whose title names a PhD or a Master's and not a bachelor's degree; "BS/MS/PhD" internships still count as entry level.

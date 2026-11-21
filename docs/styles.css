@@ -90,7 +90,7 @@ h3 { font: 700 1rem/1.3 var(--body); margin: 1.25rem 0 0.25rem; }
 .mini li { display: grid; grid-template-columns: minmax(0, 1fr) 3rem; gap: 0.75rem; align-items: center; font-size: 0.95rem; }
 .mini .bar { min-height: 1.75rem; }
 .mini .name { padding: 0 0.5rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-.mini .pct { color: var(--soft); font-variant-numeric: tabular-nums; text-align: right; }
+.mini .pct { color: var(--soft); text-align: right; }
 
 .about { margin-top: 3.5rem; }
 .facts { list-style: none; padding: 0; margin: 0.75rem 0 0; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 0 2rem; border-top: 1px solid var(--rule); }
@@ -106,7 +106,7 @@ h3 { font: 700 1rem/1.3 var(--body); margin: 1.25rem 0 0.25rem; }
 .seg button + button { border-left: 1px solid var(--ink); }
 .seg button[aria-pressed="true"] { background: var(--ink); color: #fff; }
 .seg button:focus-visible { outline-offset: -5px; outline-color: var(--marker); }
-.chip-row { display: flex; align-items: baseline; gap: 0.4rem 0.75rem; flex-basis: 100%; }
+.chip-row { display: flex; align-items: baseline; gap: 0.4rem 0.75rem; flex-basis: 100%; min-width: 0; } /* min-width: 0 keeps the scrolling chips inside the page on phones */
 .chip-label { font-size: 0.85rem; color: var(--soft); flex: 0 0 auto; }
 .chips { display: flex; flex-wrap: wrap; gap: 0.4rem; min-width: 0; }
 .chips button { font: 500 0.9rem/1 var(--body); color: var(--ink); background: var(--sheet); border: 1px solid var(--rule); border-radius: 999px; padding: 0.45rem 0.8rem; cursor: pointer; }
@@ -142,7 +142,7 @@ h3 { font: 700 1rem/1.3 var(--body); margin: 1.25rem 0 0.25rem; }
 .skill-btn .tally { font-size: 0.95rem; color: var(--soft); font-variant-numeric: tabular-nums; display: flex; justify-content: space-between; gap: 0.5rem; white-space: nowrap; }
 .skill-btn .tally b { color: var(--ink); font-weight: 700; }
 .skill-btn .tally .sep { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
-.skill-btn .tally .pct { color: var(--ink); font-weight: 500; min-width: 3.2ch; text-align: right; }
+.skill-btn .tally .pct { color: var(--ink); font-weight: 500; min-width: 3.2ch; text-align: right; font-variant-numeric: normal; }
 .skill-btn:hover .name { text-decoration: underline; }
 .band.rare .stroke { background: var(--marker-dim); }
 .people .stroke { background: var(--marker-dim); }
@@ -181,8 +181,10 @@ summary { cursor: pointer; font-weight: 700; padding: 0.4rem 0; }
 .plain { max-width: 44rem; padding-left: 1.1rem; }
 .plain li { margin: 0.4rem 0; }
 
-.foot { border-top: 1px solid var(--rule); padding-block: 1.5rem 3rem; color: var(--soft); font-size: 0.9rem; }
+/* the rule sits on the first line, so it lines up with the content, not the padding */
+.foot { padding-block: 0 3rem; color: var(--soft); font-size: 0.9rem; }
 .foot p { margin: 0.2rem 0; }
+.foot > p:first-child { border-top: 1px solid var(--rule); padding-top: 1.5rem; margin-top: 0; }
 
 @media (max-width: 860px) {
   .start-list { grid-template-columns: repeat(2, minmax(0, 1fr)); }

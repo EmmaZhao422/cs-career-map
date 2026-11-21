@@ -15,8 +15,8 @@ Data was first collected on 21 November 2026 and refreshes every Monday. The mat
 Most learning roadmaps are written from experience: an editor decides what belongs on the path. This one starts from evidence you can check.
 
 - **Organised by job, not by technology.** Software Engineer, AI Engineer and Data Analyst to start.
-- **Every skill shows its count.** "41 of 60 postings" with the date they were read, plus the list of postings behind it.
-- **Intern and new-grad view.** One switch recounts using only entry-level postings.
+- **Every skill shows its count.** How many of a job's companies mention it, as a fraction ("N of M companies"), with the date the postings were read and the list of postings behind it. One switch counts postings instead.
+- **Intern and new-grad view.** Another switch recounts using only intern and new-grad postings.
 - **The hiring side is on the page.** Postings are wish lists. Skills carry notes summarised from companies' own public hiring pages, each with its source, and people who hire can add what they look for in practice. Both are shown separately from the counts.
 - **Short guides for every skill.** What knowing it looks like, at most two resources (official documentation and university courses first), one project.
 
@@ -25,7 +25,7 @@ Most learning roadmaps are written from experience: an editor decides what belon
 1. Once a week a script reads the public job boards of the companies in [`config/companies.json`](config/companies.json). It uses the public job board APIs of Greenhouse and Lever, the same listings a company's careers page shows.
 2. It keeps postings whose title matches a job in [`config/roles.json`](config/roles.json) and skips senior, staff, lead and manager titles. The same title at one company counts once, even when it is listed in several locations.
 3. It checks each posting against the skill patterns in [`config/taxonomy.json`](config/taxonomy.json) and saves the link and the matched skill names. Text a company repeats in most of its postings is ignored, and so is the company's own name. **The posting text is not stored.**
-4. It writes the counts the site reads, under `docs/data/`.
+4. It writes the counts the site reads, under `docs/data/`: for each skill, how many companies and how many postings mention it, overall and in intern and new-grad postings.
 
 A posting stays in the sample for 120 days after it was last seen open.
 
@@ -34,7 +34,7 @@ A posting stays in the sample for 120 days after it was last seen open.
 - Postings are wish lists. Listed is not the same as tested.
 - Only companies that publish through Greenhouse or Lever are read. Companies with their own careers system, including several of the largest, are not counted yet.
 - Matching is by keyword. It can miss a skill described in unusual words and over-count a word used in another sense. The patterns and their tests are in the repository; fixes are welcome.
-- A company with many open postings weighs more. Each skill also shows how many different companies mention it.
+- By default each company counts once, so a company with many open postings cannot outweigh the rest. Counting by posting gives large employers more weight; the site says which view you are looking at.
 - Guides and "learn first" links are editorial opinions.
 
 ## Run it yourself

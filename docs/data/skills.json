@@ -50,7 +50,7 @@
     "category": "Languages",
     "prereqs": [],
     "level": "You can build a small application with classes, interfaces, collections and exceptions, and run its tests.",
-    "project": "A REST service with three endpoints and unit tests.",
+    "project": "A command-line library catalogue with a few classes and an interface, collections for storage, and unit tests.",
     "resources": [
       {
         "title": "Learn Java",
@@ -329,7 +329,7 @@
     "category": "CS fundamentals",
     "prereqs": [],
     "level": "You can explain what happens between typing a URL and seeing a page: DNS, TCP, TLS, HTTP.",
-    "project": "Write a tiny HTTP client on raw sockets and capture its traffic to explain each packet.",
+    "project": "Write a tiny HTTP client on a plain TCP socket, capture its traffic with Wireshark, and explain each step from DNS lookup to response.",
     "resources": [
       {
         "title": "Computer Networking: A Top-Down Approach (lectures and labs)",
@@ -378,7 +378,7 @@
       "networking"
     ],
     "level": "You can explain replication, consensus and the trade-offs behind consistency, and reason about what fails when a node or the network does.",
-    "project": "Build a key-value store that copies writes to a second process, and write down what happens when you stop one of them. Try the MIT labs once that works.",
+    "project": "Build a key-value store that copies every write to a second process, write down what happens when you stop either one, and then try the MIT labs.",
     "resources": [
       {
         "title": "MIT 6.5840 Distributed Systems (lectures and labs)",
@@ -519,7 +519,7 @@
       "git"
     ],
     "level": "You can make tests run on every pull request and deploy automatically when the main branch changes.",
-    "project": "Add a workflow to one of your repositories that runs the tests and publishes the result.",
+    "project": "Add a workflow to one of your repositories that runs the tests on every pull request and deploys the main branch, for example to GitHub Pages.",
     "resources": [
       {
         "title": "GitHub Actions documentation",
@@ -535,7 +535,7 @@
     "category": "Tools",
     "prereqs": [],
     "level": "You can describe a small cloud setup as code, apply it, change it and destroy it safely.",
-    "project": "Provision a static site and its storage with Terraform, then tear it down with one command.",
+    "project": "Use Terraform to create a storage bucket that serves a static site, change one setting, then tear it all down with one command.",
     "resources": [
       {
         "title": "Terraform tutorials",
@@ -1060,7 +1060,7 @@
     "category": "Analysis",
     "prereqs": [],
     "level": "You can connect to data, build a dashboard with filters, and choose a chart that fits the question.",
-    "project": "Publish a dashboard on a public dataset that answers one question at a glance.",
+    "project": "Publish a dashboard on Tableau Public that answers one question about a public dataset at a glance.",
     "resources": [
       {
         "title": "Tableau free training videos",
@@ -1091,8 +1091,8 @@
     "name": "Looker",
     "category": "Analysis",
     "prereqs": [],
-    "level": "You can explore data in Looker, build a dashboard, and read a LookML model.",
-    "project": "Build one dashboard that answers a business question, with a filter a colleague can use.",
+    "level": "You can explore data through a Looker model, build a dashboard from it, and read the LookML that defines its fields.",
+    "project": "Looker itself needs a company account, so build the dashboard in the free Looker Studio and write the LookML view one of its tables would need, following the documentation.",
     "resources": [
       {
         "title": "Looker documentation: introduction",
@@ -1531,7 +1531,7 @@
       "machine-learning"
     ],
     "level": "You can tokenise text, fine-tune a pretrained model on a classification task and evaluate it.",
-    "project": "Fine-tune a small pretrained model to label text you collected yourself.",
+    "project": "Label a few hundred pieces of text you collected yourself, then compare a simple keyword baseline with a fine-tuned small pretrained model.",
     "resources": [
       {
         "title": "LLM Course",

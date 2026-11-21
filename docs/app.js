@@ -140,7 +140,7 @@
     }));
 
     var fact1 = h("li", {}, [h("b", { text: "Real postings. " }),
-      "Read from the public job boards of the companies we follow, and recounted every Monday."]);
+      "Taken from the public job boards of the companies we follow, and recounted every Monday."]);
     var facts = h("ul", { class: "facts" }, [
       fact1,
       h("li", {}, [h("b", { text: "Each company counted once. " }),
@@ -160,7 +160,7 @@
         h("h2", { id: "about-h", text: "What this is" }),
         facts,
         h("p", { class: "about-links" }, [
-          h("a", { href: REPO, text: "Star or contribute on GitHub" }), ". ",
+          "The code and data are ", h("a", { href: REPO, text: "on GitHub" }), ". ",
           "Prefer a plan to a chart? The ",
           h("a", { href: COACH, text: "Claude coach skill" }),
           " uses the same counts to build a study plan for one of these jobs and teach it one skill at a time."
@@ -179,7 +179,7 @@
     var n = Object.keys(names).length;
     if (n > 1) {
       fact1.replaceChildren(h("b", { text: "Real postings. " }),
-        "Read from the public job boards of " + n + " companies, and recounted every Monday.");
+        "From the public job boards of the " + n + " companies that have a posting for one of these jobs, recounted every Monday.");
     }
   }
 
@@ -232,7 +232,7 @@
         { value: true, label: "By company" }, { value: false, label: "By posting" }
       ], view.byCompany, function (v) { view.byCompany = v; renderList(); }),
       segmented("Which postings to count", [
-        { value: false, label: "All postings" }, { value: true, label: "Intern and new grad only" }
+        { value: false, label: "All postings" }, { value: true, label: "Intern and new-grad only" }
       ], view.entryOnly, function (v) { view.entryOnly = v; renderList(); }),
       h("div", { class: "chip-row" }, [
         h("span", { class: "chip-label", id: "chips-label", text: "Category" }),
@@ -313,7 +313,7 @@
 
     if (rare.length) {
       var rareBand = h("section", { class: "band rare", id: "rare-band", hidden: !page.showRare }, [
-        h("h2", {}, ["Rarely mentioned", h("small", { text: "fewer than " + RARE_COMPANIES + " companies, or under " + index.tiers.some + "%" })]),
+        h("h2", {}, ["Rarely mentioned", h("small", { text: "named by fewer than " + RARE_COMPANIES + " companies, or by under " + index.tiers.some + "% of " + (m.byCo ? "companies" : "postings") })]),
         h("ul", { class: "skills" }, rare.map(skillRow))
       ]);
       var rareBtn = h("button", { type: "button", class: "more", "aria-expanded": String(page.showRare), "aria-controls": "rare-band",
@@ -395,7 +395,7 @@
     return h("section", { class: "start", "aria-labelledby": "start-h" }, [
       h("h2", { id: "start-h", text: "Start here" }),
       h("p", { class: "note", text: editorial
-        ? "The order we would learn things in for this job, fundamentals first. This is our advice. The counts beside each skill are measured."
+        ? "The order we suggest learning this job's skills in, fundamentals first. The order is our advice; the counts beside each skill are measured."
         : "Ordered by how many companies ask for each skill. The order is our advice; the counts beside each skill are measured." }),
       h("ol", { class: "start-list" }, ids.map(function (id) {
         var r = byId[id];
