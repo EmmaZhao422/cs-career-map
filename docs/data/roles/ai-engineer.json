@@ -2,10 +2,10 @@
   "id": "ai-engineer",
   "title": "AI Engineer",
   "blurb": "Builds products on top of machine learning models and LLMs.",
-  "demo": true,
-  "postings": 60,
-  "companies": 18,
-  "entry_postings": 10,
+  "demo": false,
+  "postings": 151,
+  "companies": 29,
+  "entry_postings": 21,
   "last_seen_from": "2026-11-21",
   "last_seen_to": "2026-11-21",
   "skills": [
@@ -13,38 +13,58 @@
       "id": "machine-learning",
       "name": "Machine learning",
       "category": "AI & ML",
-      "count": 56,
-      "pct": 93.3,
+      "count": 115,
+      "pct": 76.2,
       "tier": "most",
-      "companies": 18,
+      "companies": 21,
+      "entry_count": 18
+    },
+    {
+      "id": "llm",
+      "name": "LLMs",
+      "category": "AI & ML",
+      "count": 111,
+      "pct": 73.5,
+      "tier": "most",
+      "companies": 24,
       "entry_count": 10
     },
     {
       "id": "python",
       "name": "Python",
       "category": "Languages",
-      "count": 54,
-      "pct": 90.0,
+      "count": 98,
+      "pct": 64.9,
       "tier": "most",
-      "companies": 18,
-      "entry_count": 10
+      "companies": 26,
+      "entry_count": 20
     },
     {
-      "id": "llm",
-      "name": "LLMs",
-      "category": "AI & ML",
-      "count": 36,
-      "pct": 60.0,
+      "id": "communication",
+      "name": "Written & verbal communication",
+      "category": "Working with people",
+      "count": 84,
+      "pct": 55.6,
       "tier": "most",
-      "companies": 17,
-      "entry_count": 8
+      "companies": 20,
+      "entry_count": 9
     },
     {
-      "id": "deep-learning",
-      "name": "Deep learning",
+      "id": "agents",
+      "name": "AI agents",
       "category": "AI & ML",
-      "count": 34,
-      "pct": 56.7,
+      "count": 68,
+      "pct": 45.0,
+      "tier": "most",
+      "companies": 22,
+      "entry_count": 6
+    },
+    {
+      "id": "model-evaluation",
+      "name": "Model evaluation",
+      "category": "AI & ML",
+      "count": 63,
+      "pct": 41.7,
       "tier": "most",
       "companies": 16,
       "entry_count": 5
@@ -53,298 +73,588 @@
       "id": "pytorch",
       "name": "PyTorch",
       "category": "AI & ML",
-      "count": 34,
-      "pct": 56.7,
-      "tier": "most",
-      "companies": 16,
-      "entry_count": 5
-    },
-    {
-      "id": "nlp",
-      "name": "NLP",
-      "category": "AI & ML",
-      "count": 25,
-      "pct": 41.7,
-      "tier": "most",
+      "count": 53,
+      "pct": 35.1,
+      "tier": "many",
       "companies": 15,
-      "entry_count": 4
-    },
-    {
-      "id": "fine-tuning",
-      "name": "Fine-tuning",
-      "category": "AI & ML",
-      "count": 24,
-      "pct": 40.0,
-      "tier": "most",
-      "companies": 15,
-      "entry_count": 3
+      "entry_count": 10
     },
     {
       "id": "cross-functional",
       "name": "Working with non-engineers",
       "category": "Working with people",
-      "count": 22,
-      "pct": 36.7,
+      "count": 53,
+      "pct": 35.1,
       "tier": "many",
-      "companies": 11,
-      "entry_count": 1
+      "companies": 22,
+      "entry_count": 9
     },
     {
-      "id": "mlops",
-      "name": "Model deployment (MLOps)",
+      "id": "deep-learning",
+      "name": "Deep learning",
       "category": "AI & ML",
-      "count": 21,
-      "pct": 35.0,
-      "tier": "many",
-      "companies": 11,
-      "entry_count": 2
-    },
-    {
-      "id": "communication",
-      "name": "Written & verbal communication",
-      "category": "Working with people",
-      "count": 20,
-      "pct": 33.3,
-      "tier": "many",
-      "companies": 14,
-      "entry_count": 4
-    },
-    {
-      "id": "model-evaluation",
-      "name": "Model evaluation",
-      "category": "AI & ML",
-      "count": 19,
-      "pct": 31.7,
-      "tier": "many",
-      "companies": 11,
-      "entry_count": 2
-    },
-    {
-      "id": "data-structures-algorithms",
-      "name": "Data structures & algorithms",
-      "category": "CS fundamentals",
-      "count": 17,
-      "pct": 28.3,
-      "tier": "many",
-      "companies": 11,
-      "entry_count": 2
-    },
-    {
-      "id": "aws",
-      "name": "AWS",
-      "category": "Cloud",
-      "count": 16,
-      "pct": 26.7,
-      "tier": "many",
-      "companies": 11,
-      "entry_count": 3
-    },
-    {
-      "id": "distributed-systems",
-      "name": "Distributed systems",
-      "category": "CS fundamentals",
-      "count": 14,
-      "pct": 23.3,
+      "count": 41,
+      "pct": 27.2,
       "tier": "many",
       "companies": 13,
-      "entry_count": 2
-    },
-    {
-      "id": "prompt-engineering",
-      "name": "Prompt engineering",
-      "category": "AI & ML",
-      "count": 14,
-      "pct": 23.3,
-      "tier": "many",
-      "companies": 10,
-      "entry_count": 5
-    },
-    {
-      "id": "tensorflow",
-      "name": "TensorFlow / JAX",
-      "category": "AI & ML",
-      "count": 14,
-      "pct": 23.3,
-      "tier": "many",
-      "companies": 9,
-      "entry_count": 0
-    },
-    {
-      "id": "agents",
-      "name": "AI agents",
-      "category": "AI & ML",
-      "count": 13,
-      "pct": 21.7,
-      "tier": "many",
-      "companies": 10,
-      "entry_count": 2
-    },
-    {
-      "id": "kubernetes",
-      "name": "Kubernetes",
-      "category": "Tools",
-      "count": 13,
-      "pct": 21.7,
-      "tier": "many",
-      "companies": 10,
-      "entry_count": 3
-    },
-    {
-      "id": "rag",
-      "name": "RAG & vector search",
-      "category": "AI & ML",
-      "count": 13,
-      "pct": 21.7,
-      "tier": "many",
-      "companies": 8,
-      "entry_count": 2
+      "entry_count": 7
     },
     {
       "id": "cpp",
       "name": "C++",
       "category": "Languages",
-      "count": 12,
-      "pct": 20.0,
+      "count": 35,
+      "pct": 23.2,
       "tier": "many",
       "companies": 9,
-      "entry_count": 2
+      "entry_count": 8
     },
     {
-      "id": "data-pipelines",
-      "name": "Data pipelines (ETL)",
-      "category": "Data engineering",
-      "count": 12,
-      "pct": 20.0,
-      "tier": "many",
-      "companies": 8,
-      "entry_count": 2
-    },
-    {
-      "id": "computer-vision",
-      "name": "Computer vision",
+      "id": "tensorflow",
+      "name": "TensorFlow / JAX",
       "category": "AI & ML",
-      "count": 11,
-      "pct": 18.3,
+      "count": 34,
+      "pct": 22.5,
       "tier": "many",
-      "companies": 8,
-      "entry_count": 1
+      "companies": 11,
+      "entry_count": 10
     },
     {
-      "id": "docker",
-      "name": "Docker",
-      "category": "Tools",
-      "count": 11,
-      "pct": 18.3,
+      "id": "fine-tuning",
+      "name": "Fine-tuning",
+      "category": "AI & ML",
+      "count": 33,
+      "pct": 21.9,
       "tier": "many",
-      "companies": 8,
+      "companies": 11,
       "entry_count": 2
     },
     {
-      "id": "statistics",
-      "name": "Statistics",
-      "category": "Analysis",
-      "count": 11,
-      "pct": 18.3,
+      "id": "rag",
+      "name": "RAG & vector search",
+      "category": "AI & ML",
+      "count": 33,
+      "pct": 21.9,
       "tier": "many",
-      "companies": 10,
-      "entry_count": 2
+      "companies": 16,
+      "entry_count": 3
     },
     {
       "id": "rest-apis",
       "name": "APIs (REST)",
       "category": "Web",
-      "count": 10,
-      "pct": 16.7,
+      "count": 30,
+      "pct": 19.9,
       "tier": "many",
-      "companies": 8,
+      "companies": 14,
       "entry_count": 2
     },
     {
-      "id": "sql",
-      "name": "SQL",
-      "category": "Languages",
-      "count": 8,
-      "pct": 13.3,
-      "tier": "some",
-      "companies": 7,
-      "entry_count": 4
+      "id": "distributed-systems",
+      "name": "Distributed systems",
+      "category": "CS fundamentals",
+      "count": 30,
+      "pct": 19.9,
+      "tier": "many",
+      "companies": 12,
+      "entry_count": 3
     },
     {
-      "id": "java",
-      "name": "Java",
-      "category": "Languages",
-      "count": 7,
-      "pct": 11.7,
-      "tier": "some",
-      "companies": 6,
-      "entry_count": 2
-    },
-    {
-      "id": "scikit-learn",
-      "name": "scikit-learn",
-      "category": "AI & ML",
-      "count": 7,
-      "pct": 11.7,
-      "tier": "some",
-      "companies": 6,
-      "entry_count": 0
-    },
-    {
-      "id": "git",
-      "name": "Git",
-      "category": "Tools",
-      "count": 6,
-      "pct": 10.0,
-      "tier": "some",
-      "companies": 5,
-      "entry_count": 1
-    },
-    {
-      "id": "go",
-      "name": "Go",
-      "category": "Languages",
-      "count": 6,
-      "pct": 10.0,
-      "tier": "some",
-      "companies": 6,
-      "entry_count": 2
-    },
-    {
-      "id": "pandas",
-      "name": "pandas / NumPy",
+      "id": "statistics",
+      "name": "Statistics",
       "category": "Analysis",
-      "count": 6,
-      "pct": 10.0,
-      "tier": "some",
-      "companies": 6,
+      "count": 29,
+      "pct": 19.2,
+      "tier": "many",
+      "companies": 11,
+      "entry_count": 5
+    },
+    {
+      "id": "aws",
+      "name": "AWS",
+      "category": "Cloud",
+      "count": 25,
+      "pct": 16.6,
+      "tier": "many",
+      "companies": 13,
       "entry_count": 0
     },
     {
       "id": "spark",
       "name": "Spark",
       "category": "Data engineering",
-      "count": 6,
-      "pct": 10.0,
-      "tier": "some",
-      "companies": 5,
+      "count": 25,
+      "pct": 16.6,
+      "tier": "many",
+      "companies": 9,
+      "entry_count": 8
+    },
+    {
+      "id": "ab-testing",
+      "name": "A/B testing",
+      "category": "Analysis",
+      "count": 24,
+      "pct": 15.9,
+      "tier": "many",
+      "companies": 13,
+      "entry_count": 4
+    },
+    {
+      "id": "data-pipelines",
+      "name": "Data pipelines (ETL)",
+      "category": "Data engineering",
+      "count": 24,
+      "pct": 15.9,
+      "tier": "many",
+      "companies": 12,
+      "entry_count": 2
+    },
+    {
+      "id": "mlops",
+      "name": "Model deployment (MLOps)",
+      "category": "AI & ML",
+      "count": 24,
+      "pct": 15.9,
+      "tier": "many",
+      "companies": 12,
       "entry_count": 1
+    },
+    {
+      "id": "data-structures-algorithms",
+      "name": "Data structures & algorithms",
+      "category": "CS fundamentals",
+      "count": 22,
+      "pct": 14.6,
+      "tier": "some",
+      "companies": 11,
+      "entry_count": 3
     },
     {
       "id": "gcp",
       "name": "Google Cloud",
       "category": "Cloud",
-      "count": 4,
-      "pct": 6.7,
+      "count": 21,
+      "pct": 13.9,
+      "tier": "some",
+      "companies": 9,
+      "entry_count": 0
+    },
+    {
+      "id": "prompt-engineering",
+      "name": "Prompt engineering",
+      "category": "AI & ML",
+      "count": 21,
+      "pct": 13.9,
+      "tier": "some",
+      "companies": 13,
+      "entry_count": 3
+    },
+    {
+      "id": "typescript",
+      "name": "TypeScript",
+      "category": "Languages",
+      "count": 19,
+      "pct": 12.6,
+      "tier": "some",
+      "companies": 10,
+      "entry_count": 0
+    },
+    {
+      "id": "sql",
+      "name": "SQL",
+      "category": "Languages",
+      "count": 18,
+      "pct": 11.9,
+      "tier": "some",
+      "companies": 11,
+      "entry_count": 4
+    },
+    {
+      "id": "computer-vision",
+      "name": "Computer vision",
+      "category": "AI & ML",
+      "count": 17,
+      "pct": 11.3,
+      "tier": "some",
+      "companies": 9,
+      "entry_count": 8
+    },
+    {
+      "id": "azure",
+      "name": "Azure",
+      "category": "Cloud",
+      "count": 16,
+      "pct": 10.6,
+      "tier": "some",
+      "companies": 5,
+      "entry_count": 0
+    },
+    {
+      "id": "kubernetes",
+      "name": "Kubernetes",
+      "category": "Tools",
+      "count": 16,
+      "pct": 10.6,
+      "tier": "some",
+      "companies": 3,
+      "entry_count": 0
+    },
+    {
+      "id": "scikit-learn",
+      "name": "scikit-learn",
+      "category": "AI & ML",
+      "count": 16,
+      "pct": 10.6,
+      "tier": "some",
+      "companies": 5,
+      "entry_count": 5
+    },
+    {
+      "id": "git",
+      "name": "Git",
+      "category": "Tools",
+      "count": 14,
+      "pct": 9.3,
+      "tier": "some",
+      "companies": 7,
+      "entry_count": 6
+    },
+    {
+      "id": "go",
+      "name": "Go",
+      "category": "Languages",
+      "count": 14,
+      "pct": 9.3,
+      "tier": "some",
+      "companies": 11,
+      "entry_count": 3
+    },
+    {
+      "id": "java",
+      "name": "Java",
+      "category": "Languages",
+      "count": 14,
+      "pct": 9.3,
+      "tier": "some",
+      "companies": 8,
+      "entry_count": 5
+    },
+    {
+      "id": "javascript",
+      "name": "JavaScript",
+      "category": "Languages",
+      "count": 14,
+      "pct": 9.3,
+      "tier": "some",
+      "companies": 6,
+      "entry_count": 2
+    },
+    {
+      "id": "nlp",
+      "name": "NLP",
+      "category": "AI & ML",
+      "count": 14,
+      "pct": 9.3,
+      "tier": "some",
+      "companies": 6,
+      "entry_count": 4
+    },
+    {
+      "id": "data-warehouse",
+      "name": "Data warehouses",
+      "category": "Data engineering",
+      "count": 13,
+      "pct": 8.6,
       "tier": "some",
       "companies": 4,
       "entry_count": 0
     },
     {
+      "id": "pandas",
+      "name": "pandas / NumPy",
+      "category": "Analysis",
+      "count": 13,
+      "pct": 8.6,
+      "tier": "some",
+      "companies": 3,
+      "entry_count": 4
+    },
+    {
       "id": "rust",
       "name": "Rust",
       "category": "Languages",
+      "count": 13,
+      "pct": 8.6,
+      "tier": "some",
+      "companies": 5,
+      "entry_count": 2
+    },
+    {
+      "id": "system-design",
+      "name": "System design",
+      "category": "CS fundamentals",
+      "count": 10,
+      "pct": 6.6,
+      "tier": "some",
+      "companies": 6,
+      "entry_count": 1
+    },
+    {
+      "id": "testing",
+      "name": "Testing",
+      "category": "CS fundamentals",
+      "count": 9,
+      "pct": 6.0,
+      "tier": "some",
+      "companies": 6,
+      "entry_count": 0
+    },
+    {
+      "id": "docker",
+      "name": "Docker",
+      "category": "Tools",
+      "count": 8,
+      "pct": 5.3,
+      "tier": "some",
+      "companies": 4,
+      "entry_count": 0
+    },
+    {
+      "id": "data-modeling",
+      "name": "Data modeling",
+      "category": "Data engineering",
+      "count": 7,
+      "pct": 4.6,
+      "tier": "rare",
+      "companies": 4,
+      "entry_count": 2
+    },
+    {
+      "id": "ruby",
+      "name": "Ruby",
+      "category": "Languages",
+      "count": 7,
+      "pct": 4.6,
+      "tier": "rare",
+      "companies": 4,
+      "entry_count": 0
+    },
+    {
+      "id": "concurrency",
+      "name": "Concurrency",
+      "category": "CS fundamentals",
+      "count": 6,
+      "pct": 4.0,
+      "tier": "rare",
+      "companies": 2,
+      "entry_count": 0
+    },
+    {
+      "id": "ci-cd",
+      "name": "CI/CD",
+      "category": "Tools",
+      "count": 5,
+      "pct": 3.3,
+      "tier": "rare",
+      "companies": 5,
+      "entry_count": 0
+    },
+    {
+      "id": "dashboards",
+      "name": "Dashboards & reporting",
+      "category": "Analysis",
+      "count": 5,
+      "pct": 3.3,
+      "tier": "rare",
+      "companies": 3,
+      "entry_count": 1
+    },
+    {
+      "id": "oop",
+      "name": "Object-oriented design",
+      "category": "CS fundamentals",
+      "count": 5,
+      "pct": 3.3,
+      "tier": "rare",
+      "companies": 4,
+      "entry_count": 1
+    },
+    {
+      "id": "scala",
+      "name": "Scala",
+      "category": "Languages",
+      "count": 5,
+      "pct": 3.3,
+      "tier": "rare",
+      "companies": 2,
+      "entry_count": 4
+    },
+    {
+      "id": "linux",
+      "name": "Linux & command line",
+      "category": "Tools",
+      "count": 4,
+      "pct": 2.6,
+      "tier": "rare",
+      "companies": 3,
+      "entry_count": 1
+    },
+    {
+      "id": "react",
+      "name": "React",
+      "category": "Web",
+      "count": 4,
+      "pct": 2.6,
+      "tier": "rare",
+      "companies": 3,
+      "entry_count": 0
+    },
+    {
+      "id": "nosql",
+      "name": "NoSQL databases",
+      "category": "Data engineering",
+      "count": 3,
+      "pct": 2.0,
+      "tier": "rare",
+      "companies": 3,
+      "entry_count": 0
+    },
+    {
+      "id": "graphql",
+      "name": "GraphQL",
+      "category": "Web",
+      "count": 2,
+      "pct": 1.3,
+      "tier": "rare",
+      "companies": 1,
+      "entry_count": 0
+    },
+    {
+      "id": "kafka",
+      "name": "Kafka",
+      "category": "Data engineering",
+      "count": 2,
+      "pct": 1.3,
+      "tier": "rare",
+      "companies": 2,
+      "entry_count": 0
+    },
+    {
+      "id": "nodejs",
+      "name": "Node.js",
+      "category": "Web",
+      "count": 2,
+      "pct": 1.3,
+      "tier": "rare",
+      "companies": 2,
+      "entry_count": 0
+    },
+    {
+      "id": "airflow",
+      "name": "Airflow",
+      "category": "Data engineering",
       "count": 1,
-      "pct": 1.7,
+      "pct": 0.7,
+      "tier": "rare",
+      "companies": 1,
+      "entry_count": 0
+    },
+    {
+      "id": "c-lang",
+      "name": "C",
+      "category": "Languages",
+      "count": 1,
+      "pct": 0.7,
+      "tier": "rare",
+      "companies": 1,
+      "entry_count": 0
+    },
+    {
+      "id": "c-sharp",
+      "name": "C#",
+      "category": "Languages",
+      "count": 1,
+      "pct": 0.7,
+      "tier": "rare",
+      "companies": 1,
+      "entry_count": 0
+    },
+    {
+      "id": "networking",
+      "name": "Computer networking",
+      "category": "CS fundamentals",
+      "count": 1,
+      "pct": 0.7,
+      "tier": "rare",
+      "companies": 1,
+      "entry_count": 0
+    },
+    {
+      "id": "data-visualization",
+      "name": "Data visualization",
+      "category": "Analysis",
+      "count": 1,
+      "pct": 0.7,
+      "tier": "rare",
+      "companies": 1,
+      "entry_count": 0
+    },
+    {
+      "id": "excel",
+      "name": "Excel / spreadsheets",
+      "category": "Analysis",
+      "count": 1,
+      "pct": 0.7,
+      "tier": "rare",
+      "companies": 1,
+      "entry_count": 0
+    },
+    {
+      "id": "microservices",
+      "name": "Microservices",
+      "category": "Web",
+      "count": 1,
+      "pct": 0.7,
+      "tier": "rare",
+      "companies": 1,
+      "entry_count": 0
+    },
+    {
+      "id": "nextjs",
+      "name": "Next.js",
+      "category": "Web",
+      "count": 1,
+      "pct": 0.7,
+      "tier": "rare",
+      "companies": 1,
+      "entry_count": 0
+    },
+    {
+      "id": "operating-systems",
+      "name": "Operating systems",
+      "category": "CS fundamentals",
+      "count": 1,
+      "pct": 0.7,
+      "tier": "rare",
+      "companies": 1,
+      "entry_count": 0
+    },
+    {
+      "id": "r",
+      "name": "R",
+      "category": "Languages",
+      "count": 1,
+      "pct": 0.7,
+      "tier": "rare",
+      "companies": 1,
+      "entry_count": 0
+    },
+    {
+      "id": "terraform",
+      "name": "Terraform",
+      "category": "Tools",
+      "count": 1,
+      "pct": 0.7,
       "tier": "rare",
       "companies": 1,
       "entry_count": 0
@@ -352,559 +662,1331 @@
   ],
   "company_counts": [
     [
-      "Demo Company P",
+      "Anthropic",
+      45
+    ],
+    [
+      "Waymo",
+      14
+    ],
+    [
+      "Databricks",
+      10
+    ],
+    [
+      "Stripe",
+      9
+    ],
+    [
+      "Figma",
+      7
+    ],
+    [
+      "Palantir",
+      7
+    ],
+    [
+      "Scale AI",
+      7
+    ],
+    [
+      "Zoox",
+      7
+    ],
+    [
+      "Pinterest",
       6
     ],
     [
-      "Demo Company R",
-      6
-    ],
-    [
-      "Demo Company D",
+      "Lyft",
       5
     ],
     [
-      "Demo Company E",
+      "GitLab",
       4
     ],
     [
-      "Demo Company G",
-      4
-    ],
-    [
-      "Demo Company J",
-      4
-    ],
-    [
-      "Demo Company M",
-      4
-    ],
-    [
-      "Demo Company A",
+      "Chime",
       3
     ],
     [
-      "Demo Company B",
+      "Coinbase",
       3
     ],
     [
-      "Demo Company C",
+      "Roblox",
       3
     ],
     [
-      "Demo Company F",
-      3
-    ],
-    [
-      "Demo Company H",
-      3
-    ],
-    [
-      "Demo Company I",
-      3
-    ],
-    [
-      "Demo Company K",
-      3
-    ],
-    [
-      "Demo Company L",
+      "Airbnb",
       2
     ],
     [
-      "Demo Company N",
+      "Brex",
       2
     ],
     [
-      "Demo Company O",
+      "Cloudflare",
+      2
+    ],
+    [
+      "Samsara",
+      2
+    ],
+    [
+      "Twilio",
+      2
+    ],
+    [
+      "Vercel",
+      2
+    ],
+    [
+      "Affirm",
       1
     ],
     [
-      "Demo Company Q",
+      "Asana",
+      1
+    ],
+    [
+      "Datadog",
+      1
+    ],
+    [
+      "Duolingo",
+      1
+    ],
+    [
+      "Gusto",
+      1
+    ],
+    [
+      "Instacart",
+      1
+    ],
+    [
+      "MongoDB",
+      1
+    ],
+    [
+      "Spotify",
+      1
+    ],
+    [
+      "Twitch",
       1
     ]
   ],
   "sample": [
     {
-      "company": "Demo Company F",
-      "title": "Research Engineer",
-      "url": null,
-      "location": null,
+      "company": "Affirm",
+      "title": "Machine Learning Engineer II (ROA + LTV ML)",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8033261003",
+      "location": "Remote Canada",
       "level": "open",
       "last_seen": "2026-11-21"
     },
     {
-      "company": "Demo Company Q",
-      "title": "Applied AI Engineer",
-      "url": null,
-      "location": null,
+      "company": "Airbnb",
+      "title": "Machine Learning Engineer, Assistance Engineering",
+      "url": "https://careers.airbnb.com/positions/7716341?gh_jid=7716341",
+      "location": "China",
       "level": "open",
       "last_seen": "2026-11-21"
     },
     {
-      "company": "Demo Company P",
-      "title": "Research Engineer",
-      "url": null,
-      "location": null,
+      "company": "Airbnb",
+      "title": "Machine Learning Engineer, Assistance Engineering",
+      "url": "https://careers.airbnb.com/positions/7826337?gh_jid=7826337",
+      "location": "Remote-USA",
       "level": "open",
       "last_seen": "2026-11-21"
     },
     {
-      "company": "Demo Company B",
-      "title": "AI Engineer",
-      "url": null,
-      "location": null,
+      "company": "Anthropic",
+      "title": "[Expression of Interest] Research Engineer / Scientist, Alignment - London",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4610158008",
+      "location": "London, UK",
       "level": "open",
       "last_seen": "2026-11-21"
     },
     {
-      "company": "Demo Company H",
-      "title": "Applied AI Engineer",
-      "url": null,
-      "location": null,
+      "company": "Anthropic",
+      "title": "Applied AI Engineer, Beneficial Deployments (Clinical Development, Rare and Neglected Diseases)",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5445760008",
+      "location": "London, UK",
       "level": "open",
       "last_seen": "2026-11-21"
     },
     {
-      "company": "Demo Company P",
+      "company": "Anthropic",
+      "title": "Applied AI Engineer, Beneficial Deployments (Lab Automation)",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5440821008",
+      "location": "London, UK",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Engineer, Beneficial Deployments, Life Sciences (Molecular Design)",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5437172008",
+      "location": "San Francisco, CA | New York City, NY",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Engineer, Commercial",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5483945008",
+      "location": "San Francisco, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Engineer, Enterprise",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5057647008",
+      "location": "San Francisco, CA | New York City, NY",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Engineer, Enterprise",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390754008",
+      "location": "Paris, France",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Engineer, Enterprise",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390795008",
+      "location": "Munich, Germany",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Engineer, Public Sector",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5445410008",
+      "location": "Washington, DC",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Engineer, Startups",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5432575008",
+      "location": "London, UK",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Engineer, Startups (Life Sciences)",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5454650008",
+      "location": "San Francisco, CA | New York City, NY",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Engineer, Startups (Physical AI)",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5454673008",
+      "location": "San Francisco, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI, Research Engineer",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390811008",
+      "location": "San Francisco, CA | New York City, NY",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied Scientist, Engineering",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468939008",
+      "location": "San Francisco, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Machine Learning Infrastructure Engineer, Safeguards Research",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5364804008",
+      "location": "San Francisco, CA | New York City, NY",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "ML/Research Engineer, Safeguards",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4949336008",
+      "location": "San Francisco, CA | New York City, NY",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer / Performance Engineer, RL Distributed Systems",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438030008",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer / Research Scientist, RL Frontiers",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438044008",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer / Research Scientist, Tokens",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4951814008",
+      "location": "New York City, NY; New York City, NY | Seattle, WA; San Francisco, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer / Scientist, Alignment",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4631822008",
+      "location": "San Francisco, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer / Scientist, Pre-training",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468947008",
+      "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer, AI Monitoring",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5477416008",
+      "location": "London, UK",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer, Beneficial Deployments",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5485188008",
+      "location": "San Francisco, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer, Chip Design RL",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5459098008",
+      "location": "San Francisco, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer, Code RL (Reinforcement Learning)",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5254364008",
+      "location": "San Francisco, CA | New York City, NY",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer, Cybersecurity RL",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5459191008",
+      "location": "San Francisco, CA | New York City, NY",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer, Cybersecurity RL (Reinforcement Learning)",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5412334008",
+      "location": "Zürich, CH",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer, Cybersecurity RL (Reinforcement Learning)",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5463598008",
+      "location": "San Francisco, CA | New York City, NY",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer, Discovery",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4669581008",
+      "location": "San Francisco, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer, Interpretability",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4980430008",
+      "location": "San Francisco, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer, Knowledge Team",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4017331008",
+      "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer, Life Sciences",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5265365008",
+      "location": "San Francisco, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer, Machine Learning (Reinforcement Learning)",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4613568008",
+      "location": "San Francisco, CA | New York City, NY",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer, Machine Learning (Reinforcement Learning)",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5115935008",
+      "location": "London, UK",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer, Machine Learning (RL Velocity)",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5198074008",
+      "location": "London, UK",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer, Machine Learning (RL Velocity)",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5198108008",
+      "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | New York City, NY",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer, Post-Training Model Evaluations",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5198255008",
+      "location": "San Francisco, CA | Seattle, WA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer, Pretraining",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5119713008",
+      "location": "London, UK",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer, Pretraining Scaling",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4938432008",
+      "location": "San Francisco, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer, Pretraining Scaling - London",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4938436008",
+      "location": "London, UK",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer, Production Model Post-Training",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4613592008",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer, Production Model Post-Training",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5112018008",
+      "location": "Zürich, CH",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer, RL Engineering",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4952051008",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer, Visual Knowledge Work",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5074217008",
+      "location": "New York City, NY; San Francisco, CA; Seattle, WA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Security Engineer / Research Engineer, RL Security",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5458420008",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Asana",
+      "title": "Software Engineer, AI",
+      "url": "https://www.asana.com/jobs/apply/7962306?gh_jid=7962306",
+      "location": "Vancouver, BC",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Brex",
+      "title": "AI Engineer, Ecosystem",
+      "url": "https://www.brex.com/careers/8606885002?gh_jid=8606885002",
+      "location": "Seattle, Washington, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Brex",
+      "title": "AI Engineer, Workbench",
+      "url": "https://www.brex.com/careers/8606845002?gh_jid=8606845002",
+      "location": "San Francisco, California, United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Chime",
+      "title": "AI/ML Engineer",
+      "url": "https://boards.greenhouse.io/chime/jobs/8569366002?gh_jid=8569366002",
+      "location": "Chicago, IL, USA; New York, NY, USA; San Francisco, CA, USA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Chime",
+      "title": "Software Engineer, Jade Awareness - AI Financial Partner",
+      "url": "https://boards.greenhouse.io/chime/jobs/8922481002?gh_jid=8922481002",
+      "location": "San Francisco, CA, USA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Chime",
+      "title": "Software Engineer, Jade Foundation - AI Financial Partner",
+      "url": "https://boards.greenhouse.io/chime/jobs/8868948002?gh_jid=8868948002",
+      "location": "San Francisco, CA, USA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Cloudflare",
+      "title": "AI Security Research & Red Team Engineer",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8097321?gh_jid=8097321",
+      "location": "Hybrid",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Customer Engineer AI/ Start Up's",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8350836?gh_jid=8350836",
+      "location": "Hybrid",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Coinbase",
       "title": "Machine Learning Engineer",
-      "url": null,
-      "location": null,
+      "url": "https://www.coinbase.com/careers/positions/7985187?gh_jid=7985187",
+      "location": "Remote - India",
       "level": "open",
       "last_seen": "2026-11-21"
     },
     {
-      "company": "Demo Company A",
-      "title": "Machine Learning Engineer",
-      "url": null,
-      "location": null,
-      "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Demo Company B",
-      "title": "Machine Learning Engineer",
-      "url": null,
-      "location": null,
-      "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Demo Company M",
-      "title": "Applied AI Engineer",
-      "url": null,
-      "location": null,
-      "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Demo Company O",
-      "title": "Machine Learning Engineer",
-      "url": null,
-      "location": null,
-      "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Demo Company F",
-      "title": "Machine Learning Engineer, New Grad",
-      "url": null,
-      "location": null,
+      "company": "Coinbase",
+      "title": "Machine Learning Engineer Intern",
+      "url": "https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441",
+      "location": "Hybrid - San Francisco, CA",
       "level": "entry",
       "last_seen": "2026-11-21"
     },
     {
-      "company": "Demo Company R",
-      "title": "Applied AI Engineer",
-      "url": null,
-      "location": null,
+      "company": "Coinbase",
+      "title": "Machine Learning Engineer, CX Intelligence",
+      "url": "https://www.coinbase.com/careers/positions/8031260?gh_jid=8031260",
+      "location": "Remote - Brazil",
       "level": "open",
       "last_seen": "2026-11-21"
     },
     {
-      "company": "Demo Company K",
-      "title": "Applied AI Engineer",
-      "url": null,
-      "location": null,
+      "company": "Databricks",
+      "title": "AI Automation Engineer",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8829033002",
+      "location": "Costa Rica",
       "level": "open",
       "last_seen": "2026-11-21"
     },
     {
-      "company": "Demo Company D",
-      "title": "Machine Learning Engineer, New Grad",
-      "url": null,
-      "location": null,
+      "company": "Databricks",
+      "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8574655002",
+      "location": "Seoul, South Korea",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Databricks",
+      "title": "AI Engineer – Forward Deployed Engineering (AI FDE)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002",
+      "location": "United States",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Databricks",
+      "title": "AI Engineer – Forward Deployed Engineering (AI FDE), U.S. Public Sector (Federal Focus)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760167002",
+      "location": "Maryland; Virginia; Washington, D.C.",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Databricks",
+      "title": "AI Forward Deployed Engineer",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8927179002",
+      "location": "London, United Kingdom",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Databricks",
+      "title": "AI Forward Deployed Engineer - France",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8929894002",
+      "location": "Paris, France",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Databricks",
+      "title": "AI Forward Deployed Engineer - Germany",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8930374002",
+      "location": "Munich, Germany",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Databricks",
+      "title": "AI Forward Deployed Engineer - Netherlands",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8930378002",
+      "location": "Amsterdam, Netherlands",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Databricks",
+      "title": "AI Forward Deployed Engineer - Sweden",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8930381002",
+      "location": "Stockholm, Sweden",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Databricks",
+      "title": "Applied AI Engineer",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8091041002",
+      "location": "Belgrade, Serbia",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Datadog",
+      "title": "AI Research Engineer - Datadog AI Research",
+      "url": "https://careers.datadoghq.com/detail/7194969/?gh_jid=7194969",
+      "location": "Paris, France",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Duolingo",
+      "title": "AI Research Engineer, New PhD Graduate",
+      "url": "https://careers.duolingo.com/jobs/8881612002?gh_jid=8881612002",
+      "location": "New York, NY; Pittsburgh, PA",
       "level": "entry",
       "last_seen": "2026-11-21"
     },
     {
-      "company": "Demo Company M",
-      "title": "AI Engineer",
-      "url": null,
-      "location": null,
+      "company": "Figma",
+      "title": "AI Applied Scientist",
+      "url": "https://boards.greenhouse.io/figma/jobs/5707966004?gh_jid=5707966004",
+      "location": "San Francisco, CA • New York, NY • United States",
       "level": "open",
       "last_seen": "2026-11-21"
     },
     {
-      "company": "Demo Company I",
-      "title": "Machine Learning Engineer",
-      "url": null,
-      "location": null,
+      "company": "Figma",
+      "title": "AI Engineer, Internal Tools",
+      "url": "https://boards.greenhouse.io/figma/jobs/6233043004?gh_jid=6233043004",
+      "location": "San Francisco, CA • New York, NY • United States",
       "level": "open",
       "last_seen": "2026-11-21"
     },
     {
-      "company": "Demo Company N",
-      "title": "Machine Learning Engineer",
-      "url": null,
-      "location": null,
-      "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Demo Company P",
-      "title": "Machine Learning Engineer, New Grad",
-      "url": null,
-      "location": null,
+      "company": "Figma",
+      "title": "PhD Intern, AI Applied Scientist (2027)",
+      "url": "https://boards.greenhouse.io/figma/jobs/6207801004?gh_jid=6207801004",
+      "location": "San Francisco, CA • New York, NY",
       "level": "entry",
       "last_seen": "2026-11-21"
     },
     {
-      "company": "Demo Company R",
-      "title": "Applied AI Engineer",
-      "url": null,
-      "location": null,
+      "company": "Figma",
+      "title": "Software Engineer - AI Platforms",
+      "url": "https://boards.greenhouse.io/figma/jobs/5691886004?gh_jid=5691886004",
+      "location": "San Francisco, CA • New York, NY • United States",
       "level": "open",
       "last_seen": "2026-11-21"
     },
     {
-      "company": "Demo Company M",
-      "title": "Research Engineer",
-      "url": null,
-      "location": null,
+      "company": "Figma",
+      "title": "Software Engineer - AI Product",
+      "url": "https://boards.greenhouse.io/figma/jobs/5551730004?gh_jid=5551730004",
+      "location": "San Francisco, CA • New York, NY • United States",
       "level": "open",
       "last_seen": "2026-11-21"
     },
     {
-      "company": "Demo Company E",
-      "title": "AI Engineer",
-      "url": null,
-      "location": null,
+      "company": "Figma",
+      "title": "Software Engineer - AI Product (London, United Kingdom)",
+      "url": "https://boards.greenhouse.io/figma/jobs/5551697004?gh_jid=5551697004",
+      "location": "London, England",
       "level": "open",
       "last_seen": "2026-11-21"
     },
     {
-      "company": "Demo Company J",
-      "title": "AI Engineer",
-      "url": null,
-      "location": null,
+      "company": "Figma",
+      "title": "Software Engineer - Machine Learning",
+      "url": "https://boards.greenhouse.io/figma/jobs/5551532004?gh_jid=5551532004",
+      "location": "San Francisco, CA • New York, NY • United States",
       "level": "open",
       "last_seen": "2026-11-21"
     },
     {
-      "company": "Demo Company R",
-      "title": "Machine Learning Engineer",
-      "url": null,
-      "location": null,
+      "company": "GitLab",
+      "title": "Backend Engineer (Python),AI Engineering: Agent Foundations",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8704363002",
+      "location": "Remote, Canada; Remote, Poland; Remote, United Kingdom",
       "level": "open",
       "last_seen": "2026-11-21"
     },
     {
-      "company": "Demo Company A",
-      "title": "Machine Learning Engineer, New Grad",
-      "url": null,
-      "location": null,
+      "company": "GitLab",
+      "title": "Backend Engineer (Ruby), AI Engineering: AI Catalog",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8940898002",
+      "location": "Remote, United Kingdom",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "GitLab",
+      "title": "Fullstack Engineer (TypeScript), AI Engineering: Duo Client SDK",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8698330002",
+      "location": "Remote, Canada",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "GitLab",
+      "title": "Threat Research Engineer, Security Factory: Threat Research",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8891698002",
+      "location": "Remote, Israel; Remote, Poland; Remote, United Kingdom",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Gusto",
+      "title": "Enterprise Application AI Engineer",
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/7369003",
+      "location": "San Francisco, CA - Hybrid",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Instacart",
+      "title": "Applied Scientist II - Advertiser Optimization",
+      "url": "https://instacart.careers/job/?gh_jid=8403432",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Lyft",
+      "title": "Applied Scientist Intern, PhD (Summer 2027)",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8843341002?gh_jid=8843341002",
+      "location": "San Francisco, CA",
       "level": "entry",
       "last_seen": "2026-11-21"
     },
     {
-      "company": "Demo Company D",
-      "title": "Machine Learning Engineer, New Grad",
-      "url": null,
-      "location": null,
+      "company": "Lyft",
+      "title": "Machine Learning Engineer, Safety and Customer Care AI",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8684440002?gh_jid=8684440002",
+      "location": "Toronto, Canada",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Lyft",
+      "title": "ML Engineer, Marketplace",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8944659002?gh_jid=8944659002",
+      "location": "Toronto, Canada",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Lyft",
+      "title": "PhD Machine Learning Software Engineer Intern (Summer 2027)",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002",
+      "location": "San Francisco, CA",
       "level": "entry",
       "last_seen": "2026-11-21"
     },
     {
-      "company": "Demo Company C",
-      "title": "Machine Learning Engineer",
-      "url": null,
-      "location": null,
-      "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Demo Company R",
-      "title": "Research Engineer",
-      "url": null,
-      "location": null,
-      "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Demo Company H",
-      "title": "Applied AI Engineer",
-      "url": null,
-      "location": null,
-      "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Demo Company G",
-      "title": "AI Engineer",
-      "url": null,
-      "location": null,
-      "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Demo Company P",
-      "title": "Machine Learning Engineer",
-      "url": null,
-      "location": null,
-      "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Demo Company J",
-      "title": "Applied AI Engineer",
-      "url": null,
-      "location": null,
-      "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Demo Company K",
-      "title": "AI Engineer",
-      "url": null,
-      "location": null,
-      "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Demo Company P",
-      "title": "Applied AI Engineer",
-      "url": null,
-      "location": null,
-      "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Demo Company M",
-      "title": "Machine Learning Engineer, New Grad",
-      "url": null,
-      "location": null,
+      "company": "Lyft",
+      "title": "Software Engineer Intern, Machine Learning (Summer 2027 - Toronto)",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002",
+      "location": "Toronto, Canada",
       "level": "entry",
       "last_seen": "2026-11-21"
     },
     {
-      "company": "Demo Company E",
-      "title": "Machine Learning Engineer",
-      "url": null,
-      "location": null,
+      "company": "MongoDB",
+      "title": "Software Engineer 3, AI Framework Integrations",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8127772",
+      "location": "Gurugram",
       "level": "open",
       "last_seen": "2026-11-21"
     },
     {
-      "company": "Demo Company E",
-      "title": "Research Engineer",
-      "url": null,
-      "location": null,
+      "company": "Palantir",
+      "title": "Forward Deployed AI Engineer",
+      "url": "https://jobs.lever.co/palantir/636fc05c-d348-4a06-be51-597cb9e07488",
+      "location": "New York, NY",
       "level": "open",
       "last_seen": "2026-11-21"
     },
     {
-      "company": "Demo Company C",
-      "title": "Machine Learning Engineer, New Grad",
-      "url": null,
-      "location": null,
+      "company": "Palantir",
+      "title": "Forward Deployed AI Engineer",
+      "url": "https://jobs.lever.co/palantir/ff1029bd-bb6d-4d78-a03e-5f9744d0b798",
+      "location": "London, United Kingdom",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Palantir",
+      "title": "Software Engineer - Applied AI, Defense Applications",
+      "url": "https://jobs.lever.co/palantir/6b4b087c-4fc6-476d-9e72-e1bc6ac6c62a",
+      "location": "New York, NY",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Palantir",
+      "title": "Software Engineer - Applied AI, Defense Applications",
+      "url": "https://jobs.lever.co/palantir/ca222ecd-b659-4e3e-aee5-d85655c7bbc8",
+      "location": "Washington, D.C.",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Palantir",
+      "title": "Software Engineer - Edge AI Systems",
+      "url": "https://jobs.lever.co/palantir/67110929-adea-41c3-851a-8882e222d9e4",
+      "location": "Seattle, WA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Palantir",
+      "title": "Software Engineer, Internship - Sovereign AI Systems",
+      "url": "https://jobs.lever.co/palantir/40840cef-bbd7-4557-bb21-cbdcf4be616e",
+      "location": "London, United Kingdom",
       "level": "entry",
       "last_seen": "2026-11-21"
     },
     {
-      "company": "Demo Company I",
-      "title": "Research Engineer",
-      "url": null,
-      "location": null,
-      "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Demo Company K",
-      "title": "Applied AI Engineer",
-      "url": null,
-      "location": null,
-      "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Demo Company A",
-      "title": "Research Engineer",
-      "url": null,
-      "location": null,
-      "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Demo Company D",
-      "title": "Machine Learning Engineer, New Grad",
-      "url": null,
-      "location": null,
+      "company": "Palantir",
+      "title": "Software Engineer, Internship - Sovereign AI Systems",
+      "url": "https://jobs.lever.co/palantir/cd64bcd4-50bb-4aeb-a135-4e0487ffd312",
+      "location": "New York, NY",
       "level": "entry",
       "last_seen": "2026-11-21"
     },
     {
-      "company": "Demo Company L",
-      "title": "Applied AI Engineer",
-      "url": null,
-      "location": null,
+      "company": "Pinterest",
+      "title": "Machine Learning Engineer II, Core Engineering",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7473497",
+      "location": "Toronto, ON, CA",
       "level": "open",
       "last_seen": "2026-11-21"
     },
     {
-      "company": "Demo Company J",
-      "title": "Machine Learning Engineer",
-      "url": null,
-      "location": null,
+      "company": "Pinterest",
+      "title": "Machine Learning Engineer II, Responsible AI",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7697137",
+      "location": "San Francisco, CA, US; Remote, US",
       "level": "open",
       "last_seen": "2026-11-21"
     },
     {
-      "company": "Demo Company G",
-      "title": "AI Engineer",
-      "url": null,
-      "location": null,
+      "company": "Pinterest",
+      "title": "Machine Learning Engineer, Core Engineering",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6121450",
+      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; Remote, US",
       "level": "open",
       "last_seen": "2026-11-21"
     },
     {
-      "company": "Demo Company C",
-      "title": "Research Engineer",
-      "url": null,
-      "location": null,
+      "company": "Pinterest",
+      "title": "Machine Learning Engineer, EPD Ads",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6121543",
+      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",
       "level": "open",
       "last_seen": "2026-11-21"
     },
     {
-      "company": "Demo Company R",
-      "title": "Research Engineer",
-      "url": null,
-      "location": null,
-      "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Demo Company G",
-      "title": "Machine Learning Engineer",
-      "url": null,
-      "location": null,
-      "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Demo Company P",
-      "title": "AI Engineer",
-      "url": null,
-      "location": null,
-      "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Demo Company D",
-      "title": "Machine Learning Engineer",
-      "url": null,
-      "location": null,
-      "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Demo Company R",
-      "title": "Research Engineer",
-      "url": null,
-      "location": null,
-      "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Demo Company J",
-      "title": "Machine Learning Engineer, New Grad",
-      "url": null,
-      "location": null,
+      "company": "Pinterest",
+      "title": "Master's University Grad Machine Learning Engineer 2027 (USA)",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140219",
+      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
       "level": "entry",
       "last_seen": "2026-11-21"
     },
     {
-      "company": "Demo Company G",
-      "title": "AI Engineer",
-      "url": null,
-      "location": null,
-      "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Demo Company L",
-      "title": "AI Engineer",
-      "url": null,
-      "location": null,
-      "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Demo Company N",
-      "title": "AI Engineer",
-      "url": null,
-      "location": null,
-      "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Demo Company E",
-      "title": "Applied AI Engineer",
-      "url": null,
-      "location": null,
-      "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Demo Company I",
-      "title": "Machine Learning Engineer",
-      "url": null,
-      "location": null,
-      "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Demo Company B",
-      "title": "Machine Learning Engineer, New Grad",
-      "url": null,
-      "location": null,
+      "company": "Pinterest",
+      "title": "PhD University Grad Machine Learning Engineer (USA)",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140363",
+      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",
       "level": "entry",
       "last_seen": "2026-11-21"
     },
     {
-      "company": "Demo Company F",
-      "title": "Machine Learning Engineer",
-      "url": null,
-      "location": null,
+      "company": "Roblox",
+      "title": "[2027] Applied Scientist - PhD Intern",
+      "url": "https://careers.roblox.com/jobs/8242621?gh_jid=8242621",
+      "location": "San Mateo, CA, United States",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Roblox",
+      "title": "Software Engineer, GenAI Platform",
+      "url": "https://careers.roblox.com/jobs/8171283?gh_jid=8171283",
+      "location": "San Mateo, CA, United States",
       "level": "open",
       "last_seen": "2026-11-21"
     },
     {
-      "company": "Demo Company H",
-      "title": "Machine Learning Engineer",
-      "url": null,
-      "location": null,
+      "company": "Roblox",
+      "title": "Software Engineer, ROS Open Platform & AI Enablement",
+      "url": "https://careers.roblox.com/jobs/8356764?gh_jid=8356764",
+      "location": "San Mateo, CA, United States",
       "level": "open",
       "last_seen": "2026-11-21"
     },
     {
-      "company": "Demo Company D",
+      "company": "Samsara",
+      "title": "AI Engineer, Customer Success",
+      "url": "https://www.samsara.com/company/careers/roles/8024110?gh_jid=8024110",
+      "location": "Remote - Austin; Remote - CA; Remote - Chicago; Remote - Dallas; Remote - Houston; Remote - Seattle",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Samsara",
+      "title": "People Analytics AI Engineer",
+      "url": "https://www.samsara.com/company/careers/roles/7858719?gh_jid=7858719",
+      "location": "Remote - DC; Remote - NYC; Remote - Seattle; Remote - SF Bay Area",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Scale AI",
       "title": "Applied AI Engineer",
-      "url": null,
-      "location": null,
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4751059005",
+      "location": "Kuwait City, Kuwait",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Scale AI",
+      "title": "Frontier Agents Engineer (Applied AI)",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4720573005",
+      "location": "San Francisco, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Scale AI",
+      "title": "Infrastructure Software Engineer, Enterprise GenAI",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4665557005",
+      "location": "San Francisco, CA; New York, NY",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Scale AI",
+      "title": "Machine Learning Engineer, Public Sector",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4631848005",
+      "location": "Denver, CO; Honolulu, HI; Washington, DC",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Scale AI",
+      "title": "ML Research Engineer, ML Systems",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4534631005",
+      "location": "San Francisco, CA; Seattle, WA; New York, NY",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Scale AI",
+      "title": "Software Engineer, Enterprise AI",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4513943005",
+      "location": "New York, NY; San Francisco, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Scale AI",
+      "title": "Software Engineer, Frontier AI Infrastructure",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4363623005",
+      "location": "San Francisco, CA; St. Louis, MO; New York, NY; Washington, DC",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Spotify",
+      "title": "Machine Learning Engineer - Subscriptions",
+      "url": "https://jobs.lever.co/spotify/19c12e29-b6d4-4d97-9053-48238fb7c381",
+      "location": "London",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Stripe",
+      "title": "AI Engineer",
+      "url": "https://stripe.com/jobs/search?gh_jid=8144196",
+      "location": "Chicago",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Stripe",
+      "title": "Machine Learning Engineer, Growth Platform",
+      "url": "https://stripe.com/jobs/search?gh_jid=8224915",
+      "location": "San Francisco",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Stripe",
+      "title": "Machine Learning Engineer, Link",
+      "url": "https://stripe.com/jobs/search?gh_jid=8197886",
+      "location": "New York City ",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Stripe",
+      "title": "Machine Learning Engineer, Radar",
+      "url": "https://stripe.com/jobs/search?gh_jid=8243617",
+      "location": "Seattle",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Stripe",
+      "title": "Machine Learning Engineer, Transaction Risk",
+      "url": "https://stripe.com/jobs/search?gh_jid=8187574",
+      "location": "Seattle, New York City",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Stripe",
+      "title": "Master's Machine Learning Engineer, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=8333074",
+      "location": "San Francisco, New York City, Seattle",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Stripe",
+      "title": "Master's Machine Learning Engineer, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=8333122",
+      "location": "Toronto",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Stripe",
+      "title": "PhD Machine Learning Engineer, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=8328662",
+      "location": "San Francisco, New York City, Seattle",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Stripe",
+      "title": "PhD Machine Learning Engineer, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=8328664",
+      "location": "Toronto",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Twilio",
+      "title": "Machine Learning Engineer (L3)",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8258587",
+      "location": "Remote - India",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Twilio",
+      "title": "Machine Learning Engineer 2",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8240487",
+      "location": "Remote - US",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Twitch",
+      "title": "Applied Scientist",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8872835002",
+      "location": "San Francisco, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Vercel",
+      "title": "Machine Learning Engineer, Trust & Safety",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/6208037004",
+      "location": "Hybrid - San Francisco, New York City",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Vercel",
+      "title": "Software Engineer, AI Gateway",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/5798406004",
+      "location": "Hybrid - San Francisco",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS/PhD, Machine Learning Engineer",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8223735",
+      "location": "San Francisco, CA, USA",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS/PhD, Software Engineer, ML Frameworks and Efficiency",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8287385",
+      "location": "Mountain View, CA, USA",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS/PhD, Software Engineer, Simulation Evaluation ML Model",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8221795",
+      "location": "Mountain View, California, USA",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS/PhD, Software Engineer, Sys Intel & Machine Learning",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8233746",
+      "location": "Mountain View, CA, USA",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS/PhD, Software/ML Engineer, Simulation",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8221851",
+      "location": "Mountain View, California, USA",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Waymo",
+      "title": "Machine Learning Engineer - Gen SWE",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8212440",
+      "location": "Mountain View, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Waymo",
+      "title": "Machine Learning Engineer / Applied Scientist, Prediction & Planning",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=7309064",
+      "location": "Mountain View, CA USA; San Francisco, CA USA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Waymo",
+      "title": "Machine Learning Engineer, Driver Refinement & Validation",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8039191",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA; Pittsburgh, PA, USA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Waymo",
+      "title": "Machine Learning Engineer, Driver Refinement & Validation, Perception",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8212478",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Waymo",
+      "title": "Machine Learning Engineer, Marketplace Pricing",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=7905643",
+      "location": "MountainView, CA, United States  ",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Waymo",
+      "title": "Machine Learning Engineer, Prediction & Planning",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=6506689",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Waymo",
+      "title": "Machine Learning Engineer, Simulation Realism",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=6499165",
+      "location": "Mountain View, CA, USA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Waymo",
+      "title": "Perception Machine Learning Engineer - Continuous Learning",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8127006",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Waymo",
+      "title": "Software Engineer, Machine Learning Tooling",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=7698498",
+      "location": "Taipei, Taiwan; Hsinchu, Taiwan",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Zoox",
+      "title": "Contract Student Worker – AI Validation and Benchmarking Engineer (40hrs / week Full-Time)",
+      "url": "https://jobs.lever.co/zoox/cc43bf88-ed84-408f-a557-3d1c7263ddff",
+      "location": "Foster City, CA",
+      "level": "entry",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Zoox",
+      "title": "Machine Learning Engineer - 3D Sensor Simulation",
+      "url": "https://jobs.lever.co/zoox/2347453a-f11f-4dc2-ad14-572bc1f6247f",
+      "location": "Foster City, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Zoox",
+      "title": "Machine Learning Engineer - Vision Foundation Models",
+      "url": "https://jobs.lever.co/zoox/06f146c2-25f6-40fd-8393-4f92ce518929",
+      "location": "Foster City, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Zoox",
+      "title": "Machine Learning Engineer, 3D Simulation",
+      "url": "https://jobs.lever.co/zoox/2d73563c-8039-4d1b-844c-3953259ba6b1",
+      "location": "Foster City, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Zoox",
+      "title": "Software Engineer - Learned Trajectory Machine Learning Engineer",
+      "url": "https://jobs.lever.co/zoox/9176aa65-14e3-4f9d-98f9-e755e9777d67",
+      "location": "Foster City, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Zoox",
+      "title": "Software Engineer, ML Inference Optimization",
+      "url": "https://jobs.lever.co/zoox/bc11276c-8db7-426e-9d00-d41c2097723a",
+      "location": "Foster City, CA",
+      "level": "open",
+      "last_seen": "2026-11-21"
+    },
+    {
+      "company": "Zoox",
+      "title": "Software Engineer, ML Training Optimization",
+      "url": "https://jobs.lever.co/zoox/91ff6263-49fb-421e-860f-36e7b9bae784",
+      "location": "Foster City, CA",
       "level": "open",
       "last_seen": "2026-11-21"
     }
   ],
-  "generated_at": "2026-11-21T07:00:00+00:00"
+  "generated_at": "2026-11-21T07:22:34+00:00"
 }

@@ -1,0 +1,345 @@
+{
+  "ran_at": "2026-11-21T07:22:33+00:00",
+  "boards_ok": 40,
+  "boards_failed": 3,
+  "boards": [
+    {
+      "name": "Stripe",
+      "source": "greenhouse",
+      "board": "stripe",
+      "status": "ok",
+      "jobs": 778,
+      "kept": 86
+    },
+    {
+      "name": "GitLab",
+      "source": "greenhouse",
+      "board": "gitlab",
+      "status": "ok",
+      "jobs": 246,
+      "kept": 18
+    },
+    {
+      "name": "Airbnb",
+      "source": "greenhouse",
+      "board": "airbnb",
+      "status": "ok",
+      "jobs": 202,
+      "kept": 5
+    },
+    {
+      "name": "Anthropic",
+      "source": "greenhouse",
+      "board": "anthropic",
+      "status": "ok",
+      "jobs": 633,
+      "kept": 62
+    },
+    {
+      "name": "Databricks",
+      "source": "greenhouse",
+      "board": "databricks",
+      "status": "ok",
+      "jobs": 897,
+      "kept": 22
+    },
+    {
+      "name": "Figma",
+      "source": "greenhouse",
+      "board": "figma",
+      "status": "ok",
+      "jobs": 147,
+      "kept": 19
+    },
+    {
+      "name": "Discord",
+      "source": "greenhouse",
+      "board": "discord",
+      "status": "ok",
+      "jobs": 29,
+      "kept": 0
+    },
+    {
+      "name": "Robinhood",
+      "source": "greenhouse",
+      "board": "robinhood",
+      "status": "ok",
+      "jobs": 163,
+      "kept": 15
+    },
+    {
+      "name": "Coinbase",
+      "source": "greenhouse",
+      "board": "coinbase",
+      "status": "ok",
+      "jobs": 252,
+      "kept": 13
+    },
+    {
+      "name": "Dropbox",
+      "source": "greenhouse",
+      "board": "dropbox",
+      "status": "ok",
+      "jobs": 47,
+      "kept": 7
+    },
+    {
+      "name": "Pinterest",
+      "source": "greenhouse",
+      "board": "pinterest",
+      "status": "ok",
+      "jobs": 174,
+      "kept": 13
+    },
+    {
+      "name": "Lyft",
+      "source": "greenhouse",
+      "board": "lyft",
+      "status": "ok",
+      "jobs": 148,
+      "kept": 16
+    },
+    {
+      "name": "Instacart",
+      "source": "greenhouse",
+      "board": "instacart",
+      "status": "ok",
+      "jobs": 92,
+      "kept": 1
+    },
+    {
+      "name": "Reddit",
+      "source": "greenhouse",
+      "board": "reddit",
+      "status": "ok",
+      "jobs": 148,
+      "kept": 7
+    },
+    {
+      "name": "Twilio",
+      "source": "greenhouse",
+      "board": "twilio",
+      "status": "ok",
+      "jobs": 109,
+      "kept": 7
+    },
+    {
+      "name": "Cloudflare",
+      "source": "greenhouse",
+      "board": "cloudflare",
+      "status": "ok",
+      "jobs": 503,
+      "kept": 44
+    },
+    {
+      "name": "Datadog",
+      "source": "greenhouse",
+      "board": "datadog",
+      "status": "ok",
+      "jobs": 382,
+      "kept": 1
+    },
+    {
+      "name": "MongoDB",
+      "source": "greenhouse",
+      "board": "mongodb",
+      "status": "ok",
+      "jobs": 417,
+      "kept": 24
+    },
+    {
+      "name": "Okta",
+      "source": "greenhouse",
+      "board": "okta",
+      "status": "ok",
+      "jobs": 372,
+      "kept": 1
+    },
+    {
+      "name": "Asana",
+      "source": "greenhouse",
+      "board": "asana",
+      "status": "ok",
+      "jobs": 111,
+      "kept": 7
+    },
+    {
+      "name": "Duolingo",
+      "source": "greenhouse",
+      "board": "duolingo",
+      "status": "ok",
+      "jobs": 54,
+      "kept": 2
+    },
+    {
+      "name": "Scale AI",
+      "source": "greenhouse",
+      "board": "scaleai",
+      "status": "ok",
+      "jobs": 169,
+      "kept": 17
+    },
+    {
+      "name": "Brex",
+      "source": "greenhouse",
+      "board": "brex",
+      "status": "ok",
+      "jobs": 249,
+      "kept": 15
+    },
+    {
+      "name": "Affirm",
+      "source": "greenhouse",
+      "board": "affirm",
+      "status": "ok",
+      "jobs": 222,
+      "kept": 33
+    },
+    {
+      "name": "Gusto",
+      "source": "greenhouse",
+      "board": "gusto",
+      "status": "ok",
+      "jobs": 82,
+      "kept": 2
+    },
+    {
+      "name": "Samsara",
+      "source": "greenhouse",
+      "board": "samsara",
+      "status": "ok",
+      "jobs": 288,
+      "kept": 5
+    },
+    {
+      "name": "Squarespace",
+      "source": "greenhouse",
+      "board": "squarespace",
+      "status": "ok",
+      "jobs": 20,
+      "kept": 0
+    },
+    {
+      "name": "Airtable",
+      "source": "greenhouse",
+      "board": "airtable",
+      "status": "ok",
+      "jobs": 11,
+      "kept": 0
+    },
+    {
+      "name": "Webflow",
+      "source": "greenhouse",
+      "board": "webflow",
+      "status": "ok",
+      "jobs": 0,
+      "kept": 0
+    },
+    {
+      "name": "Vercel",
+      "source": "greenhouse",
+      "board": "vercel",
+      "status": "ok",
+      "jobs": 86,
+      "kept": 19
+    },
+    {
+      "name": "Twitch",
+      "source": "greenhouse",
+      "board": "twitch",
+      "status": "ok",
+      "jobs": 50,
+      "kept": 9
+    },
+    {
+      "name": "Roblox",
+      "source": "greenhouse",
+      "board": "roblox",
+      "status": "ok",
+      "jobs": 260,
+      "kept": 20
+    },
+    {
+      "name": "Waymo",
+      "source": "greenhouse",
+      "board": "waymo",
+      "status": "ok",
+      "jobs": 363,
+      "kept": 27
+    },
+    {
+      "name": "Elastic",
+      "source": "greenhouse",
+      "board": "elastic",
+      "status": "ok",
+      "jobs": 382,
+      "kept": 3
+    },
+    {
+      "name": "Grammarly",
+      "source": "greenhouse",
+      "board": "grammarly",
+      "status": "not_found"
+    },
+    {
+      "name": "Chime",
+      "source": "greenhouse",
+      "board": "chime",
+      "status": "ok",
+      "jobs": 80,
+      "kept": 10
+    },
+    {
+      "name": "Flexport",
+      "source": "greenhouse",
+      "board": "flexport",
+      "status": "ok",
+      "jobs": 212,
+      "kept": 7
+    },
+    {
+      "name": "Faire",
+      "source": "greenhouse",
+      "board": "faire",
+      "status": "ok",
+      "jobs": 74,
+      "kept": 1
+    },
+    {
+      "name": "Palantir",
+      "source": "lever",
+      "board": "palantir",
+      "status": "ok",
+      "jobs": 308,
+      "kept": 148
+    },
+    {
+      "name": "Spotify",
+      "source": "lever",
+      "board": "spotify",
+      "status": "ok",
+      "jobs": 91,
+      "kept": 7
+    },
+    {
+      "name": "Plaid",
+      "source": "lever",
+      "board": "plaid",
+      "status": "not_found"
+    },
+    {
+      "name": "Mistral AI",
+      "source": "lever",
+      "board": "mistral",
+      "status": "not_found"
+    },
+    {
+      "name": "Zoox",
+      "source": "lever",
+      "board": "zoox",
+      "status": "ok",
+      "jobs": 244,
+      "kept": 33
+    }
+  ]
+}

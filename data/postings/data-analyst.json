@@ -1,1233 +1,537 @@
 [
   {
-    "key": "demo:data-analyst:0",
-    "company": "Demo Company E",
-    "title": "Product Analyst",
-    "url": null,
-    "location": null,
+    "key": "greenhouse:asana:8282518",
+    "company": "Asana",
+    "title": "Legal Operations Analyst",
+    "url": "https://www.asana.com/jobs/apply/8282518?gh_jid=8282518",
+    "location": "Chicago",
     "level": "open",
-    "posted_at": null,
+    "posted_at": "2026-10-30T16:28:47-04:00",
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
     "skills": [
-      "communication",
-      "cross-functional",
       "dashboards",
-      "data-visualization",
-      "excel",
-      "python",
-      "sql",
-      "statistics"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:1",
-    "company": "Demo Company N",
-    "title": "Data Analyst Intern",
-    "url": null,
-    "location": null,
-    "level": "entry",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
       "communication",
-      "cross-functional",
-      "dashboards",
-      "excel",
-      "machine-learning",
-      "python",
-      "sql",
-      "tableau"
+      "cross-functional"
     ]
   },
   {
-    "key": "demo:data-analyst:2",
-    "company": "Demo Company L",
-    "title": "Analytics Analyst",
-    "url": null,
-    "location": null,
-    "level": "open",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "ab-testing",
-      "cross-functional",
-      "dashboards",
-      "excel",
-      "machine-learning",
-      "python",
-      "sql",
-      "statistics"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:3",
-    "company": "Demo Company J",
-    "title": "Business Intelligence Analyst",
-    "url": null,
-    "location": null,
-    "level": "open",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "communication",
-      "cross-functional",
-      "sql",
-      "statistics",
-      "tableau"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:4",
-    "company": "Demo Company K",
+    "key": "greenhouse:cloudflare:8109620",
+    "company": "Cloudflare",
     "title": "Data Analyst",
-    "url": null,
-    "location": null,
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8109620?gh_jid=8109620",
+    "location": "Hybrid",
     "level": "open",
-    "posted_at": null,
+    "posted_at": "2026-08-10T10:31:48-04:00",
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
     "skills": [
-      "cross-functional",
-      "dashboards",
-      "data-pipelines",
-      "data-visualization",
-      "sql"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:5",
-    "company": "Demo Company R",
-    "title": "Data Analyst",
-    "url": null,
-    "location": null,
-    "level": "open",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "cross-functional",
-      "dashboards",
-      "data-warehouse",
+      "python",
+      "sql",
       "r",
-      "sql",
-      "statistics"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:6",
-    "company": "Demo Company E",
-    "title": "Data Analyst Intern",
-    "url": null,
-    "location": null,
-    "level": "entry",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "cross-functional",
-      "dashboards",
-      "data-modeling",
-      "data-pipelines",
-      "looker",
-      "sql"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:7",
-    "company": "Demo Company I",
-    "title": "Analytics Analyst",
-    "url": null,
-    "location": null,
-    "level": "open",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "communication",
-      "data-pipelines",
-      "data-visualization",
-      "dbt",
-      "python",
-      "r",
-      "sql",
-      "statistics",
-      "tableau"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:8",
-    "company": "Demo Company R",
-    "title": "Data Analyst",
-    "url": null,
-    "location": null,
-    "level": "open",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "communication",
-      "cross-functional",
-      "dashboards",
-      "data-modeling",
-      "data-pipelines",
-      "data-visualization",
-      "dbt",
-      "python",
-      "sql",
-      "statistics"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:9",
-    "company": "Demo Company H",
-    "title": "Data Analyst",
-    "url": null,
-    "location": null,
-    "level": "open",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "communication",
-      "excel",
-      "power-bi",
-      "sql"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:10",
-    "company": "Demo Company I",
-    "title": "Business Intelligence Analyst",
-    "url": null,
-    "location": null,
-    "level": "open",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "communication",
-      "cross-functional",
-      "data-visualization",
-      "excel",
-      "sql",
-      "statistics"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:11",
-    "company": "Demo Company I",
-    "title": "Analytics Analyst",
-    "url": null,
-    "location": null,
-    "level": "open",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "communication",
-      "cross-functional",
-      "data-modeling",
-      "data-warehouse",
-      "machine-learning",
-      "python",
-      "r",
-      "sql",
-      "statistics"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:12",
-    "company": "Demo Company M",
-    "title": "Business Intelligence Analyst",
-    "url": null,
-    "location": null,
-    "level": "open",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "ab-testing",
-      "cross-functional",
-      "data-pipelines",
-      "excel",
-      "python",
-      "tableau"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:13",
-    "company": "Demo Company R",
-    "title": "Product Analyst",
-    "url": null,
-    "location": null,
-    "level": "open",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "communication",
-      "cross-functional",
-      "dashboards",
-      "data-modeling",
-      "data-visualization",
-      "excel",
-      "python",
-      "r",
-      "sql",
-      "tableau"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:14",
-    "company": "Demo Company K",
-    "title": "Data Analyst",
-    "url": null,
-    "location": null,
-    "level": "open",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "ab-testing",
-      "communication",
-      "cross-functional",
-      "python",
-      "r",
-      "sql",
-      "statistics"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:15",
-    "company": "Demo Company P",
-    "title": "Business Intelligence Analyst",
-    "url": null,
-    "location": null,
-    "level": "open",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "communication",
-      "cross-functional",
-      "data-modeling",
-      "data-visualization",
-      "dbt",
-      "machine-learning",
-      "python",
-      "r",
-      "sql",
-      "statistics"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:16",
-    "company": "Demo Company H",
-    "title": "Product Analyst",
-    "url": null,
-    "location": null,
-    "level": "open",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "cross-functional",
-      "dashboards",
-      "data-pipelines",
-      "data-warehouse",
-      "dbt",
-      "excel",
-      "looker",
-      "sql",
-      "statistics"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:17",
-    "company": "Demo Company P",
-    "title": "Data Analyst Intern",
-    "url": null,
-    "location": null,
-    "level": "entry",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "ab-testing",
-      "cross-functional",
-      "data-modeling",
-      "excel",
-      "python",
-      "r",
-      "sql",
-      "statistics"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:18",
-    "company": "Demo Company I",
-    "title": "Data Analyst Intern",
-    "url": null,
-    "location": null,
-    "level": "entry",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "communication",
-      "cross-functional",
-      "dashboards",
-      "data-pipelines",
-      "power-bi",
-      "python",
-      "sql",
-      "statistics",
-      "tableau"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:19",
-    "company": "Demo Company R",
-    "title": "Data Analyst Intern",
-    "url": null,
-    "location": null,
-    "level": "entry",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "communication",
-      "cross-functional",
-      "dashboards",
-      "excel",
-      "python",
-      "sql",
-      "statistics"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:20",
-    "company": "Demo Company O",
-    "title": "Analytics Analyst",
-    "url": null,
-    "location": null,
-    "level": "open",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "communication",
-      "data-pipelines",
-      "dbt",
-      "python",
-      "r",
-      "sql",
-      "statistics"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:21",
-    "company": "Demo Company C",
-    "title": "Product Analyst",
-    "url": null,
-    "location": null,
-    "level": "open",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "ab-testing",
-      "communication",
-      "cross-functional",
-      "dashboards",
-      "data-visualization",
-      "data-warehouse",
-      "excel",
-      "python",
-      "sql",
-      "statistics"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:22",
-    "company": "Demo Company H",
-    "title": "Business Intelligence Analyst",
-    "url": null,
-    "location": null,
-    "level": "open",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "ab-testing",
-      "communication",
-      "cross-functional",
-      "dashboards",
-      "data-pipelines",
-      "data-visualization",
-      "excel",
-      "python",
-      "r",
-      "sql",
-      "statistics"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:23",
-    "company": "Demo Company C",
-    "title": "Business Intelligence Analyst",
-    "url": null,
-    "location": null,
-    "level": "open",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "ab-testing",
-      "cross-functional",
-      "machine-learning",
-      "python",
-      "r",
-      "sql",
-      "statistics",
-      "tableau"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:24",
-    "company": "Demo Company F",
-    "title": "Business Intelligence Analyst",
-    "url": null,
-    "location": null,
-    "level": "open",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "ab-testing",
-      "communication",
-      "cross-functional",
-      "looker",
-      "pandas",
-      "power-bi",
-      "python",
-      "sql",
-      "tableau"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:25",
-    "company": "Demo Company I",
-    "title": "Business Intelligence Analyst",
-    "url": null,
-    "location": null,
-    "level": "open",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "ab-testing",
-      "communication",
-      "cross-functional",
-      "dashboards",
-      "data-modeling",
-      "dbt",
-      "excel",
       "git",
-      "looker",
-      "python",
-      "sql",
-      "statistics"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:26",
-    "company": "Demo Company F",
-    "title": "Product Analyst",
-    "url": null,
-    "location": null,
-    "level": "open",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "cross-functional",
-      "dashboards",
-      "data-pipelines",
-      "data-warehouse",
-      "power-bi",
-      "r",
-      "sql",
-      "statistics",
-      "tableau"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:27",
-    "company": "Demo Company M",
-    "title": "Business Intelligence Analyst",
-    "url": null,
-    "location": null,
-    "level": "open",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "dashboards",
-      "data-visualization",
-      "excel",
-      "power-bi",
-      "sql"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:28",
-    "company": "Demo Company P",
-    "title": "Analytics Analyst",
-    "url": null,
-    "location": null,
-    "level": "open",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "communication",
-      "dashboards",
-      "sql",
-      "statistics"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:29",
-    "company": "Demo Company P",
-    "title": "Analytics Analyst",
-    "url": null,
-    "location": null,
-    "level": "open",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "ab-testing",
-      "cross-functional",
-      "dashboards",
-      "data-pipelines",
-      "excel",
-      "power-bi",
-      "python",
-      "sql",
-      "statistics"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:30",
-    "company": "Demo Company C",
-    "title": "Product Analyst",
-    "url": null,
-    "location": null,
-    "level": "open",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "dashboards",
-      "data-modeling",
-      "python",
-      "sql",
-      "tableau"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:31",
-    "company": "Demo Company Q",
-    "title": "Data Analyst Intern",
-    "url": null,
-    "location": null,
-    "level": "entry",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "ab-testing",
-      "communication",
-      "cross-functional",
-      "dashboards",
-      "data-visualization",
-      "python",
-      "sql",
-      "tableau"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:32",
-    "company": "Demo Company K",
-    "title": "Product Analyst",
-    "url": null,
-    "location": null,
-    "level": "open",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "communication",
-      "cross-functional",
-      "dashboards",
-      "power-bi",
-      "python",
-      "sql",
-      "tableau"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:33",
-    "company": "Demo Company E",
-    "title": "Data Analyst Intern",
-    "url": null,
-    "location": null,
-    "level": "entry",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "communication",
-      "machine-learning",
-      "python",
-      "tableau"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:34",
-    "company": "Demo Company K",
-    "title": "Product Analyst",
-    "url": null,
-    "location": null,
-    "level": "open",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "ab-testing",
-      "communication",
-      "dashboards",
-      "python",
-      "sql",
-      "tableau"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:35",
-    "company": "Demo Company B",
-    "title": "Analytics Analyst",
-    "url": null,
-    "location": null,
-    "level": "open",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "cross-functional",
-      "dashboards",
-      "data-pipelines",
-      "data-visualization",
-      "excel",
-      "power-bi",
-      "python",
-      "sql",
-      "statistics"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:36",
-    "company": "Demo Company Q",
-    "title": "Business Intelligence Analyst",
-    "url": null,
-    "location": null,
-    "level": "open",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "cross-functional",
-      "dashboards",
-      "data-modeling",
-      "data-visualization",
-      "excel",
-      "r",
-      "sql"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:37",
-    "company": "Demo Company D",
-    "title": "Product Analyst",
-    "url": null,
-    "location": null,
-    "level": "open",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "cross-functional",
-      "dashboards",
-      "data-visualization",
-      "excel",
-      "git",
-      "machine-learning",
-      "python",
-      "r",
-      "sql",
-      "tableau"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:38",
-    "company": "Demo Company G",
-    "title": "Product Analyst",
-    "url": null,
-    "location": null,
-    "level": "open",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "communication",
-      "cross-functional",
-      "dashboards",
-      "data-visualization",
-      "python",
-      "sql",
-      "tableau"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:39",
-    "company": "Demo Company G",
-    "title": "Business Intelligence Analyst",
-    "url": null,
-    "location": null,
-    "level": "open",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "dashboards",
-      "data-warehouse",
-      "excel",
-      "looker",
-      "python",
-      "sql",
-      "tableau"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:40",
-    "company": "Demo Company N",
-    "title": "Analytics Analyst",
-    "url": null,
-    "location": null,
-    "level": "open",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "cross-functional",
-      "sql",
-      "statistics"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:41",
-    "company": "Demo Company Q",
-    "title": "Analytics Analyst",
-    "url": null,
-    "location": null,
-    "level": "open",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "cross-functional",
-      "dashboards",
-      "data-visualization",
-      "data-warehouse",
-      "excel",
-      "python",
-      "sql",
-      "tableau"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:42",
-    "company": "Demo Company J",
-    "title": "Analytics Analyst",
-    "url": null,
-    "location": null,
-    "level": "open",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "ab-testing",
-      "communication",
-      "cross-functional",
-      "data-modeling",
-      "data-visualization",
-      "data-warehouse",
-      "git",
-      "power-bi",
-      "python",
-      "sql",
-      "statistics"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:43",
-    "company": "Demo Company P",
-    "title": "Data Analyst",
-    "url": null,
-    "location": null,
-    "level": "open",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "communication",
-      "cross-functional",
-      "data-modeling",
-      "data-visualization",
-      "data-warehouse",
+      "airflow",
       "dbt",
-      "power-bi",
-      "python",
-      "sql",
-      "statistics"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:44",
-    "company": "Demo Company P",
-    "title": "Business Intelligence Analyst",
-    "url": null,
-    "location": null,
-    "level": "open",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "communication",
-      "cross-functional",
       "data-modeling",
-      "python",
-      "sql",
       "statistics",
-      "tableau"
+      "machine-learning",
+      "mlops",
+      "cross-functional"
     ]
   },
   {
-    "key": "demo:data-analyst:45",
-    "company": "Demo Company M",
-    "title": "Business Intelligence Analyst",
-    "url": null,
-    "location": null,
+    "key": "greenhouse:elastic:8177119",
+    "company": "Elastic",
+    "title": "Business Analyst, Marketing-1 (Fixed Term)",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8177119&gh_jid=8177119",
+    "location": "Bangalore, India",
     "level": "open",
-    "posted_at": null,
+    "posted_at": "2026-09-09T04:24:44-04:00",
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
     "skills": [
-      "communication",
-      "cross-functional",
-      "dashboards",
-      "data-pipelines",
-      "data-visualization",
-      "power-bi",
       "sql",
-      "statistics"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:46",
-    "company": "Demo Company N",
-    "title": "Analytics Analyst",
-    "url": null,
-    "location": null,
-    "level": "open",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "dashboards",
-      "excel",
-      "looker",
-      "python",
-      "sql"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:47",
-    "company": "Demo Company O",
-    "title": "Product Analyst",
-    "url": null,
-    "location": null,
-    "level": "open",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "cross-functional",
-      "power-bi",
-      "python",
-      "r",
-      "sql",
-      "statistics"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:48",
-    "company": "Demo Company K",
-    "title": "Data Analyst Intern",
-    "url": null,
-    "location": null,
-    "level": "entry",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "communication",
-      "cross-functional",
       "data-modeling",
-      "dbt",
-      "machine-learning",
-      "python",
-      "sql",
-      "statistics"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:49",
-    "company": "Demo Company K",
-    "title": "Product Analyst",
-    "url": null,
-    "location": null,
-    "level": "open",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "dashboards",
-      "data-warehouse",
-      "machine-learning",
-      "r",
-      "sql",
-      "tableau"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:50",
-    "company": "Demo Company M",
-    "title": "Business Intelligence Analyst",
-    "url": null,
-    "location": null,
-    "level": "open",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "ab-testing",
-      "communication",
-      "dashboards",
-      "python",
-      "sql",
-      "tableau"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:51",
-    "company": "Demo Company J",
-    "title": "Business Intelligence Analyst",
-    "url": null,
-    "location": null,
-    "level": "open",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "communication",
-      "cross-functional",
-      "dashboards",
-      "data-modeling",
-      "data-warehouse",
+      "excel",
+      "tableau",
+      "power-bi",
       "looker",
-      "python",
-      "sql",
-      "tableau"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:52",
-    "company": "Demo Company B",
-    "title": "Data Analyst",
-    "url": null,
-    "location": null,
-    "level": "open",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "communication",
       "dashboards",
-      "data-warehouse",
-      "excel",
-      "machine-learning",
-      "python",
-      "sql"
+      "cross-functional"
     ]
   },
   {
-    "key": "demo:data-analyst:53",
-    "company": "Demo Company L",
-    "title": "Product Analyst",
-    "url": null,
-    "location": null,
+    "key": "greenhouse:figma:6249978004",
+    "company": "Figma",
+    "title": "Technical Operations & Insights Analyst",
+    "url": "https://boards.greenhouse.io/figma/jobs/6249978004?gh_jid=6249978004",
+    "location": "San Francisco, CA • New York, NY • United States",
     "level": "open",
-    "posted_at": null,
+    "posted_at": "2026-11-10T13:53:05-05:00",
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
     "skills": [
-      "communication",
-      "cross-functional",
-      "excel",
-      "power-bi",
       "python",
       "sql",
-      "statistics"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:54",
-    "company": "Demo Company H",
-    "title": "Business Intelligence Analyst",
-    "url": null,
-    "location": null,
-    "level": "open",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "communication",
-      "pandas",
-      "python",
       "r",
-      "sql",
-      "statistics"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:55",
-    "company": "Demo Company N",
-    "title": "Business Intelligence Analyst",
-    "url": null,
-    "location": null,
-    "level": "open",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "communication",
-      "dashboards",
-      "excel",
-      "sql",
-      "statistics"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:56",
-    "company": "Demo Company G",
-    "title": "Business Intelligence Analyst",
-    "url": null,
-    "location": null,
-    "level": "open",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "ab-testing",
-      "communication",
-      "dashboards",
-      "data-warehouse",
-      "excel",
-      "power-bi",
-      "sql",
-      "statistics",
-      "tableau"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:57",
-    "company": "Demo Company A",
-    "title": "Data Analyst",
-    "url": null,
-    "location": null,
-    "level": "open",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "ab-testing",
-      "communication",
-      "dashboards",
-      "data-pipelines",
-      "data-visualization",
       "git",
-      "python",
-      "r",
-      "sql",
-      "statistics"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:58",
-    "company": "Demo Company I",
-    "title": "Data Analyst",
-    "url": null,
-    "location": null,
-    "level": "open",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "communication",
-      "cross-functional",
-      "dashboards",
-      "looker",
-      "r",
-      "statistics",
-      "tableau"
-    ]
-  },
-  {
-    "key": "demo:data-analyst:59",
-    "company": "Demo Company M",
-    "title": "Data Analyst",
-    "url": null,
-    "location": null,
-    "level": "open",
-    "posted_at": null,
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
-    "skills": [
-      "communication",
-      "cross-functional",
-      "dashboards",
-      "data-modeling",
       "dbt",
-      "excel",
-      "pandas",
+      "data-warehouse",
+      "data-modeling",
+      "statistics",
+      "ab-testing",
+      "communication",
+      "cross-functional"
+    ]
+  },
+  {
+    "key": "greenhouse:flexport:8040985",
+    "company": "Flexport",
+    "title": "Product Data Analyst",
+    "url": "https://job-boards.greenhouse.io/flexport/jobs/8040985",
+    "location": "Shanghai, China",
+    "level": "open",
+    "posted_at": "2026-07-01T04:55:09-04:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "python",
       "sql",
-      "tableau"
+      "operating-systems",
+      "dbt",
+      "data-pipelines",
+      "data-modeling",
+      "looker",
+      "dashboards",
+      "data-visualization",
+      "statistics",
+      "communication",
+      "cross-functional"
+    ]
+  },
+  {
+    "key": "lever:palantir:62d74def-2134-427d-baa0-4783f2187266",
+    "company": "Palantir",
+    "title": "Operations Analyst - US Government",
+    "url": "https://jobs.lever.co/palantir/62d74def-2134-427d-baa0-4783f2187266",
+    "location": "Washington, D.C.",
+    "level": "open",
+    "posted_at": "2025-11-17T19:43:49+00:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "communication",
+      "cross-functional"
+    ]
+  },
+  {
+    "key": "lever:palantir:b14585f4-9a68-49e8-97af-3f03f2a6c357",
+    "company": "Palantir",
+    "title": "Operations Analyst - US Government",
+    "url": "https://jobs.lever.co/palantir/b14585f4-9a68-49e8-97af-3f03f2a6c357",
+    "location": "New York, NY",
+    "level": "open",
+    "posted_at": "2022-08-12T19:09:25+00:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "communication",
+      "cross-functional"
+    ]
+  },
+  {
+    "key": "lever:palantir:26032bad-d713-429d-8b04-2de7db93b5c3",
+    "company": "Palantir",
+    "title": "Procurement Operations Analyst",
+    "url": "https://jobs.lever.co/palantir/26032bad-d713-429d-8b04-2de7db93b5c3",
+    "location": "Washington, D.C.",
+    "level": "open",
+    "posted_at": "2021-08-11T22:56:52+00:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "excel",
+      "cross-functional"
+    ]
+  },
+  {
+    "key": "lever:palantir:66955c3b-c530-4c4a-9d48-63b4aad61b9c",
+    "company": "Palantir",
+    "title": "Procurement Operations Analyst",
+    "url": "https://jobs.lever.co/palantir/66955c3b-c530-4c4a-9d48-63b4aad61b9c",
+    "location": "Denver, CO",
+    "level": "open",
+    "posted_at": "2021-12-03T21:50:48+00:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "excel",
+      "cross-functional"
+    ]
+  },
+  {
+    "key": "lever:palantir:2da72708-a7b0-4178-9cb2-6b009eb6e07f",
+    "company": "Palantir",
+    "title": "Site Reliability Operations Analyst",
+    "url": "https://jobs.lever.co/palantir/2da72708-a7b0-4178-9cb2-6b009eb6e07f",
+    "location": "Warsaw, Poland",
+    "level": "open",
+    "posted_at": "2026-10-02T14:00:03+00:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": []
+  },
+  {
+    "key": "lever:palantir:5174e95b-2e0a-46f8-8db7-e2c837a0ac94",
+    "company": "Palantir",
+    "title": "Site Reliability Operations Analyst - Commercial",
+    "url": "https://jobs.lever.co/palantir/5174e95b-2e0a-46f8-8db7-e2c837a0ac94",
+    "location": "New York, NY",
+    "level": "open",
+    "posted_at": "2023-11-28T00:21:36+00:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": []
+  },
+  {
+    "key": "lever:palantir:4a9e0649-a925-4b25-914d-1eea058a3e01",
+    "company": "Palantir",
+    "title": "Site Reliability Operations Analyst - Legal",
+    "url": "https://jobs.lever.co/palantir/4a9e0649-a925-4b25-914d-1eea058a3e01",
+    "location": "Washington, D.C.",
+    "level": "open",
+    "posted_at": "2026-11-19T14:23:21+00:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "communication",
+      "cross-functional"
+    ]
+  },
+  {
+    "key": "lever:palantir:773bb739-f011-4202-88d7-362a562df0d3",
+    "company": "Palantir",
+    "title": "Site Reliability Operations Analyst - Legal",
+    "url": "https://jobs.lever.co/palantir/773bb739-f011-4202-88d7-362a562df0d3",
+    "location": "New York, NY",
+    "level": "open",
+    "posted_at": "2026-11-19T14:22:27+00:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "communication",
+      "cross-functional"
+    ]
+  },
+  {
+    "key": "lever:palantir:e6be4159-c8d1-481d-ad15-13274861b795",
+    "company": "Palantir",
+    "title": "Workplace Operations Analyst",
+    "url": "https://jobs.lever.co/palantir/e6be4159-c8d1-481d-ad15-13274861b795",
+    "location": "Abu Dhabi, United Arab Emirates",
+    "level": "open",
+    "posted_at": "2026-07-29T16:32:24+00:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "cross-functional"
+    ]
+  },
+  {
+    "key": "greenhouse:pinterest:8213988",
+    "company": "Pinterest",
+    "title": "Software Engineer II, Data Analytics & Engineering",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8213988",
+    "location": "San Francisco, CA, US; Remote, US",
+    "level": "open",
+    "posted_at": "2026-09-18T20:32:32-04:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "python",
+      "sql",
+      "r",
+      "data-structures-algorithms",
+      "data-pipelines",
+      "dashboards",
+      "statistics",
+      "ab-testing",
+      "cross-functional"
+    ]
+  },
+  {
+    "key": "greenhouse:robinhood:8379685",
+    "company": "Robinhood",
+    "title": "Accounts Receivable Operations Analyst",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8379685?t=gh_src=&gh_jid=8379685",
+    "location": "Menlo Park, CA",
+    "level": "open",
+    "posted_at": "2026-11-12T11:42:52-05:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "excel",
+      "cross-functional"
+    ]
+  },
+  {
+    "key": "greenhouse:stripe:5416444",
+    "company": "Stripe",
+    "title": "Data Analyst",
+    "url": "https://stripe.com/jobs/search?gh_jid=5416444",
+    "location": "Canada",
+    "level": "open",
+    "posted_at": "2023-11-01T13:50:50-04:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "python",
+      "sql",
+      "spark",
+      "data-pipelines",
+      "dashboards",
+      "statistics",
+      "model-evaluation",
+      "cross-functional"
+    ]
+  },
+  {
+    "key": "greenhouse:stripe:5601881",
+    "company": "Stripe",
+    "title": "Data Analyst",
+    "url": "https://stripe.com/jobs/search?gh_jid=5601881",
+    "location": "US",
+    "level": "open",
+    "posted_at": "2024-01-09T16:58:15-05:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "python",
+      "sql",
+      "spark",
+      "data-pipelines",
+      "dashboards",
+      "statistics",
+      "model-evaluation",
+      "cross-functional"
+    ]
+  },
+  {
+    "key": "greenhouse:stripe:8230296",
+    "company": "Stripe",
+    "title": "Data Analyst",
+    "url": "https://stripe.com/jobs/search?gh_jid=8230296",
+    "location": "Singapore",
+    "level": "open",
+    "posted_at": "2026-09-25T05:09:47-04:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "python",
+      "sql",
+      "scala",
+      "spark",
+      "airflow",
+      "data-pipelines",
+      "data-modeling",
+      "dashboards",
+      "statistics",
+      "agents",
+      "model-evaluation",
+      "cross-functional"
+    ]
+  },
+  {
+    "key": "greenhouse:stripe:8194287",
+    "company": "Stripe",
+    "title": "Data Analyst, Intern",
+    "url": "https://stripe.com/jobs/search?gh_jid=8194287",
+    "location": "Toronto",
+    "level": "entry",
+    "posted_at": "2026-10-01T11:05:36-04:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "sql",
+      "rest-apis",
+      "data-pipelines",
+      "dashboards",
+      "statistics",
+      "ab-testing",
+      "cross-functional"
+    ]
+  },
+  {
+    "key": "greenhouse:stripe:8194291",
+    "company": "Stripe",
+    "title": "Data Analyst, Intern",
+    "url": "https://stripe.com/jobs/search?gh_jid=8194291",
+    "location": "New York, Seattle, South San Francisco HQ",
+    "level": "entry",
+    "posted_at": "2026-10-01T11:05:29-04:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "sql",
+      "rest-apis",
+      "data-pipelines",
+      "dashboards",
+      "statistics",
+      "ab-testing",
+      "cross-functional"
+    ]
+  },
+  {
+    "key": "greenhouse:stripe:8189909",
+    "company": "Stripe",
+    "title": "Data Analyst, SF",
+    "url": "https://stripe.com/jobs/search?gh_jid=8189909",
+    "location": "San Francisco",
+    "level": "open",
+    "posted_at": "2026-09-10T17:39:22-04:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "python",
+      "sql",
+      "spark",
+      "data-pipelines",
+      "dashboards",
+      "statistics",
+      "model-evaluation",
+      "cross-functional"
+    ]
+  },
+  {
+    "key": "greenhouse:stripe:8364868",
+    "company": "Stripe",
+    "title": "Finance and Strategy Data Analyst",
+    "url": "https://stripe.com/jobs/search?gh_jid=8364868",
+    "location": "Bengaluru",
+    "level": "open",
+    "posted_at": "2026-11-11T07:40:40-05:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "dashboards",
+      "data-visualization",
+      "cross-functional"
+    ]
+  },
+  {
+    "key": "greenhouse:stripe:8168550",
+    "company": "Stripe",
+    "title": "Fraud Operations Analyst, Bridge (CDMX)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8168550",
+    "location": "Mexico City",
+    "level": "open",
+    "posted_at": "2026-10-27T22:30:21-04:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "ruby",
+      "rest-apis"
+    ]
+  },
+  {
+    "key": "greenhouse:stripe:8247120",
+    "company": "Stripe",
+    "title": "Monetization Operations Analyst",
+    "url": "https://stripe.com/jobs/search?gh_jid=8247120",
+    "location": "Bengaluru",
+    "level": "open",
+    "posted_at": "2026-10-16T04:16:28-04:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "sql",
+      "excel",
+      "cross-functional"
+    ]
+  },
+  {
+    "key": "greenhouse:stripe:7230921",
+    "company": "Stripe",
+    "title": "Risk Operations Analyst",
+    "url": "https://stripe.com/jobs/search?gh_jid=7230921",
+    "location": "Chicago, Atlanta, US-Remote, Toro",
+    "level": "open",
+    "posted_at": "2025-09-10T15:53:58-04:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "cross-functional"
+    ]
+  },
+  {
+    "key": "greenhouse:stripe:8175824",
+    "company": "Stripe",
+    "title": "Risk Operations Analyst - Restricted Business Operations",
+    "url": "https://stripe.com/jobs/search?gh_jid=8175824",
+    "location": "Remote ",
+    "level": "open",
+    "posted_at": "2026-09-22T16:19:21-04:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "sql",
+      "communication",
+      "cross-functional"
+    ]
+  },
+  {
+    "key": "greenhouse:twilio:8261245",
+    "company": "Twilio",
+    "title": "Billing Operations Analyst 1",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/8261245",
+    "location": "Remote - Mexico",
+    "level": "open",
+    "posted_at": "2026-10-07T10:02:20-04:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "excel",
+      "communication"
+    ]
+  },
+  {
+    "key": "lever:zoox:85ac55ee-0fdf-4b17-b57f-b09ce0defebe",
+    "company": "Zoox",
+    "title": "Commercial Operations Analyst",
+    "url": "https://jobs.lever.co/zoox/85ac55ee-0fdf-4b17-b57f-b09ce0defebe",
+    "location": "Foster City, CA",
+    "level": "open",
+    "posted_at": "2026-07-01T20:59:17+00:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "python",
+      "sql",
+      "r",
+      "data-warehouse",
+      "excel",
+      "looker",
+      "data-visualization",
+      "cross-functional"
+    ]
+  },
+  {
+    "key": "lever:zoox:5e03b357-0cc1-4194-9488-14f85044f4f9",
+    "company": "Zoox",
+    "title": "Contract  Student Worker - Data Analyst (Part-time)",
+    "url": "https://jobs.lever.co/zoox/5e03b357-0cc1-4194-9488-14f85044f4f9",
+    "location": "Foster City, CA",
+    "level": "entry",
+    "posted_at": "2026-07-20T21:28:23+00:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "python",
+      "sql",
+      "spark",
+      "data-warehouse",
+      "dashboards",
+      "machine-learning"
     ]
   }
 ]
