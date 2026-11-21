@@ -247,7 +247,25 @@ def tier_for(pct: float) -> str:
     return "rare"
 
 
+def prune(postings: list[dict], role_id: str, classifier: RoleClassifier) -> list[dict]:
+    """Drop stored postings whose title no longer belongs to this role, so a
+    change to config/roles.json also applies to postings collected earlier."""
+    return [p for p in postings
+            if p["key"].startswith("demo:") or classifier.classify(p["title"]) == role_id]
+
+
+def distinct(postings: list[dict]) -> list[dict]:
+    """One posting per company and title. The same job listed in several
+    locations is one job, not several."""
+    seen: dict[tuple[str, str], dict] = {}
+    for p in sorted(postings, key=lambda p: p["key"]):
+        seen.setdefault((p["company"], " ".join(p["title"].lower().split())), p)
+    return sorted(seen.values(), key=lambda p: (p["company"].lower(), p["title"].lower(), p["key"]))
+
+
 def aggregate(role: dict, postings: list[dict], skills: list[dict]) -> dict:
+    listings = len(postings)
+    postings = distinct(postings)
     total = len(postings)
     companies: dict[str, int] = {}
     for p in postings:
@@ -279,6 +297,7 @@ def aggregate(role: dict, postings: list[dict], skills: list[dict]) -> dict:
         "blurb": role["blurb"],
         "demo": any(p["key"].startswith("demo:") for p in postings),
         "postings": total,
+        "listings": listings,
         "companies": len(companies),
         "entry_postings": entry_total,
         "last_seen_from": min(seen) if seen else None,
@@ -300,10 +319,15 @@ def build_site_data(generated_at: str | None = None) -> dict:
     notes = load_json(DATA / "practitioner_notes.json", [])
     generated_at = generated_at or now_iso()
 
+    classifier = RoleClassifier(roles_config)
     index_roles = []
     any_demo = False
     for role in roles_config["roles"]:
-        postings = load_json(DATA / "postings" / f"{role['id']}.json", [])
+        path = DATA / "postings" / f"{role['id']}.json"
+        stored = load_json(path, [])
+        postings = prune(stored, role["id"], classifier)
+        if len(postings) != len(stored):
+            dump_json(path, postings)
         agg = aggregate(role, postings, skills)
         agg["generated_at"] = generated_at
         any_demo = any_demo or agg["demo"]
@@ -330,6 +354,7 @@ def build_site_data(generated_at: str | None = None) -> dict:
     index = {
         "generated_at": generated_at,
         "demo": any_demo,
+        "notice": (load_json(CONFIG / "site.json", {}).get("notice") or None),
         "tiers": {name: floor for name, floor in TIERS},
         "roles": index_roles,
     }

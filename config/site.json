@@ -1,0 +1,4 @@
+{
+  "_comment": "Set notice to an empty string once a person has spot-checked the skill matching against real postings.",
+  "notice": "Draft. The postings are real, but nobody has yet checked the skill matching against them by hand. Treat the shares as rough."
+}

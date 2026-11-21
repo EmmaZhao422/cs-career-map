@@ -4,7 +4,7 @@ Which skills do job postings ask for? This project counts.
 
 For each job, CS Career Map reads public postings from company career pages, counts how often each skill is mentioned, and pairs every skill with one or two checked places to learn it and a small project that proves you can do it. It ships as a website and as a Claude skill that coaches you through the plan.
 
-> **Status: pre-launch.** The site currently shows **demo data**: invented companies and placeholder numbers, so the pages can be built and tested. The first run of the collector replaces them with real postings. Until then, do not quote any number from this repository.
+> **Status: pre-launch.** The data is real (first collected on 21 Nov 2026) but the skill matching has **not yet been spot-checked by a person** against the postings. Treat the numbers as a draft until this note is removed.
 
 ## Why another roadmap
 
@@ -19,7 +19,7 @@ Most learning roadmaps are written from experience: an editor decides what belon
 ## How the numbers are made
 
 1. Once a week a script reads the public job boards of the companies in [`config/companies.json`](config/companies.json). It uses the public job board APIs of Greenhouse and Lever, the same listings a company's careers page shows.
-2. It keeps postings whose title matches a job in [`config/roles.json`](config/roles.json) and skips senior, staff, lead and manager titles.
+2. It keeps postings whose title matches a job in [`config/roles.json`](config/roles.json) and skips senior, staff, lead and manager titles. The same title at one company counts once, even when it is listed in several locations.
 3. It checks each posting against the skill patterns in [`config/taxonomy.json`](config/taxonomy.json) and saves the link and the matched skill names. **The posting text is not stored.**
 4. It writes the counts the site reads, under `docs/data/`.
 

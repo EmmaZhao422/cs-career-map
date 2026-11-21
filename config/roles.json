@@ -1,6 +1,6 @@
 {
   "_comment": "Order matters: a posting is assigned to the FIRST role whose include pattern matches its title. Patterns are Python regexes run on the lowercased title.",
-  "seniority_exclude": "\\b(senior|sr\\.?|staff|principal|lead|manager|director|head|vp|vice president|distinguished|architect|fellow|chief)\\b|\\b(iii|iv)\\b",
+  "seniority_exclude": "\\b(senior|sr\\.?|staff|principal|lead|manager|director|head|vp|vice president|distinguished|architect|fellow|chief)\\b|\\b(iii|iv)\\b|\\b(engineer|developer|analyst|scientist),? ?(3|4|5|6)\\b",
   "entry_level": "\\b(intern|interns|internship|new grad|new graduate|graduate|university|early career|early-career|early in career|entry[- ]level|junior|jr\\.?|associate|apprentice|apprenticeship|co-op|campus|student)\\b",
   "roles": [
     {
@@ -13,7 +13,10 @@
         "\\bapplied scientist\\b",
         "\\bresearch engineer\\b"
       ],
-      "exclude": ["\\b(sales|solutions|support|recruit\\w*|hardware|mechanical|electrical|email)\\b"]
+      "exclude": [
+        "\\b(sales|solutions|support|recruit\\w*|hardware|mechanical|electrical|email)\\b",
+        "\\bforward[- ]deployed\\b"
+      ]
     },
     {
       "id": "data-analyst",
@@ -21,10 +24,11 @@
       "blurb": "Turns raw data into answers a team can act on.",
       "include": [
         "\\bdata analyst\\b",
-        "\\b(business intelligence|bi|analytics|product|business|insights|operations) analyst\\b",
-        "\\bdata analytics\\b"
+        "\\b(business intelligence|bi|analytics|product|business|insights) analyst\\b"
       ],
-      "exclude": ["\\b(sales|recruit\\w*|financial|credit|security|compliance)\\b"]
+      "exclude": [
+        "\\b(sales|recruit\\w*|financial|credit|security|compliance|engineer|developer)\\b"
+      ]
     },
     {
       "id": "software-engineer",
@@ -36,7 +40,10 @@
         "\\b(swe|sde)\\b",
         "\\bmember of technical staff\\b"
       ],
-      "exclude": ["\\b(sales|solutions|support|test|qa|hardware|mechanical|electrical|recruit\\w*)\\b"]
+      "exclude": [
+        "\\b(sales|solutions|support|test|qa|hardware|mechanical|electrical|recruit\\w*)\\b",
+        "\\bforward[- ]deployed\\b"
+      ]
     }
   ]
 }

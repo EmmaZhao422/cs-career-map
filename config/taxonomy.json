@@ -74,7 +74,7 @@
     {"id": "rag", "name": "RAG & vector search", "category": "AI & ML", "patterns": ["rag", "retrieval[- ]augmented", "vector (?:databases?|search|stores?|db)", "embeddings?"], "prereqs": ["llm"]},
     {"id": "agents", "name": "AI agents", "category": "AI & ML", "patterns": ["ai agents?", "agentic", "llm agents?", "tool use", "multi-agent"], "prereqs": ["llm"]},
     {"id": "fine-tuning", "name": "Fine-tuning", "category": "AI & ML", "patterns": ["fine[- ]?tun\\w+"], "prereqs": ["deep-learning"]},
-    {"id": "model-evaluation", "name": "Model evaluation", "category": "AI & ML", "patterns": ["evals?", "model evaluation", "evaluation frameworks?", "evaluation metrics", "benchmark\\w*"], "prereqs": ["machine-learning"]},
+    {"id": "model-evaluation", "name": "Model evaluation", "category": "AI & ML", "patterns": ["evals?", "model evaluation", "evaluation frameworks?", "evaluation metrics", "model benchmark\\w*", "benchmark(?:s|ing)? (?:for |of )?(?:models?|llms?)", "ml benchmarks?"], "prereqs": ["machine-learning"]},
     {"id": "mlops", "name": "Model deployment (MLOps)", "category": "AI & ML", "patterns": ["mlops", "model deployment", "model serving", "model inference", "inference (?:servers?|pipelines?|infrastructure|optimization|systems?)", "ml infrastructure", "ml platform"], "prereqs": ["machine-learning", "docker"]},
     {"id": "nlp", "name": "NLP", "category": "AI & ML", "patterns": ["nlp", "natural language processing"], "prereqs": ["machine-learning"]},
     {"id": "computer-vision", "name": "Computer vision", "category": "AI & ML", "patterns": ["computer vision"], "prereqs": ["deep-learning"]},

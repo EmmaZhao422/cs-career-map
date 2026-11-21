@@ -78,7 +78,8 @@
           h("p", { class: "job-name", text: role.title }),
           h("p", { class: "job-blurb", text: role.blurb }),
           h("p", { class: "job-count", text: role.postings
-            ? plural(role.postings, "posting") + " from " + (role.companies === 1 ? "1 company" : role.companies + " companies")
+            ? plural(role.postings, "posting") + " from " + (role.companies === 1 ? "1 company" : role.companies + " companies") +
+              (role.postings < SMALL_SAMPLE ? " (small sample)" : "")
             : "No postings collected yet" })
         ]),
         h("ul", { class: "mini", "aria-label": "Most requested skills" }, role.top_skills.map(function (s) {
@@ -128,7 +129,8 @@
     var summary = "Based on " + plural(role.postings, "posting") + " from " +
       (role.companies === 1 ? "1 company" : role.companies + " companies") +
       (role.last_seen_to ? ", last read " + niceDate(role.last_seen_to) : "") + ". " +
-      (role.entry_postings ? role.entry_postings + " of them are intern or new-grad postings." : "");
+      (role.entry_postings ? role.entry_postings + " of them are intern or new-grad postings." : "") +
+      (role.listings > role.postings ? " The same title at one company is counted once, so " + role.listings + " listings became " + role.postings + " postings." : "");
 
     var controls = h("div", { class: "controls" }, [
       h("div", { class: "seg", role: "group", "aria-label": "Which postings to count" }, [
@@ -278,7 +280,7 @@
       h("h1", { class: "role-title", text: "How the numbers are made" }),
       h("ol", { class: "steps" }, [
         h("li", { text: "Once a week a script reads the public job boards of the companies on our list. These are the same listings you see on each company's careers page." }),
-        h("li", { text: "It keeps postings whose title matches one of our jobs and skips senior, staff, lead and manager titles." }),
+        h("li", { text: "It keeps postings whose title matches one of our jobs and skips senior, staff, lead and manager titles. The same title at one company counts once, even when it is listed in several locations." }),
         h("li", { text: "For each posting it checks which skills from our list are mentioned, then saves the link and those skill names. The posting text is not stored." }),
         h("li", { text: "The site shows, for each skill, how many postings mention it. A posting stays in the sample for 120 days after it was last seen open." })
       ]),
@@ -303,7 +305,12 @@
   function route() {
     var name = (location.hash || "#home").slice(1);
     getJSON("data/index.json").then(function (index) {
-      document.getElementById("demo-banner").hidden = !index.demo;
+      var banner = document.getElementById("demo-banner");
+      var bannerText = index.demo
+        ? "Demo data. These numbers are placeholders and the companies are invented. Real postings replace them after the first collection run."
+        : (index.notice || "");
+      banner.textContent = bannerText;
+      banner.hidden = !bannerText;
       document.getElementById("updated").textContent = "Data last built " + niceDate(index.generated_at) + ".";
       if (name === "how-it-works") return renderMethod(index);
       var role = index.roles.filter(function (r) { return r.id === name; })[0];

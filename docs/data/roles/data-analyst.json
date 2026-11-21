@@ -3,169 +3,80 @@
   "title": "Data Analyst",
   "blurb": "Turns raw data into answers a team can act on.",
   "demo": false,
-  "postings": 30,
-  "companies": 11,
-  "entry_postings": 3,
+  "postings": 9,
+  "listings": 12,
+  "companies": 6,
+  "entry_postings": 2,
   "last_seen_from": "2026-11-21",
   "last_seen_to": "2026-11-21",
   "skills": [
     {
-      "id": "cross-functional",
-      "name": "Working with non-engineers",
-      "category": "Working with people",
-      "count": 25,
-      "pct": 83.3,
-      "tier": "most",
-      "companies": 10,
-      "entry_count": 2
-    },
-    {
       "id": "sql",
       "name": "SQL",
       "category": "Languages",
-      "count": 15,
-      "pct": 50.0,
+      "count": 8,
+      "pct": 88.9,
       "tier": "most",
-      "companies": 7,
-      "entry_count": 3
+      "companies": 6,
+      "entry_count": 2
+    },
+    {
+      "id": "cross-functional",
+      "name": "Working with non-engineers",
+      "category": "Working with people",
+      "count": 8,
+      "pct": 88.9,
+      "tier": "most",
+      "companies": 5,
+      "entry_count": 1
     },
     {
       "id": "dashboards",
       "name": "Dashboards & reporting",
       "category": "Analysis",
-      "count": 12,
-      "pct": 40.0,
+      "count": 7,
+      "pct": 77.8,
       "tier": "most",
-      "companies": 6,
-      "entry_count": 3
+      "companies": 4,
+      "entry_count": 2
     },
     {
       "id": "python",
       "name": "Python",
       "category": "Languages",
-      "count": 10,
-      "pct": 33.3,
-      "tier": "many",
-      "companies": 6,
+      "count": 6,
+      "pct": 66.7,
+      "tier": "most",
+      "companies": 5,
       "entry_count": 1
     },
     {
       "id": "statistics",
       "name": "Statistics",
       "category": "Analysis",
-      "count": 10,
-      "pct": 33.3,
-      "tier": "many",
-      "companies": 5,
-      "entry_count": 2
+      "count": 6,
+      "pct": 66.7,
+      "tier": "most",
+      "companies": 4,
+      "entry_count": 1
     },
     {
-      "id": "communication",
-      "name": "Written & verbal communication",
-      "category": "Working with people",
-      "count": 9,
-      "pct": 30.0,
-      "tier": "many",
-      "companies": 6,
+      "id": "data-modeling",
+      "name": "Data modeling",
+      "category": "Data engineering",
+      "count": 4,
+      "pct": 44.4,
+      "tier": "most",
+      "companies": 4,
       "entry_count": 0
     },
     {
       "id": "data-pipelines",
       "name": "Data pipelines (ETL)",
       "category": "Data engineering",
-      "count": 8,
-      "pct": 26.7,
-      "tier": "many",
-      "companies": 3,
-      "entry_count": 2
-    },
-    {
-      "id": "excel",
-      "name": "Excel / spreadsheets",
-      "category": "Analysis",
-      "count": 7,
-      "pct": 23.3,
-      "tier": "many",
-      "companies": 6,
-      "entry_count": 0
-    },
-    {
-      "id": "data-modeling",
-      "name": "Data modeling",
-      "category": "Data engineering",
-      "count": 5,
-      "pct": 16.7,
-      "tier": "many",
-      "companies": 5,
-      "entry_count": 0
-    },
-    {
-      "id": "spark",
-      "name": "Spark",
-      "category": "Data engineering",
-      "count": 5,
-      "pct": 16.7,
-      "tier": "many",
-      "companies": 2,
-      "entry_count": 1
-    },
-    {
-      "id": "ab-testing",
-      "name": "A/B testing",
-      "category": "Analysis",
       "count": 4,
-      "pct": 13.3,
-      "tier": "some",
-      "companies": 3,
-      "entry_count": 2
-    },
-    {
-      "id": "model-evaluation",
-      "name": "Model evaluation",
-      "category": "AI & ML",
-      "count": 4,
-      "pct": 13.3,
-      "tier": "some",
-      "companies": 1,
-      "entry_count": 0
-    },
-    {
-      "id": "r",
-      "name": "R",
-      "category": "Languages",
-      "count": 4,
-      "pct": 13.3,
-      "tier": "some",
-      "companies": 4,
-      "entry_count": 0
-    },
-    {
-      "id": "rest-apis",
-      "name": "APIs (REST)",
-      "category": "Web",
-      "count": 3,
-      "pct": 10.0,
-      "tier": "some",
-      "companies": 1,
-      "entry_count": 2
-    },
-    {
-      "id": "data-visualization",
-      "name": "Data visualization",
-      "category": "Analysis",
-      "count": 3,
-      "pct": 10.0,
-      "tier": "some",
-      "companies": 3,
-      "entry_count": 0
-    },
-    {
-      "id": "data-warehouse",
-      "name": "Data warehouses",
-      "category": "Data engineering",
-      "count": 3,
-      "pct": 10.0,
-      "tier": "some",
+      "pct": 44.4,
+      "tier": "most",
       "companies": 2,
       "entry_count": 1
     },
@@ -174,38 +85,68 @@
       "name": "dbt",
       "category": "Data engineering",
       "count": 3,
-      "pct": 10.0,
-      "tier": "some",
+      "pct": 33.3,
+      "tier": "many",
       "companies": 3,
       "entry_count": 0
     },
     {
-      "id": "looker",
-      "name": "Looker",
-      "category": "Analysis",
-      "count": 3,
-      "pct": 10.0,
-      "tier": "some",
-      "companies": 3,
-      "entry_count": 0
-    },
-    {
-      "id": "airflow",
-      "name": "Airflow",
+      "id": "spark",
+      "name": "Spark",
       "category": "Data engineering",
+      "count": 3,
+      "pct": 33.3,
+      "tier": "many",
+      "companies": 2,
+      "entry_count": 1
+    },
+    {
+      "id": "ab-testing",
+      "name": "A/B testing",
+      "category": "Analysis",
       "count": 2,
-      "pct": 6.7,
-      "tier": "some",
+      "pct": 22.2,
+      "tier": "many",
+      "companies": 2,
+      "entry_count": 1
+    },
+    {
+      "id": "data-visualization",
+      "name": "Data visualization",
+      "category": "Analysis",
+      "count": 2,
+      "pct": 22.2,
+      "tier": "many",
       "companies": 2,
       "entry_count": 0
+    },
+    {
+      "id": "data-warehouse",
+      "name": "Data warehouses",
+      "category": "Data engineering",
+      "count": 2,
+      "pct": 22.2,
+      "tier": "many",
+      "companies": 2,
+      "entry_count": 1
     },
     {
       "id": "git",
       "name": "Git",
       "category": "Tools",
       "count": 2,
-      "pct": 6.7,
-      "tier": "some",
+      "pct": 22.2,
+      "tier": "many",
+      "companies": 2,
+      "entry_count": 0
+    },
+    {
+      "id": "looker",
+      "name": "Looker",
+      "category": "Analysis",
+      "count": 2,
+      "pct": 22.2,
+      "tier": "many",
       "companies": 2,
       "entry_count": 0
     },
@@ -214,28 +155,68 @@
       "name": "Machine learning",
       "category": "AI & ML",
       "count": 2,
-      "pct": 6.7,
-      "tier": "some",
+      "pct": 22.2,
+      "tier": "many",
       "companies": 2,
       "entry_count": 1
     },
     {
-      "id": "agents",
-      "name": "AI agents",
+      "id": "model-evaluation",
+      "name": "Model evaluation",
       "category": "AI & ML",
-      "count": 1,
-      "pct": 3.3,
-      "tier": "rare",
+      "count": 2,
+      "pct": 22.2,
+      "tier": "many",
       "companies": 1,
       "entry_count": 0
     },
     {
-      "id": "data-structures-algorithms",
-      "name": "Data structures & algorithms",
-      "category": "CS fundamentals",
+      "id": "r",
+      "name": "R",
+      "category": "Languages",
+      "count": 2,
+      "pct": 22.2,
+      "tier": "many",
+      "companies": 2,
+      "entry_count": 0
+    },
+    {
+      "id": "communication",
+      "name": "Written & verbal communication",
+      "category": "Working with people",
+      "count": 2,
+      "pct": 22.2,
+      "tier": "many",
+      "companies": 2,
+      "entry_count": 0
+    },
+    {
+      "id": "airflow",
+      "name": "Airflow",
+      "category": "Data engineering",
       "count": 1,
-      "pct": 3.3,
-      "tier": "rare",
+      "pct": 11.1,
+      "tier": "some",
+      "companies": 1,
+      "entry_count": 0
+    },
+    {
+      "id": "rest-apis",
+      "name": "APIs (REST)",
+      "category": "Web",
+      "count": 1,
+      "pct": 11.1,
+      "tier": "some",
+      "companies": 1,
+      "entry_count": 1
+    },
+    {
+      "id": "excel",
+      "name": "Excel / spreadsheets",
+      "category": "Analysis",
+      "count": 1,
+      "pct": 11.1,
+      "tier": "some",
       "companies": 1,
       "entry_count": 0
     },
@@ -244,8 +225,8 @@
       "name": "Model deployment (MLOps)",
       "category": "AI & ML",
       "count": 1,
-      "pct": 3.3,
-      "tier": "rare",
+      "pct": 11.1,
+      "tier": "some",
       "companies": 1,
       "entry_count": 0
     },
@@ -254,8 +235,8 @@
       "name": "Operating systems",
       "category": "CS fundamentals",
       "count": 1,
-      "pct": 3.3,
-      "tier": "rare",
+      "pct": 11.1,
+      "tier": "some",
       "companies": 1,
       "entry_count": 0
     },
@@ -264,28 +245,8 @@
       "name": "Power BI",
       "category": "Analysis",
       "count": 1,
-      "pct": 3.3,
-      "tier": "rare",
-      "companies": 1,
-      "entry_count": 0
-    },
-    {
-      "id": "ruby",
-      "name": "Ruby",
-      "category": "Languages",
-      "count": 1,
-      "pct": 3.3,
-      "tier": "rare",
-      "companies": 1,
-      "entry_count": 0
-    },
-    {
-      "id": "scala",
-      "name": "Scala",
-      "category": "Languages",
-      "count": 1,
-      "pct": 3.3,
-      "tier": "rare",
+      "pct": 11.1,
+      "tier": "some",
       "companies": 1,
       "entry_count": 0
     },
@@ -294,8 +255,8 @@
       "name": "Tableau",
       "category": "Analysis",
       "count": 1,
-      "pct": 3.3,
-      "tier": "rare",
+      "pct": 11.1,
+      "tier": "some",
       "companies": 1,
       "entry_count": 0
     }
@@ -303,19 +264,7 @@
   "company_counts": [
     [
       "Stripe",
-      11
-    ],
-    [
-      "Palantir",
-      9
-    ],
-    [
-      "Zoox",
-      2
-    ],
-    [
-      "Asana",
-      1
+      4
     ],
     [
       "Cloudflare",
@@ -334,27 +283,11 @@
       1
     ],
     [
-      "Pinterest",
-      1
-    ],
-    [
-      "Robinhood",
-      1
-    ],
-    [
-      "Twilio",
+      "Zoox",
       1
     ]
   ],
   "sample": [
-    {
-      "company": "Asana",
-      "title": "Legal Operations Analyst",
-      "url": "https://www.asana.com/jobs/apply/8282518?gh_jid=8282518",
-      "location": "Chicago",
-      "level": "open",
-      "last_seen": "2026-11-21"
-    },
     {
       "company": "Cloudflare",
       "title": "Data Analyst",
@@ -388,94 +321,6 @@
       "last_seen": "2026-11-21"
     },
     {
-      "company": "Palantir",
-      "title": "Operations Analyst - US Government",
-      "url": "https://jobs.lever.co/palantir/62d74def-2134-427d-baa0-4783f2187266",
-      "location": "Washington, D.C.",
-      "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Palantir",
-      "title": "Operations Analyst - US Government",
-      "url": "https://jobs.lever.co/palantir/b14585f4-9a68-49e8-97af-3f03f2a6c357",
-      "location": "New York, NY",
-      "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Palantir",
-      "title": "Procurement Operations Analyst",
-      "url": "https://jobs.lever.co/palantir/26032bad-d713-429d-8b04-2de7db93b5c3",
-      "location": "Washington, D.C.",
-      "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Palantir",
-      "title": "Procurement Operations Analyst",
-      "url": "https://jobs.lever.co/palantir/66955c3b-c530-4c4a-9d48-63b4aad61b9c",
-      "location": "Denver, CO",
-      "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Palantir",
-      "title": "Site Reliability Operations Analyst",
-      "url": "https://jobs.lever.co/palantir/2da72708-a7b0-4178-9cb2-6b009eb6e07f",
-      "location": "Warsaw, Poland",
-      "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Palantir",
-      "title": "Site Reliability Operations Analyst - Commercial",
-      "url": "https://jobs.lever.co/palantir/5174e95b-2e0a-46f8-8db7-e2c837a0ac94",
-      "location": "New York, NY",
-      "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Palantir",
-      "title": "Site Reliability Operations Analyst - Legal",
-      "url": "https://jobs.lever.co/palantir/4a9e0649-a925-4b25-914d-1eea058a3e01",
-      "location": "Washington, D.C.",
-      "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Palantir",
-      "title": "Site Reliability Operations Analyst - Legal",
-      "url": "https://jobs.lever.co/palantir/773bb739-f011-4202-88d7-362a562df0d3",
-      "location": "New York, NY",
-      "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Palantir",
-      "title": "Workplace Operations Analyst",
-      "url": "https://jobs.lever.co/palantir/e6be4159-c8d1-481d-ad15-13274861b795",
-      "location": "Abu Dhabi, United Arab Emirates",
-      "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Pinterest",
-      "title": "Software Engineer II, Data Analytics & Engineering",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8213988",
-      "location": "San Francisco, CA, US; Remote, US",
-      "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Robinhood",
-      "title": "Accounts Receivable Operations Analyst",
-      "url": "https://boards.greenhouse.io/robinhood/jobs/8379685?t=gh_src=&gh_jid=8379685",
-      "location": "Menlo Park, CA",
-      "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
       "company": "Stripe",
       "title": "Data Analyst",
       "url": "https://stripe.com/jobs/search?gh_jid=5416444",
@@ -485,33 +330,9 @@
     },
     {
       "company": "Stripe",
-      "title": "Data Analyst",
-      "url": "https://stripe.com/jobs/search?gh_jid=5601881",
-      "location": "US",
-      "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Stripe",
-      "title": "Data Analyst",
-      "url": "https://stripe.com/jobs/search?gh_jid=8230296",
-      "location": "Singapore",
-      "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Stripe",
       "title": "Data Analyst, Intern",
       "url": "https://stripe.com/jobs/search?gh_jid=8194287",
       "location": "Toronto",
-      "level": "entry",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Stripe",
-      "title": "Data Analyst, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=8194291",
-      "location": "New York, Seattle, South San Francisco HQ",
       "level": "entry",
       "last_seen": "2026-11-21"
     },
@@ -532,54 +353,6 @@
       "last_seen": "2026-11-21"
     },
     {
-      "company": "Stripe",
-      "title": "Fraud Operations Analyst, Bridge (CDMX)",
-      "url": "https://stripe.com/jobs/search?gh_jid=8168550",
-      "location": "Mexico City",
-      "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Stripe",
-      "title": "Monetization Operations Analyst",
-      "url": "https://stripe.com/jobs/search?gh_jid=8247120",
-      "location": "Bengaluru",
-      "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Stripe",
-      "title": "Risk Operations Analyst",
-      "url": "https://stripe.com/jobs/search?gh_jid=7230921",
-      "location": "Chicago, Atlanta, US-Remote, Toro",
-      "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Stripe",
-      "title": "Risk Operations Analyst - Restricted Business Operations",
-      "url": "https://stripe.com/jobs/search?gh_jid=8175824",
-      "location": "Remote ",
-      "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Twilio",
-      "title": "Billing Operations Analyst 1",
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/8261245",
-      "location": "Remote - Mexico",
-      "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
-      "company": "Zoox",
-      "title": "Commercial Operations Analyst",
-      "url": "https://jobs.lever.co/zoox/85ac55ee-0fdf-4b17-b57f-b09ce0defebe",
-      "location": "Foster City, CA",
-      "level": "open",
-      "last_seen": "2026-11-21"
-    },
-    {
       "company": "Zoox",
       "title": "Contract  Student Worker - Data Analyst (Part-time)",
       "url": "https://jobs.lever.co/zoox/5e03b357-0cc1-4194-9488-14f85044f4f9",
@@ -588,5 +361,5 @@
       "last_seen": "2026-11-21"
     }
   ],
-  "generated_at": "2026-11-21T07:22:34+00:00"
+  "generated_at": "2026-11-21T07:26:14+00:00"
 }

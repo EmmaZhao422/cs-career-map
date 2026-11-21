@@ -78,6 +78,10 @@ class SkillTests(unittest.TestCase):
         hits = self.found("Ship LLM features: RAG pipelines, evals, prompt engineering, and AI agents in PyTorch")
         self.assertTrue({"llm", "rag", "model-evaluation", "prompt-engineering", "agents", "pytorch"} <= hits)
 
+    def test_model_evaluation_not_business_benchmarking(self):
+        self.assertNotIn("model-evaluation", self.found("benchmark our pricing against competitors"))
+        self.assertIn("model-evaluation", self.found("build evals and benchmarks for models"))
+
     def test_statistics_not_regression_testing(self):
         self.assertNotIn("statistics", self.found("own regression testing for releases"))
         self.assertIn("statistics", self.found("logistic regression and hypothesis testing"))
@@ -101,6 +105,15 @@ class RoleTests(unittest.TestCase):
             "Data Analyst": "data-analyst",
             "Product Analyst, Growth": "data-analyst",
             "Business Intelligence Analyst": "data-analyst",
+            "Software Engineer II, Frontend": "software-engineer",
+            "Technical Operations & Insights Analyst": "data-analyst",
+            "Software Engineer 3": None,
+            "Software Engineer 3, Identity and Access Management": None,
+            "Forward Deployed Software Engineer - US Government": None,
+            "AI Forward Deployed Engineer - Germany": None,
+            "Billing Operations Analyst 1": None,
+            "Procurement Operations Analyst": None,
+            "Software Engineer II, Data Analytics & Engineering": "software-engineer",
             "Senior Software Engineer": None,
             "Staff Machine Learning Engineer": None,
             "Engineering Manager, Payments": None,
@@ -208,7 +221,7 @@ class CollectTests(unittest.TestCase):
 class AggregateTests(unittest.TestCase):
     def test_counts_shares_and_tiers(self):
         def posting(i, company, skills, level="open"):
-            return {"key": f"x:{i}", "company": company, "title": "Software Engineer", "url": "https://e.x",
+            return {"key": f"x:{i}", "company": company, "title": f"Software Engineer, Team {chr(65 + i)}", "url": "https://e.x",
                     "location": None, "level": level, "last_seen": "2026-11-21", "skills": skills}
 
         postings = [posting(i, "A" if i < 6 else "B", ["python"] + (["sql"] if i < 2 else []),
@@ -222,6 +235,31 @@ class AggregateTests(unittest.TestCase):
                          ("python", 10, 100.0, "most", 2))
         self.assertEqual((sql["id"], sql["count"], sql["pct"], sql["tier"], sql["companies"], sql["entry_count"]),
                          ("sql", 2, 20.0, "many", 1, 1))
+
+    def test_same_title_at_same_company_counts_once(self):
+        def posting(key, company, title, skills):
+            return {"key": key, "company": company, "title": title, "url": "https://e.x", "location": None,
+                    "level": "open", "last_seen": "2026-11-21", "skills": skills}
+
+        postings = [
+            posting("x:1", "A", "Software Engineer", ["python"]),
+            posting("x:2", "A", "Software  engineer", ["python"]),   # same job, second location
+            posting("x:3", "A", "Backend Engineer", ["go"]),
+            posting("x:4", "B", "Software Engineer", ["java"]),
+        ]
+        agg = collect.aggregate({"id": "software-engineer", "title": "T", "blurb": "b"}, postings, SKILLS)
+        self.assertEqual((agg["listings"], agg["postings"], agg["companies"]), (4, 3, 2))
+        self.assertEqual({s["id"]: s["count"] for s in agg["skills"]}, {"python": 1, "go": 1, "java": 1})
+
+    def test_prune_applies_new_title_rules_to_stored_postings(self):
+        classifier = collect.RoleClassifier(ROLES)
+        stored = [
+            {"key": "x:1", "title": "Data Analyst"},
+            {"key": "x:2", "title": "Procurement Operations Analyst"},
+            {"key": "demo:1", "title": "Anything"},
+        ]
+        kept = collect.prune(stored, "data-analyst", classifier)
+        self.assertEqual([p["key"] for p in kept], ["x:1", "demo:1"])
 
     def test_empty_role(self):
         agg = collect.aggregate({"id": "r", "title": "R", "blurb": "b"}, [], SKILLS)
