@@ -138,6 +138,7 @@ def fetch_greenhouse(board: str) -> list[dict]:
     for job in payload.get("jobs", []):
         jobs.append({
             "key": f"greenhouse:{board}:{job.get('id')}",
+            "company_name": job.get("company_name"),
             "title": job.get("title") or "",
             "url": job.get("absolute_url"),
             "location": (job.get("location") or {}).get("name"),
@@ -199,13 +200,17 @@ def collect(companies: list[dict], classifier: RoleClassifier, matcher: SkillMat
             report.append(entry)
             continue
         kept = 0
+        api_names = [j["company_name"].strip() for j in jobs if j.get("company_name")]
+        # The board's own company name is more reliable than the label in our list.
+        display_name = max(set(api_names), key=api_names.count) if api_names else company["name"]
+        entry["api_name"] = display_name if api_names else None
         for job in jobs:
             role_id = classifier.classify(job["title"])
             if role_id is None or not job.get("url"):
                 continue
             found[role_id].append({
                 "key": job["key"],
-                "company": company["name"],
+                "company": display_name,
                 "title": job["title"].strip(),
                 "url": job["url"],
                 "location": job.get("location"),
@@ -412,9 +417,42 @@ def cmd_build(_args) -> int:
     return 0
 
 
+def cmd_prune_companies(_args) -> int:
+    """Keep only the boards the last run could read, and stamp them as checked."""
+    path = CONFIG / "companies.json"
+    config = load_json(path)
+    report = load_json(DATA / "run_report.json")
+    if not report:
+        print("No data/run_report.json yet. Run `collect` first.", file=sys.stderr)
+        return 1
+    by_board = {(b["source"], b["board"]): b for b in report["boards"]}
+    day = report["ran_at"][:10]
+    kept, dropped = [], []
+    for company in config["companies"]:
+        seen = by_board.get((company["source"], company["board"]))
+        if seen is None:
+            kept.append(company)  # not part of the last run: leave as is
+        elif seen["status"] == "ok" and seen.get("jobs", 0) > 0:
+            company["checked"] = day
+            if seen.get("api_name"):
+                company["name"] = seen["api_name"]
+            kept.append(company)
+        else:
+            dropped.append(f"{company['board']} ({seen['status']})")
+    lines = ["{", '  "_comment": ' + json.dumps(config["_comment"], ensure_ascii=False) + ",", '  "companies": [']
+    lines += ["    " + json.dumps(c, ensure_ascii=False) + ("," if i < len(kept) - 1 else "")
+              for i, c in enumerate(kept)]
+    lines += ["  ]", "}"]
+    path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    print(f"kept {len(kept)} boards; dropped {len(dropped)}: {', '.join(dropped)}")
+    return 0
+
+
 def main(argv=None) -> int:
     parser = argparse.ArgumentParser(description=__doc__.split("\n")[0])
     sub = parser.add_subparsers(dest="command", required=True)
+    sub.add_parser("prune-companies", help="drop boards the last run could not read").set_defaults(
+        func=cmd_prune_companies)
     sub.add_parser("collect", help="fetch job boards, then rebuild the site data").set_defaults(func=cmd_collect)
     sub.add_parser("build", help="rebuild the site data from stored postings").set_defaults(func=cmd_build)
     args = parser.parse_args(argv)

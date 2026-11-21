@@ -1,0 +1,35 @@
+name: Audit skill matching
+
+# Produces a reviewer's working file (matched words with short context) on the
+# side branch "audit-report". Start it by pushing a branch named
+# "audit-request", or from the Actions page. Delete the audit-report branch
+# when the review is done: it holds short excerpts of posting text.
+
+on:
+  push:
+    branches: [audit-request]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build the audit file
+        run: python collector/audit.py /tmp/kwic.json
+      - name: Put it on the audit-report branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan audit-report
+          git rm -rf --quiet .
+          cp /tmp/kwic.json kwic.json
+          git add kwic.json
+          git commit --quiet -m "Audit file (working copy, not for publication)"
+          git push --force origin audit-report

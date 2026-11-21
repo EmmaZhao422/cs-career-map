@@ -193,6 +193,14 @@ class CollectTests(unittest.TestCase):
         self.assertEqual({r["board"]: r["status"] for r in report},
                          {"goodco": "ok", "leverco": "ok", "gone": "not_found"})
 
+    def test_board_company_name_wins_over_our_label(self):
+        payload = {"jobs": [dict(GREENHOUSE_PAYLOAD["jobs"][0], company_name="Good Company, Inc.")]}
+        collect.http_json = lambda url, timeout=30: payload
+        found, report = collect.collect([{"name": "goodco", "source": "greenhouse", "board": "goodco"}],
+                                        self.classifier, self.matcher, "2026-11-21", pause=0)
+        self.assertEqual(found["software-engineer"][0]["company"], "Good Company, Inc.")
+        self.assertEqual(report[0]["api_name"], "Good Company, Inc.")
+
     def test_no_posting_text_is_stored(self):
         found, _ = self.run_collect()
         for postings in found.values():
