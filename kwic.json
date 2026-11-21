@@ -1,0 +1,2570 @@
+{
+  "postings": {
+    "ai-engineer": 203,
+    "software-engineer": 984,
+    "data-analyst": 37
+  },
+  "skills": {
+    "python": {
+      "matches": 710,
+      "strings": [
+        [
+          "python",
+          710
+        ]
+      ],
+      "contexts": [
+        "so| of industry experience Fluency with [[Python]] or C++ Experience with OpenGL, WebGL,",
+        "so| rofessional software development experience ([[Python]] and/or C++ strongly preferred; experience wi",
+        "ai| o specific AI use cases. Good knowledge of [[Python]] and common ML libraries (such as LangChain,",
+        "so| Professional experience writing code in C++, [[Python]], Golang, or similar. Strong professio",
+        "so| Ability to write scripts and automation in [[Python]], Bash, or Go. Familiarity with Helm for Ku",
+        "so| g languages such as C++, Go, Rust, Java, and [[Python]]. A desire to work on software and applicat",
+        "so| development Programming experience in [[Python]], C#.NET, Go, Scala, Java, or similar object-"
+      ]
+    },
+    "sql": {
+      "matches": 323,
+      "strings": [
+        [
+          "sql",
+          151
+        ],
+        [
+          "postgresql",
+          120
+        ],
+        [
+          "mysql",
+          28
+        ],
+        [
+          "postgres",
+          24
+        ]
+      ],
+      "contexts": [
+        "ai| data processing (MapReduce-style pipelines, [[SQL]]) for building training and evaluation datase",
+        "so| Our tech stack includes Golang, AWS, Kafka, [[PostgreSQL]], Redis and Kubernetes, supported by a strong",
+        "so| of the following! Working knowledge of [[PostgreSQL]] or other relational databases for managing a",
+        "da| role requires strong technical expertise in [[SQL]], Salesforce analytics, and data visualizatio",
+        "da| ith operational and financial partners Use [[SQL]] and Python or R to build reproducible analys",
+        "so| language (e.g., Java, Python, Go) and solid [[SQL]]. Experience delivering well-scoped project",
+        "so| aScript framework Database experience with [[PostgreSQL]], SQL Server, or similar database technologie"
+      ]
+    },
+    "java": {
+      "matches": 386,
+      "strings": [
+        [
+          "java",
+          386
+        ]
+      ],
+      "contexts": [
+        "so| programming in one or more languages such as [[Java]], Python, Go or C++. Familiarity with backe",
+        "so| microservices written in Golang, Kotlin and [[Java]] and Elixir. Improve test coverage for exis",
+        "so| gineering team Strong coding skills in Go, [[Java]], or equivalent Experience designing, build",
+        "ai| gramming language (for example Python, Ruby, [[Java]], Go, etc.). Specific language experience is",
+        "so| n object oriented / systems language such as [[Java]], C++, C# etc Hands-on experience working",
+        "so| ing experience in Python, C#.NET, Go, Scala, [[Java]], or similar object-oriented language 1+ ye",
+        "so| al purpose program language, such as Python, [[Java]], or C++ You have good knowledge of algorit"
+      ]
+    },
+    "javascript": {
+      "matches": 243,
+      "strings": [
+        [
+          "javascript",
+          242
+        ],
+        [
+          "ecmascript",
+          1
+        ]
+      ],
+      "contexts": [
+        "so| chitecture. Technologies include: Typescript/[[Javascript]], Go, Rust, C/C++ and Python. The ideal int",
+        "so| chitectures Strong programming skills with [[JavaScript]], Typescript, or GolangPassionate about build",
+        "so| amming languages, such as Java, C++, Python, [[JavaScript]], or similar languages. To apply, please subm",
+        "so| end experience in Angular, React, or similar [[JavaScript]] framework Database experience with Postgre",
+        "ai| amming languages, such as Java, C++, Python, [[JavaScript]], or similar languages Strong software engi",
+        "so| nable web applications Expert knowledge in [[JavaScript]], TypeScript, CSS Experience with modern fr",
+        "so| e of CS fundamentals Knowledge of Python, [[JavaScript]], CSS, and HTML Experience working with lea"
+      ]
+    },
+    "typescript": {
+      "matches": 233,
+      "strings": [
+        [
+          "typescript",
+          233
+        ]
+      ],
+      "contexts": [
+        "so| d engineering driven. Write Python, Go and [[Typescript]] code with a strong focus on usability, scala",
+        "so| uages, including Java and Go for backend and [[Typescript]] for frontend • Open-source technologies lik",
+        "so| customer-facing experiences using React and [[TypeScript]], with opportunities to work with Node.js, AP",
+        "so| g team or in a growth-focused role React / [[TypeScript]] experience Django / Python experience Ex",
+        "so| traffic. What you need Proficient in [[TypeScript]], with backend/infrastructure experience. H",
+        "so| a comparable modern front-end framework, and [[TypeScript]], including interfaces for complex domains wh",
+        "so| uages, including Java and Go for backend and [[Typescript]] for frontend • Open-source technologies like"
+      ]
+    },
+    "cpp": {
+      "matches": 427,
+      "strings": [
+        [
+          "c++",
+          427
+        ]
+      ],
+      "contexts": [
+        "so| Python Experience developing software with [[C++]] Experience building internal tools, conten",
+        "so| riting production software in languages like [[C++]], Rust, Go, or Python that real users or syst",
+        "so| software development experience in Python, C/[[C++]], or similar, with a focus on automation tool",
+        "so| ding in programming languages, such as Java, [[C++]], Python, JavaScript, or similar languages.",
+        "so| er road users Design and implement onboard [[C++]] logic governing how the Driver interacts w",
+        "so| such as Go or Python (or Java, Kotlin, Rust, [[C++]]). API Design: Expertise in designing and m",
+        "so| system We prefer: Experience in [[C++]] MS in Computer Science, or equivalent prac"
+      ]
+    },
+    "c-lang": {
+      "matches": 96,
+      "strings": [
+        [
+          "c",
+          63
+        ],
+        [
+          "in c",
+          27
+        ],
+        [
+          "using c",
+          5
+        ],
+        [
+          "with c",
+          1
+        ]
+      ],
+      "contexts": [
+        "so| compiled, native languages such as Rust and [[C]]/C++. A successful candidate can optimize sof",
+        "so| of computers, programming languages (Python, [[C]]/C++), and formal software development proces",
+        "so| sues. Experience with software development [[using C]] and C++, along with Python Experience upst",
+        "so| h Go or other systems languages (e.g., Rust, [[C]]/C++) Experience with Linux OS internals, p",
+        "so| are engineering experience in one or more of [[C]], C++, Python, Go, Rust, or modern TypeScript",
+        "so| orm experience; Strong programming skills [[in C]], C++, Python, Java, Go or other programming",
+        "so| stems, or SQL processing. Comfort with Go, [[C]]/C++, Java, or Python. A strong grasp of sy"
+      ]
+    },
+    "c-sharp": {
+      "matches": 112,
+      "strings": [
+        [
+          "c#",
+          106
+        ],
+        [
+          ".net",
+          6
+        ]
+      ],
+      "contexts": [
+        "so| ent Programming experience in Python, [[C#]].NET, Go, Scala, Java, or similar object-orie",
+        "so| ent Programming experience in Python, [[C#]].NET, Go, Scala, Java, or similar object-orie",
+        "so| lar system programming languages (C++, Rust, [[C#]], etc) as a potential alternative. 3+ years",
+        "so| ent Programming experience in Python, [[C#]].NET, Go, Scala, Java, or similar object-orie",
+        "so| ent Programming experience in Python, [[C#]].NET, Go, Scala, Java, or similar object-orie",
+        "so| Programming experience in Scala, Java, [[C#]], Python, Go or similar languages Frontend",
+        "so| ent Programming experience in Python, [[C#]].NET, Go, Scala, Java, or similar object-orie"
+      ]
+    },
+    "go": {
+      "matches": 389,
+      "strings": [
+        [
+          "go",
+          223
+        ],
+        [
+          "golang",
+          58
+        ],
+        [
+          "in go",
+          26
+        ],
+        [
+          "such as go",
+          24
+        ],
+        [
+          "or go",
+          17
+        ],
+        [
+          "and go",
+          14
+        ],
+        [
+          "with go",
+          9
+        ],
+        [
+          "like go",
+          8
+        ],
+        [
+          "services in go",
+          4
+        ],
+        [
+          "using go",
+          2
+        ]
+      ],
+      "contexts": [
+        "so| programming skills in C, C++, Python, Java, [[Go]] or other programming languages, and solid un",
+        "so| uction software in languages like C++, Rust, [[Go]], or Python that real users or systems depend",
+        "so| hon and at least one systems-level language ([[Go]], Rust, C++) Demonstrated experience with c",
+        "so| such as Python, Java, JavaScript/TypeScript, [[Go]], or C++. Familiarity with relevant framework",
+        "so| ava, but if your background is in C++, Rust, [[or Go]] and you understand memory layouts and concur",
+        "so| g languages such as Java, Python, C++, Rust, [[Go]], JavaScript, etc. Experience building soft",
+        "so| programming skills in C, C++, Python, Java, [[Go]] or other programming languages, and solid un"
+      ]
+    },
+    "rust": {
+      "matches": 189,
+      "strings": [
+        [
+          "rust",
+          189
+        ]
+      ],
+      "contexts": [
+        "ai| bility, or security isolation. Go, C++, or [[Rust]] experience in addition to Python. At ,",
+        "so| language and its ecosystem (e.g., Java, Go, [[Rust]], C, C++) You will ideally have experienc",
+        "ai| r sandboxed code execution Experience with [[Rust]] or C++ Enjoy pair programming (we love to",
+        "so| d. 3+ years of production-grade C++ and/or [[Rust]] experience in a Linux development environmen",
+        "so| e is Java, but if your background is in C++, [[Rust]], or Go and you understand memory layouts and",
+        "so| rance. NICE TO HAVE Experience with [[Rust]] for high-performance, safety-critical softwa",
+        "so| ramming languages such as Java, Python, C++, [[Rust]], Go, JavaScript, etc. Experience building"
+      ]
+    },
+    "r": {
+      "matches": 8,
+      "strings": [
+        [
+          "or r",
+          4
+        ],
+        [
+          "r",
+          4
+        ]
+      ],
+      "contexts": [
+        "da| ith Salesforce reporting/dashboards Python/[[R]] for data manipulation and automation Prior",
+        "da| ical analysis programming languages (Python, [[R]] etc.)",
+        "da| ith Salesforce reporting/dashboards Python/[[R]] for data manipulation and automation Prior",
+        "ai| in programming languages (Python, C++, Java [[or R]]) Experience communicating and working acro",
+        "da| , time-series analysis, regression in Python [[or R]]) Experience with ETL processes, data pipel",
+        "so| ironment. Experience using SQL and Python, [[R]] or a comparable programming language to work",
+        "da| and financial partners Use SQL and Python [[or R]] to build reproducible analyses, data models,"
+      ]
+    },
+    "scala": {
+      "matches": 121,
+      "strings": [
+        [
+          "scala",
+          121
+        ]
+      ],
+      "contexts": [
+        "so| k. We work mostly in Java, Ruby, JavaScript, [[Scala]], and Go. We believe new programming language",
+        "so| e programming languages or tools (e.g. Java, [[Scala]], Ruby/Rails, C++, SQL, HTML/CSS, JavaScript,",
+        "so| k. We work mostly in Java, Ruby, JavaScript, [[Scala]], and Go. We believe new programming language",
+        "so| one or more backend languages such as Java, [[Scala]], or Go. Hands-on experience in developing",
+        "ai| rogramming experience in Python, C#.NET, Go, [[Scala]], Java, or similar Production experience wi",
+        "so| k. We work mostly in Java, Ruby, JavaScript, [[Scala]], and Go. We believe new programming language",
+        "so| rk mostly in Ruby, Java, Javascript, Go, and [[Scala]]. We believe new programming languages can be"
+      ]
+    },
+    "kotlin": {
+      "matches": 92,
+      "strings": [
+        [
+          "kotlin",
+          92
+        ]
+      ],
+      "contexts": [
+        "so| APIs at scale using languages like Python or [[Kotlin]]. · You have mastered taking a simple problem",
+        "so| e with Unity, Android development in Java or [[Kotlin]], or iOS development in Objective-C or Swift",
+        "so| ld smooth, stable, and elegant products with [[Kotlin]] and the newest Android APIs Own features f",
+        "so| flake, Flink, Airflow, dbt, CDC Fluency in [[Kotlin]] or Kotlin like development languages such as",
+        "so| r mobile platform using technologies such as [[Kotlin]] or Java for Android. Strong software-desig",
+        "so| ication development. Strong proficiency in [[Kotlin]] and Java with a deep understanding of Androi",
+        "so| e and are experienced using one of Python or [[Kotlin]]. · You are familiar with the building blocks"
+      ]
+    },
+    "swift": {
+      "matches": 22,
+      "strings": [
+        [
+          "swift",
+          22
+        ]
+      ],
+      "contexts": [
+        "so| ign, and implement new features Develop in [[Swift]] or Kotlin in conjunction with backend work",
+        "so| C++, SQL, HTML/CSS, JavaScript, Objective-C, [[Swift]], Kotlin). Foundational awareness of AI con",
+        "so| es and frameworks such as Go, React, Kotlin, [[Swift]], Objective-C etc Proven ability with think",
+        "so| at least one of the following- Kotlin, Java, [[Swift]], Objective-C, Go, or Python Payments",
+        "so| software engineering experience writing Go, [[Swift]] or Objective-C Deep expertise securing dev",
+        "so| obile applications You have proficiency in [[Swift]] and experience developing applications using",
+        "so| es and frameworks such as Go, React, Kotlin, [[Swift]], Objective-C etc Proven ability with think"
+      ]
+    },
+    "ruby": {
+      "matches": 90,
+      "strings": [
+        [
+          "ruby",
+          90
+        ]
+      ],
+      "contexts": [
+        "so| ojects or classwork. We work mostly in Java, [[Ruby]], JavaScript, Scala, and Go. We believe new p",
+        "so| We use a diverse technology stack rooted in [[Ruby]] on Rails, MongoDB, Redis, Kafka, Kubernetes,",
+        "so| oldest and most complex product areas, using [[Ruby]] and GraphQL across .com , self-managed inst",
+        "so| ges such as Go, TypeScript, Python, Rust, or [[Ruby]] Strong system design skills and a track re",
+        "so| ide languages like Python, Java, Node.js, or [[Ruby]] (Go experience is a plus) Solid SQL skills",
+        "so| TypeScript) and back-end technologies (e.g., [[Ruby]], Python, Go, C++, PostgreSQL) A product mi",
+        "ai| programming language, such as Python, Go or [[Ruby]], and the ability to write clean, maintainabl"
+      ]
+    },
+    "data-structures-algorithms": {
+      "matches": 197,
+      "strings": [
+        [
+          "data structures",
+          141
+        ],
+        [
+          "computer science fundamentals",
+          18
+        ],
+        [
+          "algorithm design",
+          13
+        ],
+        [
+          "algorithms and data structures",
+          11
+        ],
+        [
+          "cs fundamentals",
+          9
+        ],
+        [
+          "algorithmic complexity",
+          4
+        ],
+        [
+          "data structure",
+          1
+        ]
+      ],
+      "contexts": [
+        "so| uter science, applying the right algorithms, [[data structures]], concurrency control systems to software des",
+        "so| with a focus on backend development Strong [[computer science fundamentals]], including data structures, algorithms, oper",
+        "so| eering space. Familiarity with algorithms, [[data structures]], storage systems, cloud infrastructure, fron",
+        "so| ing highly reliable software Firm grasp of [[algorithms and data structures]] Preferred skill and experience Unders",
+        "so| ield Strong computer science foundations: [[data structures]], algorithms, systems, clean code An under",
+        "so| ield Strong computer science foundations: [[data structures]], algorithms, systems, clean code An under",
+        "so| Engineering, or Physics. Familiarity with [[data structures]], storage systems, cloud infrastructure, fron"
+      ]
+    },
+    "oop": {
+      "matches": 141,
+      "strings": [
+        [
+          "object-oriented",
+          92
+        ],
+        [
+          "design patterns",
+          33
+        ],
+        [
+          "oop",
+          10
+        ],
+        [
+          "object oriented",
+          6
+        ]
+      ],
+      "contexts": [
+        "ai| ckground in algorithms, data structures, and [[object-oriented]] programming Strong programming skills in P",
+        "so| system design or architecture (architecture, [[design patterns]], reliability and scaling) of new and existin",
+        "so| ecture knowledge as well as familiarity with [[object-oriented]] analysis and design patterns (OOA/OOD) Kno",
+        "so| Python, C#.NET, Go, Scala, Java, or similar [[object-oriented]] language 1+ years of rigorous experience b",
+        "so| Python, C#.NET, Go, Scala, Java, or similar [[object-oriented]] language 1+ years of rigorous experience b",
+        "so| ecurity risks. Define and implement secure [[design patterns]], controls, and repeatable guidance for engin",
+        "so| roficient experience working with at least 1 [[object-oriented]] programming language (e.g., Python, Java, Ko"
+      ]
+    },
+    "operating-systems": {
+      "matches": 131,
+      "strings": [
+        [
+          "operating systems",
+          118
+        ],
+        [
+          "os internals",
+          6
+        ],
+        [
+          "kernel development",
+          5
+        ],
+        [
+          "operating system internals",
+          2
+        ]
+      ],
+      "contexts": [
+        "so| o, C/C++, or Java Experience working with [[operating system internals]], filesystems, databases, networks, and compi",
+        "so| tools (pip, npm) Experience with UNIX-like [[operating systems]] and tools like Terraform, Ansible, Puppet fo",
+        "so| ention to detail Experience with UNIX-like [[operating systems]] and CI/CD tool A drive to deliver exceptio",
+        "so| tools (pip, npm) Experience with UNIX-like [[operating systems]] and tools like Terraform, Ansible, Puppet fo",
+        "so| tals, including data structures, algorithms, [[operating systems]], and distributed systems Proficiency in at",
+        "so| tools (pip, npm) Experience with UNIX-like [[operating systems]] and tools like Terraform, Ansible, Puppet fo",
+        "so| tanding of C.S. fundamentals, in particular, [[operating systems]], concurrency, multithreading, and server arc"
+      ]
+    },
+    "networking": {
+      "matches": 66,
+      "strings": [
+        [
+          "tcp/ip",
+          15
+        ],
+        [
+          "networking protocols",
+          14
+        ],
+        [
+          "network protocols",
+          13
+        ],
+        [
+          "networking fundamentals",
+          10
+        ],
+        [
+          "networking stack",
+          9
+        ],
+        [
+          "computer networks",
+          3
+        ],
+        [
+          "networking concepts",
+          1
+        ],
+        [
+          "computer networking",
+          1
+        ]
+      ],
+      "contexts": [
+        "so| erstanding of distributed computing systems, [[networking protocols]], memory management, and CPU scheduling Tho",
+        "so| h the IEEE 802.11 wireless standard and with [[networking protocols]] (UDP, TCP/IP, etc.) Experience working on",
+        "so| odules (HSMs) Fundamental understanding of [[network protocols]]; including the TCP/IP stack as well as UDP b",
+        "so| odules (HSMs) Fundamental understanding of [[network protocols]]; including the TCP/IP stack as well as UDP b",
+        "so| rShell, Python, or comparable tools. Solid [[networking fundamentals]], including TCP/IP, DNS, routing, firewalls,",
+        "so| modern programming languages. Strong cloud [[networking fundamentals]], including VPC/VNet, subnets, NAT Gateways,",
+        "so| ftware and may include: Experience with [[networking protocols]] (TCP, UDP, etc) Experience developing in"
+      ]
+    },
+    "concurrency": {
+      "matches": 102,
+      "strings": [
+        [
+          "concurrency",
+          64
+        ],
+        [
+          "multithreading",
+          14
+        ],
+        [
+          "multi-threaded",
+          9
+        ],
+        [
+          "concurrent programming",
+          8
+        ],
+        [
+          "multi-threading",
+          4
+        ],
+        [
+          "parallel programming",
+          2
+        ],
+        [
+          "multi-thread",
+          1
+        ]
+      ],
+      "contexts": [
+        "so| s deployed around the world Work with high [[concurrency]] key-value storage systems (Redis, DynamoDB)",
+        "so| language design, performant networking, and [[concurrency]]. Those capabilities still have to run as a c",
+        "ai| thms using C++ and Python; machine learning, [[multithreading]]; x86 architecture; and software performance",
+        "so| Experience with high-performance computing ([[multithreading]], GPU acceleration, distributed systems) K",
+        "so| g understanding of threads, synchronization, [[concurrent programming]]. Excellent written and verbal communicatio",
+        "so| orage engine purpose built for Multi Version [[Concurrency]] Control (MVCC) data, and Plenum , the elasti",
+        "so| g understanding of threads, synchronization, [[concurrent programming]]. Excellent written and verbal communicatio"
+      ]
+    },
+    "distributed-systems": {
+      "matches": 340,
+      "strings": [
+        [
+          "distributed systems",
+          316
+        ],
+        [
+          "distributed system",
+          12
+        ],
+        [
+          "distributed computing",
+          12
+        ]
+      ],
+      "contexts": [
+        "so| ers see. You'll develop strong instincts for [[distributed systems]], careful production rollouts, and data-drive",
+        "so| g languages Experience in building backend [[distributed system]] We prefer: Experience in C++ M",
+        "so| be pivotal in this effort, building scalable [[distributed systems]] that underly the future offerings Starlink i",
+        "so| interest in foundational concepts related to [[distributed systems]], data processing pipelines, or operating sys",
+        "so| rformance, and resource efficiency. Design [[distributed systems]] that support reliable deployment and executi",
+        "so| CA. What You'll Do Build scalable [[distributed systems]] capable of handling high traffic from 100s o",
+        "so| king algorithms to building high-performance [[distributed systems]] that process massive amounts of sensor data"
+      ]
+    },
+    "system-design": {
+      "matches": 116,
+      "strings": [
+        [
+          "system design",
+          59
+        ],
+        [
+          "scalable systems",
+          28
+        ],
+        [
+          "software architecture",
+          16
+        ],
+        [
+          "systems design",
+          12
+        ],
+        [
+          "scalable system",
+          1
+        ]
+      ],
+      "contexts": [
+        "so| nderstanding of algorithms, performance, and [[systems design]] Strong written and verbal communication sk",
+        "so| cale enterprise systems. Collaborative [[System Design]] Sensibility: Strong collaborative skills and",
+        "ai| a deep commitment to building high-quality, [[scalable systems]] that push the boundaries of what AI can acco",
+        "so| nce. Solid Fundamentals: Good grounding in [[system design]] principles, with a growing ability to reason",
+        "so| e motivated to develop reliable, performant, [[scalable systems]] and design robust APIs and primitives, pleas",
+        "so| about delivering end-to-end experiences and [[software architecture]] across the back-end, front-end, and the APIs",
+        "so| e motivated to develop reliable, performant, [[scalable systems]] and design robust APIs and primitives, pleas"
+      ]
+    },
+    "testing": {
+      "matches": 113,
+      "strings": [
+        [
+          "automated testing",
+          33
+        ],
+        [
+          "unit testing",
+          26
+        ],
+        [
+          "automated tests",
+          23
+        ],
+        [
+          "unit tests",
+          10
+        ],
+        [
+          "integration tests",
+          9
+        ],
+        [
+          "integration test",
+          4
+        ],
+        [
+          "automated test",
+          3
+        ],
+        [
+          "tdd",
+          3
+        ],
+        [
+          "test-driven",
+          1
+        ],
+        [
+          "test driven",
+          1
+        ]
+      ],
+      "contexts": [
+        "so| ystems. Familiarity with build tooling and [[automated testing]], with an interest in distributed systems.",
+        "ai| ves in the power of and the need for writing [[automated tests]] as part of development Skilled debugger wh",
+        "so| Develop and maintain comprehensive unit and [[integration tests]]. • Deploy and optimize ML models on embedd",
+        "so| Write and deliver code reliably, along with [[automated tests]] (unit and integration) • Optimize code",
+        "so| s in debugging, performance optimization and [[unit testing]] Ability to work effectively and creativel",
+        "so| er needs Maintain & Evolve: write thorough [[automated tests]], review teammates’ code, and take part in th",
+        "so| verything you build, including comprehensive [[unit tests]], integration testing, and observability inst"
+      ]
+    },
+    "git": {
+      "matches": 235,
+      "strings": [
+        [
+          "version control",
+          109
+        ],
+        [
+          "github",
+          82
+        ],
+        [
+          "git",
+          34
+        ],
+        [
+          "source control",
+          10
+        ]
+      ],
+      "contexts": [
+        "so| CI/CD pipelines using modern DevOps tooling ([[GitHub]] Actions, ArgoCD, Terraform, etc.). Develop",
+        "ai| actices (e.g., clean coding, modular design, [[version control]]). Ability to collaborate with domain exper",
+        "so| luding APIs, data structures, databases, and [[version control]]. Genuine curiosity about how authenticatio",
+        "so| standard build tooling, including Gradle and [[GitHub]] What We Value Ability to communicate and",
+        "so| e, including coding standards, code reviews, [[source control]] management, continuous deployments, testing,",
+        "so| standard build tooling, including Gradle and [[GitHub]] What We Value Ability to communicate and",
+        "so| , PowerBI or similar Good understanding of [[version control]], testing, continuous integration, build, dep"
+      ]
+    },
+    "linux": {
+      "matches": 235,
+      "strings": [
+        [
+          "linux",
+          155
+        ],
+        [
+          "unix",
+          63
+        ],
+        [
+          "bash",
+          12
+        ],
+        [
+          "command line",
+          3
+        ],
+        [
+          "shell scripting",
+          2
+        ]
+      ],
+      "contexts": [
+        "so| anagement tools (pip, npm) Experience with [[UNIX]]-like operating systems and tools like Terraf",
+        "ai| nt and distributed systems architecture in a [[Linux]] environment. Strong first-principles",
+        "so| anagement tools (pip, npm) Experience with [[UNIX]]-like operating systems and tools like Terraf",
+        "so| sional experience Experience managing [[UNIX]]-like operating systems via the command line",
+        "so| ent process. Knowledge and experience with [[Linux]] Operating Systems (OS) such as Red Hat Enter",
+        "so| g, operating, and troubleshooting production [[Linux]] environments and Kubernetes-based platforms",
+        "so| uction-grade C++ and/or Rust experience in a [[Linux]] development environment Integrate autonomo"
+      ]
+    },
+    "docker": {
+      "matches": 258,
+      "strings": [
+        [
+          "docker",
+          131
+        ],
+        [
+          "containerization",
+          46
+        ],
+        [
+          "containerized",
+          33
+        ],
+        [
+          "container orchestration",
+          7
+        ],
+        [
+          "kubernetes and container",
+          5
+        ],
+        [
+          "containerised",
+          4
+        ],
+        [
+          "containerisation",
+          3
+        ],
+        [
+          "containers (docker) and orchestration (kubernetes",
+          3
+        ],
+        [
+          "container images",
+          2
+        ],
+        [
+          "kubernetes, containers",
+          2
+        ]
+      ],
+      "contexts": [
+        "so| n cloud-based services (e.g., gRPC, GraphQL, [[Docker]] and Kubernetes, cloud services such as AWS,",
+        "so| and failure modes Hands-on with CI/CD, [[containers and Kubernetes]], observability, debugging and incident respo",
+        "so| ation for endpoints, servers, and applicable [[containerized]] workloads, including controlled software del",
+        "so| Kafka, Cassandra, Elasticsearch and Spark [[Docker]] and Kubernetes for containerization and orch",
+        "so| Oracle • AWS, GCP, Azure • Bazel, [[Docker]], Kubernetes, Github What You’ll Do",
+        "so| nment. You are experienced with Terraform, [[Docker]], and Kubernetes. You are experienced with",
+        "so| ar technologies Production experience with [[Docker]] and Kubernetes Front-end experience in Ang"
+      ]
+    },
+    "kubernetes": {
+      "matches": 352,
+      "strings": [
+        [
+          "kubernetes",
+          347
+        ],
+        [
+          "k8s",
+          5
+        ]
+      ],
+      "contexts": [
+        "so| nfrastructure such as AWS, Azure, Terraform, [[Kubernetes]] Manage software challenges in contested en",
+        "so| by building elegant, robust APIs powered by [[K8s]] controllers which bridge the gap between a r",
+        "so| (Go, Java, TypeScript, etc.) Knowledge of [[Kubernetes]], container orchestration, observability, and",
+        "so| new services) IdP: Auth0 Infrastructure: [[Kubernetes]] and Docker GCP, Azure and AWS Producti",
+        "so| gies Production experience with Docker and [[Kubernetes]] Front-end experience in Angular, React, or",
+        "so| er you’re interested in distributed systems, [[Kubernetes]], AI-powered products like Bits AI, or develo",
+        "so| erience with Docker, Containerd, LXC, and/or [[Kubernetes]] Database experience with PostgreSQL, SQL S"
+      ]
+    },
+    "ci-cd": {
+      "matches": 275,
+      "strings": [
+        [
+          "ci/cd",
+          139
+        ],
+        [
+          "continuous integration",
+          121
+        ],
+        [
+          "continuous deployment",
+          6
+        ],
+        [
+          "continuous delivery",
+          5
+        ],
+        [
+          "github actions",
+          2
+        ],
+        [
+          "jenkins",
+          2
+        ]
+      ],
+      "contexts": [
+        "ai| uracy, and efficiency Implement and manage [[CI/CD]] pipelines for AI model and AI Agent deployme",
+        "so| vices, GPU systems). Hands-on knowledge of [[CI/CD]] pipelines for automated builds and deploymen",
+        "so| hering to rigorous code review standards and [[continuous integration]] testing You have: Currently enrolle",
+        "so| e including AWS, Kubernetes, containers, and [[CI/CD]] pipelines Write, test, review, and deploy",
+        "so| lications Experience with version control, [[continuous integration]], and continuous delivery concepts Expertis",
+        "so| ith systems monitoring, live deployments, or [[continuous integration]] Experience solving real-time technology pr",
+        "so| , or similar technologies. Experience with [[CI/CD]], deployment automation, infrastructure provi"
+      ]
+    },
+    "terraform": {
+      "matches": 166,
+      "strings": [
+        [
+          "terraform",
+          100
+        ],
+        [
+          "infrastructure-as-code",
+          39
+        ],
+        [
+          "infrastructure as code",
+          27
+        ]
+      ],
+      "contexts": [
+        "so| tions across multiple Entra ID tenants using [[infrastructure-as-code]] frameworks Build tooling to standardize an",
+        "so| ienced with infrastructure automation tools ([[Terraform]], Ansible), monitoring/observability stacks (",
+        "so| n equipment Experience with deployment and [[infrastructure-as-code]] tooling such as Kubernetes, FluxCD, Helm, Te",
+        "so| tions across multiple Entra ID tenants using [[infrastructure-as-code]] frameworks Build tooling to standardize an",
+        "so| elery MySQL, Redis, RabbitMQ, Kafka AWS, [[Terraform]], and modern observability and CI/CD tooling",
+        "so| in integrity. Make what you build legible. [[Infrastructure-as-code]] that explains itself. Runbooks and in-repo c",
+        "so| with declarative configuration management or [[infrastructure-as-code]]. Nix or NixOS is what we use; adjacent tooli"
+      ]
+    },
+    "observability": {
+      "matches": 259,
+      "strings": [
+        [
+          "observability",
+          226
+        ],
+        [
+          "grafana",
+          13
+        ],
+        [
+          "monitoring and alerting",
+          13
+        ],
+        [
+          "datadog",
+          4
+        ],
+        [
+          "prometheus",
+          3
+        ]
+      ],
+      "contexts": [
+        "so| oping and constantly improving our tools for [[observability]] and configuration management. Collaborat",
+        "so| iners and orchestration (Kubernetes, Nomad), [[observability]] tools (Prometheus, Grafana), or applying ML/",
+        "so| iences. Experience with LLM evaluation and [[observability]] tools such as Langfuse or Eino, and optimizi",
+        "so| ntribute to root cause analysis, and improve [[observability]] and resiliency. Keep an eye on the competi",
+        "so| ructure, container orchestration, databases, [[observability]], deployments, and developer productivity. Wo",
+        "so| o, Linux networking, ClickHouse, PostgreSQL, [[Grafana]], Kubernetes, and more. You will use AI-power",
+        "so| o join our Platform team. You will build the [[observability]] systems that give visibility into how we b"
+      ]
+    },
+    "jupyter": {
+      "matches": 3,
+      "strings": [
+        [
+          "jupyter",
+          3
+        ]
+      ],
+      "contexts": [
+        "so| ce with data exploration tools like Grafana, [[Jupyter]] Notebooks, Metabase, PowerBI or similar Go",
+        "ai| on tools and visualization dashboards (e.g., [[Jupyter]]/Colab-based explorers) to help autonomy engi",
+        "so| urce AI frameworks, models, and tools (e.g., [[Jupyter]] Notebook, PyTorch, TensorFlow, Scikit-learn,"
+      ]
+    },
+    "aws": {
+      "matches": 234,
+      "strings": [
+        [
+          "aws",
+          228
+        ],
+        [
+          "amazon web services",
+          6
+        ]
+      ],
+      "contexts": [
+        "so| use boring technology like Node, React, and [[AWS]] so we can focus our engineering energy entir",
+        "so| trong proficiency with cloud infrastructure ([[AWS]]) and infrastructure as code (Terraform) A",
+        "so| stributed systems, and the technologies like [[AWS]], MySQL and Kubernetes. You have mastered t",
+        "so| erience building software and services using [[AWS]] technologies such as ECS, DynamoDB, Lambda,",
+        "ai| erg, DuckDB, Redshift, DBT, Postgres, Mongo. [[AWS]], Kubernetes (cloud and on-prem), Terraform,",
+        "so| wned production data pipelines end-to-end on [[AWS]], GCP, or Azure Production experience with",
+        "so| grating software with Google Cloud Platform, [[AWS]], or Azure. Experience with observability:"
+      ]
+    },
+    "gcp": {
+      "matches": 107,
+      "strings": [
+        [
+          "gcp",
+          90
+        ],
+        [
+          "google cloud",
+          17
+        ]
+      ],
+      "contexts": [
+        "so| nds-on experience with cloud computing (AWS, [[GCP]]...) Experience with Unity, Android develop",
+        "so| miliarity with the public cloud (AWS, Azure, [[GCP]]) Familiarity with Kubernetes or Docker.",
+        "so| ts, catalog APIs, Kubernetes reconciliation, [[GCP]] IAM and BigQuery internals, and you'll autom",
+        "so| Experience with cloud platforms (e.g., AWS, [[GCP]], Azure). Experience with microservice",
+        "ai| ge-scale GPU clusters in public clouds (AWS, [[GCP]], or Azure). At , your base pay is one p",
+        "so| orm's infrastructure (Terraform, Kubernetes, [[GCP]]), so every environment is reproducible, vers",
+        "so| oud provider networking (AWS Direct Connect, [[GCP]] Partner Interconnect, Azure ExpressRoute)."
+      ]
+    },
+    "azure": {
+      "matches": 90,
+      "strings": [
+        [
+          "azure",
+          90
+        ]
+      ],
+      "contexts": [
+        "so| d supporting production workloads in AWS (or [[Azure]]/GCP), along with Kubernetes and Docker funda",
+        "so| rraform, or Nix, and government cloud (e.g., [[Azure]] Gov) Experience operating live systems (on",
+        "so| Experience with Google Cloud Platform/AWS/[[Azure]] or other public cloud technologies is a plus",
+        "so| her cloud providers such as Google Cloud and [[Azure]] is a bonus. Production experience with dat",
+        "so| oud, such as AWS Redshift, GCP BigQuery, and [[Azure]] Synapse etc. Nice-to-have: Experie",
+        "so| ence with cloud-based development (AWS, GCP, [[Azure]], Kubernetes, and cloud environment architect",
+        "so| ducts in cloud and container platforms (AWS, [[Azure]], Google Cloud, Kubernetes, Docker). Experi"
+      ]
+    },
+    "html-css": {
+      "matches": 24,
+      "strings": [
+        [
+          "html",
+          13
+        ],
+        [
+          "css",
+          11
+        ]
+      ],
+      "contexts": [
+        "so| ience with Java Full Stack Experience with [[HTML]], CSS, JavaScript, React.js and CSS pre-proce",
+        "so| both front-end (JavaScript, React, Angular, [[HTML]]/CSS) and back-end (Node.js, Python) developm",
+        "so| . Familiarity with front-end technologies ([[HTML]], CSS, JavaScript, React.js) Knowledge of",
+        "so| TypeScript React Tailwind [[CSS]] TanStack Query & Router Next.js",
+        "ai| Strong knowledge of JavaScript/TypeScript, [[HTML]], CSS, and modern frontend frameworks. Expe",
+        "so| stem (like Stripe). Our Stack: TypeScript, [[HTML]]/CSS, React, Redux, Node.js, API design, Temp",
+        "so| an emphasis on modern frontend technologies ([[HTML]]/CSS/TypeScript/React) and building delightfu"
+      ]
+    },
+    "react": {
+      "matches": 287,
+      "strings": [
+        [
+          "react",
+          274
+        ],
+        [
+          "react native",
+          10
+        ],
+        [
+          "react.js",
+          2
+        ],
+        [
+          "reactjs",
+          1
+        ]
+      ],
+      "contexts": [
+        "so| th web development technologies (JavaScript, [[React]], Node.js) for building visualization and ana",
+        "so| d tech stack, but the most common setups are [[React]] for standard DOM rendering, Maplibre and/or",
+        "so| n frontend technologies (HTML/CSS/TypeScript/[[React]]) and building delightful user interfaces",
+        "so| k of our software Backend (Go), Frontend ([[React]]) Collaborate with fellow engineers, pr",
+        "so| their users Technologies We Use Typescript, [[React]], and GQL are central to our frontend develop",
+        "so| public web experiences. Your work will span [[React]] and Next.js applications, shared libraries,",
+        "so| g frontend applications using Typescript and [[React]] Experience with the implementation and ope"
+      ]
+    },
+    "nextjs": {
+      "matches": 15,
+      "strings": [
+        [
+          "next.js",
+          14
+        ],
+        [
+          "nextjs",
+          1
+        ]
+      ],
+      "contexts": [
+        "so| Build full-stack features using React, [[Next.js]], TypeScript, and Tailwind CSS with guidance",
+        "so| applications and UI components using React, [[Next.js]], and TypeScript Crafting delightful, low-l",
+        "so| ack features across our Go backend and React/[[Next.js]] frontend, directly contributing to our missi",
+        "so| Build full-stack features using React, [[Next.js]], TypeScript, and Tailwind CSS with guidance",
+        "ai| n at least two of: Ruby, Node.js, Python, or [[Next.js]] Familiarity with cloud infrastructure (AWS",
+        "so| ut the role: As a Software Engineer on the [[Next.js]] team, you’ll work on the core of the framewo",
+        "so| hes (we use Tailwind) Familiarity with [[Next.js]] or React Native Comfortable working wi"
+      ]
+    },
+    "nodejs": {
+      "matches": 44,
+      "strings": [
+        [
+          "node.js",
+          40
+        ],
+        [
+          "nodejs",
+          4
+        ]
+      ],
+      "contexts": [
+        "so| xperience with backend lanuages like golang, [[node.js]], java or rust Experience with HTTP API des",
+        "so| teams using technologies like Java, C#, and [[NodeJs]] Take responsibility for the quality of wha",
+        "so| development technologies (JavaScript, React, [[Node.js]]) for building visualization and analysis too",
+        "so| anguages: Java, Python, Go, C++, Javascript, [[Node.js]] - or a comparable object-oriented programmin",
+        "so| t. Nice to have Background in [[Node.js]] or other backend languages. Familiarit",
+        "so| ) and back-end technologies (e.g., Ruby, Go, [[Node.js]], PostgreSQL) Strong collaboration and comm",
+        "so| ming languages, including C#, Lua, Java, Go, [[Node.js]], Ruby, Python, C++, and Swift. Able to thr"
+      ]
+    },
+    "rest-apis": {
+      "matches": 144,
+      "strings": [
+        [
+          "api design",
+          23
+        ],
+        [
+          "rest apis",
+          23
+        ],
+        [
+          "restful",
+          18
+        ],
+        [
+          "rest",
+          17
+        ],
+        [
+          "design robust apis",
+          10
+        ],
+        [
+          "building apis",
+          6
+        ],
+        [
+          "design clean apis",
+          6
+        ],
+        [
+          "api development",
+          5
+        ],
+        [
+          "designing apis",
+          4
+        ],
+        [
+          "rest api",
+          4
+        ]
+      ],
+      "contexts": [
+        "so| y on Rails, Go, or comparable) Experience [[designing APIs]] and working with transactional databases and",
+        "so| iliarity with service-oriented architecture, [[API development]], or systems design Why You’ll Love It He",
+        "so| ts from customers efficiently. This includes [[building APIs]] for processing payments, enabling regional,",
+        "so| istributed systems concepts — microservices, [[REST]] and/or gRPC APIs, message queues, and async",
+        "so| ng Redux, React Query, GraphQL, Node.js, and [[REST APIs]], with exposure to reusable component librari",
+        "so| existing architectural standards Maintain [[RESTful]] APIs and update PostgreSQL data models to su",
+        "so| ign to deployment. Build and integrate [[RESTful]] APIs to support dynamic web and cloud applic"
+      ]
+    },
+    "graphql": {
+      "matches": 41,
+      "strings": [
+        [
+          "graphql",
+          41
+        ]
+      ],
+      "contexts": [
+        "so| owledge in cloud-based services (e.g., gRPC, [[GraphQL]], Docker and Kubernetes, cloud services such",
+        "so| nowledge in cloud-based services (e.g. gRPC, [[GraphQL]], Docker and Kubernetes, cloud services such",
+        "so| s nice to have! Additional experience with [[GraphQL]] is a plus. Solid understanding of mobile a",
+        "so| you scope and deliver. Contributing to our [[GraphQL]] and gRPC ecosystem : middleware, federation",
+        "so| D). Familiarity or experience with Golang, [[GraphQL]], PostgreSQL, Neptune, Docker, and Kubernetes",
+        "so| e-scale applications. Experience designing [[GraphQL]] schemas/other APIs, and defining data contra",
+        "so| rformance: Build and maintain scalable APIs ([[GraphQL]], REST, gRPC) and distributed backend service"
+      ]
+    },
+    "microservices": {
+      "matches": 96,
+      "strings": [
+        [
+          "microservices",
+          49
+        ],
+        [
+          "microservice",
+          37
+        ],
+        [
+          "micro-service",
+          10
+        ]
+      ],
+      "contexts": [
+        "so| pplications including the design of APIs and [[microservices]] on containers. # LI -Hybrid Why Join ?",
+        "so| esigning infrastructure to build hundreds of [[micro-service]] repos performantly, or to ensure we keep rel",
+        "so| plications development (e.g., client/server, [[microservices]], multi-agent solutions). High performance",
+        "so| vices. Some example projects include scaling [[microservice]] clusters, automating serverless deployment,",
+        "so| rong experience with distributed systems and [[microservices]] architecture Strong database knowledge of",
+        "so| w-latency, high-throughput, high-reliability [[microservice]] architectures Design and develop features",
+        "so| w-latency, high-throughput, high-reliability [[microservice]] architectures Design and develop features"
+      ]
+    },
+    "django-flask": {
+      "matches": 18,
+      "strings": [
+        [
+          "django",
+          9
+        ],
+        [
+          "fastapi",
+          7
+        ],
+        [
+          "flask",
+          2
+        ]
+      ],
+      "contexts": [
+        "ai| ipt, React, and/or NodeJS Pytorch Python [[FastAPI]] CesiumJS Experience with faster-than-rea",
+        "so| ast Design and ship async Python services ([[FastAPI]], SQLAlchemy 2 async, asyncpg on Postgres 17)",
+        "so| experience including web-based application ([[Flask]], Django, FastAPI) Understanding of web-bas",
+        "so| ith other LLM tools also available Python, [[Django]], Go, React, RabbitMQ, Celery, MySQL, DynamoD",
+        "ai| : 깔끔하고 유지 관리가 용이한 Python 코드 작성 경험 Backend: [[Django]], FastAPI, Express 등 서버 측 프레임워크를 사용한 백엔드 개발 실",
+        "so| rds, such as React/TypeScript frontends with [[FastAPI]] or Flask backends Hands-on experience",
+        "so| ast Design and ship async Python services ([[FastAPI]], SQLAlchemy 2 async, asyncpg on Postgres 17)"
+      ]
+    },
+    "spring": {
+      "matches": 6,
+      "strings": [
+        [
+          "java frameworks such as spring",
+          2
+        ],
+        [
+          "java, spring",
+          1
+        ],
+        [
+          "java/spring",
+          1
+        ],
+        [
+          "java (minimal setup, spring",
+          1
+        ],
+        [
+          "java spring",
+          1
+        ]
+      ],
+      "contexts": [
+        "so| across . Desired: Experience with [[Java frameworks such as Spring]], Hibernate, or Dropwizard Some experience",
+        "so| banking partners. The technology stack uses [[Java/Spring]] Boot on the backend, React/TypeScript for in",
+        "so| across . Desired: Experience with [[Java frameworks such as Spring]], Hibernate, or Dropwizard Some experience",
+        "so| l APIs. Experience in developing using [[Java Spring]] framework or similar Experience develo",
+        "so| Experience with elements of our tech stack: [[Java, Spring]] Boot, Ruby on Rails, React, AWS. Experienc",
+        "so| y to build something better. Our Stack: [[Java (minimal setup, Spring]] Boot), Kafka Streams, PostgreSQL/RDBMS, Rest"
+      ]
+    },
+    "angular-vue": {
+      "matches": 102,
+      "strings": [
+        [
+          "angular",
+          76
+        ],
+        [
+          "vue",
+          19
+        ],
+        [
+          "vue.js",
+          4
+        ],
+        [
+          "angularjs",
+          1
+        ],
+        [
+          "angular.js",
+          1
+        ],
+        [
+          "vuejs",
+          1
+        ]
+      ],
+      "contexts": [
+        "so| sing declarative UI frameworks like React or [[Vue]]. You have previous work or internship desi",
+        "so| languages. Frontend experience with React, [[Angular]], or a comparable JavaScript framework. Exp",
+        "ai| g (Kafka or similar) Front-end experience ([[Angular]], React, or similar) and database experience",
+        "so| r similar languages Frontend experience in [[Angular]], React, or similar JavaScript frameworks E",
+        "ai| g (Kafka or similar) Front-end experience ([[Angular]], React, or similar) and database experience",
+        "so| ker and Kubernetes Front-end experience in [[Angular]], React, or similar JavaScript framework Da",
+        "ai| uild responsive user interfaces using React, [[Angular]], or similar frameworks, and develop backend"
+      ]
+    },
+    "grpc": {
+      "matches": 43,
+      "strings": [
+        [
+          "grpc",
+          38
+        ],
+        [
+          "protobuf",
+          3
+        ],
+        [
+          "protocol buffers",
+          2
+        ]
+      ],
+      "contexts": [
+        "so| o services, APIs, concurrency, profiling, or [[gRPC]]. Docker, Kubernetes, Helm, CI/CD, or cloud",
+        "so| familiarity across technologies like Kafka, [[gRPC]], Redis, S3, ClickHouse, or MongoDB. Demons",
+        "so| Teach Java, Kotlin AWS HTTP, JSON, [[gRPC]], Protocol Buffers Hibernate, Aurora, MySQL",
+        "so| work protocols, including HTTP, GraphQL, and [[gRPC]] Collaborating closely between engineering,",
+        "so| e use include Docker, Go, PostgreSQL, Redis, [[gRPC]], Kafka, Clickhouse and the usual Unix/Linux",
+        "so| merchant-facing checkout components through [[gRPC]] orchestration services to onchain settlement",
+        "so| top to a multi-cluster cloud node (UDP, TCP, [[gRPC]], REST, etc.) Experience creating infrastru"
+      ]
+    },
+    "nosql": {
+      "matches": 150,
+      "strings": [
+        [
+          "nosql",
+          38
+        ],
+        [
+          "cassandra",
+          37
+        ],
+        [
+          "redis",
+          34
+        ],
+        [
+          "dynamodb",
+          24
+        ],
+        [
+          "mongodb",
+          17
+        ]
+      ],
+      "contexts": [
+        "so| Java and PythonOpen-source technologies like [[Cassandra]], Kubernetes, Envoy, GraphQL, and ReactProtoc",
+        "so| in, Python) Experience working with SQL or [[NoSQL]] databases Ability to hold yourself and the",
+        "so| Proficiency with database technologies (SQL, [[NoSQL]], time-series databases) Experience with w",
+        "so| se technology stack rooted in Ruby on Rails, [[MongoDB]], Redis, Kafka, Kubernetes, and more. As a Pl",
+        "so| tributed systems technologies such as Kafka, [[Cassandra]], Elasticsearch and Spark Docker and Kubern",
+        "so| or frontend • Open-source technologies like [[Cassandra]], Spark, Elasticsearch, React, and Redux • I",
+        "so| building reliable data tiers using Postgres, [[Redis]], Terraform, Ansible, graph databases like Ne"
+      ]
+    },
+    "spark": {
+      "matches": 106,
+      "strings": [
+        [
+          "spark",
+          90
+        ],
+        [
+          "apache spark",
+          16
+        ]
+      ],
+      "contexts": [
+        "so| d • Open-source technologies like Cassandra, [[Spark]], Elasticsearch, React, and Redux • Industry-",
+        "so| d • Open-source technologies like Cassandra, [[Spark]], Elasticsearch, React, and Redux • Industry-",
+        "so| technologies like Cassandra, ElasticSearch, [[Spark]], Kafka, Kubernetes, Flink Industry-standar",
+        "so| d • Open-source technologies like Cassandra, [[Spark]], Elasticsearch, React, and Redux • Industry-",
+        "ai| nce with big data technologies (e.g., Hadoop/[[Spark]]) and scalable realtime systems that process",
+        "so| technologies like Cassandra, ElasticSearch, [[Spark]], Kafka, Kubernetes, Flink Industry-standar",
+        "so| such as Kafka, Cassandra, Elasticsearch and [[Spark]] Docker and Kubernetes for containerization"
+      ]
+    },
+    "kafka": {
+      "matches": 134,
+      "strings": [
+        [
+          "kafka",
+          134
+        ]
+      ],
+      "contexts": [
+        "so| o Distributed systems technologies such as [[Kafka]], Cassandra, Elasticsearch and Spark Docker",
+        "so| with in-stream data processing using Apache [[Kafka]], RabbitMQ, ActiveMQ, or similar technologies",
+        "so| Go or Python. Hands-on experience with [[Kafka]] or similar data streaming technologies.",
+        "so| with in-stream data processing using Apache [[Kafka]], RabbitMQ, ActiveMQ, or similar technologies",
+        "so| (e.g., PostgreSQL, DynamoDB, Redis, RocksDB, [[Kafka]], Spark, OpenSearch/Elasticsearch). Backgro",
+        "so| with Splunk and Elastic, data pipeline with [[Kafka]], cluster computing with Spark, and many more",
+        "so| with in-stream data processing using Apache [[Kafka]], RabbitMQ, ActiveMQ, or similar technologies"
+      ]
+    },
+    "airflow": {
+      "matches": 35,
+      "strings": [
+        [
+          "airflow",
+          35
+        ]
+      ],
+      "contexts": [
+        "so| erience with data orchestration tools (e.g., [[Airflow]], Prefect, or dbt) Programming experience i",
+        "so| vice, Identity and Access Management, Apache [[Airflow]], and other compute, storage, networking, and",
+        "so| erg Orchestration & transformation: Apache [[Airflow]], dbt, Prefect Infrastructure as code & CI/",
+        "so| technologies such as Spark, Flink, Kafka, or [[Airflow]]/Dagster Proven track record of impact-driv",
+        "so| ring) or big data technology is a plus, e.g: [[Airflow]], Spark, Trino, etc. Experience in some co",
+        "so| scale data tooling (e.g., Databricks, Spark, [[Airflow]]) and distributed pipelines. Experience wit",
+        "so| g, Delta Lake), ETL systems (Flyte, Dagster, [[Airflow]], Argo Workflows), and distributed data proce"
+      ]
+    },
+    "dbt": {
+      "matches": 18,
+      "strings": [
+        [
+          "dbt",
+          18
+        ]
+      ],
+      "contexts": [
+        "da| xperience ELT data modeling, especially with [[dbt]] (data build tool) is a plus; building analyt",
+        "so| ebolt) and data pipeline/ETL tools (Dagster, [[dbt]]). Experience with authentication/authoriza",
+        "da| gestion and transformation frameworks (e.g., [[dbt]], Fivetran, or custom/in-house developed plat",
+        "so| th one or more of Snowflake, Flink, Airflow, [[dbt]], CDC Fluency in Kotlin or Kotlin like deve",
+        "da| transformation or orchestration framework - [[dbt]], Airflow, or similar. Comfortable working",
+        "so| ding Golang, Python, SQL, frameworks such as [[dbt]], and technologies like Spark, Kafka, Snowfla",
+        "da| t across our analytics tooling - we’re using [[dbt]], Looker, Fivetran, BigQuery and Amplitude at"
+      ]
+    },
+    "data-warehouse": {
+      "matches": 67,
+      "strings": [
+        [
+          "snowflake",
+          18
+        ],
+        [
+          "data warehouse",
+          16
+        ],
+        [
+          "bigquery",
+          11
+        ],
+        [
+          "databricks",
+          10
+        ],
+        [
+          "data warehouses",
+          6
+        ],
+        [
+          "redshift",
+          4
+        ],
+        [
+          "data warehousing",
+          2
+        ]
+      ],
+      "contexts": [
+        "so| ocol Buffers Data: DynamoDB, MySQL, Kafka, [[Snowflake]] Infrastructure: AWS, Kubernetes Observab",
+        "so| eCI). Nice to haves: Experience with [[data warehouses]] (Snowflake, Firebolt) and data pipeline/ETL",
+        "so| platforms on GCP using technologies such as [[BigQuery]], Apache Iceberg, Google Cloud Storage, Kuber",
+        "so| scale. This role shapes the foundations for [[data warehousing]], orchestration, business intelligence, gover",
+        "so| elop data pipelines between enterprise apps, [[Redshift]], and S3, and make that data available to AI",
+        "da| st-to-serve analytics Experience with dbt, [[Snowflake]], Hex, or comparable analytical toolsets Ex",
+        "so| orce integration will be a significant plus; [[Databricks]] experience nice to have. Experience ru"
+      ]
+    },
+    "data-pipelines": {
+      "matches": 138,
+      "strings": [
+        [
+          "data pipelines",
+          106
+        ],
+        [
+          "etl",
+          18
+        ],
+        [
+          "data pipeline",
+          13
+        ],
+        [
+          "elt",
+          1
+        ]
+      ],
+      "contexts": [
+        "so| is. You build reliable batch and streaming [[data pipelines]] using technologies such as Apache Beam, Apac",
+        "so| otocol (MCP), and design retrieval (RAG) and [[data pipelines]] that support AI-driven capabilities Use AI",
+        "so| S: Develop highly reliable and scalable [[data pipelines]] to empower engineers across Create new a",
+        "so| ata stack, scaling our ingestion and reverse [[ETL]] capabilities for new product use cases, and",
+        "so| l stack, from frontend UI changes to backend [[data pipelines]], and collaborate with Product and Design to",
+        "ai| flows, tool integrations, and the models and [[data pipelines]] that support them. Build and maintain",
+        "so| , and beta/gamma/prod environments Develop [[data pipelines]] between enterprise apps, Redshift, and S3, a"
+      ]
+    },
+    "data-modeling": {
+      "matches": 75,
+      "strings": [
+        [
+          "data modeling",
+          35
+        ],
+        [
+          "data models",
+          34
+        ],
+        [
+          "data modelling",
+          5
+        ],
+        [
+          "data model",
+          1
+        ]
+      ],
+      "contexts": [
+        "ai| Understanding of distributed databases and [[data modeling]] Experience with automatically managing tho",
+        "so| ervices, application programming interfaces, [[data models]], and business logic that control how code re",
+        "so| nderstanding of data structures, algorithms, [[data modeling]] and schema design 1+ years as an software",
+        "so| r-facing UI experiences, defining composable [[data models]] and durable interfaces Debug production i",
+        "so| bounded service functionality, and work with [[data models]], migrations, indexes, and query behavior.",
+        "so| y with scalability, concurrency, API design, [[data modeling]], and distributed systems fundamentals. Pro",
+        "so| bounded service functionality, and work with [[data models]], migrations, indexes, and query behavior."
+      ]
+    },
+    "elasticsearch-search": {
+      "matches": 53,
+      "strings": [
+        [
+          "elasticsearch",
+          42
+        ],
+        [
+          "opensearch",
+          11
+        ]
+      ],
+      "contexts": [
+        "so| nd other technologies (e.g. Postgres, Redis, [[Elasticsearch]], RabbitMQ) Compensation $130",
+        "so| complex distributed systems like Cassandra, [[Elasticsearch]], Kafka, and more across different environmen",
+        "so| and vector stores (Bedrock Knowledge Bases, [[OpenSearch]] Serverless, pgvector, or S3 Vectors) Exper",
+        "so| complex distributed systems like Cassandra, [[Elasticsearch]], Kafka, and more across different environmen",
+        "so| role in ensuring that every interaction with [[Elasticsearch]], Kibana, and the broader stack is proficie",
+        "so| n-source technologies like Cassandra, Spark, [[Elasticsearch]], React, and Redux • Industry-standard build",
+        "so| Trino/Presto, Apache Pinot, Hive Metastore, [[ElasticSearch]] etc. The systems we own support all of the d"
+      ]
+    },
+    "excel": {
+      "matches": 13,
+      "strings": [
+        [
+          "excel",
+          9
+        ],
+        [
+          "spreadsheets",
+          2
+        ],
+        [
+          "google sheets",
+          2
+        ]
+      ],
+      "contexts": [
+        "da| Working proficiency with SQL and advanced [[Excel]]. Experience with reporting and visualizati",
+        "da| s d’études Tu as une excellente maîtrise d’[[Excel]], de SQL ainsi qu’un fort attrait d’analyse",
+        "da| ted. Good working knowledge of MS Office / [[Google Sheets]] / Google Slides. Demonstrated ability to c",
+        "da| Working knowledge of SQL and Python Strong [[Excel]] skills and the ability to build clean, trace",
+        "da| ss operations 1+ years of experience using [[Excel]] or SQL for reporting purposes 3+ year",
+        "ai| k with ’s agents through documents, charts, [[spreadsheets]], and other interactive surfaces. You’ll help",
+        "da| analytics tools including SQL, Tableau, and [[Google Sheets]], as well as internal data pipelines to analy"
+      ]
+    },
+    "tableau": {
+      "matches": 20,
+      "strings": [
+        [
+          "tableau",
+          20
+        ]
+      ],
+      "contexts": [
+        "so| ds or analytical and statistical models (Ex: [[Tableau]], PowerBI) Physical network infrastructure",
+        "da| reate and maintain data visualizations using [[Tableau]] or similar tools to help teams monitor key m",
+        "da| g dashboards and visualizations (e.g., using [[Tableau]], Power BI, or Looker) to track key performan",
+        "so| tools (e.g., Power BI, Grafana, Metabase, or [[Tableau]]) Experience developing web apps, dashboard",
+        "da| g insights from enterprise BI tools (such as [[Tableau]], Power BI, or Looker). Analytical ski",
+        "so| teams Knowledge of reporting tools such as [[Tableau]], Superset and Looker Comfortable working i",
+        "da| led in using data visualization tools (e.g., [[Tableau]], Power BI, Looker) to create clear and insig"
+      ]
+    },
+    "power-bi": {
+      "matches": 17,
+      "strings": [
+        [
+          "power bi",
+          10
+        ],
+        [
+          "powerbi",
+          7
+        ]
+      ],
+      "contexts": [
+        "so| ated technology Familiarity with Microsoft [[Power BI]] or similar Business Intelligence platforms",
+        "da| ing data visualization tools (e.g., Tableau, [[Power BI]], Looker) to create clear and insightful dash",
+        "so| s like Grafana, Jupyter Notebooks, Metabase, [[PowerBI]] or similar Good understanding of version c",
+        "so| ation and business intelligence tools (e.g., [[Power BI]], Grafana, Metabase, or Tableau) Experience",
+        "so| ta exploration tools like Grafana, Metabase, [[PowerBI]] or similar Good understanding of version c",
+        "so| ta exploration tools like Grafana, Metabase, [[PowerBI]] or similar Good understanding of version c",
+        "so| ta exploration tools like Grafana, Metabase, [[PowerBI]] or similar Good understanding of version c"
+      ]
+    },
+    "looker": {
+      "matches": 13,
+      "strings": [
+        [
+          "looker",
+          13
+        ]
+      ],
+      "contexts": [
+        "da| lizations (e.g., using Tableau, Power BI, or [[Looker]]) to track key performance indicators (KPIs)",
+        "da| oss our analytics tooling - we’re using dbt, [[Looker]], Fivetran, BigQuery and Amplitude at . You’",
+        "da| ytical narratives using data visualizations ([[Looker]] is a plus) Executive communication skills",
+        "so| g or business intelligence tools (e.g. Jira, [[Looker]]) Compensation The monthly salary range for t",
+        "so| eporting tools such as Tableau, Superset and [[Looker]] Comfortable working in fast paced environm",
+        "so| Familiarity with data visualization tools ([[Looker]], Tableau, etc). Great communication skills",
+        "so| ience. BI is the domain you serve (primarily [[Looker]] and Sigma, and the systems around them), but"
+      ]
+    },
+    "dashboards": {
+      "matches": 93,
+      "strings": [
+        [
+          "dashboards",
+          62
+        ],
+        [
+          "business intelligence",
+          17
+        ],
+        [
+          "dashboard",
+          11
+        ],
+        [
+          "dashboarding",
+          3
+        ]
+      ],
+      "contexts": [
+        "da| u'll build metrics, scalable data pipelines, [[dashboards]], and reports to inform and run the business.",
+        "da| nalytical frameworks. From building scalable [[dashboards]] to crafting compelling data narratives, your",
+        "da| u'll build metrics, scalable data pipelines, [[dashboards]], and reports to inform and run the business.",
+        "so| ales, and supports the observability stack — [[dashboards]], metrics, and data pipelines that gives engi",
+        "da| Who we are: About the Role: As a [[Business Intelligence]] Analyst II , you will work within the Post S",
+        "so| nce is primarily focused on SQL modeling, BI [[dashboards]], ETL tools, or building business-facing data",
+        "so| ales, and supports the observability stack — [[dashboards]], metrics, and data pipelines that gives engi"
+      ]
+    },
+    "data-visualization": {
+      "matches": 35,
+      "strings": [
+        [
+          "data visualization",
+          21
+        ],
+        [
+          "visualization tools",
+          6
+        ],
+        [
+          "data visualizations",
+          6
+        ],
+        [
+          "visualization tool",
+          1
+        ],
+        [
+          "data visualisation",
+          1
+        ]
+      ],
+      "contexts": [
+        "da| aborative environment Working knowledge of [[visualization tools]] and techniques is beneficial A love for, o",
+        "so| Pandas, NumPy, and PyTorch Experience with [[data visualization]] and business intelligence tools (e.g., Power",
+        "so| lve complex UI challenges: Build interactive [[data visualizations]] and high-performance dashboards that handle",
+        "da| a plus; building analytical narratives using [[data visualizations]] (Looker is a plus) Executive communication",
+        "so| deployed software systems Experience with [[data visualization]] and analysis in Python or Matlab Must be e",
+        "da| expertise in SQL, Salesforce analytics, and [[data visualization]] tools, with the ability to thrive in a fast-",
+        "da| anced Excel. Experience with reporting and [[visualization tools]] such as Tableau, Power BI, or similar. Wor"
+      ]
+    },
+    "statistics": {
+      "matches": 96,
+      "strings": [
+        [
+          "statistics",
+          45
+        ],
+        [
+          "statistical",
+          41
+        ],
+        [
+          "probability",
+          10
+        ]
+      ],
+      "contexts": [
+        "so| ews of large telemetry or video. Integrate [[statistical]] models, computer vision, or large language m",
+        "da| or) is a strong plus. Bachelor's degree in [[statistics]], computer science, math, or a related quanti",
+        "so| d foundation in mathematics: linear algebra, [[probability]], statistics, and/or differential equations",
+        "so| d foundation in mathematics: linear algebra, [[probability]], statistics, and/or differential equations",
+        "so| yment and monitoring Good understanding of [[statistics]], machine learning algorithms and frameworks",
+        "so| d foundation in mathematics: linear algebra, [[probability]], statistics, and/or differential equations",
+        "so| The Data team at develops infrastructure, [[statistical]] models, and products using financial data. O"
+      ]
+    },
+    "ab-testing": {
+      "matches": 47,
+      "strings": [
+        [
+          "a/b testing",
+          16
+        ],
+        [
+          "a/b tests",
+          8
+        ],
+        [
+          "experiment design",
+          6
+        ],
+        [
+          "experimentation platforms",
+          6
+        ],
+        [
+          "causal inference",
+          3
+        ],
+        [
+          "experimentation frameworks",
+          2
+        ],
+        [
+          "experimentation platform",
+          2
+        ],
+        [
+          "online experiments",
+          1
+        ],
+        [
+          "design experiments",
+          1
+        ],
+        [
+          "designing experiments",
+          1
+        ]
+      ],
+      "contexts": [
+        "so| nts (or strong aptitude to quickly learn our [[experimentation platform]]) — including guardrail metrics, staged rollo",
+        "ai| ng-horizon rewards Solid grounding in both [[causal inference]] and counterfactual evaluation Good underst",
+        "so| working alongside Data Scientists and PMs to [[design experiments]], establish core performance metrics, and ite",
+        "ai| stores, data pipelines for ML, training and [[experimentation platforms]], model evaluation, deployment, serving and i",
+        "ai| statistical methods to model evaluation and [[experiment design]] Write tested, readable, and maintainable c",
+        "ai| erse customer use cases, including designing [[A/B testing]] and automated regression pipelines. Improv",
+        "so| o release; from rapidly prototyping, running [[A/B tests]], to architecting and building solutions that"
+      ]
+    },
+    "pandas": {
+      "matches": 21,
+      "strings": [
+        [
+          "pandas",
+          15
+        ],
+        [
+          "numpy",
+          6
+        ]
+      ],
+      "contexts": [
+        "so| lysis and machine learning libraries such as [[Pandas]], NumPy, and PyTorch Experience with data v",
+        "so| ce. Experience with the Python data stack ([[Pandas]], NumPy, SciPy) and with relational databases",
+        "ai| s Python, Scala, Spark and libraries such as [[Pandas]], NumPy, and Scikit-learn. Expertise in are",
+        "ai| projects and software such as scikit-learn, [[pandas]], NumPy, XGBoost, Kubeflow Experience d",
+        "ai| s Python, Scala, Spark and libraries such as [[Pandas]], NumPy, and Scikit-learn. Expertise in are",
+        "ai| s Python, Scala, Spark and libraries such as [[Pandas]], NumPy, and Scikit-learn. Expertise in are",
+        "ai| sensor data, logs, etc.) using tools such as [[pandas]] and NumPy Built code or configuration gene"
+      ]
+    },
+    "analytics-tools": {
+      "matches": 2,
+      "strings": [
+        [
+          "amplitude",
+          2
+        ]
+      ],
+      "contexts": [
+        "da| re using dbt, Looker, Fivetran, BigQuery and [[Amplitude]] at . You’ll support the dashboards and unde",
+        "da| , pivot tables) BI tools (Looker, Tableau, [[Amplitude]], etc.) Familiarity with event tracking too"
+      ]
+    },
+    "sas-spss": {
+      "matches": 1,
+      "strings": [
+        [
+          "sas",
+          1
+        ]
+      ],
+      "contexts": [
+        "so| nvolving NAND, CPU, BMC, BIOS, EEPROM, PCIe, [[SAS]], and board-level interfaces such as I2C, SMB"
+      ]
+    },
+    "machine-learning": {
+      "matches": 291,
+      "strings": [
+        [
+          "machine learning",
+          171
+        ],
+        [
+          "ml",
+          98
+        ],
+        [
+          "ml models",
+          15
+        ],
+        [
+          "machine-learning",
+          4
+        ],
+        [
+          "ml model",
+          3
+        ]
+      ],
+      "contexts": [
+        "ai| g; performance profiling and optimization of [[ML]] systems CUDA / GPU or TPU kernel exper",
+        "ai| ring skills with experience building complex [[ML]] systems Are comfortable working with l",
+        "so| Experience with image data processing and [[machine learning]] Strong background in math and physics",
+        "ai| eams to design, develop, and evaluate AI and [[ML models]] that power intelligent endpoint management a",
+        "so| rce allocation planning tools driven by rich-[[ML models]]. Our customers use our defense offering to p",
+        "ai| sor data (camera, LiDAR) and 3D map data for [[machine learning]] models Prototype and iterate on Vision-Lan",
+        "so| rce allocation planning tools driven by rich-[[ML models]]. Our customers use our defense offering to d"
+      ]
+    },
+    "deep-learning": {
+      "matches": 60,
+      "strings": [
+        [
+          "deep learning",
+          44
+        ],
+        [
+          "neural networks",
+          6
+        ],
+        [
+          "transformer models",
+          3
+        ],
+        [
+          "deep-learning",
+          3
+        ],
+        [
+          "transformer architectures",
+          2
+        ],
+        [
+          "neural network",
+          1
+        ],
+        [
+          "huggingface transformers",
+          1
+        ]
+      ],
+      "contexts": [
+        "ai| fe. Think of us as doing \"neuroscience\" of [[neural networks]] using \"microscopes\" we build - or reverse-en",
+        "ai| ke robotics, perception, decision-making and [[deep learning]], while collaborating with hardware and syste",
+        "ai| ith modern AI architectures such as LLMs and [[deep learning]], and familiarity with tools such as LangGrap",
+        "ai| duction environments Experience working on [[deep learning]] and generative AI frameworks like PyTorch, J",
+        "so| rieval-augmented generation, or other modern [[deep learning]] architectures. Experience optimizing model",
+        "so| ke robotics, perception, decision-making and [[deep learning]], while collaborating with hardware and syste",
+        "ai| formance. Your work may include developing [[transformer architectures]] for payment data, building graph-powered int"
+      ]
+    },
+    "pytorch": {
+      "matches": 73,
+      "strings": [
+        [
+          "pytorch",
+          73
+        ]
+      ],
+      "contexts": [
+        "ai| in Python and modern frameworks (JAX, Flax, [[PyTorch]], or TensorFlow) Solid theoretical understa",
+        "ai| rience using profiling tools (NVIDIA Nsight, [[PyTorch]] Profiler, or XLA/JAX profiling) to identify",
+        "ai| perience developing ML models in Python with [[PyTorch]] or TensorFlow Industry experience applyin",
+        "ai| languages, including model development with [[PyTorch]] You are experienced with building data pip",
+        "ai| Familiar with modern frameworks (JAX, Flax, [[PyTorch]], or TensorFlow) Strong software developmen",
+        "ai| experience with machine learning frameworks ([[PyTorch]], TensorFlow, JAX) Have industry experience",
+        "ai| d SQL, with deep learning frameworks such as [[PyTorch]] and distributed compute such as Spark or PyS"
+      ]
+    },
+    "tensorflow": {
+      "matches": 45,
+      "strings": [
+        [
+          "tensorflow",
+          26
+        ],
+        [
+          "jax",
+          19
+        ]
+      ],
+      "contexts": [
+        "ai| odels using ML frameworks such as PyTorch or [[TensorFlow]] Experience applying ML techniques includin",
+        "ai| d, Megatron- LM ) and ML libraries (PyTorch, [[TensorFlow]]) You have a proven track record of conduct",
+        "ai| achine learning frameworks (such as PyTorch, [[TensorFlow]]) Experience solving sophisticated problems",
+        "ai| ML models using frameworks such as PyTorch, [[TensorFlow]], XGBoost, or scikit-learn. Experience buil",
+        "ai| d, Megatron- LM ) and ML libraries (PyTorch, [[TensorFlow]]) You have a proven track record of con",
+        "ai| k transformer over driving-log sequences, in [[JAX]]/Flax on TPUs - iterating on fine-tuning stra",
+        "ai| aining, or post-training) Familiarity with [[JAX]], PyTorch, or similar ML frameworks A track"
+      ]
+    },
+    "scikit-learn": {
+      "matches": 16,
+      "strings": [
+        [
+          "scikit-learn",
+          12
+        ],
+        [
+          "sklearn",
+          4
+        ]
+      ],
+      "contexts": [
+        "da| sis. Experienced in Python (Pandas, NumPy, [[Scikit-learn]], etc.) for data analysis, modeling, and auto",
+        "ai| ark and libraries such as Pandas, NumPy, and [[Scikit-learn]]. Expertise in areas of machine learning su",
+        "ai| ssociated ML tools/frameworks (numpy, scipy, [[sklearn]], pytorch) Experience with working coll",
+        "ai| ssociated ML tools/frameworks (numpy, scipy, [[sklearn]], pytorch) Experience with working col",
+        "ai| ark and libraries such as Pandas, NumPy, and [[Scikit-learn]]. Expertise in areas of machine learning su",
+        "so| tics), machine learning frameworks (PyTorch, [[scikit-learn]]), or serving models for inference, including",
+        "ai| ng frameworks and libraries such as PyTorch, [[scikit-learn]], TensorFlow, NumPy, SciPy, and pandas Stro"
+      ]
+    },
+    "llm": {
+      "matches": 235,
+      "strings": [
+        [
+          "llm",
+          80
+        ],
+        [
+          "llms",
+          41
+        ],
+        [
+          "large language models",
+          39
+        ],
+        [
+          "foundation models",
+          32
+        ],
+        [
+          "generative ai",
+          19
+        ],
+        [
+          "genai",
+          10
+        ],
+        [
+          "foundation model",
+          7
+        ],
+        [
+          "large language model",
+          7
+        ]
+      ],
+      "contexts": [
+        "so| ssistants, automated code review tooling, or [[LLM]]-assisted development workflows to optimize s",
+        "so| ngineering velocity through effective use of [[LLMs]]. We own Minions, 's one-shot, end-to-end co",
+        "so| hat you'll bring Experience using AI or [[large language model]] (LLM) tools to generate or evaluate technica",
+        "so| ice products) Experience leveraging AI/[[LLMs]] to build more powerful or efficient tools",
+        "so| ineering & Agents Help design and build [[LLM]]-powered features and agentic workflows (e.g.",
+        "so| s, Python, PostgreSQL, Duo Agent Platform, [[large language model]] application programming interfaces, and an a",
+        "ai| , with either production experience building [[LLM]]-powered applications, including prompting, c"
+      ]
+    },
+    "prompt-engineering": {
+      "matches": 37,
+      "strings": [
+        [
+          "prompt engineering",
+          20
+        ],
+        [
+          "prompting",
+          14
+        ],
+        [
+          "prompt design",
+          3
+        ]
+      ],
+      "contexts": [
+        "ai| gmented Generation (RAG), agentic workflows, [[prompt engineering]], and automated model guardrails. Enterpris",
+        "ai| ds-on experience with LLM workflows, such as [[prompt engineering]], retrieval-augmented generation, fine-tuning",
+        "so| and embeddings, vector search, chunking, and [[prompting]] in practice Comfortable across the stack —",
+        "ai| pretraining, fine-tuning (SFT, RLHF, GRPO), [[prompt engineering]], RAG architectures, and LLM evaluation frame",
+        "ai| er vision, Vision-Language Models (VLMs), or [[prompt engineering]] Familiarity with 3D geometry, coordinate t",
+        "so| language model-based applications, including [[prompt engineering]], agentic workflows, and artificial intellige",
+        "so| ience building agents or workflows with MCP, [[prompt engineering]], or LLM APIs Experience with infrastructur"
+      ]
+    },
+    "rag": {
+      "matches": 62,
+      "strings": [
+        [
+          "rag",
+          23
+        ],
+        [
+          "embedding",
+          15
+        ],
+        [
+          "retrieval-augmented",
+          10
+        ],
+        [
+          "embeddings",
+          6
+        ],
+        [
+          "vector databases",
+          5
+        ],
+        [
+          "vector search",
+          3
+        ]
+      ],
+      "contexts": [
+        "ai| ML/AI systems, including LLM orchestration, [[embedding]] models, and vector stores. Strong fundamen",
+        "so| ort adopting AI native development tools and [[embedding]] them into daily engineering practice Abili",
+        "so| by building agentic AI systems, MCP servers, [[RAG]]-based search, and traditional automation whe",
+        "ai| eveloping reusable models such as subscriber [[embeddings]] that support multiple products and use cases",
+        "so| ing applied AI problems across retrieval and [[RAG]], grounding, hallucination mitigation, model",
+        "ai| oundation models, fine-tuning workflows, and [[Retrieval-Augmented]] Generation (RAG) stacks (Vector DBs, Knowled",
+        "ai| ze ML models for Search, Discovery, Ranking, [[Retrieval-Augmented]] Generation (RAG), and generative AI features"
+      ]
+    },
+    "agents": {
+      "matches": 228,
+      "strings": [
+        [
+          "agentic",
+          122
+        ],
+        [
+          "ai agents",
+          65
+        ],
+        [
+          "multi-agent",
+          30
+        ],
+        [
+          "ai agent",
+          8
+        ],
+        [
+          "llm agents",
+          1
+        ],
+        [
+          "tool-use",
+          1
+        ],
+        [
+          "llm agent",
+          1
+        ]
+      ],
+      "contexts": [
+        "ai| s it inward: we build the platform that lets [[AI agents]] operate autonomously inside 's own engineer",
+        "so| ineer here writes detection logic and builds [[AI agents]]. Impersonation is one of the most damaging a",
+        "so| rates AI into its daily workflow, leveraging [[agentic]] tools to navigate our large Ruby monolith, c",
+        "so| gent: Currently topping the leaderboards for [[agentic]] software repair. SonarSweep & Sonar Context",
+        "so| nd physical systems Developing and testing [[multi-agent]] autonomous systems and deploying in real-wor",
+        "so| ata processing pipelines, user-written code, [[AI agents]], or connecting directly from the Ontology.",
+        "ai| re detection Distributed storage systems [[AI agents]] and autonomous infrastructure operations"
+      ]
+    },
+    "fine-tuning": {
+      "matches": 56,
+      "strings": [
+        [
+          "fine-tuning",
+          43
+        ],
+        [
+          "fine-tune",
+          7
+        ],
+        [
+          "finetuning",
+          5
+        ],
+        [
+          "fine tuning",
+          1
+        ]
+      ],
+      "contexts": [
+        "so| ncluding prompt engineering, evaluation, and [[fine-tuning]] Operated production services on AWS Bo",
+        "so| s easy to integrate, ranging from supervised [[fine-tuning]] to offline RL, online RL, and environment-dr",
+        "ai| a particular workflow, the next you could be [[fine-tuning]] performance to enable low-latency or more ac",
+        "ai| eir own data, with technologies ranging from [[fine-tuning]] LLMs for enterprise domains, to a platform f",
+        "ai| einforcement learning, and large-scale model [[fine-tuning]]. Experience with post-training techniques",
+        "ai| d and ship evaluation tooling independently. [[Fine-tuning]] and ML frameworks are not required. Able t",
+        "ai| estration, advanced retrieval architectures, [[fine-tuning]], and structured outputs Experience buildin"
+      ]
+    },
+    "reinforcement-learning": {
+      "matches": 73,
+      "strings": [
+        [
+          "reinforcement learning",
+          66
+        ],
+        [
+          "rlhf",
+          7
+        ]
+      ],
+      "contexts": [
+        "ai| -training techniques like Constitutional AI, [[RLHF]], and other alignment methodologies. Your wor",
+        "ai| services and leverages tools including SFT, [[Reinforcement learning]], Distillation, RAG/Search, LLM evaluation an",
+        "so| ng workflows such as SFT, preference tuning, [[reinforcement learning]], and environment-based agent training. Str",
+        "ai| form — including emerging directions such as [[reinforcement learning]] (RLHF/RLVR), agent optimization, and other p",
+        "so| d to planning and decision-making, including [[reinforcement learning]], learned heuristics, and behavior prediction",
+        "ai| -training techniques like Constitutional AI, [[RLHF]], and other alignment methodologies. Your wor",
+        "ai| ction to solve long tail problems, adjusting [[reinforcement learning]] techniques for motion planning, working on t"
+      ]
+    },
+    "model-evaluation": {
+      "matches": 76,
+      "strings": [
+        [
+          "evaluation frameworks",
+          26
+        ],
+        [
+          "evals",
+          19
+        ],
+        [
+          "eval",
+          16
+        ],
+        [
+          "model evaluation",
+          12
+        ],
+        [
+          "evaluation metrics",
+          1
+        ],
+        [
+          "benchmarking models",
+          1
+        ],
+        [
+          "evaluation framework",
+          1
+        ]
+      ],
+      "contexts": [
+        "ai| automation tools and processes to streamline [[model evaluation]] and deployment workflows. Optimize infrastru",
+        "ai| machine learning, data analysis, statistics, [[model evaluation]], and experiment design. Strong programming",
+        "ai| a few areas our platform teams work on: [[Evals]] for design : Building evaluation frameworks",
+        "ai| n from field experience, e.g. benchmarks and [[evals]] for design and structure tasks (capabilities",
+        "ai| foundations in machine learning, statistics, [[model evaluation]], and experiment design. Strong programming",
+        "ai| ompt engineering, RAG architectures, and LLM [[evaluation frameworks]] Experience building Agentic AI systems — i",
+        "ai| cientific domain knowledge to develop custom [[evaluation frameworks]], design scalable architectures, and create t"
+      ]
+    },
+    "mlops": {
+      "matches": 69,
+      "strings": [
+        [
+          "ml infrastructure",
+          22
+        ],
+        [
+          "mlops",
+          10
+        ],
+        [
+          "ml platform",
+          10
+        ],
+        [
+          "model serving",
+          8
+        ],
+        [
+          "model inference",
+          5
+        ],
+        [
+          "model deployment",
+          3
+        ],
+        [
+          "ml ops",
+          3
+        ],
+        [
+          "inference optimization",
+          2
+        ],
+        [
+          "inference infrastructure",
+          2
+        ],
+        [
+          "inference systems",
+          2
+        ]
+      ],
+      "contexts": [
+        "so| frontier model providers) Familiarity with [[MLOps]], model onboarding, compute orchestration, an",
+        "ai| ems. Experience with AI infrastructure and [[MLOps]], including observability, CI/CD, and automat",
+        "ai| tes with an ML background, help stand up new [[ML infrastructure]] that improves how the team optimizes system",
+        "ai| irst approach to autonomous driving, and the [[ML Infrastructure]] team builds and operates the infrastructure",
+        "so| ructure Background in Data Infrastructure, [[MLOps]], or ML infrastructure Strong candidates",
+        "ai| buted model training, low-latency inference, [[model deployment]], or production monitoring. Experience ment",
+        "ai| to, you will design and optimize large-scale [[model serving]] systems end-to-end, owning everything from d"
+      ]
+    },
+    "nlp": {
+      "matches": 19,
+      "strings": [
+        [
+          "natural language processing",
+          13
+        ],
+        [
+          "nlp",
+          6
+        ]
+      ],
+      "contexts": [
+        "so| d spectrum of ideas across machine learning, [[natural language processing]], and ML systems. As a Platform Engineer in",
+        "ai| ation, recommender systems, search, ranking, [[natural language processing]], reinforcement learning, and graph represent",
+        "so| , clustering, deep learning neural networks, [[NLP]], LLMs, SLMs, model fine-tuning, prompt engin",
+        "ai| ation, recommender systems, search, ranking, [[natural language processing]], reinforcement learning, and graph represent",
+        "ai| thoring research papers in machine learning, [[NLP]], or AI safety Have experience with LLMs",
+        "ai| d spectrum of ideas across machine learning, [[natural language processing]], and ML systems. As a Research Engineer o",
+        "ai| Extensive experience with GenAI, Agentic AI, [[natural language processing]], deep learning and deep reinforcement learni"
+      ]
+    },
+    "computer-vision": {
+      "matches": 32,
+      "strings": [
+        [
+          "computer vision",
+          32
+        ]
+      ],
+      "contexts": [
+        "ai| ired Machine Learning experience (ranking, [[computer vision]], NLP, content recommendations, embedding, in",
+        "so| : Artificial Intelligence, Machine Learning, [[Computer Vision]], Sensor Fusion, Perception, and Motion and B",
+        "so| develop features incorporating cutting edge [[computer vision]] Design clean APIs and implement them using",
+        "so| ry or video. Integrate statistical models, [[computer vision]], or large language models into review workfl",
+        "ai| probability, and statistics Experience in [[computer vision]], graph neural networks, or natural language",
+        "ai| e domain such as NLP, information retrieval, [[computer vision]], or statistical modeling. Ability to w",
+        "so| itted to bringing cutting-edge autonomy, AI, [[computer vision]], sensor fusion, and networking technology to"
+      ]
+    },
+    "gpu-cuda": {
+      "matches": 36,
+      "strings": [
+        [
+          "cuda",
+          10
+        ],
+        [
+          "gpu programming",
+          6
+        ],
+        [
+          "gpu fleets used for frontier model training",
+          3
+        ],
+        [
+          "training jobs to thousands of gpus",
+          2
+        ],
+        [
+          "inference at scale , or on low‑level gpu",
+          2
+        ],
+        [
+          "gpu or accelerator programming, or inference",
+          1
+        ],
+        [
+          "gpu capacity, inference",
+          1
+        ],
+        [
+          "training on tpus or gpus",
+          1
+        ],
+        [
+          "training frameworks like pytorch, leveraging gpus",
+          1
+        ],
+        [
+          "gpu kernels",
+          1
+        ]
+      ],
+      "contexts": [
+        "ai| culative decoding. Preferred: Knowledge of [[CUDA]]/Triton programming. Nice to have: Knowledg",
+        "ai| model consumption Scaling distributed [[training jobs to thousands of GPUs]] Designing fault tolerance strategies f",
+        "ai| build and operate one of the world’s largest [[GPU fleets used for frontier model training]] and inference. This isn’t a traditional infr",
+        "ai| ting and online feature retrieval with model [[inference on CPU and GPU]] infrastructure. You’ll tackle challenging in",
+        "ai| anding of ML systems fundamentals, including [[GPU architecture, mixed-precision training]], and distributed training paradigms such as",
+        "so| , lidar, or visual cameras Experience with [[GPU programming]] and low level driver optimization for Nvidia",
+        "ai| , proficient in frameworks and tools such as [[CUDA]], Pytorch, transformers, flash attention, etc"
+      ]
+    },
+    "communication": {
+      "matches": 403,
+      "strings": [
+        [
+          "communication skills",
+          168
+        ],
+        [
+          "written and verbal",
+          100
+        ],
+        [
+          "verbal and written",
+          47
+        ],
+        [
+          "communicate clearly",
+          28
+        ],
+        [
+          "communicate effectively",
+          25
+        ],
+        [
+          "communicate technical",
+          21
+        ],
+        [
+          "communicate complex",
+          8
+        ],
+        [
+          "communicate findings",
+          5
+        ],
+        [
+          "presentation skills",
+          1
+        ]
+      ],
+      "contexts": [
+        "ai| Analyze experimental and observational data, [[communicate findings]] to support decisions Participate in code a",
+        "so| t you’ll need: Strong collaboration and [[communication skills]]. Golang experience Experience using Go",
+        "so| n and Java in a production codebase Strong [[communication skills]] to align with stakeholders across tribes and",
+        "so| lls for system design and coding Excellent [[written and verbal]] communication skills, and a bias toward open",
+        "so| knowledge of CS fundamentals Good English [[communication skills]] Strong knowledge of JavaScript, CSS, and H",
+        "so| replicas) is a plus. Communication: Strong [[written and verbal]] skills, with a collaborative mindset suited",
+        "so| or cloud platforms (preferably AWS) Strong [[written and verbal]] communications Experience with Terraform i"
+      ]
+    },
+    "agile": {
+      "matches": 46,
+      "strings": [
+        [
+          "agile development",
+          22
+        ],
+        [
+          "agile",
+          11
+        ],
+        [
+          "agile environment",
+          7
+        ],
+        [
+          "agile methodologies",
+          3
+        ],
+        [
+          "agile software development",
+          2
+        ],
+        [
+          "scrum",
+          1
+        ]
+      ],
+      "contexts": [
+        "ai| l-world conditions. Experience working in [[agile development]] teams. Expertise in component and system",
+        "so| Build and maintain 's products alongside an [[agile development]] team Design, develop and test new product",
+        "so| custom frameworks) Experience working in [[agile development]] environments Active U.S. Top Secret SCI c",
+        "so| technologies is a plus. You care about [[agile software development]] and a culture of constant learning and impro",
+        "so| and maintain accurate BOMs in tools such as [[Agile]], including part relationships, revisions, as",
+        "so| custom frameworks) Experience working in [[agile development]] environments Active U.S. Top Secret SCI c",
+        "so| arias con pequeños equipos multifuncionales ([[scrum]]) Pon en marcha tu proyecto, revisa en el"
+      ]
+    },
+    "cross-functional": {
+      "matches": 442,
+      "strings": [
+        [
+          "stakeholders",
+          181
+        ],
+        [
+          "cross-functional",
+          162
+        ],
+        [
+          "cross-functionally",
+          60
+        ],
+        [
+          "cross functional",
+          20
+        ],
+        [
+          "stakeholder",
+          16
+        ],
+        [
+          "cross functionally",
+          3
+        ]
+      ],
+      "contexts": [
+        "so| zed deployment. Comfort collaborating with [[cross-functional]] engineering teams and translating ambiguous",
+        "so| ts, restrictions and requirements in a multi-[[stakeholder]] environment Own software enabled solutions",
+        "so| with the Air Defense program's engineers and [[stakeholders]] to keep requirements, schedule, and technica",
+        "so| o teams and work closely with management and [[stakeholders]] to define strategic roadmaps Build new ser",
+        "so| sions Collaborate with other engineers and [[cross-functional]] stakeholders to proactively seek and incorpo",
+        "so| ts, restrictions and requirements in a multi-[[stakeholder]] environment Own software enabled solutions",
+        "so| workflows and reduce manual toil. Partner [[Cross-Functionally]]: Collaborate with Security, Engineering, Inf"
+      ]
+    }
+  },
+  "title_samples": {
+    "ai-engineer": [
+      "Machine Learning Engineer, Memory",
+      "Applied AI Engineer, Beneficial Deployments, Life Sciences (Molecular Design)",
+      "Perception Machine Learning Engineer – ADAS ",
+      "Software Engineer, ML Infrastructure Platform",
+      "AI Enablement Engineer",
+      "AI Infrastructure System Engineer",
+      "Software Engineer - AI Product (London, United Kingdom)",
+      "AI Research Scientist - Datadog AI Research",
+      "Machine Learning Research Scientist, Evaluations",
+      "Software Engineer, AI Platform - Intern",
+      "AI Engineer, Ecosystem",
+      "Research Scientist, AI Safety and Alignment",
+      "ML Research Engineer, ML Systems",
+      "AI Applied Scientist",
+      "AI Research Engineer, New PhD Graduate ",
+      "Research Engineer, AI Monitoring",
+      "Research Engineer / Performance Engineer, RL Distributed Systems",
+      "AI Infrastructure Engineer",
+      "Machine Learning Engineer - Inference",
+      "AI Research Scientist",
+      "Software Engineer - ML Infrastructure",
+      "Research Engineer / Research Scientist, RL Frontiers",
+      "AI Engineer, Internal Tools",
+      "Software Engineer, AI",
+      "AI/ML Engineer",
+      "Machine Learning Engineer (L3)",
+      "Software Engineer, Applied AI (Starlink) ",
+      "Software Engineer, AI Infrastructure (Starshield)",
+      "Software Engineer, Machine Learning Tooling",
+      "Software Engineer, Machine Learning",
+      "Machine Learning Engineer",
+      "AI Developer Experience Engineer",
+      "Software Engineer - Machine Learning",
+      "Applied AI Engineer - Technology Consultant",
+      "Machine Learning Engineer, CX Intelligence",
+      "Software Engineer, Inference (AI Data Engineering)",
+      "Applied AI Engineer, Beneficial Deployments (Clinical Development, Rare and Neglected Diseases)",
+      "AI Systems Engineer (f/m/d)",
+      "Machine Learning Engineer, EPD Ads",
+      "Applied AI, Research Engineer "
+    ],
+    "software-engineer": [
+      "Full Stack Software Engineer (Components)",
+      "Software Engineer, Mobile SDK",
+      "Software Engineer, Janus team, DDX",
+      "Software Engineer, Security Platform",
+      "Mission Software Engineer - Vehicle Software",
+      "Software Engineer II",
+      "Full Stack Engineer, Revenue",
+      "Software Engineer, Growth",
+      "Web Engineer, International",
+      "Backend Software Engineer",
+      "Software Engineer, Internship - 2027",
+      "Backend Engineer, UI Platform",
+      "Software Engineer, R2 Gateway",
+      "Orbital Software Engineer, Space",
+      "Software Engineer, Collision Avoidance (Starshield)",
+      "Software Engineer- Money Movement ",
+      "Software Engineer, Engine Productivity",
+      "Software Engineer Intern (2027) - Austin, TX",
+      "Software Engineer - Graph Analytics",
+      "Software Engineer, Anvil",
+      "Software Engineer, New Grad",
+      "Software Engineer, Ad Signals",
+      "Software Engineer I (Remote Eligible) ",
+      "Software Engineer - Developer Experience",
+      "Software Engineer ",
+      "Member of Technical Staff, Kernel ",
+      "Software Infrastructure Engineer (Starlink)",
+      "Software Developer, Data Engineering",
+      "Frontend Engineer, Ads Campaign Manager",
+      "Software Engineer, Low Latency Computing (Starlink)   ",
+      "Software Engineer - Developer Experience, Android",
+      "Software Engineer, Development Infrastructure",
+      "Software Engineer, Cloudflare Network Interconnect",
+      "Software Engineer - Ride and Fleet Services",
+      "Software Engineer,  Financial Data & Payments",
+      "Software Engineer - C++ On-Vehicle Data",
+      "Software Engineer, Platform Overlay & Networking",
+      "Cloud Platform Engineer",
+      "Full Stack Software Engineer, Internal Systems - Memphis",
+      "Software Engineer, Data Engineering"
+    ],
+    "data-analyst": [
+      "Data Analyst - Pioneer",
+      "Business Analyst (Starlink Market Analysis)",
+      "Product Analyst -  Star Trek Fleet Command ",
+      "Data Analyst",
+      "Business Analyst (Starlink Growth)",
+      "Data Analyst, Intern",
+      "[HelloConnect] Product Data Analyst (SQL/Python)",
+      "2027 Finance Data Analyst Intern",
+      "Business Analyst (Customer Success)",
+      "Delivery Operations Business Analyst Intern France et Benelux(M/F/X)",
+      "Finance Business Intelligence & Analytics Analyst",
+      "Product Data Analyst ",
+      "Finance and Strategy Data Analyst",
+      "Data Analyst (CRM)",
+      "CTO Data Analyst",
+      "Business Intelligence Analyst - Tableau & SQL",
+      "Data Analyst II",
+      "Junior Data Analyst",
+      "Insights Analyst Intern, League of Legends - Summer 2027",
+      "Data Analyst, SF",
+      "Production Master Data Analyst",
+      "Marketing Analytics - Data Analyst - July 2027 Start Date - ADP",
+      "Technical Operations & Insights Analyst",
+      "Business Analyst, Marketing-1 (Fixed Term)",
+      " Data Analyst",
+      "Business Intelligence Analyst II",
+      "Growth Strategy Data Analyst - Intern (M/F/N)",
+      "Data Analyst - OpenData Commercial - Asia Pacific",
+      "Business Analyst (Mid-level)"
+    ]
+  }
+}
