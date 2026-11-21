@@ -19,7 +19,8 @@
       "machine-learning",
       "communication",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:affirm:8033261003",
@@ -43,7 +44,8 @@
       "scikit-learn",
       "communication",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:airbnb:7716341",
@@ -65,9 +67,11 @@
       "rag",
       "agents",
       "fine-tuning",
+      "reinforcement-learning",
       "model-evaluation",
       "mlops"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:airbnb:7826337",
@@ -86,11 +90,13 @@
       "rag",
       "agents",
       "fine-tuning",
+      "reinforcement-learning",
       "model-evaluation",
       "mlops",
       "communication",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:andurilindustries:5274037007",
@@ -117,8 +123,10 @@
       "tensorflow",
       "nlp",
       "computer-vision",
+      "gpu-cuda",
       "communication"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:andurilindustries:5197253007",
@@ -134,13 +142,15 @@
       "python",
       "system-design",
       "git",
+      "docker",
       "ci-cd",
-      "rest-apis",
+      "observability",
       "llm",
       "rag",
       "agents",
       "model-evaluation"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:andurilindustries:5248869007",
@@ -165,10 +175,12 @@
       "react",
       "nodejs",
       "rest-apis",
+      "django-flask",
       "machine-learning",
       "pytorch",
       "mlops"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:andurilindustries:5281225007",
@@ -193,10 +205,12 @@
       "react",
       "nodejs",
       "rest-apis",
+      "django-flask",
       "machine-learning",
       "pytorch",
       "mlops"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:andurilindustries:5136146007",
@@ -214,7 +228,8 @@
       "machine-learning",
       "computer-vision",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:andurilindustries:5195642007",
@@ -230,6 +245,7 @@
       "python",
       "rust",
       "kubernetes",
+      "observability",
       "airflow",
       "machine-learning",
       "deep-learning",
@@ -237,7 +253,8 @@
       "tensorflow",
       "model-evaluation",
       "mlops"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:andurilindustries:5293883007",
@@ -256,7 +273,8 @@
       "agents",
       "communication",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:andurilindustries:5210930007",
@@ -278,8 +296,10 @@
       "docker",
       "kubernetes",
       "ci-cd",
-      "terraform"
-    ]
+      "terraform",
+      "observability"
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:anthropic:4610158008",
@@ -298,8 +318,10 @@
       "llm",
       "agents",
       "fine-tuning",
+      "reinforcement-learning",
       "nlp"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:anthropic:5445760008",
@@ -316,7 +338,8 @@
       "llm",
       "model-evaluation",
       "communication"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:anthropic:5440821008",
@@ -332,7 +355,8 @@
       "llm",
       "model-evaluation",
       "communication"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:anthropic:5437172008",
@@ -348,7 +372,8 @@
       "llm",
       "model-evaluation",
       "communication"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:anthropic:5483945008",
@@ -363,14 +388,14 @@
     "skills": [
       "python",
       "typescript",
-      "rest-apis",
       "machine-learning",
       "llm",
       "prompt-engineering",
       "agents",
       "model-evaluation",
       "communication"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:anthropic:5057647008",
@@ -386,14 +411,14 @@
       "python",
       "typescript",
       "oop",
-      "rest-apis",
       "llm",
       "prompt-engineering",
       "agents",
       "model-evaluation",
       "communication",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:anthropic:5390754008",
@@ -410,7 +435,8 @@
       "prompt-engineering",
       "model-evaluation",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:anthropic:5390795008",
@@ -427,7 +453,8 @@
       "prompt-engineering",
       "model-evaluation",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:anthropic:5445410008",
@@ -443,14 +470,14 @@
       "python",
       "typescript",
       "oop",
-      "rest-apis",
       "machine-learning",
       "llm",
       "prompt-engineering",
       "model-evaluation",
       "communication",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:anthropic:5432575008",
@@ -468,7 +495,8 @@
       "prompt-engineering",
       "model-evaluation",
       "communication"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:anthropic:5454650008",
@@ -486,7 +514,8 @@
       "prompt-engineering",
       "model-evaluation",
       "communication"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:anthropic:5454673008",
@@ -505,7 +534,8 @@
       "agents",
       "model-evaluation",
       "communication"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:anthropic:5390811008",
@@ -522,7 +552,8 @@
       "model-evaluation",
       "communication",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:anthropic:5364804008",
@@ -540,10 +571,11 @@
       "linux",
       "data-pipelines",
       "machine-learning",
-      "deep-learning",
       "mlops",
+      "gpu-cuda",
       "communication"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:anthropic:4949336008",
@@ -559,11 +591,12 @@
       "python",
       "data-pipelines",
       "machine-learning",
-      "deep-learning",
       "agents",
+      "reinforcement-learning",
       "communication",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:anthropic:5438030008",
@@ -582,10 +615,13 @@
       "distributed-systems",
       "docker",
       "kubernetes",
+      "observability",
       "machine-learning",
       "llm",
+      "reinforcement-learning",
       "mlops"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:anthropic:5438044008",
@@ -605,8 +641,10 @@
       "machine-learning",
       "deep-learning",
       "pytorch",
-      "tensorflow"
-    ]
+      "tensorflow",
+      "reinforcement-learning"
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:anthropic:4631822008",
@@ -625,9 +663,11 @@
       "llm",
       "agents",
       "fine-tuning",
+      "reinforcement-learning",
       "model-evaluation",
       "nlp"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:anthropic:5468947008",
@@ -648,8 +688,11 @@
       "deep-learning",
       "pytorch",
       "llm",
+      "reinforcement-learning",
+      "gpu-cuda",
       "communication"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:anthropic:5477416008",
@@ -665,9 +708,11 @@
       "llm",
       "agents",
       "fine-tuning",
+      "reinforcement-learning",
       "model-evaluation",
       "communication"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:anthropic:5459098008",
@@ -683,8 +728,10 @@
       "system-design",
       "machine-learning",
       "llm",
-      "agents"
-    ]
+      "agents",
+      "reinforcement-learning"
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:anthropic:5254364008",
@@ -705,8 +752,11 @@
       "llm",
       "agents",
       "fine-tuning",
-      "model-evaluation"
-    ]
+      "reinforcement-learning",
+      "model-evaluation",
+      "gpu-cuda"
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:anthropic:5459191008",
@@ -720,8 +770,10 @@
     "last_seen": "2026-11-21",
     "skills": [
       "machine-learning",
-      "llm"
-    ]
+      "llm",
+      "reinforcement-learning"
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:anthropic:5412334008",
@@ -737,7 +789,8 @@
       "machine-learning",
       "llm",
       "agents"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:anthropic:5463598008",
@@ -753,7 +806,8 @@
       "machine-learning",
       "llm",
       "agents"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:anthropic:4980430008",
@@ -776,8 +830,10 @@
       "pytorch",
       "tensorflow",
       "llm",
-      "mlops"
-    ]
+      "mlops",
+      "gpu-cuda"
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:anthropic:4613568008",
@@ -804,8 +860,10 @@
       "tensorflow",
       "llm",
       "agents",
+      "reinforcement-learning",
       "communication"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:anthropic:5115935008",
@@ -832,8 +890,10 @@
       "tensorflow",
       "llm",
       "agents",
+      "reinforcement-learning",
       "communication"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:anthropic:5198074008",
@@ -851,7 +911,8 @@
       "pytorch",
       "tensorflow",
       "mlops"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:anthropic:5198108008",
@@ -869,7 +930,8 @@
       "pytorch",
       "tensorflow",
       "mlops"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:anthropic:5198255008",
@@ -883,12 +945,14 @@
     "last_seen": "2026-11-21",
     "skills": [
       "python",
+      "observability",
       "dashboards",
       "statistics",
       "machine-learning",
       "llm",
       "model-evaluation"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:anthropic:5119713008",
@@ -909,8 +973,11 @@
       "deep-learning",
       "pytorch",
       "llm",
+      "reinforcement-learning",
+      "gpu-cuda",
       "communication"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:anthropic:4938432008",
@@ -924,14 +991,14 @@
     "last_seen": "2026-11-21",
     "skills": [
       "distributed-systems",
-      "dashboards",
+      "observability",
       "machine-learning",
-      "deep-learning",
       "pytorch",
       "tensorflow",
       "llm",
       "communication"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:anthropic:4938436008",
@@ -945,14 +1012,14 @@
     "last_seen": "2026-11-21",
     "skills": [
       "distributed-systems",
-      "dashboards",
+      "observability",
       "machine-learning",
-      "deep-learning",
       "pytorch",
       "tensorflow",
       "llm",
       "communication"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:anthropic:4613592008",
@@ -970,8 +1037,10 @@
       "machine-learning",
       "deep-learning",
       "llm",
-      "fine-tuning"
-    ]
+      "fine-tuning",
+      "reinforcement-learning"
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:anthropic:5112018008",
@@ -989,8 +1058,10 @@
       "machine-learning",
       "deep-learning",
       "llm",
-      "fine-tuning"
-    ]
+      "fine-tuning",
+      "reinforcement-learning"
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:anthropic:4952051008",
@@ -1008,13 +1079,31 @@
       "rust",
       "distributed-systems",
       "testing",
-      "rest-apis",
       "machine-learning",
       "pytorch",
       "tensorflow",
       "llm",
+      "reinforcement-learning",
       "communication"
-    ]
+    ],
+    "rules": "70010f537232"
+  },
+  {
+    "key": "greenhouse:anthropic:4980427008",
+    "company": "Anthropic",
+    "title": "Research Scientist, Interpretability",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4980427008",
+    "location": "San Francisco, CA",
+    "level": "open",
+    "posted_at": "2025-11-07T17:47:14-05:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "python",
+      "deep-learning",
+      "llm"
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:asana:7962306",
@@ -1029,10 +1118,12 @@
     "skills": [
       "data-structures-algorithms",
       "distributed-systems",
+      "observability",
       "llm",
       "rag",
       "agents"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:brex:8606885002",
@@ -1046,10 +1137,10 @@
     "last_seen": "2026-11-21",
     "skills": [
       "git",
-      "rest-apis",
       "agents",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:brex:8606845002",
@@ -1062,12 +1153,12 @@
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
     "skills": [
-      "rest-apis",
       "data-modeling",
       "excel",
       "llm",
       "agents"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:celonis:7765659003",
@@ -1093,7 +1184,8 @@
       "agents",
       "communication",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:celonis:7885808003",
@@ -1122,8 +1214,10 @@
       "nodejs",
       "rest-apis",
       "microservices",
+      "angular-vue",
       "llm"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:chime:8569366002",
@@ -1150,7 +1244,8 @@
       "llm",
       "mlops",
       "communication"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:chime:8922481002",
@@ -1168,12 +1263,13 @@
       "go",
       "ruby",
       "distributed-systems",
+      "observability",
       "react",
-      "rest-apis",
       "machine-learning",
       "llm",
       "model-evaluation"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:chime:8868948002",
@@ -1190,11 +1286,12 @@
       "go",
       "ruby",
       "distributed-systems",
-      "rest-apis",
+      "observability",
       "machine-learning",
       "llm",
       "model-evaluation"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:coinbase:7985187",
@@ -1218,7 +1315,8 @@
       "nlp",
       "computer-vision",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:coinbase:8175441",
@@ -1237,8 +1335,10 @@
       "deep-learning",
       "pytorch",
       "tensorflow",
+      "reinforcement-learning",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:coinbase:8031260",
@@ -1252,7 +1352,6 @@
     "last_seen": "2026-11-21",
     "skills": [
       "python",
-      "rest-apis",
       "microservices",
       "machine-learning",
       "llm",
@@ -1261,7 +1360,8 @@
       "agents",
       "fine-tuning",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:cresta:5480801008",
@@ -1275,14 +1375,14 @@
     "last_seen": "2026-11-21",
     "skills": [
       "python",
-      "rest-apis",
       "statistics",
       "machine-learning",
       "llm",
       "agents",
       "fine-tuning",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:databricks:8829033002",
@@ -1299,6 +1399,7 @@
       "testing",
       "git",
       "ci-cd",
+      "observability",
       "rest-apis",
       "llm",
       "rag",
@@ -1306,7 +1407,8 @@
       "model-evaluation",
       "communication",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:databricks:8091041002",
@@ -1322,7 +1424,27 @@
       "machine-learning",
       "agents",
       "mlops"
-    ]
+    ],
+    "rules": "70010f537232"
+  },
+  {
+    "key": "greenhouse:databricks:7011263002",
+    "company": "Databricks",
+    "title": "PhD GenAI Research Scientist Intern",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002",
+    "location": "San Francisco, California",
+    "level": "entry",
+    "posted_at": "2023-11-07T16:36:32-05:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "deep-learning",
+      "pytorch",
+      "llm",
+      "fine-tuning",
+      "model-evaluation"
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:datadog:7194969",
@@ -1341,6 +1463,7 @@
       "rust",
       "distributed-systems",
       "docker",
+      "observability",
       "data-pipelines",
       "machine-learning",
       "pytorch",
@@ -1348,8 +1471,11 @@
       "llm",
       "agents",
       "fine-tuning",
-      "mlops"
-    ]
+      "reinforcement-learning",
+      "mlops",
+      "gpu-cuda"
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:datadog:6652564",
@@ -1362,6 +1488,7 @@
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
     "skills": [
+      "observability",
       "data-pipelines",
       "machine-learning",
       "deep-learning",
@@ -1370,8 +1497,11 @@
       "llm",
       "agents",
       "fine-tuning",
+      "reinforcement-learning",
+      "gpu-cuda",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:datadog:6572669",
@@ -1384,6 +1514,7 @@
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
     "skills": [
+      "observability",
       "data-pipelines",
       "machine-learning",
       "deep-learning",
@@ -1392,8 +1523,11 @@
       "llm",
       "agents",
       "fine-tuning",
+      "reinforcement-learning",
+      "gpu-cuda",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:deliveroo:8202399",
@@ -1409,7 +1543,8 @@
       "python",
       "ab-testing",
       "machine-learning"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:descript:7967440003",
@@ -1431,7 +1566,8 @@
       "model-evaluation",
       "computer-vision",
       "communication"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:doordashusa:8192187",
@@ -1455,7 +1591,8 @@
       "rag",
       "agents",
       "model-evaluation"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:doordashusa:8264542",
@@ -1472,18 +1609,21 @@
       "operating-systems",
       "distributed-systems",
       "kubernetes",
+      "observability",
       "aws",
       "gcp",
-      "rest-apis",
       "data-pipelines",
       "machine-learning",
       "llm",
       "rag",
       "agents",
       "fine-tuning",
+      "reinforcement-learning",
       "model-evaluation",
-      "mlops"
-    ]
+      "mlops",
+      "gpu-cuda"
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:doordashusa:8283735",
@@ -1500,6 +1640,7 @@
       "operating-systems",
       "distributed-systems",
       "kubernetes",
+      "observability",
       "aws",
       "gcp",
       "airflow",
@@ -1510,7 +1651,8 @@
       "agents",
       "model-evaluation",
       "mlops"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:doordashusa:8263726",
@@ -1531,11 +1673,13 @@
       "data-structures-algorithms",
       "concurrency",
       "distributed-systems",
+      "docker",
       "kubernetes",
-      "rest-apis",
       "machine-learning",
-      "mlops"
-    ]
+      "mlops",
+      "gpu-cuda"
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:duolingo:8881612002",
@@ -1549,7 +1693,8 @@
     "last_seen": "2026-11-21",
     "skills": [
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:epicgames:6134271004",
@@ -1563,12 +1708,15 @@
     "last_seen": "2026-11-21",
     "skills": [
       "python",
+      "observability",
       "pandas",
       "machine-learning",
       "pytorch",
       "scikit-learn",
-      "llm"
-    ]
+      "llm",
+      "reinforcement-learning"
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:epicgames:6141143004",
@@ -1582,12 +1730,15 @@
     "last_seen": "2026-11-21",
     "skills": [
       "python",
+      "observability",
       "pandas",
       "machine-learning",
       "pytorch",
       "scikit-learn",
-      "llm"
-    ]
+      "llm",
+      "reinforcement-learning"
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:epicgames:6142418004",
@@ -1601,12 +1752,15 @@
     "last_seen": "2026-11-21",
     "skills": [
       "python",
+      "observability",
       "pandas",
       "machine-learning",
       "pytorch",
       "scikit-learn",
-      "llm"
-    ]
+      "llm",
+      "reinforcement-learning"
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:purestorage:8331163",
@@ -1625,7 +1779,8 @@
       "rag",
       "agents",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:figma:5707966004",
@@ -1649,9 +1804,11 @@
       "llm",
       "prompt-engineering",
       "fine-tuning",
+      "reinforcement-learning",
       "nlp",
       "computer-vision"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:figma:6233043004",
@@ -1665,14 +1822,15 @@
     "last_seen": "2026-11-21",
     "skills": [
       "system-design",
+      "observability",
       "aws",
-      "rest-apis",
       "llm",
       "rag",
       "agents",
       "model-evaluation",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:figma:6207801004",
@@ -1686,7 +1844,6 @@
     "last_seen": "2026-11-21",
     "skills": [
       "python",
-      "git",
       "machine-learning",
       "pytorch",
       "tensorflow",
@@ -1694,7 +1851,8 @@
       "agents",
       "nlp",
       "computer-vision"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:figma:5691886004",
@@ -1714,7 +1872,8 @@
       "agents",
       "model-evaluation",
       "communication"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:figma:5551730004",
@@ -1727,13 +1886,13 @@
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
     "skills": [
-      "git",
       "statistics",
       "machine-learning",
       "llm",
       "nlp",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:figma:5551697004",
@@ -1751,7 +1910,8 @@
       "llm",
       "agents",
       "model-evaluation"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:figma:5551532004",
@@ -1768,6 +1928,7 @@
       "cpp",
       "go",
       "ci-cd",
+      "observability",
       "spark",
       "data-pipelines",
       "machine-learning",
@@ -1781,7 +1942,8 @@
       "nlp",
       "communication",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:intercom:7820671",
@@ -1801,11 +1963,12 @@
       "kubernetes",
       "aws",
       "machine-learning",
-      "deep-learning",
       "llm",
       "mlops",
+      "gpu-cuda",
       "communication"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:intercom:7824137",
@@ -1825,11 +1988,12 @@
       "kubernetes",
       "aws",
       "machine-learning",
-      "deep-learning",
       "llm",
       "mlops",
+      "gpu-cuda",
       "communication"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:gusto:7369003",
@@ -1851,7 +2015,8 @@
       "agents",
       "communication",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:lucidmotors:5254390007",
@@ -1871,6 +2036,7 @@
       "kubernetes",
       "ci-cd",
       "terraform",
+      "observability",
       "aws",
       "machine-learning",
       "deep-learning",
@@ -1879,7 +2045,8 @@
       "mlops",
       "computer-vision",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:lucidmotors:5199878007",
@@ -1899,8 +2066,10 @@
       "pytorch",
       "tensorflow",
       "communication",
+      "agile",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:lyft:8684440002",
@@ -1920,8 +2089,10 @@
       "llm",
       "agents",
       "fine-tuning",
+      "reinforcement-learning",
       "model-evaluation"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:lyft:8944659002",
@@ -1937,6 +2108,7 @@
       "python",
       "java",
       "go",
+      "observability",
       "statistics",
       "ab-testing",
       "machine-learning",
@@ -1946,7 +2118,8 @@
       "agents",
       "model-evaluation",
       "mlops"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:lyft:8817974002",
@@ -1967,9 +2140,11 @@
       "machine-learning",
       "pytorch",
       "tensorflow",
+      "reinforcement-learning",
       "mlops",
       "communication"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:lyft:8802332002",
@@ -1989,7 +2164,8 @@
       "tensorflow",
       "scikit-learn",
       "communication"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:mercury:6233238004",
@@ -2005,7 +2181,8 @@
       "typescript",
       "react",
       "llm"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:gomotive:8785039002",
@@ -2021,14 +2198,17 @@
       "python",
       "cpp",
       "go",
+      "observability",
       "data-warehouse",
       "ab-testing",
       "machine-learning",
+      "deep-learning",
       "pytorch",
       "llm",
       "rag",
       "agents"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:nextdoor:6005888",
@@ -2043,7 +2223,84 @@
     "skills": [
       "statistics",
       "machine-learning"
-    ]
+    ],
+    "rules": "70010f537232"
+  },
+  {
+    "key": "greenhouse:nuro:8341046",
+    "company": "Nuro",
+    "title": "Machine Learning Research Scientist, Active Learning",
+    "url": "https://nuro.ai/careersitem?gh_jid=8341046",
+    "location": "Mountain View, California (HQ)",
+    "level": "open",
+    "posted_at": "2026-11-16T18:29:06-05:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "python",
+      "data-pipelines",
+      "machine-learning",
+      "deep-learning",
+      "llm"
+    ],
+    "rules": "70010f537232"
+  },
+  {
+    "key": "greenhouse:nuro:5434059",
+    "company": "Nuro",
+    "title": "Machine Learning Research Scientist, Behavior Planning and Prediction",
+    "url": "https://nuro.ai/careersitem?gh_jid=5434059",
+    "location": "Mountain View, California (HQ)",
+    "level": "open",
+    "posted_at": "2023-11-03T15:18:28-04:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "python",
+      "cpp",
+      "machine-learning",
+      "fine-tuning",
+      "reinforcement-learning"
+    ],
+    "rules": "70010f537232"
+  },
+  {
+    "key": "greenhouse:nuro:7439020",
+    "company": "Nuro",
+    "title": "Machine Learning Research Scientist, Prediction & Smart Agents",
+    "url": "https://nuro.ai/careersitem?gh_jid=7439020",
+    "location": "Mountain View, California (HQ)",
+    "level": "open",
+    "posted_at": "2026-02-19T00:31:38-05:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "python",
+      "cpp",
+      "machine-learning",
+      "pytorch",
+      "fine-tuning",
+      "reinforcement-learning"
+    ],
+    "rules": "70010f537232"
+  },
+  {
+    "key": "greenhouse:nuro:5416913",
+    "company": "Nuro",
+    "title": "Machine Learning Research Scientist: Generative Modeling for Planning",
+    "url": "https://nuro.ai/careersitem?gh_jid=5416913",
+    "location": "Mountain View, California (HQ)",
+    "level": "open",
+    "posted_at": "2023-10-17T17:24:35-04:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "python",
+      "cpp",
+      "llm",
+      "reinforcement-learning"
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:nuro:7351061",
@@ -2066,7 +2323,8 @@
       "deep-learning",
       "rag",
       "mlops"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:nuro:7351066",
@@ -2087,7 +2345,8 @@
       "machine-learning",
       "rag",
       "mlops"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:nuro:8122990",
@@ -2105,6 +2364,7 @@
       "go",
       "rust",
       "distributed-systems",
+      "observability",
       "data-pipelines",
       "statistics",
       "machine-learning",
@@ -2112,7 +2372,8 @@
       "agents",
       "fine-tuning",
       "model-evaluation"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:nuro:8122537",
@@ -2128,11 +2389,13 @@
       "python",
       "cpp",
       "distributed-systems",
+      "observability",
       "data-pipelines",
       "machine-learning",
       "llm",
       "mlops"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:nuro:6909931",
@@ -2157,7 +2420,8 @@
       "data-pipelines",
       "machine-learning",
       "mlops"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:nuro:8122483",
@@ -2174,12 +2438,16 @@
       "cpp",
       "go",
       "kubernetes",
+      "observability",
       "gcp",
       "data-pipelines",
       "machine-learning",
       "agents",
-      "mlops"
-    ]
+      "reinforcement-learning",
+      "mlops",
+      "gpu-cuda"
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:nuro:6916236",
@@ -2199,8 +2467,10 @@
       "pytorch",
       "tensorflow",
       "llm",
-      "mlops"
-    ]
+      "mlops",
+      "gpu-cuda"
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:observeai:5254531008",
@@ -2222,7 +2492,8 @@
       "agents",
       "model-evaluation",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "lever:palantir:6b4b087c-4fc6-476d-9e72-e1bc6ac6c62a",
@@ -2247,7 +2518,8 @@
       "model-evaluation",
       "communication",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "lever:palantir:ca222ecd-b659-4e3e-aee5-d85655c7bbc8",
@@ -2272,7 +2544,8 @@
       "model-evaluation",
       "communication",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "lever:palantir:67110929-adea-41c3-851a-8882e222d9e4",
@@ -2290,13 +2563,13 @@
       "rust",
       "oop",
       "system-design",
-      "rest-apis",
       "deep-learning",
       "pytorch",
       "llm",
       "agents",
       "fine-tuning"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "lever:palantir:40840cef-bbd7-4557-bb21-cbdcf4be616e",
@@ -2317,10 +2590,11 @@
       "rust",
       "data-structures-algorithms",
       "distributed-systems",
-      "rest-apis",
+      "observability",
       "agents",
       "communication"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "lever:palantir:cd64bcd4-50bb-4aeb-a135-4e0487ffd312",
@@ -2341,10 +2615,11 @@
       "rust",
       "data-structures-algorithms",
       "distributed-systems",
-      "rest-apis",
+      "observability",
       "agents",
       "communication"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:pinterest:7473497",
@@ -2362,8 +2637,10 @@
       "machine-learning",
       "deep-learning",
       "llm",
+      "reinforcement-learning",
       "nlp"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:pinterest:7697137",
@@ -2378,9 +2655,9 @@
     "skills": [
       "sql",
       "machine-learning",
-      "deep-learning",
       "llm"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:pinterest:6121450",
@@ -2399,8 +2676,10 @@
       "machine-learning",
       "deep-learning",
       "llm",
+      "reinforcement-learning",
       "nlp"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:pinterest:6121543",
@@ -2419,8 +2698,10 @@
       "machine-learning",
       "deep-learning",
       "llm",
+      "reinforcement-learning",
       "nlp"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:pinterest:8140219",
@@ -2444,7 +2725,8 @@
       "rag",
       "nlp",
       "computer-vision"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:pinterest:8140363",
@@ -2468,7 +2750,8 @@
       "rag",
       "nlp",
       "computer-vision"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:planetscale:4463390009",
@@ -2486,12 +2769,12 @@
       "go",
       "git",
       "linux",
-      "rest-apis",
       "dashboards",
       "llm",
       "agents",
       "model-evaluation"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:relativity:8726261002",
@@ -2517,8 +2800,10 @@
       "data-warehouse",
       "llm",
       "rag",
+      "agile",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:relativity:8726264002",
@@ -2537,6 +2822,7 @@
       "go",
       "kubernetes",
       "terraform",
+      "observability",
       "aws",
       "react",
       "spark",
@@ -2544,9 +2830,10 @@
       "machine-learning",
       "llm",
       "rag",
-      "agents",
+      "agile",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:roblox:8171283",
@@ -2563,11 +2850,13 @@
       "go",
       "rust",
       "distributed-systems",
+      "observability",
       "machine-learning",
       "llm",
       "agents",
       "communication"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:roblox:8356764",
@@ -2585,7 +2874,8 @@
       "data-structures-algorithms",
       "data-pipelines",
       "agents"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:scaleai:4751059005",
@@ -2606,14 +2896,14 @@
       "aws",
       "gcp",
       "azure",
-      "rest-apis",
       "data-pipelines",
       "machine-learning",
       "llm",
       "rag",
       "agents",
       "communication"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:scaleai:4665557005",
@@ -2635,12 +2925,12 @@
       "aws",
       "gcp",
       "azure",
-      "rest-apis",
       "data-warehouse",
       "llm",
       "rag",
       "communication"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:scaleai:4631848005",
@@ -2656,7 +2946,6 @@
       "python",
       "data-structures-algorithms",
       "oop",
-      "rest-apis",
       "machine-learning",
       "deep-learning",
       "pytorch",
@@ -2665,10 +2954,53 @@
       "rag",
       "agents",
       "fine-tuning",
+      "reinforcement-learning",
       "nlp",
       "computer-vision",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
+  },
+  {
+    "key": "greenhouse:scaleai:4728014005",
+    "company": "Scale AI",
+    "title": "Machine Learning Research Scientist, Evaluations",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4728014005",
+    "location": "San Francisco, CA; Seattle, WA; New York, NY",
+    "level": "open",
+    "posted_at": "2026-08-26T14:51:42-04:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "machine-learning",
+      "deep-learning",
+      "llm",
+      "fine-tuning",
+      "reinforcement-learning",
+      "communication"
+    ],
+    "rules": "70010f537232"
+  },
+  {
+    "key": "greenhouse:scaleai:4528009005",
+    "company": "Scale AI",
+    "title": "Machine Learning Research Scientist, Post-Training",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4528009005",
+    "location": "San Francisco, CA; Seattle, WA; New York, NY",
+    "level": "open",
+    "posted_at": "2025-02-11T00:40:13-05:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "machine-learning",
+      "deep-learning",
+      "llm",
+      "fine-tuning",
+      "reinforcement-learning",
+      "model-evaluation",
+      "communication"
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:scaleai:4534631005",
@@ -2682,14 +3014,15 @@
     "last_seen": "2026-11-21",
     "skills": [
       "machine-learning",
-      "deep-learning",
       "pytorch",
       "llm",
-      "agents",
+      "reinforcement-learning",
       "mlops",
+      "gpu-cuda",
       "communication",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:scaleai:4675684005",
@@ -2705,7 +3038,8 @@
       "machine-learning",
       "agents",
       "communication"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:scaleai:4513943005",
@@ -2727,11 +3061,11 @@
       "aws",
       "gcp",
       "azure",
-      "rest-apis",
       "machine-learning",
       "llm",
       "rag"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:scaleai:4363623005",
@@ -2753,7 +3087,8 @@
       "mlops",
       "communication",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:scopely:5456049008",
@@ -2768,12 +3103,14 @@
     "skills": [
       "python",
       "sql",
+      "observability",
       "machine-learning",
       "llm",
       "model-evaluation",
       "mlops",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:sendbird:8276676002",
@@ -2790,11 +3127,12 @@
       "ci-cd",
       "aws",
       "gcp",
-      "rest-apis",
+      "django-flask",
       "llm",
       "rag",
       "agents"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:sendbird:8395379002",
@@ -2810,9 +3148,9 @@
       "python",
       "distributed-systems",
       "system-design",
+      "observability",
       "aws",
       "gcp",
-      "rest-apis",
       "ab-testing",
       "machine-learning",
       "llm",
@@ -2821,7 +3159,8 @@
       "agents",
       "communication",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:smartsheet:8232492",
@@ -2841,6 +3180,7 @@
       "kubernetes",
       "ci-cd",
       "terraform",
+      "observability",
       "aws",
       "gcp",
       "azure",
@@ -2852,7 +3192,8 @@
       "agents",
       "fine-tuning",
       "mlops"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:snorkelai:6208895004",
@@ -2870,11 +3211,39 @@
       "machine-learning",
       "llm",
       "agents",
+      "reinforcement-learning",
       "model-evaluation",
       "nlp",
       "communication",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
+  },
+  {
+    "key": "greenhouse:snorkelai:6009496004",
+    "company": "Snorkel AI",
+    "title": "Research Scientist - RL Training",
+    "url": "https://job-boards.greenhouse.io/snorkelai/jobs/6009496004",
+    "location": "New York City, NY (Hybrid); San Francisco, CA (Hybrid); United States (Remote)",
+    "level": "open",
+    "posted_at": "2026-05-29T17:22:40-04:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "python",
+      "kubernetes",
+      "aws",
+      "gcp",
+      "data-pipelines",
+      "machine-learning",
+      "pytorch",
+      "llm",
+      "agents",
+      "fine-tuning",
+      "reinforcement-learning",
+      "mlops"
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "lever:sonarsource:3cae19c4-144b-41b9-89c1-03203547a8d3",
@@ -2893,7 +3262,8 @@
       "agents",
       "communication",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "lever:sonarsource:54ebd27e-5f7f-4586-bcc2-f59d1700feba",
@@ -2912,7 +3282,8 @@
       "agents",
       "communication",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "lever:sonarsource:6ae7c963-dd85-4ee4-a436-092490d1677c",
@@ -2931,7 +3302,8 @@
       "agents",
       "communication",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:spacex:8910071002",
@@ -2949,12 +3321,13 @@
       "linux",
       "docker",
       "kubernetes",
-      "rest-apis",
       "machine-learning",
       "pytorch",
       "fine-tuning",
+      "reinforcement-learning",
       "model-evaluation"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:spacex:8658628002",
@@ -2975,14 +3348,17 @@
       "scala",
       "docker",
       "kubernetes",
+      "observability",
       "react",
+      "angular-vue",
       "kafka",
       "ab-testing",
       "llm",
       "agents",
       "fine-tuning",
       "model-evaluation"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:spacex:8658737002",
@@ -3003,14 +3379,17 @@
       "scala",
       "docker",
       "kubernetes",
+      "observability",
       "react",
+      "angular-vue",
       "kafka",
       "ab-testing",
       "llm",
       "agents",
       "fine-tuning",
       "model-evaluation"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:spacex:8658738002",
@@ -3031,14 +3410,17 @@
       "scala",
       "docker",
       "kubernetes",
+      "observability",
       "react",
+      "angular-vue",
       "kafka",
       "ab-testing",
       "llm",
       "agents",
       "fine-tuning",
       "model-evaluation"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:spacex:8658740002",
@@ -3059,14 +3441,17 @@
       "scala",
       "docker",
       "kubernetes",
+      "observability",
       "react",
+      "angular-vue",
       "kafka",
       "ab-testing",
       "llm",
       "agents",
       "fine-tuning",
       "model-evaluation"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:spacex:8658742002",
@@ -3087,14 +3472,17 @@
       "scala",
       "docker",
       "kubernetes",
+      "observability",
       "react",
+      "angular-vue",
       "kafka",
       "ab-testing",
       "llm",
       "agents",
       "fine-tuning",
       "model-evaluation"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:spacex:8658743002",
@@ -3115,14 +3503,17 @@
       "scala",
       "docker",
       "kubernetes",
+      "observability",
       "react",
+      "angular-vue",
       "kafka",
       "ab-testing",
       "llm",
       "agents",
       "fine-tuning",
       "model-evaluation"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:spacex:8658744002",
@@ -3143,14 +3534,17 @@
       "scala",
       "docker",
       "kubernetes",
+      "observability",
       "react",
+      "angular-vue",
       "kafka",
       "ab-testing",
       "llm",
       "agents",
       "fine-tuning",
       "model-evaluation"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:spacex:8880868002",
@@ -3173,6 +3567,7 @@
       "ci-cd",
       "react",
       "rest-apis",
+      "django-flask",
       "data-pipelines",
       "excel",
       "dashboards",
@@ -3181,7 +3576,8 @@
       "rag",
       "agents",
       "communication"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:spacex:8861900002",
@@ -3203,8 +3599,10 @@
       "kubernetes",
       "ci-cd",
       "terraform",
+      "observability",
       "data-modeling"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:spacex:8861901002",
@@ -3226,8 +3624,10 @@
       "kubernetes",
       "ci-cd",
       "terraform",
+      "observability",
       "data-modeling"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:spacex:8861902002",
@@ -3249,8 +3649,10 @@
       "kubernetes",
       "ci-cd",
       "terraform",
+      "observability",
       "data-modeling"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:spacex:8861903002",
@@ -3272,8 +3674,10 @@
       "kubernetes",
       "ci-cd",
       "terraform",
+      "observability",
       "data-modeling"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:spacex:8676015002",
@@ -3293,7 +3697,8 @@
       "linux",
       "ci-cd",
       "communication"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:spacex:8637712002",
@@ -3321,10 +3726,13 @@
       "docker",
       "kubernetes",
       "ci-cd",
+      "observability",
       "react",
       "microservices",
+      "angular-vue",
       "llm"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:spacex:8717350002",
@@ -3348,11 +3756,16 @@
       "docker",
       "kubernetes",
       "ci-cd",
+      "observability",
+      "rest-apis",
+      "grpc",
       "nosql",
       "llm",
       "fine-tuning",
-      "mlops"
-    ]
+      "mlops",
+      "gpu-cuda"
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "lever:spotify:19c12e29-b6d4-4d97-9053-48238fb7c381",
@@ -3375,7 +3788,8 @@
       "rag",
       "communication",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:stripe:8144196",
@@ -3394,13 +3808,13 @@
       "gcp",
       "nextjs",
       "nodejs",
-      "rest-apis",
       "llm",
       "prompt-engineering",
       "agents",
       "communication",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:stripe:8224915",
@@ -3428,7 +3842,8 @@
       "agents",
       "model-evaluation",
       "mlops"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:stripe:8197886",
@@ -3449,7 +3864,8 @@
       "machine-learning",
       "agents",
       "model-evaluation"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:stripe:8243617",
@@ -3470,7 +3886,8 @@
       "model-evaluation",
       "mlops",
       "communication"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:stripe:8187574",
@@ -3492,7 +3909,8 @@
       "model-evaluation",
       "mlops",
       "communication"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:stripe:8333074",
@@ -3513,9 +3931,11 @@
       "machine-learning",
       "scikit-learn",
       "llm",
+      "reinforcement-learning",
       "communication",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:stripe:8333122",
@@ -3536,9 +3956,11 @@
       "machine-learning",
       "scikit-learn",
       "llm",
+      "reinforcement-learning",
       "communication",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:stripe:8328662",
@@ -3559,9 +3981,11 @@
       "machine-learning",
       "scikit-learn",
       "llm",
+      "reinforcement-learning",
       "communication",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:stripe:8328664",
@@ -3582,9 +4006,37 @@
       "machine-learning",
       "scikit-learn",
       "llm",
+      "reinforcement-learning",
       "communication",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
+  },
+  {
+    "key": "greenhouse:tanium:8232146",
+    "company": "Tanium",
+    "title": "AI Research Scientist",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8232146",
+    "location": "Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid); Reston, VA (Hybrid)",
+    "level": "open",
+    "posted_at": "2026-10-21T12:30:12-04:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "python",
+      "data-pipelines",
+      "statistics",
+      "pandas",
+      "machine-learning",
+      "pytorch",
+      "tensorflow",
+      "scikit-learn",
+      "llm",
+      "agents",
+      "communication",
+      "cross-functional"
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:tanium:8335147",
@@ -3616,7 +4068,8 @@
       "nlp",
       "communication",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:togetherai:5180155007",
@@ -3637,8 +4090,10 @@
       "kubernetes",
       "terraform",
       "dashboards",
-      "agents"
-    ]
+      "agents",
+      "gpu-cuda"
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:togetherai:4555544007",
@@ -3659,8 +4114,10 @@
       "kubernetes",
       "terraform",
       "dashboards",
-      "agents"
-    ]
+      "agents",
+      "gpu-cuda"
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:togetherai:5138540007",
@@ -3681,8 +4138,10 @@
       "kubernetes",
       "terraform",
       "dashboards",
-      "agents"
-    ]
+      "agents",
+      "gpu-cuda"
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:togetherai:4385540007",
@@ -3702,8 +4161,10 @@
       "machine-learning",
       "pytorch",
       "llm",
-      "mlops"
-    ]
+      "mlops",
+      "gpu-cuda"
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:togetherai:5199554007",
@@ -3723,8 +4184,10 @@
       "llm",
       "fine-tuning",
       "nlp",
+      "gpu-cuda",
       "communication"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:tripadvisor:8222892",
@@ -3753,7 +4216,8 @@
       "mlops",
       "communication",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:twilio:8258587",
@@ -3778,7 +4242,8 @@
       "rag",
       "agents",
       "communication"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:twilio:8240487",
@@ -3794,13 +4259,15 @@
       "python",
       "go",
       "distributed-systems",
+      "observability",
       "kafka",
       "machine-learning",
       "llm",
       "rag",
       "agents",
       "model-evaluation"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:vercel:6208037004",
@@ -3816,12 +4283,14 @@
       "python",
       "javascript",
       "typescript",
+      "observability",
       "machine-learning",
       "llm",
       "prompt-engineering",
       "model-evaluation",
       "mlops"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:vercel:5798406004",
@@ -3837,11 +4306,11 @@
       "javascript",
       "typescript",
       "distributed-systems",
-      "rest-apis",
       "machine-learning",
       "communication",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:waymo:8223735",
@@ -3868,8 +4337,10 @@
       "fine-tuning",
       "model-evaluation",
       "computer-vision",
+      "gpu-cuda",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:waymo:8287385",
@@ -3886,8 +4357,10 @@
       "machine-learning",
       "deep-learning",
       "pytorch",
-      "tensorflow"
-    ]
+      "tensorflow",
+      "reinforcement-learning"
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:waymo:8221795",
@@ -3905,6 +4378,7 @@
       "cpp",
       "data-structures-algorithms",
       "linux",
+      "jupyter",
       "spark",
       "data-modeling",
       "dashboards",
@@ -3916,7 +4390,8 @@
       "agents",
       "computer-vision",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:waymo:8233746",
@@ -3937,7 +4412,8 @@
       "llm",
       "fine-tuning",
       "computer-vision"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:waymo:8221851",
@@ -3959,7 +4435,8 @@
       "deep-learning",
       "prompt-engineering",
       "computer-vision"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:waymo:8212440",
@@ -3977,7 +4454,8 @@
       "data-pipelines",
       "machine-learning",
       "mlops"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:waymo:7309064",
@@ -3996,8 +4474,10 @@
       "deep-learning",
       "pytorch",
       "tensorflow",
-      "llm"
-    ]
+      "llm",
+      "reinforcement-learning"
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:waymo:8039191",
@@ -4016,8 +4496,10 @@
       "deep-learning",
       "pytorch",
       "tensorflow",
-      "fine-tuning"
-    ]
+      "fine-tuning",
+      "reinforcement-learning"
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:waymo:8212478",
@@ -4039,7 +4521,8 @@
       "fine-tuning",
       "model-evaluation",
       "computer-vision"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:waymo:7905643",
@@ -4055,7 +4538,8 @@
       "cpp",
       "distributed-systems",
       "machine-learning"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:waymo:6506689",
@@ -4075,8 +4559,10 @@
       "deep-learning",
       "pytorch",
       "tensorflow",
-      "llm"
-    ]
+      "llm",
+      "reinforcement-learning"
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:waymo:6499165",
@@ -4092,7 +4578,8 @@
       "machine-learning",
       "deep-learning",
       "llm"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:waymo:8127006",
@@ -4115,7 +4602,26 @@
       "rag",
       "computer-vision",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
+  },
+  {
+    "key": "greenhouse:waymo:8165872",
+    "company": "Waymo",
+    "title": "Research Scientist, RL for Autonomous Planning & World Modeling",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8165872",
+    "location": "Mountain View, CA, USA; San Francisco, CA, USA; Kirkland, WA, USA; New York City, NY, USA",
+    "level": "open",
+    "posted_at": "2026-08-29T22:06:16-04:00",
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "skills": [
+      "machine-learning",
+      "llm",
+      "reinforcement-learning",
+      "mlops"
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:waymo:7698498",
@@ -4131,7 +4637,8 @@
       "data-structures-algorithms",
       "data-visualization",
       "machine-learning"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "lever:zoox:2347453a-f11f-4dc2-ad14-572bc1f6247f",
@@ -4150,7 +4657,8 @@
       "tensorflow",
       "llm",
       "computer-vision"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "lever:zoox:06f146c2-25f6-40fd-8393-4f92ce518929",
@@ -4168,9 +4676,9 @@
       "machine-learning",
       "deep-learning",
       "pytorch",
-      "llm",
       "computer-vision"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "lever:zoox:2d73563c-8039-4d1b-844c-3953259ba6b1",
@@ -4188,7 +4696,8 @@
       "data-structures-algorithms",
       "distributed-systems",
       "machine-learning"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "lever:zoox:9176aa65-14e3-4f9d-98f9-e755e9777d67",
@@ -4205,8 +4714,10 @@
       "cpp",
       "data-structures-algorithms",
       "machine-learning",
-      "deep-learning"
-    ]
+      "deep-learning",
+      "reinforcement-learning"
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "lever:zoox:bc11276c-8db7-426e-9d00-d41c2097723a",
@@ -4225,8 +4736,10 @@
       "pytorch",
       "llm",
       "mlops",
+      "gpu-cuda",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "lever:zoox:91ff6263-49fb-421e-860f-36e7b9bae784",
@@ -4246,7 +4759,9 @@
       "pytorch",
       "tensorflow",
       "llm",
-      "mlops"
-    ]
+      "mlops",
+      "gpu-cuda"
+    ],
+    "rules": "70010f537232"
   }
 ]

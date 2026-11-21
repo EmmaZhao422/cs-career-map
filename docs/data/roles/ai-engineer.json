@@ -3,22 +3,34 @@
   "title": "AI Engineer",
   "blurb": "Builds products on top of machine learning models and LLMs.",
   "demo": false,
-  "postings": 162,
-  "listings": 192,
+  "postings": 173,
+  "listings": 203,
   "companies": 50,
   "entry_postings": 9,
   "entry_companies": 8,
   "top_company": "Anthropic",
-  "top_company_share": 18.5,
+  "top_company_share": 17.9,
   "last_seen_from": "2026-11-21",
   "last_seen_to": "2026-11-21",
   "skills": [
     {
+      "id": "python",
+      "name": "Python",
+      "category": "Languages",
+      "count": 126,
+      "pct": 72.8,
+      "company_pct": 84.0,
+      "tier": "most",
+      "companies": 42,
+      "entry_count": 9,
+      "entry_companies": 8
+    },
+    {
       "id": "llm",
       "name": "LLMs",
       "category": "AI & ML",
-      "count": 107,
-      "pct": 66.0,
+      "count": 115,
+      "pct": 66.5,
       "company_pct": 84.0,
       "tier": "most",
       "companies": 42,
@@ -26,23 +38,11 @@
       "entry_companies": 2
     },
     {
-      "id": "python",
-      "name": "Python",
-      "category": "Languages",
-      "count": 119,
-      "pct": 73.5,
-      "company_pct": 82.0,
-      "tier": "most",
-      "companies": 41,
-      "entry_count": 9,
-      "entry_companies": 8
-    },
-    {
       "id": "machine-learning",
       "name": "Machine learning",
       "category": "AI & ML",
-      "count": 121,
-      "pct": 74.7,
+      "count": 129,
+      "pct": 74.6,
       "company_pct": 80.0,
       "tier": "most",
       "companies": 40,
@@ -54,10 +54,10 @@
       "name": "AI agents",
       "category": "AI & ML",
       "count": 69,
-      "pct": 42.6,
-      "company_pct": 68.0,
+      "pct": 39.9,
+      "company_pct": 66.0,
       "tier": "most",
-      "companies": 34,
+      "companies": 33,
       "entry_count": 2,
       "entry_companies": 2
     },
@@ -65,8 +65,8 @@
       "id": "cross-functional",
       "name": "Working with non-engineers",
       "category": "Working with people",
-      "count": 47,
-      "pct": 29.0,
+      "count": 48,
+      "pct": 27.7,
       "company_pct": 62.0,
       "tier": "most",
       "companies": 31,
@@ -77,8 +77,8 @@
       "id": "communication",
       "name": "Written & verbal communication",
       "category": "Working with people",
-      "count": 58,
-      "pct": 35.8,
+      "count": 61,
+      "pct": 35.3,
       "company_pct": 56.0,
       "tier": "many",
       "companies": 28,
@@ -89,20 +89,32 @@
       "id": "pytorch",
       "name": "PyTorch",
       "category": "AI & ML",
-      "count": 54,
-      "pct": 33.3,
+      "count": 58,
+      "pct": 33.5,
+      "company_pct": 50.0,
+      "tier": "many",
+      "companies": 25,
+      "entry_count": 3,
+      "entry_companies": 3
+    },
+    {
+      "id": "mlops",
+      "name": "Model deployment (MLOps)",
+      "category": "AI & ML",
+      "count": 40,
+      "pct": 23.1,
       "company_pct": 46.0,
       "tier": "many",
       "companies": 23,
-      "entry_count": 3,
-      "entry_companies": 3
+      "entry_count": 2,
+      "entry_companies": 1
     },
     {
       "id": "rag",
       "name": "RAG & vector search",
       "category": "AI & ML",
       "count": 34,
-      "pct": 21.0,
+      "pct": 19.7,
       "company_pct": 46.0,
       "tier": "many",
       "companies": 23,
@@ -110,38 +122,26 @@
       "entry_companies": 3
     },
     {
-      "id": "mlops",
-      "name": "Model deployment (MLOps)",
-      "category": "AI & ML",
-      "count": 38,
-      "pct": 23.5,
+      "id": "observability",
+      "name": "Observability & monitoring",
+      "category": "Tools",
+      "count": 35,
+      "pct": 20.2,
       "company_pct": 44.0,
       "tier": "many",
       "companies": 22,
-      "entry_count": 2,
+      "entry_count": 1,
       "entry_companies": 1
-    },
-    {
-      "id": "rest-apis",
-      "name": "APIs (REST)",
-      "category": "Web",
-      "count": 35,
-      "pct": 21.6,
-      "company_pct": 42.0,
-      "tier": "many",
-      "companies": 21,
-      "entry_count": 3,
-      "entry_companies": 3
     },
     {
       "id": "model-evaluation",
       "name": "Model evaluation",
       "category": "AI & ML",
-      "count": 46,
-      "pct": 28.4,
-      "company_pct": 40.0,
+      "count": 48,
+      "pct": 27.7,
+      "company_pct": 42.0,
       "tier": "many",
-      "companies": 20,
+      "companies": 21,
       "entry_count": 0,
       "entry_companies": 0
     },
@@ -150,10 +150,10 @@
       "name": "Deep learning",
       "category": "AI & ML",
       "count": 46,
-      "pct": 28.4,
-      "company_pct": 38.0,
+      "pct": 26.6,
+      "company_pct": 40.0,
       "tier": "many",
-      "companies": 19,
+      "companies": 20,
       "entry_count": 3,
       "entry_companies": 3
     },
@@ -161,20 +161,32 @@
       "id": "aws",
       "name": "AWS",
       "category": "Cloud",
-      "count": 27,
-      "pct": 16.7,
+      "count": 28,
+      "pct": 16.2,
+      "company_pct": 40.0,
+      "tier": "many",
+      "companies": 20,
+      "entry_count": 3,
+      "entry_companies": 3
+    },
+    {
+      "id": "fine-tuning",
+      "name": "Fine-tuning",
+      "category": "AI & ML",
+      "count": 34,
+      "pct": 19.7,
       "company_pct": 38.0,
       "tier": "many",
       "companies": 19,
-      "entry_count": 3,
-      "entry_companies": 3
+      "entry_count": 0,
+      "entry_companies": 0
     },
     {
       "id": "distributed-systems",
       "name": "Distributed systems",
       "category": "CS fundamentals",
       "count": 36,
-      "pct": 22.2,
+      "pct": 20.8,
       "company_pct": 36.0,
       "tier": "many",
       "companies": 18,
@@ -186,7 +198,7 @@
       "name": "Go",
       "category": "Languages",
       "count": 25,
-      "pct": 15.4,
+      "pct": 14.5,
       "company_pct": 36.0,
       "tier": "many",
       "companies": 18,
@@ -194,11 +206,11 @@
       "entry_companies": 3
     },
     {
-      "id": "fine-tuning",
-      "name": "Fine-tuning",
-      "category": "AI & ML",
-      "count": 28,
-      "pct": 17.3,
+      "id": "data-pipelines",
+      "name": "Data pipelines (ETL)",
+      "category": "Data engineering",
+      "count": 29,
+      "pct": 16.8,
       "company_pct": 34.0,
       "tier": "many",
       "companies": 17,
@@ -206,23 +218,23 @@
       "entry_companies": 0
     },
     {
-      "id": "data-pipelines",
-      "name": "Data pipelines (ETL)",
-      "category": "Data engineering",
-      "count": 26,
-      "pct": 16.0,
-      "company_pct": 30.0,
+      "id": "reinforcement-learning",
+      "name": "Reinforcement learning",
+      "category": "AI & ML",
+      "count": 45,
+      "pct": 26.0,
+      "company_pct": 32.0,
       "tier": "many",
-      "companies": 15,
-      "entry_count": 0,
-      "entry_companies": 0
+      "companies": 16,
+      "entry_count": 1,
+      "entry_companies": 1
     },
     {
       "id": "cpp",
       "name": "C++",
       "category": "Languages",
-      "count": 45,
-      "pct": 27.8,
+      "count": 48,
+      "pct": 27.7,
       "company_pct": 28.0,
       "tier": "some",
       "companies": 14,
@@ -233,8 +245,8 @@
       "id": "tensorflow",
       "name": "TensorFlow / JAX",
       "category": "AI & ML",
-      "count": 35,
-      "pct": 21.6,
+      "count": 36,
+      "pct": 20.8,
       "company_pct": 28.0,
       "tier": "some",
       "companies": 14,
@@ -242,11 +254,11 @@
       "entry_companies": 3
     },
     {
-      "id": "sql",
-      "name": "SQL & relational databases",
-      "category": "Languages",
-      "count": 25,
-      "pct": 15.4,
+      "id": "kubernetes",
+      "name": "Kubernetes",
+      "category": "Tools",
+      "count": 33,
+      "pct": 19.1,
       "company_pct": 28.0,
       "tier": "some",
       "companies": 14,
@@ -254,11 +266,23 @@
       "entry_companies": 1
     },
     {
-      "id": "kubernetes",
-      "name": "Kubernetes",
-      "category": "Tools",
-      "count": 32,
-      "pct": 19.8,
+      "id": "sql",
+      "name": "SQL & relational databases",
+      "category": "Languages",
+      "count": 25,
+      "pct": 14.5,
+      "company_pct": 28.0,
+      "tier": "some",
+      "companies": 14,
+      "entry_count": 1,
+      "entry_companies": 1
+    },
+    {
+      "id": "statistics",
+      "name": "Statistics",
+      "category": "Analysis",
+      "count": 24,
+      "pct": 13.9,
       "company_pct": 26.0,
       "tier": "some",
       "companies": 13,
@@ -270,22 +294,10 @@
       "name": "TypeScript",
       "category": "Languages",
       "count": 21,
-      "pct": 13.0,
+      "pct": 12.1,
       "company_pct": 26.0,
       "tier": "some",
       "companies": 13,
-      "entry_count": 1,
-      "entry_companies": 1
-    },
-    {
-      "id": "statistics",
-      "name": "Statistics",
-      "category": "Analysis",
-      "count": 23,
-      "pct": 14.2,
-      "company_pct": 24.0,
-      "tier": "some",
-      "companies": 12,
       "entry_count": 1,
       "entry_companies": 1
     },
@@ -294,7 +306,7 @@
       "name": "Spark",
       "category": "Data engineering",
       "count": 20,
-      "pct": 12.3,
+      "pct": 11.6,
       "company_pct": 24.0,
       "tier": "some",
       "companies": 12,
@@ -306,7 +318,7 @@
       "name": "Prompt engineering",
       "category": "AI & ML",
       "count": 17,
-      "pct": 10.5,
+      "pct": 9.8,
       "company_pct": 24.0,
       "tier": "some",
       "companies": 12,
@@ -318,7 +330,7 @@
       "name": "A/B testing",
       "category": "Analysis",
       "count": 15,
-      "pct": 9.3,
+      "pct": 8.7,
       "company_pct": 24.0,
       "tier": "some",
       "companies": 12,
@@ -330,7 +342,7 @@
       "name": "Java",
       "category": "Languages",
       "count": 15,
-      "pct": 9.3,
+      "pct": 8.7,
       "company_pct": 24.0,
       "tier": "some",
       "companies": 12,
@@ -338,23 +350,23 @@
       "entry_companies": 1
     },
     {
-      "id": "git",
-      "name": "Git",
-      "category": "Tools",
-      "count": 19,
-      "pct": 11.7,
+      "id": "gpu-cuda",
+      "name": "GPU programming (CUDA)",
+      "category": "AI & ML",
+      "count": 22,
+      "pct": 12.7,
       "company_pct": 22.0,
       "tier": "some",
       "companies": 11,
-      "entry_count": 2,
-      "entry_companies": 2
+      "entry_count": 1,
+      "entry_companies": 1
     },
     {
       "id": "ci-cd",
       "name": "CI/CD",
       "category": "Tools",
       "count": 18,
-      "pct": 11.1,
+      "pct": 10.4,
       "company_pct": 22.0,
       "tier": "some",
       "companies": 11,
@@ -365,11 +377,11 @@
       "id": "docker",
       "name": "Docker",
       "category": "Tools",
-      "count": 16,
-      "pct": 9.9,
-      "company_pct": 20.0,
+      "count": 18,
+      "pct": 10.4,
+      "company_pct": 22.0,
       "tier": "some",
-      "companies": 10,
+      "companies": 11,
       "entry_count": 1,
       "entry_companies": 1
     },
@@ -377,20 +389,32 @@
       "id": "gcp",
       "name": "Google Cloud",
       "category": "Cloud",
-      "count": 16,
-      "pct": 9.9,
+      "count": 17,
+      "pct": 9.8,
+      "company_pct": 22.0,
+      "tier": "some",
+      "companies": 11,
+      "entry_count": 1,
+      "entry_companies": 1
+    },
+    {
+      "id": "git",
+      "name": "Git",
+      "category": "Tools",
+      "count": 17,
+      "pct": 9.8,
       "company_pct": 20.0,
       "tier": "some",
       "companies": 10,
-      "entry_count": 1,
-      "entry_companies": 1
+      "entry_count": 2,
+      "entry_companies": 2
     },
     {
       "id": "computer-vision",
       "name": "Computer vision",
       "category": "AI & ML",
       "count": 18,
-      "pct": 11.1,
+      "pct": 10.4,
       "company_pct": 18.0,
       "tier": "some",
       "companies": 9,
@@ -402,7 +426,7 @@
       "name": "NLP",
       "category": "AI & ML",
       "count": 17,
-      "pct": 10.5,
+      "pct": 9.8,
       "company_pct": 18.0,
       "tier": "some",
       "companies": 9,
@@ -414,7 +438,7 @@
       "name": "JavaScript",
       "category": "Languages",
       "count": 12,
-      "pct": 7.4,
+      "pct": 6.9,
       "company_pct": 18.0,
       "tier": "some",
       "companies": 9,
@@ -426,7 +450,7 @@
       "name": "System design",
       "category": "CS fundamentals",
       "count": 12,
-      "pct": 7.4,
+      "pct": 6.9,
       "company_pct": 18.0,
       "tier": "some",
       "companies": 9,
@@ -438,7 +462,7 @@
       "name": "Data structures & algorithms",
       "category": "CS fundamentals",
       "count": 11,
-      "pct": 6.8,
+      "pct": 6.4,
       "company_pct": 18.0,
       "tier": "some",
       "companies": 9,
@@ -446,11 +470,23 @@
       "entry_companies": 3
     },
     {
+      "id": "rest-apis",
+      "name": "APIs (REST)",
+      "category": "Web",
+      "count": 10,
+      "pct": 5.8,
+      "company_pct": 18.0,
+      "tier": "some",
+      "companies": 9,
+      "entry_count": 1,
+      "entry_companies": 1
+    },
+    {
       "id": "rust",
       "name": "Rust",
       "category": "Languages",
       "count": 17,
-      "pct": 10.5,
+      "pct": 9.8,
       "company_pct": 16.0,
       "tier": "some",
       "companies": 8,
@@ -462,7 +498,7 @@
       "name": "React",
       "category": "Web",
       "count": 11,
-      "pct": 6.8,
+      "pct": 6.4,
       "company_pct": 16.0,
       "tier": "some",
       "companies": 8,
@@ -474,7 +510,7 @@
       "name": "Terraform",
       "category": "Tools",
       "count": 10,
-      "pct": 6.2,
+      "pct": 5.8,
       "company_pct": 16.0,
       "tier": "some",
       "companies": 8,
@@ -486,7 +522,7 @@
       "name": "Data warehouses",
       "category": "Data engineering",
       "count": 9,
-      "pct": 5.6,
+      "pct": 5.2,
       "company_pct": 16.0,
       "tier": "some",
       "companies": 8,
@@ -494,11 +530,35 @@
       "entry_companies": 2
     },
     {
+      "id": "scikit-learn",
+      "name": "scikit-learn",
+      "category": "AI & ML",
+      "count": 9,
+      "pct": 5.2,
+      "company_pct": 14.0,
+      "tier": "some",
+      "companies": 7,
+      "entry_count": 1,
+      "entry_companies": 1
+    },
+    {
       "id": "dashboards",
       "name": "Dashboards & reporting",
       "category": "Analysis",
-      "count": 9,
-      "pct": 5.6,
+      "count": 8,
+      "pct": 4.6,
+      "company_pct": 14.0,
+      "tier": "some",
+      "companies": 7,
+      "entry_count": 0,
+      "entry_companies": 0
+    },
+    {
+      "id": "pandas",
+      "name": "pandas / NumPy",
+      "category": "Analysis",
+      "count": 8,
+      "pct": 4.6,
       "company_pct": 14.0,
       "tier": "some",
       "companies": 7,
@@ -510,7 +570,7 @@
       "name": "Linux & command line",
       "category": "Tools",
       "count": 13,
-      "pct": 8.0,
+      "pct": 7.5,
       "company_pct": 12.0,
       "tier": "some",
       "companies": 6,
@@ -522,7 +582,7 @@
       "name": "Azure",
       "category": "Cloud",
       "count": 10,
-      "pct": 6.2,
+      "pct": 5.8,
       "company_pct": 12.0,
       "tier": "some",
       "companies": 6,
@@ -534,43 +594,19 @@
       "name": "Object-oriented design",
       "category": "CS fundamentals",
       "count": 8,
-      "pct": 4.9,
+      "pct": 4.6,
       "company_pct": 12.0,
       "tier": "some",
       "companies": 6,
       "entry_count": 1,
       "entry_companies": 1
-    },
-    {
-      "id": "scikit-learn",
-      "name": "scikit-learn",
-      "category": "AI & ML",
-      "count": 8,
-      "pct": 4.9,
-      "company_pct": 12.0,
-      "tier": "some",
-      "companies": 6,
-      "entry_count": 1,
-      "entry_companies": 1
-    },
-    {
-      "id": "pandas",
-      "name": "pandas / NumPy",
-      "category": "Analysis",
-      "count": 7,
-      "pct": 4.3,
-      "company_pct": 12.0,
-      "tier": "some",
-      "companies": 6,
-      "entry_count": 0,
-      "entry_companies": 0
     },
     {
       "id": "testing",
       "name": "Testing",
       "category": "CS fundamentals",
       "count": 7,
-      "pct": 4.3,
+      "pct": 4.0,
       "company_pct": 12.0,
       "tier": "some",
       "companies": 6,
@@ -582,7 +618,7 @@
       "name": "Concurrency",
       "category": "CS fundamentals",
       "count": 7,
-      "pct": 4.3,
+      "pct": 4.0,
       "company_pct": 10.0,
       "tier": "some",
       "companies": 5,
@@ -594,7 +630,7 @@
       "name": "Operating systems",
       "category": "CS fundamentals",
       "count": 7,
-      "pct": 4.3,
+      "pct": 4.0,
       "company_pct": 8.0,
       "tier": "rare",
       "companies": 4,
@@ -606,7 +642,7 @@
       "name": "Ruby",
       "category": "Languages",
       "count": 5,
-      "pct": 3.1,
+      "pct": 2.9,
       "company_pct": 8.0,
       "tier": "rare",
       "companies": 4,
@@ -618,7 +654,7 @@
       "name": "Scala",
       "category": "Languages",
       "count": 5,
-      "pct": 3.1,
+      "pct": 2.9,
       "company_pct": 6.0,
       "tier": "rare",
       "companies": 3,
@@ -630,7 +666,7 @@
       "name": "Data modeling",
       "category": "Data engineering",
       "count": 4,
-      "pct": 2.5,
+      "pct": 2.3,
       "company_pct": 6.0,
       "tier": "rare",
       "companies": 3,
@@ -642,7 +678,7 @@
       "name": "Airflow",
       "category": "Data engineering",
       "count": 3,
-      "pct": 1.9,
+      "pct": 1.7,
       "company_pct": 6.0,
       "tier": "rare",
       "companies": 3,
@@ -654,7 +690,7 @@
       "name": "Kafka",
       "category": "Data engineering",
       "count": 3,
-      "pct": 1.9,
+      "pct": 1.7,
       "company_pct": 6.0,
       "tier": "rare",
       "companies": 3,
@@ -666,7 +702,7 @@
       "name": "Microservices",
       "category": "Web",
       "count": 3,
-      "pct": 1.9,
+      "pct": 1.7,
       "company_pct": 6.0,
       "tier": "rare",
       "companies": 3,
@@ -678,7 +714,7 @@
       "name": "Node.js",
       "category": "Web",
       "count": 3,
-      "pct": 1.9,
+      "pct": 1.7,
       "company_pct": 6.0,
       "tier": "rare",
       "companies": 3,
@@ -690,10 +726,46 @@
       "name": "NoSQL databases",
       "category": "Data engineering",
       "count": 3,
-      "pct": 1.9,
+      "pct": 1.7,
       "company_pct": 6.0,
       "tier": "rare",
       "companies": 3,
+      "entry_count": 0,
+      "entry_companies": 0
+    },
+    {
+      "id": "django-flask",
+      "name": "Python web frameworks",
+      "category": "Web",
+      "count": 3,
+      "pct": 1.7,
+      "company_pct": 6.0,
+      "tier": "rare",
+      "companies": 3,
+      "entry_count": 1,
+      "entry_companies": 1
+    },
+    {
+      "id": "agile",
+      "name": "Agile & Scrum",
+      "category": "Working with people",
+      "count": 3,
+      "pct": 1.7,
+      "company_pct": 4.0,
+      "tier": "rare",
+      "companies": 2,
+      "entry_count": 1,
+      "entry_companies": 1
+    },
+    {
+      "id": "angular-vue",
+      "name": "Angular / Vue",
+      "category": "Web",
+      "count": 3,
+      "pct": 1.7,
+      "company_pct": 4.0,
+      "tier": "rare",
+      "companies": 2,
       "entry_count": 0,
       "entry_companies": 0
     },
@@ -702,7 +774,7 @@
       "name": "Computer networking",
       "category": "CS fundamentals",
       "count": 3,
-      "pct": 1.9,
+      "pct": 1.7,
       "company_pct": 4.0,
       "tier": "rare",
       "companies": 2,
@@ -758,9 +830,33 @@
       "entry_companies": 0
     },
     {
+      "id": "grpc",
+      "name": "gRPC & Protocol Buffers",
+      "category": "Web",
+      "count": 1,
+      "pct": 0.6,
+      "company_pct": 2.0,
+      "tier": "rare",
+      "companies": 1,
+      "entry_count": 0,
+      "entry_companies": 0
+    },
+    {
       "id": "html-css",
       "name": "HTML & CSS",
       "category": "Web",
+      "count": 1,
+      "pct": 0.6,
+      "company_pct": 2.0,
+      "tier": "rare",
+      "companies": 1,
+      "entry_count": 0,
+      "entry_companies": 0
+    },
+    {
+      "id": "jupyter",
+      "name": "Jupyter notebooks",
+      "category": "Tools",
       "count": 1,
       "pct": 0.6,
       "company_pct": 2.0,
@@ -809,22 +905,22 @@
   "company_counts": [
     [
       "Anthropic",
-      30
+      31
     ],
     [
       "Waymo",
-      14
-    ],
-    [
-      "Anduril Industries",
-      7
+      15
     ],
     [
       "Nuro",
-      7
+      11
     ],
     [
       "Scale AI",
+      9
+    ],
+    [
+      "Anduril Industries",
       7
     ],
     [
@@ -868,6 +964,10 @@
       3
     ],
     [
+      "Databricks",
+      3
+    ],
+    [
       "Palantir",
       3
     ],
@@ -877,10 +977,6 @@
     ],
     [
       "Celonis",
-      2
-    ],
-    [
-      "Databricks",
       2
     ],
     [
@@ -901,6 +997,14 @@
     ],
     [
       "Sendbird",
+      2
+    ],
+    [
+      "Snorkel AI",
+      2
+    ],
+    [
+      "Tanium",
       2
     ],
     [
@@ -988,19 +1092,11 @@
       1
     ],
     [
-      "Snorkel AI",
-      1
-    ],
-    [
       "Sonarsource",
       1
     ],
     [
       "Spotify",
-      1
-    ],
-    [
-      "Tanium",
       1
     ],
     [
@@ -1370,6 +1466,15 @@
       "phd": false
     },
     {
+      "company": "Anthropic",
+      "title": "Research Scientist, Interpretability",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4980427008",
+      "location": "San Francisco, CA",
+      "level": "open",
+      "last_seen": "2026-11-21",
+      "phd": false
+    },
+    {
       "company": "Asana",
       "title": "Software Engineer, AI",
       "url": "https://www.asana.com/jobs/apply/7962306?gh_jid=7962306",
@@ -1494,6 +1599,15 @@
       "level": "open",
       "last_seen": "2026-11-21",
       "phd": false
+    },
+    {
+      "company": "Databricks",
+      "title": "PhD GenAI Research Scientist Intern",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002",
+      "location": "San Francisco, California",
+      "level": "entry",
+      "last_seen": "2026-11-21",
+      "phd": true
     },
     {
       "company": "Datadog",
@@ -1749,6 +1863,42 @@
     },
     {
       "company": "Nuro",
+      "title": "Machine Learning Research Scientist, Active Learning",
+      "url": "https://nuro.ai/careersitem?gh_jid=8341046",
+      "location": "Mountain View, California (HQ)",
+      "level": "open",
+      "last_seen": "2026-11-21",
+      "phd": false
+    },
+    {
+      "company": "Nuro",
+      "title": "Machine Learning Research Scientist, Behavior Planning and Prediction",
+      "url": "https://nuro.ai/careersitem?gh_jid=5434059",
+      "location": "Mountain View, California (HQ)",
+      "level": "open",
+      "last_seen": "2026-11-21",
+      "phd": false
+    },
+    {
+      "company": "Nuro",
+      "title": "Machine Learning Research Scientist, Prediction & Smart Agents",
+      "url": "https://nuro.ai/careersitem?gh_jid=7439020",
+      "location": "Mountain View, California (HQ)",
+      "level": "open",
+      "last_seen": "2026-11-21",
+      "phd": false
+    },
+    {
+      "company": "Nuro",
+      "title": "Machine Learning Research Scientist: Generative Modeling for Planning",
+      "url": "https://nuro.ai/careersitem?gh_jid=5416913",
+      "location": "Mountain View, California (HQ)",
+      "level": "open",
+      "last_seen": "2026-11-21",
+      "phd": false
+    },
+    {
+      "company": "Nuro",
       "title": "Software Engineer, AI Platform - Intern",
       "url": "https://nuro.ai/careersitem?gh_jid=7351061",
       "location": "Mountain View, California (HQ)",
@@ -1974,6 +2124,24 @@
     },
     {
       "company": "Scale AI",
+      "title": "Machine Learning Research Scientist, Evaluations",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4728014005",
+      "location": "San Francisco, CA; Seattle, WA; New York, NY",
+      "level": "open",
+      "last_seen": "2026-11-21",
+      "phd": false
+    },
+    {
+      "company": "Scale AI",
+      "title": "Machine Learning Research Scientist, Post-Training",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4528009005",
+      "location": "San Francisco, CA; Seattle, WA; New York, NY",
+      "level": "open",
+      "last_seen": "2026-11-21",
+      "phd": false
+    },
+    {
+      "company": "Scale AI",
       "title": "ML Research Engineer, ML Systems",
       "url": "https://job-boards.greenhouse.io/scaleai/jobs/4534631005",
       "location": "San Francisco, CA; Seattle, WA; New York, NY",
@@ -2048,6 +2216,15 @@
       "company": "Snorkel AI",
       "title": "Research Scientist - Human-AI Systems",
       "url": "https://job-boards.greenhouse.io/snorkelai/jobs/6208895004",
+      "location": "New York City, NY (Hybrid); San Francisco, CA (Hybrid); United States (Remote)",
+      "level": "open",
+      "last_seen": "2026-11-21",
+      "phd": false
+    },
+    {
+      "company": "Snorkel AI",
+      "title": "Research Scientist - RL Training",
+      "url": "https://job-boards.greenhouse.io/snorkelai/jobs/6009496004",
       "location": "New York City, NY (Hybrid); San Francisco, CA (Hybrid); United States (Remote)",
       "level": "open",
       "last_seen": "2026-11-21",
@@ -2196,6 +2373,15 @@
       "level": "entry",
       "last_seen": "2026-11-21",
       "phd": true
+    },
+    {
+      "company": "Tanium",
+      "title": "AI Research Scientist",
+      "url": "https://job-boards.greenhouse.io/tanium/jobs/8232146",
+      "location": "Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid); Reston, VA (Hybrid)",
+      "level": "open",
+      "last_seen": "2026-11-21",
+      "phd": false
     },
     {
       "company": "Tanium",
@@ -2406,6 +2592,15 @@
     },
     {
       "company": "Waymo",
+      "title": "Research Scientist, RL for Autonomous Planning & World Modeling",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8165872",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA; Kirkland, WA, USA; New York City, NY, USA",
+      "level": "open",
+      "last_seen": "2026-11-21",
+      "phd": false
+    },
+    {
+      "company": "Waymo",
       "title": "Software Engineer, Machine Learning Tooling",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=7698498",
       "location": "Taipei, Taiwan; Hsinchu, Taiwan",
@@ -2468,5 +2663,5 @@
       "phd": false
     }
   ],
-  "generated_at": "2026-11-21T09:00:11+00:00"
+  "generated_at": "2026-11-21T09:03:02+00:00"
 }

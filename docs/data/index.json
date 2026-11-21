@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T09:00:11+00:00",
+  "generated_at": "2026-11-21T09:03:02+00:00",
   "demo": false,
   "notice": null,
   "tiers": {
@@ -12,35 +12,35 @@
       "id": "ai-engineer",
       "title": "AI Engineer",
       "blurb": "Builds products on top of machine learning models and LLMs.",
-      "postings": 162,
+      "postings": 173,
       "companies": 50,
       "entry_postings": 9,
       "entry_companies": 8,
       "top_skills": [
         {
-          "name": "LLMs",
-          "pct": 66.0,
+          "name": "Python",
+          "pct": 72.8,
           "company_pct": 84.0
         },
         {
-          "name": "Python",
-          "pct": 73.5,
-          "company_pct": 82.0
+          "name": "LLMs",
+          "pct": 66.5,
+          "company_pct": 84.0
         },
         {
           "name": "Machine learning",
-          "pct": 74.7,
+          "pct": 74.6,
           "company_pct": 80.0
         },
         {
           "name": "AI agents",
-          "pct": 42.6,
-          "company_pct": 68.0
+          "pct": 39.9,
+          "company_pct": 66.0
         },
         {
           "name": "PyTorch",
-          "pct": 33.3,
-          "company_pct": 46.0
+          "pct": 33.5,
+          "company_pct": 50.0
         }
       ]
     },
@@ -84,35 +84,35 @@
       "id": "software-engineer",
       "title": "Software Engineer",
       "blurb": "Designs, writes and ships the code behind a product.",
-      "postings": 704,
-      "companies": 83,
-      "entry_postings": 83,
-      "entry_companies": 32,
+      "postings": 751,
+      "companies": 89,
+      "entry_postings": 102,
+      "entry_companies": 38,
       "top_skills": [
         {
-          "name": "APIs (REST)",
-          "pct": 33.4,
-          "company_pct": 79.5
-        },
-        {
           "name": "Python",
-          "pct": 52.0,
-          "company_pct": 77.1
+          "pct": 52.5,
+          "company_pct": 76.4
         },
         {
           "name": "AWS",
-          "pct": 23.3,
-          "company_pct": 72.3
+          "pct": 22.9,
+          "company_pct": 70.8
         },
         {
-          "name": "Kubernetes",
-          "pct": 31.4,
-          "company_pct": 67.5
+          "name": "Observability & monitoring",
+          "pct": 22.9,
+          "company_pct": 67.4
         },
         {
           "name": "Distributed systems",
-          "pct": 31.8,
+          "pct": 32.2,
           "company_pct": 66.3
+        },
+        {
+          "name": "Kubernetes",
+          "pct": 31.0,
+          "company_pct": 65.2
         }
       ]
     }

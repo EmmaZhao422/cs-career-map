@@ -254,18 +254,6 @@
       "entry_companies": 0
     },
     {
-      "id": "rest-apis",
-      "name": "APIs (REST)",
-      "category": "Web",
-      "count": 3,
-      "pct": 10.0,
-      "company_pct": 17.6,
-      "tier": "some",
-      "companies": 3,
-      "entry_count": 2,
-      "entry_companies": 2
-    },
-    {
       "id": "llm",
       "name": "LLMs",
       "category": "AI & ML",
@@ -338,6 +326,18 @@
       "entry_companies": 0
     },
     {
+      "id": "analytics-tools",
+      "name": "Product analytics tools",
+      "category": "Analysis",
+      "count": 2,
+      "pct": 6.7,
+      "company_pct": 11.8,
+      "tier": "some",
+      "companies": 2,
+      "entry_count": 1,
+      "entry_companies": 1
+    },
+    {
       "id": "spark",
       "name": "Spark",
       "category": "Data engineering",
@@ -350,9 +350,9 @@
       "entry_companies": 0
     },
     {
-      "id": "computer-vision",
-      "name": "Computer vision",
-      "category": "AI & ML",
+      "id": "agile",
+      "name": "Agile & Scrum",
+      "category": "Working with people",
       "count": 1,
       "pct": 3.3,
       "company_pct": 5.9,
@@ -776,5 +776,5 @@
       "phd": false
     }
   ],
-  "generated_at": "2026-11-21T09:00:11+00:00"
+  "generated_at": "2026-11-21T09:03:02+00:00"
 }

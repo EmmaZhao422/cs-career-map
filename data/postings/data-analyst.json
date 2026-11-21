@@ -12,7 +12,6 @@
     "skills": [
       "python",
       "sql",
-      "rest-apis",
       "data-warehouse",
       "data-pipelines",
       "excel",
@@ -24,10 +23,10 @@
       "llm",
       "prompt-engineering",
       "agents",
-      "computer-vision",
       "communication",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:andurilindustries:5296416007",
@@ -49,7 +48,8 @@
       "dashboards",
       "communication",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:andurilindustries:4985350007",
@@ -69,7 +69,8 @@
       "power-bi",
       "data-visualization",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:cloudflare:8109620",
@@ -93,7 +94,8 @@
       "machine-learning",
       "mlops",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:elastic:8177119",
@@ -114,7 +116,8 @@
       "looker",
       "dashboards",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:purestorage:8129789",
@@ -139,7 +142,8 @@
       "prompt-engineering",
       "agents",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:figma:6249978004",
@@ -163,7 +167,8 @@
       "ab-testing",
       "communication",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:flexport:8040985",
@@ -187,7 +192,8 @@
       "statistics",
       "communication",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:gocardless:8190692",
@@ -205,8 +211,11 @@
       "data-warehouse",
       "looker",
       "dashboards",
-      "data-visualization"
-    ]
+      "data-visualization",
+      "analytics-tools",
+      "agile"
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:hellofresh:7387627",
@@ -232,7 +241,8 @@
       "pandas",
       "scikit-learn",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:hellofresh:7741137",
@@ -247,7 +257,8 @@
     "skills": [
       "sql",
       "excel"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:hellofresh:7704587",
@@ -269,7 +280,8 @@
       "data-visualization",
       "ab-testing",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:lucidmotors:4924654007",
@@ -291,7 +303,8 @@
       "statistics",
       "communication",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:lucidmotors:4928050007",
@@ -313,7 +326,8 @@
       "statistics",
       "communication",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:gomotive:8925908002",
@@ -333,7 +347,8 @@
       "data-visualization",
       "communication",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:gomotive:8858120002",
@@ -353,7 +368,8 @@
       "data-visualization",
       "communication",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:riotgames:8356372",
@@ -373,7 +389,8 @@
       "data-visualization",
       "statistics",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:scopely:5212408008",
@@ -395,8 +412,10 @@
       "dashboards",
       "statistics",
       "ab-testing",
+      "analytics-tools",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:scopely:5283492008",
@@ -419,7 +438,8 @@
       "machine-learning",
       "communication",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:spacex:8641231002",
@@ -444,7 +464,8 @@
       "statistics",
       "ab-testing",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:spacex:8641250002",
@@ -469,7 +490,8 @@
       "statistics",
       "ab-testing",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:spacex:8681172002",
@@ -487,7 +509,8 @@
       "excel",
       "communication",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:spacex:8657082002",
@@ -503,7 +526,8 @@
       "concurrency",
       "dashboards",
       "communication"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:stripe:5416444",
@@ -523,7 +547,8 @@
       "dashboards",
       "statistics",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:stripe:5601881",
@@ -543,7 +568,8 @@
       "dashboards",
       "statistics",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:stripe:8230296",
@@ -567,7 +593,8 @@
       "statistics",
       "agents",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:stripe:8194287",
@@ -581,13 +608,13 @@
     "last_seen": "2026-11-21",
     "skills": [
       "sql",
-      "rest-apis",
       "data-pipelines",
       "dashboards",
       "statistics",
       "ab-testing",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:stripe:8194291",
@@ -601,13 +628,13 @@
     "last_seen": "2026-11-21",
     "skills": [
       "sql",
-      "rest-apis",
       "data-pipelines",
       "dashboards",
       "statistics",
       "ab-testing",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:stripe:8189909",
@@ -627,7 +654,8 @@
       "dashboards",
       "statistics",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:stripe:8364868",
@@ -643,7 +671,8 @@
       "dashboards",
       "data-visualization",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:sumup:8907441002",
@@ -661,7 +690,8 @@
       "tableau",
       "dashboards",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "lever:veeva:39b95683-9c50-4721-aafe-68f3dad04f83",
@@ -677,7 +707,6 @@
       "python",
       "sql",
       "concurrency",
-      "rest-apis",
       "data-pipelines",
       "excel",
       "llm",
@@ -685,7 +714,8 @@
       "rag",
       "agents",
       "cross-functional"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "lever:veeva:6b656fac-75cf-4768-ad43-9422124892d6",
@@ -700,7 +730,8 @@
     "skills": [
       "sql",
       "communication"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "lever:veeva:873c7161-8ff9-413d-abb4-25a79cb1fa9f",
@@ -715,7 +746,8 @@
     "skills": [
       "sql",
       "communication"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "lever:veeva:c36c9d3b-fa88-4f43-87f9-ec32d53fc5f9",
@@ -732,7 +764,8 @@
       "dashboards",
       "statistics",
       "communication"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "lever:veeva:28c47d34-3ad6-4485-85a9-686b4239b9ea",
@@ -752,7 +785,8 @@
       "excel",
       "data-visualization",
       "communication"
-    ]
+    ],
+    "rules": "70010f537232"
   },
   {
     "key": "greenhouse:wizinc:4720879006",
@@ -779,6 +813,7 @@
       "pandas",
       "llm",
       "agents"
-    ]
+    ],
+    "rules": "70010f537232"
   }
 ]
