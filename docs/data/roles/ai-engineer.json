@@ -142,18 +142,6 @@
       "entry_companies": 0
     },
     {
-      "id": "rag",
-      "name": "RAG & vector search",
-      "category": "AI & ML",
-      "count": 31,
-      "pct": 18.7,
-      "company_pct": 43.8,
-      "tier": "many",
-      "companies": 21,
-      "entry_count": 4,
-      "entry_companies": 3
-    },
-    {
       "id": "deep-learning",
       "name": "Deep learning",
       "category": "AI & ML",
@@ -176,6 +164,18 @@
       "companies": 19,
       "entry_count": 0,
       "entry_companies": 0
+    },
+    {
+      "id": "rag",
+      "name": "RAG & vector search",
+      "category": "AI & ML",
+      "count": 26,
+      "pct": 15.7,
+      "company_pct": 39.6,
+      "tier": "many",
+      "companies": 19,
+      "entry_count": 4,
+      "entry_companies": 3
     },
     {
       "id": "aws",
@@ -334,18 +334,6 @@
       "entry_companies": 1
     },
     {
-      "id": "gpu-cuda",
-      "name": "GPU programming (CUDA)",
-      "category": "AI & ML",
-      "count": 20,
-      "pct": 12.0,
-      "company_pct": 22.9,
-      "tier": "some",
-      "companies": 11,
-      "entry_count": 1,
-      "entry_companies": 1
-    },
-    {
       "id": "ci-cd",
       "name": "CI/CD",
       "category": "Tools",
@@ -442,16 +430,16 @@
       "entry_companies": 1
     },
     {
-      "id": "system-design",
-      "name": "System design",
-      "category": "CS fundamentals",
+      "id": "gpu-cuda",
+      "name": "GPU programming (CUDA)",
+      "category": "AI & ML",
       "count": 12,
       "pct": 7.2,
       "company_pct": 18.8,
       "tier": "some",
       "companies": 9,
-      "entry_count": 0,
-      "entry_companies": 0
+      "entry_count": 1,
+      "entry_companies": 1
     },
     {
       "id": "rust",
@@ -524,6 +512,18 @@
       "companies": 8,
       "entry_count": 2,
       "entry_companies": 2
+    },
+    {
+      "id": "system-design",
+      "name": "System design",
+      "category": "CS fundamentals",
+      "count": 9,
+      "pct": 5.4,
+      "company_pct": 16.7,
+      "tier": "some",
+      "companies": 8,
+      "entry_count": 0,
+      "entry_companies": 0
     },
     {
       "id": "terraform",
@@ -637,8 +637,8 @@
       "id": "operating-systems",
       "name": "Operating systems",
       "category": "CS fundamentals",
-      "count": 7,
-      "pct": 4.2,
+      "count": 6,
+      "pct": 3.6,
       "company_pct": 8.3,
       "tier": "rare",
       "companies": 4,
@@ -793,18 +793,6 @@
       "id": "c-lang",
       "name": "C",
       "category": "Languages",
-      "count": 2,
-      "pct": 1.2,
-      "company_pct": 4.2,
-      "tier": "rare",
-      "companies": 2,
-      "entry_count": 0,
-      "entry_companies": 0
-    },
-    {
-      "id": "excel",
-      "name": "Excel / spreadsheets",
-      "category": "Analysis",
       "count": 2,
       "pct": 1.2,
       "company_pct": 4.2,
@@ -2600,5 +2588,5 @@
       "phd": false
     }
   ],
-  "generated_at": "2026-11-21T09:19:11+00:00"
+  "generated_at": "2026-11-21T09:22:36+00:00"
 }

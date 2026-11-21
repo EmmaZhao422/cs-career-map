@@ -1,6 +1,6 @@
 {
-  "ran_at": "2026-11-21T09:03:02+00:00",
-  "rules": "70010f537232",
+  "ran_at": "2026-11-21T09:22:36+00:00",
+  "rules": "31e3fed0fde3",
   "boards_ok": 136,
   "boards_failed": 0,
   "boards": [
@@ -11,7 +11,7 @@
       "api_name": "Stripe",
       "status": "ok",
       "jobs": 778,
-      "kept": 82
+      "kept": 81
     },
     {
       "name": "GitLab",
@@ -56,7 +56,7 @@
       "api_name": "Figma",
       "status": "ok",
       "jobs": 147,
-      "kept": 19
+      "kept": 18
     },
     {
       "name": "Discord",
@@ -137,7 +137,7 @@
       "api_name": "Twilio",
       "status": "ok",
       "jobs": 109,
-      "kept": 6
+      "kept": 5
     },
     {
       "name": "Cloudflare",
@@ -677,7 +677,7 @@
       "api_name": "SpaceX",
       "status": "ok",
       "jobs": 2821,
-      "kept": 177
+      "kept": 175
     },
     {
       "name": "Relativity Space",
@@ -695,7 +695,7 @@
       "api_name": "Anduril Industries",
       "status": "ok",
       "jobs": 2631,
-      "kept": 126
+      "kept": 123
     },
     {
       "name": "Nuro",
@@ -785,7 +785,7 @@
       "api_name": "Everpure",
       "status": "ok",
       "jobs": 401,
-      "kept": 40
+      "kept": 39
     },
     {
       "name": "Rubrik Job Board",
@@ -920,7 +920,7 @@
       "api_name": "Together AI",
       "status": "ok",
       "jobs": 73,
-      "kept": 6
+      "kept": 3
     },
     {
       "name": "Descript",
@@ -1109,7 +1109,7 @@
       "api_name": "Celonis",
       "status": "ok",
       "jobs": 262,
-      "kept": 4
+      "kept": 3
     },
     {
       "name": "N26",
@@ -1163,7 +1163,7 @@
       "api_name": "HelloFresh",
       "status": "ok",
       "jobs": 377,
-      "kept": 4
+      "kept": 3
     },
     {
       "name": "SumUp",
@@ -1172,7 +1172,7 @@
       "api_name": "SumUp",
       "status": "ok",
       "jobs": 318,
-      "kept": 11
+      "kept": 9
     },
     {
       "name": "trivago",
@@ -1226,7 +1226,7 @@
       "api_name": null,
       "status": "ok",
       "jobs": 110,
-      "kept": 8
+      "kept": 5
     }
   ]
 }

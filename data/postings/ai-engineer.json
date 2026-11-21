@@ -20,7 +20,7 @@
       "communication",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:affirm:8033261003",
@@ -45,7 +45,7 @@
       "communication",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:airbnb:7716341",
@@ -71,7 +71,7 @@
       "model-evaluation",
       "mlops"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:airbnb:7826337",
@@ -96,7 +96,7 @@
       "communication",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:andurilindustries:5274037007",
@@ -126,7 +126,7 @@
       "gpu-cuda",
       "communication"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:andurilindustries:5197253007",
@@ -150,7 +150,7 @@
       "agents",
       "model-evaluation"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:andurilindustries:5248869007",
@@ -180,7 +180,7 @@
       "pytorch",
       "mlops"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:andurilindustries:5281225007",
@@ -210,7 +210,7 @@
       "pytorch",
       "mlops"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:andurilindustries:5136146007",
@@ -229,7 +229,7 @@
       "computer-vision",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:andurilindustries:5195642007",
@@ -254,7 +254,7 @@
       "model-evaluation",
       "mlops"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:andurilindustries:5293883007",
@@ -274,7 +274,7 @@
       "communication",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:andurilindustries:5210930007",
@@ -299,7 +299,7 @@
       "terraform",
       "observability"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:anthropic:4610158008",
@@ -321,7 +321,7 @@
       "reinforcement-learning",
       "nlp"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:anthropic:5445760008",
@@ -339,7 +339,7 @@
       "model-evaluation",
       "communication"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:anthropic:5440821008",
@@ -356,7 +356,7 @@
       "model-evaluation",
       "communication"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:anthropic:5437172008",
@@ -373,7 +373,7 @@
       "model-evaluation",
       "communication"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:anthropic:5483945008",
@@ -395,7 +395,7 @@
       "model-evaluation",
       "communication"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:anthropic:5057647008",
@@ -418,7 +418,7 @@
       "communication",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:anthropic:5390754008",
@@ -436,7 +436,7 @@
       "model-evaluation",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:anthropic:5390795008",
@@ -454,7 +454,7 @@
       "model-evaluation",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:anthropic:5445410008",
@@ -477,7 +477,7 @@
       "communication",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:anthropic:5432575008",
@@ -496,7 +496,7 @@
       "model-evaluation",
       "communication"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:anthropic:5454650008",
@@ -515,7 +515,7 @@
       "model-evaluation",
       "communication"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:anthropic:5454673008",
@@ -535,7 +535,7 @@
       "model-evaluation",
       "communication"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:anthropic:5390811008",
@@ -553,7 +553,7 @@
       "communication",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:anthropic:5364804008",
@@ -572,10 +572,9 @@
       "data-pipelines",
       "machine-learning",
       "mlops",
-      "gpu-cuda",
       "communication"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:anthropic:4949336008",
@@ -596,7 +595,7 @@
       "communication",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:anthropic:5438030008",
@@ -621,7 +620,7 @@
       "reinforcement-learning",
       "mlops"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:anthropic:5438044008",
@@ -644,7 +643,7 @@
       "tensorflow",
       "reinforcement-learning"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:anthropic:4631822008",
@@ -667,7 +666,7 @@
       "model-evaluation",
       "nlp"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:anthropic:5468947008",
@@ -689,10 +688,9 @@
       "pytorch",
       "llm",
       "reinforcement-learning",
-      "gpu-cuda",
       "communication"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:anthropic:5477416008",
@@ -712,7 +710,7 @@
       "model-evaluation",
       "communication"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:anthropic:5459098008",
@@ -725,13 +723,12 @@
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
     "skills": [
-      "system-design",
       "machine-learning",
       "llm",
       "agents",
       "reinforcement-learning"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:anthropic:5254364008",
@@ -746,7 +743,6 @@
     "skills": [
       "python",
       "concurrency",
-      "system-design",
       "machine-learning",
       "pytorch",
       "llm",
@@ -756,7 +752,7 @@
       "model-evaluation",
       "gpu-cuda"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:anthropic:5459191008",
@@ -773,7 +769,7 @@
       "llm",
       "reinforcement-learning"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:anthropic:5412334008",
@@ -790,7 +786,7 @@
       "llm",
       "agents"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:anthropic:5463598008",
@@ -807,7 +803,7 @@
       "llm",
       "agents"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:anthropic:4980430008",
@@ -833,7 +829,7 @@
       "mlops",
       "gpu-cuda"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:anthropic:4613568008",
@@ -863,7 +859,7 @@
       "reinforcement-learning",
       "communication"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:anthropic:5115935008",
@@ -893,7 +889,7 @@
       "reinforcement-learning",
       "communication"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:anthropic:5198074008",
@@ -912,7 +908,7 @@
       "tensorflow",
       "mlops"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:anthropic:5198108008",
@@ -931,7 +927,7 @@
       "tensorflow",
       "mlops"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:anthropic:5198255008",
@@ -952,7 +948,7 @@
       "llm",
       "model-evaluation"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:anthropic:5119713008",
@@ -974,10 +970,9 @@
       "pytorch",
       "llm",
       "reinforcement-learning",
-      "gpu-cuda",
       "communication"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:anthropic:4938432008",
@@ -998,7 +993,7 @@
       "llm",
       "communication"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:anthropic:4938436008",
@@ -1019,7 +1014,7 @@
       "llm",
       "communication"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:anthropic:4613592008",
@@ -1040,7 +1035,7 @@
       "fine-tuning",
       "reinforcement-learning"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:anthropic:5112018008",
@@ -1061,7 +1056,7 @@
       "fine-tuning",
       "reinforcement-learning"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:anthropic:4952051008",
@@ -1086,7 +1081,7 @@
       "reinforcement-learning",
       "communication"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:anthropic:4980427008",
@@ -1103,7 +1098,7 @@
       "deep-learning",
       "llm"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:asana:7962306",
@@ -1123,7 +1118,7 @@
       "rag",
       "agents"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:brex:8606885002",
@@ -1140,7 +1135,7 @@
       "agents",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:brex:8606845002",
@@ -1154,11 +1149,10 @@
     "last_seen": "2026-11-21",
     "skills": [
       "data-modeling",
-      "excel",
       "llm",
       "agents"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:celonis:7885808003",
@@ -1190,7 +1184,7 @@
       "angular-vue",
       "llm"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:chime:8569366002",
@@ -1218,7 +1212,7 @@
       "mlops",
       "communication"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:chime:8922481002",
@@ -1242,7 +1236,7 @@
       "llm",
       "model-evaluation"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:chime:8868948002",
@@ -1264,7 +1258,7 @@
       "llm",
       "model-evaluation"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:coinbase:7985187",
@@ -1289,7 +1283,7 @@
       "computer-vision",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:coinbase:8175441",
@@ -1311,7 +1305,7 @@
       "reinforcement-learning",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:coinbase:8031260",
@@ -1334,7 +1328,7 @@
       "fine-tuning",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:cresta:5480801008",
@@ -1355,7 +1349,7 @@
       "fine-tuning",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:databricks:8829033002",
@@ -1381,7 +1375,7 @@
       "communication",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:databricks:8091041002",
@@ -1398,7 +1392,7 @@
       "agents",
       "mlops"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:databricks:7011263002",
@@ -1417,7 +1411,7 @@
       "fine-tuning",
       "model-evaluation"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:datadog:7194969",
@@ -1448,7 +1442,7 @@
       "mlops",
       "gpu-cuda"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:datadog:6652564",
@@ -1474,7 +1468,7 @@
       "gpu-cuda",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:datadog:6572669",
@@ -1500,7 +1494,7 @@
       "gpu-cuda",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:deliveroo:8202399",
@@ -1517,7 +1511,7 @@
       "ab-testing",
       "machine-learning"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:descript:7967440003",
@@ -1540,7 +1534,7 @@
       "computer-vision",
       "communication"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:doordashusa:8192187",
@@ -1561,11 +1555,10 @@
       "data-warehouse",
       "dashboards",
       "llm",
-      "rag",
       "agents",
       "model-evaluation"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:doordashusa:8264542",
@@ -1593,10 +1586,9 @@
       "fine-tuning",
       "reinforcement-learning",
       "model-evaluation",
-      "mlops",
-      "gpu-cuda"
+      "mlops"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:doordashusa:8283735",
@@ -1625,7 +1617,7 @@
       "model-evaluation",
       "mlops"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:doordashusa:8263726",
@@ -1649,10 +1641,9 @@
       "docker",
       "kubernetes",
       "machine-learning",
-      "mlops",
-      "gpu-cuda"
+      "mlops"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:duolingo:8881612002",
@@ -1667,7 +1658,7 @@
     "skills": [
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:epicgames:6134271004",
@@ -1689,7 +1680,7 @@
       "llm",
       "reinforcement-learning"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:epicgames:6141143004",
@@ -1711,7 +1702,7 @@
       "llm",
       "reinforcement-learning"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:epicgames:6142418004",
@@ -1733,7 +1724,7 @@
       "llm",
       "reinforcement-learning"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:figma:5707966004",
@@ -1761,7 +1752,7 @@
       "nlp",
       "computer-vision"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:figma:6233043004",
@@ -1783,7 +1774,7 @@
       "model-evaluation",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:figma:6207801004",
@@ -1805,7 +1796,7 @@
       "nlp",
       "computer-vision"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:figma:5691886004",
@@ -1826,7 +1817,7 @@
       "model-evaluation",
       "communication"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:figma:5551730004",
@@ -1845,7 +1836,7 @@
       "nlp",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:figma:5551697004",
@@ -1864,7 +1855,7 @@
       "agents",
       "model-evaluation"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:figma:5551532004",
@@ -1896,7 +1887,7 @@
       "communication",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:intercom:7820671",
@@ -1921,7 +1912,7 @@
       "gpu-cuda",
       "communication"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:intercom:7824137",
@@ -1946,7 +1937,7 @@
       "gpu-cuda",
       "communication"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:gusto:7369003",
@@ -1964,12 +1955,11 @@
       "rest-apis",
       "llm",
       "prompt-engineering",
-      "rag",
       "agents",
       "communication",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:lucidmotors:5254390007",
@@ -1999,7 +1989,7 @@
       "computer-vision",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:lucidmotors:5199878007",
@@ -2022,7 +2012,7 @@
       "agile",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:lyft:8684440002",
@@ -2045,7 +2035,7 @@
       "reinforcement-learning",
       "model-evaluation"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:lyft:8944659002",
@@ -2072,7 +2062,7 @@
       "model-evaluation",
       "mlops"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:lyft:8817974002",
@@ -2097,7 +2087,7 @@
       "mlops",
       "communication"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:lyft:8802332002",
@@ -2118,7 +2108,7 @@
       "scikit-learn",
       "communication"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:mercury:6233238004",
@@ -2135,7 +2125,7 @@
       "react",
       "llm"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:gomotive:8785039002",
@@ -2161,7 +2151,7 @@
       "rag",
       "agents"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:nextdoor:6005888",
@@ -2177,7 +2167,7 @@
       "statistics",
       "machine-learning"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:nuro:8341046",
@@ -2196,7 +2186,7 @@
       "deep-learning",
       "llm"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:nuro:5434059",
@@ -2215,7 +2205,7 @@
       "fine-tuning",
       "reinforcement-learning"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:nuro:7439020",
@@ -2235,7 +2225,7 @@
       "fine-tuning",
       "reinforcement-learning"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:nuro:5416913",
@@ -2253,7 +2243,7 @@
       "llm",
       "reinforcement-learning"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:nuro:7351061",
@@ -2277,7 +2267,7 @@
       "rag",
       "mlops"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:nuro:7351066",
@@ -2299,7 +2289,7 @@
       "rag",
       "mlops"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:nuro:8122990",
@@ -2326,7 +2316,7 @@
       "fine-tuning",
       "model-evaluation"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:nuro:8122537",
@@ -2348,7 +2338,7 @@
       "llm",
       "mlops"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:nuro:6909931",
@@ -2374,7 +2364,7 @@
       "machine-learning",
       "mlops"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:nuro:8122483",
@@ -2397,10 +2387,9 @@
       "machine-learning",
       "agents",
       "reinforcement-learning",
-      "mlops",
-      "gpu-cuda"
+      "mlops"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:nuro:6916236",
@@ -2423,7 +2412,7 @@
       "mlops",
       "gpu-cuda"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:observeai:5254531008",
@@ -2446,7 +2435,7 @@
       "model-evaluation",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "lever:palantir:6b4b087c-4fc6-476d-9e72-e1bc6ac6c62a",
@@ -2472,7 +2461,7 @@
       "communication",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "lever:palantir:ca222ecd-b659-4e3e-aee5-d85655c7bbc8",
@@ -2498,7 +2487,7 @@
       "communication",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "lever:palantir:67110929-adea-41c3-851a-8882e222d9e4",
@@ -2522,7 +2511,7 @@
       "agents",
       "fine-tuning"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "lever:palantir:40840cef-bbd7-4557-bb21-cbdcf4be616e",
@@ -2547,7 +2536,7 @@
       "agents",
       "communication"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "lever:palantir:cd64bcd4-50bb-4aeb-a135-4e0487ffd312",
@@ -2572,7 +2561,7 @@
       "agents",
       "communication"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:pinterest:7473497",
@@ -2593,7 +2582,7 @@
       "reinforcement-learning",
       "nlp"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:pinterest:7697137",
@@ -2610,7 +2599,7 @@
       "machine-learning",
       "llm"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:pinterest:6121450",
@@ -2632,7 +2621,7 @@
       "reinforcement-learning",
       "nlp"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:pinterest:6121543",
@@ -2654,7 +2643,7 @@
       "reinforcement-learning",
       "nlp"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:pinterest:8140219",
@@ -2675,11 +2664,10 @@
       "machine-learning",
       "pytorch",
       "tensorflow",
-      "rag",
       "nlp",
       "computer-vision"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:pinterest:8140363",
@@ -2700,11 +2688,10 @@
       "machine-learning",
       "pytorch",
       "tensorflow",
-      "rag",
       "nlp",
       "computer-vision"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:planetscale:4463390009",
@@ -2727,7 +2714,7 @@
       "agents",
       "model-evaluation"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:relativity:8726261002",
@@ -2756,7 +2743,7 @@
       "agile",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:relativity:8726264002",
@@ -2786,7 +2773,7 @@
       "agile",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:roblox:8171283",
@@ -2809,7 +2796,7 @@
       "agents",
       "communication"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:scaleai:4751059005",
@@ -2837,7 +2824,7 @@
       "agents",
       "communication"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:scaleai:4665557005",
@@ -2864,7 +2851,7 @@
       "rag",
       "communication"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:scaleai:4631848005",
@@ -2893,7 +2880,7 @@
       "computer-vision",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:scaleai:4728014005",
@@ -2913,7 +2900,7 @@
       "reinforcement-learning",
       "communication"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:scaleai:4528009005",
@@ -2934,7 +2921,7 @@
       "model-evaluation",
       "communication"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:scaleai:4534631005",
@@ -2956,7 +2943,7 @@
       "communication",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:scaleai:4675684005",
@@ -2973,7 +2960,7 @@
       "agents",
       "communication"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:scaleai:4513943005",
@@ -2999,7 +2986,7 @@
       "llm",
       "rag"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:scaleai:4363623005",
@@ -3022,7 +3009,7 @@
       "communication",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:scopely:5456049008",
@@ -3044,7 +3031,7 @@
       "mlops",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:sendbird:8276676002",
@@ -3066,7 +3053,7 @@
       "rag",
       "agents"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:sendbird:8395379002",
@@ -3094,7 +3081,7 @@
       "communication",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:smartsheet:8232492",
@@ -3127,7 +3114,7 @@
       "fine-tuning",
       "mlops"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:snorkelai:6208895004",
@@ -3140,7 +3127,6 @@
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
     "skills": [
-      "system-design",
       "git",
       "machine-learning",
       "llm",
@@ -3151,7 +3137,7 @@
       "communication",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:snorkelai:6009496004",
@@ -3177,7 +3163,7 @@
       "reinforcement-learning",
       "mlops"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:spacex:8910071002",
@@ -3201,7 +3187,7 @@
       "reinforcement-learning",
       "model-evaluation"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:spacex:8658628002",
@@ -3232,7 +3218,7 @@
       "fine-tuning",
       "model-evaluation"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:spacex:8658737002",
@@ -3263,7 +3249,7 @@
       "fine-tuning",
       "model-evaluation"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:spacex:8658738002",
@@ -3294,7 +3280,7 @@
       "fine-tuning",
       "model-evaluation"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:spacex:8658740002",
@@ -3325,7 +3311,7 @@
       "fine-tuning",
       "model-evaluation"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:spacex:8658742002",
@@ -3356,7 +3342,7 @@
       "fine-tuning",
       "model-evaluation"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:spacex:8658743002",
@@ -3387,7 +3373,7 @@
       "fine-tuning",
       "model-evaluation"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:spacex:8658744002",
@@ -3418,7 +3404,7 @@
       "fine-tuning",
       "model-evaluation"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:spacex:8880868002",
@@ -3443,7 +3429,6 @@
       "rest-apis",
       "django-flask",
       "data-pipelines",
-      "excel",
       "dashboards",
       "pandas",
       "llm",
@@ -3451,7 +3436,7 @@
       "agents",
       "communication"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:spacex:8861900002",
@@ -3476,7 +3461,7 @@
       "observability",
       "data-modeling"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:spacex:8861901002",
@@ -3501,7 +3486,7 @@
       "observability",
       "data-modeling"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:spacex:8861902002",
@@ -3526,7 +3511,7 @@
       "observability",
       "data-modeling"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:spacex:8861903002",
@@ -3551,7 +3536,7 @@
       "observability",
       "data-modeling"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:spacex:8676015002",
@@ -3572,7 +3557,7 @@
       "ci-cd",
       "communication"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:spacex:8637712002",
@@ -3594,7 +3579,6 @@
       "go",
       "scala",
       "oop",
-      "operating-systems",
       "git",
       "linux",
       "docker",
@@ -3606,7 +3590,7 @@
       "angular-vue",
       "llm"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:spacex:8717350002",
@@ -3639,7 +3623,7 @@
       "mlops",
       "gpu-cuda"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "lever:spotify:19c12e29-b6d4-4d97-9053-48238fb7c381",
@@ -3663,7 +3647,7 @@
       "communication",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:stripe:8144196",
@@ -3688,7 +3672,7 @@
       "communication",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:stripe:8224915",
@@ -3717,7 +3701,7 @@
       "model-evaluation",
       "mlops"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:stripe:8197886",
@@ -3739,7 +3723,7 @@
       "agents",
       "model-evaluation"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:stripe:8243617",
@@ -3761,7 +3745,7 @@
       "mlops",
       "communication"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:stripe:8187574",
@@ -3784,7 +3768,7 @@
       "mlops",
       "communication"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:stripe:8333074",
@@ -3809,7 +3793,7 @@
       "communication",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:stripe:8333122",
@@ -3834,7 +3818,7 @@
       "communication",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:stripe:8328662",
@@ -3859,7 +3843,7 @@
       "communication",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:stripe:8328664",
@@ -3884,7 +3868,7 @@
       "communication",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:tanium:8232146",
@@ -3910,7 +3894,7 @@
       "communication",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:tanium:8335147",
@@ -3943,7 +3927,7 @@
       "communication",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:togetherai:4385540007",
@@ -3966,7 +3950,7 @@
       "mlops",
       "gpu-cuda"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:togetherai:5199554007",
@@ -3989,7 +3973,7 @@
       "gpu-cuda",
       "communication"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:tripadvisor:8222892",
@@ -4019,7 +4003,7 @@
       "communication",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:twilio:8240487",
@@ -4043,7 +4027,7 @@
       "agents",
       "model-evaluation"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:vercel:6208037004",
@@ -4066,7 +4050,7 @@
       "model-evaluation",
       "mlops"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:vercel:5798406004",
@@ -4086,7 +4070,7 @@
       "communication",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:waymo:8223735",
@@ -4113,10 +4097,9 @@
       "fine-tuning",
       "model-evaluation",
       "computer-vision",
-      "gpu-cuda",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:waymo:8287385",
@@ -4136,7 +4119,7 @@
       "tensorflow",
       "reinforcement-learning"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:waymo:8221795",
@@ -4167,7 +4150,7 @@
       "computer-vision",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:waymo:8233746",
@@ -4189,7 +4172,7 @@
       "fine-tuning",
       "computer-vision"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:waymo:8221851",
@@ -4212,7 +4195,7 @@
       "prompt-engineering",
       "computer-vision"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:waymo:8212440",
@@ -4231,7 +4214,7 @@
       "machine-learning",
       "mlops"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:waymo:7309064",
@@ -4253,7 +4236,7 @@
       "llm",
       "reinforcement-learning"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:waymo:8039191",
@@ -4275,7 +4258,7 @@
       "fine-tuning",
       "reinforcement-learning"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:waymo:8212478",
@@ -4298,7 +4281,7 @@
       "model-evaluation",
       "computer-vision"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:waymo:7905643",
@@ -4315,7 +4298,7 @@
       "distributed-systems",
       "machine-learning"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:waymo:6506689",
@@ -4338,7 +4321,7 @@
       "llm",
       "reinforcement-learning"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:waymo:6499165",
@@ -4355,7 +4338,7 @@
       "deep-learning",
       "llm"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:waymo:8127006",
@@ -4375,11 +4358,10 @@
       "deep-learning",
       "pytorch",
       "tensorflow",
-      "rag",
       "computer-vision",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:waymo:8165872",
@@ -4397,7 +4379,7 @@
       "reinforcement-learning",
       "mlops"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:waymo:7698498",
@@ -4414,7 +4396,7 @@
       "data-visualization",
       "machine-learning"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "lever:zoox:2347453a-f11f-4dc2-ad14-572bc1f6247f",
@@ -4434,7 +4416,7 @@
       "llm",
       "computer-vision"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "lever:zoox:06f146c2-25f6-40fd-8393-4f92ce518929",
@@ -4454,7 +4436,7 @@
       "pytorch",
       "computer-vision"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "lever:zoox:2d73563c-8039-4d1b-844c-3953259ba6b1",
@@ -4473,7 +4455,7 @@
       "distributed-systems",
       "machine-learning"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "lever:zoox:9176aa65-14e3-4f9d-98f9-e755e9777d67",
@@ -4493,7 +4475,7 @@
       "deep-learning",
       "reinforcement-learning"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "lever:zoox:bc11276c-8db7-426e-9d00-d41c2097723a",
@@ -4512,10 +4494,9 @@
       "pytorch",
       "llm",
       "mlops",
-      "gpu-cuda",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "lever:zoox:91ff6263-49fb-421e-860f-36e7b9bae784",
@@ -4538,6 +4519,6 @@
       "mlops",
       "gpu-cuda"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   }
 ]

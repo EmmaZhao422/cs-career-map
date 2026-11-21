@@ -310,30 +310,6 @@
       "entry_companies": 8
     },
     {
-      "id": "git",
-      "name": "Git",
-      "category": "Tools",
-      "count": 151,
-      "pct": 20.1,
-      "company_pct": 40.4,
-      "tier": "many",
-      "companies": 36,
-      "entry_count": 22,
-      "entry_companies": 7
-    },
-    {
-      "id": "system-design",
-      "name": "System design",
-      "category": "CS fundamentals",
-      "count": 83,
-      "pct": 11.1,
-      "company_pct": 40.4,
-      "tier": "many",
-      "companies": 36,
-      "entry_count": 7,
-      "entry_companies": 6
-    },
-    {
       "id": "cpp",
       "name": "C++",
       "category": "Languages",
@@ -358,6 +334,18 @@
       "entry_companies": 4
     },
     {
+      "id": "system-design",
+      "name": "System design",
+      "category": "CS fundamentals",
+      "count": 69,
+      "pct": 9.2,
+      "company_pct": 37.1,
+      "tier": "many",
+      "companies": 33,
+      "entry_count": 6,
+      "entry_companies": 5
+    },
+    {
       "id": "linux",
       "name": "Linux & command line",
       "category": "Tools",
@@ -380,6 +368,18 @@
       "companies": 31,
       "entry_count": 4,
       "entry_companies": 4
+    },
+    {
+      "id": "git",
+      "name": "Git",
+      "category": "Tools",
+      "count": 141,
+      "pct": 18.8,
+      "company_pct": 32.6,
+      "tier": "many",
+      "companies": 29,
+      "entry_count": 22,
+      "entry_companies": 7
     },
     {
       "id": "kafka",
@@ -421,8 +421,8 @@
       "id": "dashboards",
       "name": "Dashboards & reporting",
       "category": "Analysis",
-      "count": 48,
-      "pct": 6.4,
+      "count": 47,
+      "pct": 6.3,
       "company_pct": 31.5,
       "tier": "many",
       "companies": 28,
@@ -514,18 +514,6 @@
       "entry_companies": 7
     },
     {
-      "id": "operating-systems",
-      "name": "Operating systems",
-      "category": "CS fundamentals",
-      "count": 84,
-      "pct": 11.2,
-      "company_pct": 21.3,
-      "tier": "some",
-      "companies": 19,
-      "entry_count": 10,
-      "entry_companies": 6
-    },
-    {
       "id": "c-lang",
       "name": "C",
       "category": "Languages",
@@ -548,6 +536,18 @@
       "companies": 19,
       "entry_count": 4,
       "entry_companies": 3
+    },
+    {
+      "id": "operating-systems",
+      "name": "Operating systems",
+      "category": "CS fundamentals",
+      "count": 44,
+      "pct": 5.9,
+      "company_pct": 21.3,
+      "tier": "some",
+      "companies": 19,
+      "entry_count": 10,
+      "entry_companies": 6
     },
     {
       "id": "grpc",
@@ -586,18 +586,6 @@
       "entry_companies": 2
     },
     {
-      "id": "rag",
-      "name": "RAG & vector search",
-      "category": "AI & ML",
-      "count": 22,
-      "pct": 2.9,
-      "company_pct": 20.2,
-      "tier": "some",
-      "companies": 18,
-      "entry_count": 3,
-      "entry_companies": 2
-    },
-    {
       "id": "nodejs",
       "name": "Node.js",
       "category": "Web",
@@ -608,18 +596,6 @@
       "companies": 17,
       "entry_count": 7,
       "entry_companies": 4
-    },
-    {
-      "id": "agile",
-      "name": "Agile & Scrum",
-      "category": "Working with people",
-      "count": 33,
-      "pct": 4.4,
-      "company_pct": 19.1,
-      "tier": "some",
-      "companies": 17,
-      "entry_count": 2,
-      "entry_companies": 2
     },
     {
       "id": "airflow",
@@ -644,6 +620,18 @@
       "companies": 16,
       "entry_count": 12,
       "entry_companies": 5
+    },
+    {
+      "id": "agile",
+      "name": "Agile & Scrum",
+      "category": "Working with people",
+      "count": 32,
+      "pct": 4.3,
+      "company_pct": 18.0,
+      "tier": "some",
+      "companies": 16,
+      "entry_count": 2,
+      "entry_companies": 2
     },
     {
       "id": "html-css",
@@ -679,6 +667,18 @@
       "tier": "some",
       "companies": 15,
       "entry_count": 1,
+      "entry_companies": 1
+    },
+    {
+      "id": "rag",
+      "name": "RAG & vector search",
+      "category": "AI & ML",
+      "count": 18,
+      "pct": 2.4,
+      "company_pct": 16.9,
+      "tier": "some",
+      "companies": 15,
+      "entry_count": 2,
       "entry_companies": 1
     },
     {
@@ -790,18 +790,6 @@
       "entry_companies": 2
     },
     {
-      "id": "gpu-cuda",
-      "name": "GPU programming (CUDA)",
-      "category": "AI & ML",
-      "count": 11,
-      "pct": 1.5,
-      "company_pct": 7.9,
-      "tier": "rare",
-      "companies": 7,
-      "entry_count": 0,
-      "entry_companies": 0
-    },
-    {
       "id": "dbt",
       "name": "dbt",
       "category": "Data engineering",
@@ -824,18 +812,6 @@
       "companies": 6,
       "entry_count": 2,
       "entry_companies": 2
-    },
-    {
-      "id": "fine-tuning",
-      "name": "Fine-tuning",
-      "category": "AI & ML",
-      "count": 9,
-      "pct": 1.2,
-      "company_pct": 6.7,
-      "tier": "rare",
-      "companies": 6,
-      "entry_count": 0,
-      "entry_companies": 0
     },
     {
       "id": "computer-vision",
@@ -862,6 +838,18 @@
       "entry_companies": 1
     },
     {
+      "id": "fine-tuning",
+      "name": "Fine-tuning",
+      "category": "AI & ML",
+      "count": 7,
+      "pct": 0.9,
+      "company_pct": 5.6,
+      "tier": "rare",
+      "companies": 5,
+      "entry_count": 0,
+      "entry_companies": 0
+    },
+    {
       "id": "looker",
       "name": "Looker",
       "category": "Analysis",
@@ -882,6 +870,18 @@
       "company_pct": 5.6,
       "tier": "rare",
       "companies": 5,
+      "entry_count": 0,
+      "entry_companies": 0
+    },
+    {
+      "id": "gpu-cuda",
+      "name": "GPU programming (CUDA)",
+      "category": "AI & ML",
+      "count": 8,
+      "pct": 1.1,
+      "company_pct": 4.5,
+      "tier": "rare",
+      "companies": 4,
       "entry_count": 0,
       "entry_companies": 0
     },
@@ -992,19 +992,7 @@
       "companies": 1,
       "entry_count": 0,
       "entry_companies": 0
-    },
-    {
-      "id": "sas-spss",
-      "name": "SAS / SPSS / Stata",
-      "category": "Analysis",
-      "count": 1,
-      "pct": 0.1,
-      "company_pct": 1.1,
-      "tier": "rare",
-      "companies": 1,
-      "entry_count": 0,
-      "entry_companies": 0
     }
   ],
-  "generated_at": "2026-11-21T09:19:11+00:00"
+  "generated_at": "2026-11-21T09:22:36+00:00"
 }

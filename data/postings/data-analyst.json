@@ -22,7 +22,7 @@
       "mlops",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:elastic:8177119",
@@ -44,7 +44,7 @@
       "dashboards",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:purestorage:8129789",
@@ -70,7 +70,7 @@
       "agents",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:flexport:8040985",
@@ -95,7 +95,7 @@
       "communication",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:gocardless:8190692",
@@ -117,7 +117,7 @@
       "analytics-tools",
       "agile"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:hellofresh:7387627",
@@ -144,7 +144,7 @@
       "scikit-learn",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:hellofresh:7704587",
@@ -167,7 +167,7 @@
       "ab-testing",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:lucidmotors:4924654007",
@@ -190,7 +190,7 @@
       "communication",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:lucidmotors:4928050007",
@@ -213,7 +213,7 @@
       "communication",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:gomotive:8925908002",
@@ -234,7 +234,7 @@
       "communication",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:gomotive:8858120002",
@@ -255,7 +255,7 @@
       "communication",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:riotgames:8356372",
@@ -276,7 +276,7 @@
       "statistics",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:scopely:5212408008",
@@ -301,7 +301,7 @@
       "analytics-tools",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:scopely:5283492008",
@@ -325,7 +325,7 @@
       "communication",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:spacex:8681172002",
@@ -344,7 +344,7 @@
       "communication",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:spacex:8657082002",
@@ -361,7 +361,7 @@
       "dashboards",
       "communication"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:stripe:5416444",
@@ -382,7 +382,7 @@
       "statistics",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:stripe:5601881",
@@ -403,7 +403,7 @@
       "statistics",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:stripe:8230296",
@@ -428,7 +428,7 @@
       "agents",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:stripe:8194287",
@@ -448,7 +448,7 @@
       "ab-testing",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:stripe:8194291",
@@ -468,7 +468,7 @@
       "ab-testing",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:stripe:8189909",
@@ -489,7 +489,7 @@
       "statistics",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "lever:veeva:39b95683-9c50-4721-aafe-68f3dad04f83",
@@ -513,7 +513,7 @@
       "agents",
       "cross-functional"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "lever:veeva:6b656fac-75cf-4768-ad43-9422124892d6",
@@ -529,7 +529,7 @@
       "sql",
       "communication"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "lever:veeva:873c7161-8ff9-413d-abb4-25a79cb1fa9f",
@@ -545,7 +545,7 @@
       "sql",
       "communication"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "lever:veeva:c36c9d3b-fa88-4f43-87f9-ec32d53fc5f9",
@@ -563,7 +563,7 @@
       "statistics",
       "communication"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "lever:veeva:28c47d34-3ad6-4485-85a9-686b4239b9ea",
@@ -584,7 +584,7 @@
       "data-visualization",
       "communication"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   },
   {
     "key": "greenhouse:wizinc:4720879006",
@@ -612,6 +612,6 @@
       "llm",
       "agents"
     ],
-    "rules": "70010f537232"
+    "rules": "31e3fed0fde3"
   }
 ]
