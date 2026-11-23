@@ -11,22 +11,22 @@
     "model-evaluation"
   ],
   "demo": false,
-  "postings": 166,
-  "listings": 193,
+  "postings": 167,
+  "listings": 194,
   "companies": 48,
   "entry_postings": 9,
   "entry_companies": 8,
   "top_company": "Anthropic",
-  "top_company_share": 18.7,
-  "last_seen_from": "2026-11-21",
-  "last_seen_to": "2026-11-21",
+  "top_company_share": 18.6,
+  "last_seen_from": "2026-11-23",
+  "last_seen_to": "2026-11-23",
   "skills": [
     {
       "id": "python",
       "name": "Python",
       "category": "Languages",
-      "count": 120,
-      "pct": 72.3,
+      "count": 121,
+      "pct": 72.5,
       "company_pct": 85.4,
       "tier": "most",
       "companies": 41,
@@ -37,8 +37,8 @@
       "id": "llm",
       "name": "LLMs",
       "category": "AI & ML",
-      "count": 112,
-      "pct": 67.5,
+      "count": 113,
+      "pct": 67.7,
       "company_pct": 85.4,
       "tier": "most",
       "companies": 41,
@@ -50,7 +50,7 @@
       "name": "Machine learning",
       "category": "AI & ML",
       "count": 127,
-      "pct": 76.5,
+      "pct": 76.0,
       "company_pct": 81.2,
       "tier": "most",
       "companies": 39,
@@ -61,8 +61,8 @@
       "id": "agents",
       "name": "AI agents",
       "category": "AI & ML",
-      "count": 62,
-      "pct": 37.3,
+      "count": 63,
+      "pct": 37.7,
       "company_pct": 60.4,
       "tier": "most",
       "companies": 29,
@@ -74,7 +74,7 @@
       "name": "Working with non-engineers",
       "category": "Working with people",
       "count": 45,
-      "pct": 27.1,
+      "pct": 26.9,
       "company_pct": 58.3,
       "tier": "many",
       "companies": 28,
@@ -86,7 +86,7 @@
       "name": "Written & verbal communication",
       "category": "Working with people",
       "count": 58,
-      "pct": 34.9,
+      "pct": 34.7,
       "company_pct": 52.1,
       "tier": "many",
       "companies": 25,
@@ -98,7 +98,7 @@
       "name": "PyTorch",
       "category": "AI & ML",
       "count": 57,
-      "pct": 34.3,
+      "pct": 34.1,
       "company_pct": 50.0,
       "tier": "many",
       "companies": 24,
@@ -110,7 +110,7 @@
       "name": "Model deployment (MLOps)",
       "category": "AI & ML",
       "count": 40,
-      "pct": 24.1,
+      "pct": 24.0,
       "company_pct": 47.9,
       "tier": "many",
       "companies": 23,
@@ -118,11 +118,23 @@
       "entry_companies": 1
     },
     {
+      "id": "model-evaluation",
+      "name": "Model evaluation",
+      "category": "AI & ML",
+      "count": 49,
+      "pct": 29.3,
+      "company_pct": 45.8,
+      "tier": "many",
+      "companies": 22,
+      "entry_count": 0,
+      "entry_companies": 0
+    },
+    {
       "id": "observability",
       "name": "Observability & monitoring",
       "category": "Tools",
-      "count": 35,
-      "pct": 21.1,
+      "count": 36,
+      "pct": 21.6,
       "company_pct": 45.8,
       "tier": "many",
       "companies": 22,
@@ -130,23 +142,11 @@
       "entry_companies": 1
     },
     {
-      "id": "model-evaluation",
-      "name": "Model evaluation",
-      "category": "AI & ML",
-      "count": 48,
-      "pct": 28.9,
-      "company_pct": 43.8,
-      "tier": "many",
-      "companies": 21,
-      "entry_count": 0,
-      "entry_companies": 0
-    },
-    {
       "id": "deep-learning",
       "name": "Deep learning",
       "category": "AI & ML",
       "count": 45,
-      "pct": 27.1,
+      "pct": 26.9,
       "company_pct": 39.6,
       "tier": "many",
       "companies": 19,
@@ -158,7 +158,7 @@
       "name": "Fine-tuning",
       "category": "AI & ML",
       "count": 34,
-      "pct": 20.5,
+      "pct": 20.4,
       "company_pct": 39.6,
       "tier": "many",
       "companies": 19,
@@ -170,7 +170,7 @@
       "name": "RAG & vector search",
       "category": "AI & ML",
       "count": 26,
-      "pct": 15.7,
+      "pct": 15.6,
       "company_pct": 39.6,
       "tier": "many",
       "companies": 19,
@@ -182,7 +182,7 @@
       "name": "AWS",
       "category": "Cloud",
       "count": 25,
-      "pct": 15.1,
+      "pct": 15.0,
       "company_pct": 37.5,
       "tier": "many",
       "companies": 18,
@@ -194,7 +194,7 @@
       "name": "Distributed systems",
       "category": "CS fundamentals",
       "count": 34,
-      "pct": 20.5,
+      "pct": 20.4,
       "company_pct": 35.4,
       "tier": "many",
       "companies": 17,
@@ -206,7 +206,7 @@
       "name": "Go",
       "category": "Languages",
       "count": 23,
-      "pct": 13.9,
+      "pct": 13.8,
       "company_pct": 35.4,
       "tier": "many",
       "companies": 17,
@@ -218,7 +218,7 @@
       "name": "Reinforcement learning",
       "category": "AI & ML",
       "count": 45,
-      "pct": 27.1,
+      "pct": 26.9,
       "company_pct": 33.3,
       "tier": "many",
       "companies": 16,
@@ -230,7 +230,7 @@
       "name": "Data pipelines (ETL)",
       "category": "Data engineering",
       "count": 28,
-      "pct": 16.9,
+      "pct": 16.8,
       "company_pct": 33.3,
       "tier": "many",
       "companies": 16,
@@ -242,7 +242,7 @@
       "name": "C++",
       "category": "Languages",
       "count": 48,
-      "pct": 28.9,
+      "pct": 28.7,
       "company_pct": 29.2,
       "tier": "some",
       "companies": 14,
@@ -254,7 +254,7 @@
       "name": "TensorFlow / JAX",
       "category": "AI & ML",
       "count": 36,
-      "pct": 21.7,
+      "pct": 21.6,
       "company_pct": 29.2,
       "tier": "some",
       "companies": 14,
@@ -266,7 +266,7 @@
       "name": "SQL & relational databases",
       "category": "Languages",
       "count": 25,
-      "pct": 15.1,
+      "pct": 15.0,
       "company_pct": 29.2,
       "tier": "some",
       "companies": 14,
@@ -278,7 +278,19 @@
       "name": "Kubernetes",
       "category": "Tools",
       "count": 31,
-      "pct": 18.7,
+      "pct": 18.6,
+      "company_pct": 27.1,
+      "tier": "some",
+      "companies": 13,
+      "entry_count": 1,
+      "entry_companies": 1
+    },
+    {
+      "id": "typescript",
+      "name": "TypeScript",
+      "category": "Languages",
+      "count": 21,
+      "pct": 12.6,
       "company_pct": 27.1,
       "tier": "some",
       "companies": 13,
@@ -290,7 +302,7 @@
       "name": "Statistics",
       "category": "Analysis",
       "count": 23,
-      "pct": 13.9,
+      "pct": 13.8,
       "company_pct": 25.0,
       "tier": "some",
       "companies": 12,
@@ -308,18 +320,6 @@
       "companies": 12,
       "entry_count": 2,
       "entry_companies": 2
-    },
-    {
-      "id": "typescript",
-      "name": "TypeScript",
-      "category": "Languages",
-      "count": 20,
-      "pct": 12.0,
-      "company_pct": 25.0,
-      "tier": "some",
-      "companies": 12,
-      "entry_count": 1,
-      "entry_companies": 1
     },
     {
       "id": "java",
@@ -442,6 +442,18 @@
       "entry_companies": 1
     },
     {
+      "id": "react",
+      "name": "React",
+      "category": "Web",
+      "count": 12,
+      "pct": 7.2,
+      "company_pct": 18.8,
+      "tier": "some",
+      "companies": 9,
+      "entry_count": 1,
+      "entry_companies": 1
+    },
+    {
       "id": "rust",
       "name": "Rust",
       "category": "Languages",
@@ -466,18 +478,6 @@
       "entry_companies": 1
     },
     {
-      "id": "react",
-      "name": "React",
-      "category": "Web",
-      "count": 11,
-      "pct": 6.6,
-      "company_pct": 16.7,
-      "tier": "some",
-      "companies": 8,
-      "entry_count": 1,
-      "entry_companies": 1
-    },
-    {
       "id": "data-structures-algorithms",
       "name": "Data structures & algorithms",
       "category": "CS fundamentals",
@@ -490,6 +490,18 @@
       "entry_companies": 3
     },
     {
+      "id": "data-warehouse",
+      "name": "Data warehouses",
+      "category": "Data engineering",
+      "count": 10,
+      "pct": 6.0,
+      "company_pct": 16.7,
+      "tier": "some",
+      "companies": 8,
+      "entry_count": 2,
+      "entry_companies": 2
+    },
+    {
       "id": "rest-apis",
       "name": "APIs (REST)",
       "category": "Web",
@@ -500,18 +512,6 @@
       "companies": 8,
       "entry_count": 1,
       "entry_companies": 1
-    },
-    {
-      "id": "data-warehouse",
-      "name": "Data warehouses",
-      "category": "Data engineering",
-      "count": 9,
-      "pct": 5.4,
-      "company_pct": 16.7,
-      "tier": "some",
-      "companies": 8,
-      "entry_count": 2,
-      "entry_companies": 2
     },
     {
       "id": "system-design",
@@ -536,6 +536,18 @@
       "companies": 7,
       "entry_count": 1,
       "entry_companies": 1
+    },
+    {
+      "id": "dashboards",
+      "name": "Dashboards & reporting",
+      "category": "Analysis",
+      "count": 7,
+      "pct": 4.2,
+      "company_pct": 14.6,
+      "tier": "some",
+      "companies": 7,
+      "entry_count": 0,
+      "entry_companies": 0
     },
     {
       "id": "oop",
@@ -579,18 +591,6 @@
       "category": "CS fundamentals",
       "count": 7,
       "pct": 4.2,
-      "company_pct": 12.5,
-      "tier": "some",
-      "companies": 6,
-      "entry_count": 0,
-      "entry_companies": 0
-    },
-    {
-      "id": "dashboards",
-      "name": "Dashboards & reporting",
-      "category": "Analysis",
-      "count": 6,
-      "pct": 3.6,
       "company_pct": 12.5,
       "tier": "some",
       "companies": 6,
@@ -646,6 +646,18 @@
       "entry_companies": 0
     },
     {
+      "id": "data-modeling",
+      "name": "Data modeling",
+      "category": "Data engineering",
+      "count": 5,
+      "pct": 3.0,
+      "company_pct": 8.3,
+      "tier": "rare",
+      "companies": 4,
+      "entry_count": 0,
+      "entry_companies": 0
+    },
+    {
       "id": "ruby",
       "name": "Ruby",
       "category": "Languages",
@@ -663,18 +675,6 @@
       "category": "Languages",
       "count": 5,
       "pct": 3.0,
-      "company_pct": 6.2,
-      "tier": "rare",
-      "companies": 3,
-      "entry_count": 0,
-      "entry_companies": 0
-    },
-    {
-      "id": "data-modeling",
-      "name": "Data modeling",
-      "category": "Data engineering",
-      "count": 4,
-      "pct": 2.4,
       "company_pct": 6.2,
       "tier": "rare",
       "companies": 3,
@@ -984,6 +984,10 @@
       2
     ],
     [
+      "Smartsheet",
+      2
+    ],
+    [
       "Snorkel AI",
       2
     ],
@@ -1076,10 +1080,6 @@
       1
     ],
     [
-      "Smartsheet",
-      1
-    ],
-    [
       "Spotify",
       1
     ],
@@ -1099,7 +1099,7 @@
       "url": "https://abnormal.ai/careers/jobs/8002099003?gh_jid=8002099003",
       "location": "Remote - Singapore",
       "level": "entry",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1108,7 +1108,7 @@
       "url": "https://job-boards.greenhouse.io/affirm/jobs/8033261003",
       "location": "Remote Canada",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1117,7 +1117,7 @@
       "url": "https://careers.airbnb.com/positions/7716341?gh_jid=7716341",
       "location": "China",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1126,7 +1126,7 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5274037007?gh_jid=5274037007",
       "location": "Santa Ana, California, United States",
       "level": "entry",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1135,7 +1135,7 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5197253007?gh_jid=5197253007",
       "location": "Costa Mesa, California, United States",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1144,7 +1144,7 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5248869007?gh_jid=5248869007",
       "location": "Waltham, Massachusetts, United States",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1153,7 +1153,7 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5136146007?gh_jid=5136146007",
       "location": "Costa Mesa, California, United States",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1162,7 +1162,7 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5195642007?gh_jid=5195642007",
       "location": "Costa Mesa, California, United States",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1171,7 +1171,7 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5293883007?gh_jid=5293883007",
       "location": "Costa Mesa, California, United States",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1180,7 +1180,7 @@
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5210930007?gh_jid=5210930007",
       "location": "Boston, Massachusetts, United States",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1189,7 +1189,7 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/4610158008",
       "location": "London, UK",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1198,7 +1198,7 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5445760008",
       "location": "London, UK",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1207,7 +1207,7 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5440821008",
       "location": "London, UK",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1216,7 +1216,7 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5437172008",
       "location": "San Francisco, CA | New York City, NY",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1225,7 +1225,7 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5483945008",
       "location": "San Francisco, CA",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1234,7 +1234,7 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5057647008",
       "location": "San Francisco, CA | New York City, NY",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1243,7 +1243,7 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5445410008",
       "location": "Washington, DC",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1252,7 +1252,7 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5432575008",
       "location": "London, UK",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1261,7 +1261,7 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5454650008",
       "location": "San Francisco, CA | New York City, NY",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1270,7 +1270,7 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5454673008",
       "location": "San Francisco, CA",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1279,7 +1279,7 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390811008",
       "location": "San Francisco, CA | New York City, NY",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1288,7 +1288,7 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5364804008",
       "location": "San Francisco, CA | New York City, NY",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1297,7 +1297,7 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/4949336008",
       "location": "San Francisco, CA | New York City, NY",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1306,7 +1306,7 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438030008",
       "location": "San Francisco, CA | New York City, NY | Seattle, WA",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1315,7 +1315,7 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438044008",
       "location": "San Francisco, CA | New York City, NY | Seattle, WA",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1324,7 +1324,7 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/4631822008",
       "location": "San Francisco, CA",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1333,7 +1333,7 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468947008",
       "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1342,7 +1342,7 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5477416008",
       "location": "London, UK",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1351,7 +1351,7 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5459098008",
       "location": "San Francisco, CA",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1360,7 +1360,7 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5254364008",
       "location": "San Francisco, CA | New York City, NY",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1369,7 +1369,7 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5459191008",
       "location": "San Francisco, CA | New York City, NY",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1378,7 +1378,7 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5412334008",
       "location": "Zürich, CH",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1387,7 +1387,7 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/4980430008",
       "location": "San Francisco, CA",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1396,7 +1396,7 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/4613568008",
       "location": "San Francisco, CA | New York City, NY",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1405,7 +1405,7 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5198074008",
       "location": "London, UK",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1414,7 +1414,7 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5198255008",
       "location": "San Francisco, CA | Seattle, WA",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1423,7 +1423,7 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5119713008",
       "location": "London, UK",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1432,7 +1432,7 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/4938432008",
       "location": "San Francisco, CA",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1441,7 +1441,7 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/4613592008",
       "location": "San Francisco, CA | New York City, NY | Seattle, WA",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1450,7 +1450,7 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/4952051008",
       "location": "San Francisco, CA | New York City, NY | Seattle, WA",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1459,7 +1459,7 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/4980427008",
       "location": "San Francisco, CA",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1468,7 +1468,7 @@
       "url": "https://www.asana.com/jobs/apply/7962306?gh_jid=7962306",
       "location": "Vancouver, BC",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1477,7 +1477,7 @@
       "url": "https://www.brex.com/careers/8606885002?gh_jid=8606885002",
       "location": "Seattle, Washington, United States",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1486,7 +1486,7 @@
       "url": "https://www.brex.com/careers/8606845002?gh_jid=8606845002",
       "location": "San Francisco, California, United States",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1495,7 +1495,7 @@
       "url": "https://job-boards.greenhouse.io/celonis/jobs/7885808003?gh_jid=7885808003",
       "location": "Bangalore, India",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1504,7 +1504,7 @@
       "url": "https://boards.greenhouse.io/chime/jobs/8569366002?gh_jid=8569366002",
       "location": "Chicago, IL, USA; New York, NY, USA; San Francisco, CA, USA",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1513,7 +1513,7 @@
       "url": "https://boards.greenhouse.io/chime/jobs/8922481002?gh_jid=8922481002",
       "location": "San Francisco, CA, USA",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1522,7 +1522,7 @@
       "url": "https://boards.greenhouse.io/chime/jobs/8868948002?gh_jid=8868948002",
       "location": "San Francisco, CA, USA",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1531,7 +1531,7 @@
       "url": "https://www.coinbase.com/careers/positions/7985187?gh_jid=7985187",
       "location": "Remote - India",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1540,7 +1540,7 @@
       "url": "https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441",
       "location": "Hybrid - San Francisco, CA",
       "level": "entry",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1549,7 +1549,7 @@
       "url": "https://www.coinbase.com/careers/positions/8031260?gh_jid=8031260",
       "location": "Remote - Brazil",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1558,7 +1558,7 @@
       "url": "https://job-boards.greenhouse.io/cresta/jobs/5480801008",
       "location": "Canada (Remote); United States (Remote)",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1567,7 +1567,7 @@
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8829033002",
       "location": "Costa Rica",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1576,7 +1576,7 @@
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8091041002",
       "location": "Belgrade, Serbia",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1585,7 +1585,7 @@
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002",
       "location": "San Francisco, California",
       "level": "entry",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": true
     },
     {
@@ -1594,7 +1594,7 @@
       "url": "https://careers.datadoghq.com/detail/7194969/?gh_jid=7194969",
       "location": "Paris, France",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1603,7 +1603,7 @@
       "url": "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669",
       "location": "New York, New York, USA; Pittsburgh, Pennsylvania, USA",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1612,7 +1612,7 @@
       "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8202399",
       "location": "London, England",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1621,7 +1621,7 @@
       "url": "https://boards.greenhouse.io/descript/jobs/7967440003?gh_jid=7967440003",
       "location": "San Francisco, CA or Remote, US",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1630,7 +1630,7 @@
       "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8192187",
       "location": "San Francisco, CA; Sunnyvale, CA",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1639,7 +1639,7 @@
       "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8264542",
       "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1648,7 +1648,7 @@
       "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8283735",
       "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1657,7 +1657,7 @@
       "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8263726",
       "location": "San Francisco, CA; Sunnyvale, CA; • Seattle, WA",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1666,7 +1666,7 @@
       "url": "https://careers.duolingo.com/jobs/8881612002?gh_jid=8881612002",
       "location": "New York, NY; Pittsburgh, PA",
       "level": "entry",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": true
     },
     {
@@ -1675,7 +1675,7 @@
       "url": "https://epicgames.com/careers/jobs/6134271004?gh_jid=6134271004",
       "location": "Cary,North Carolina,United States",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1684,7 +1684,7 @@
       "url": "https://boards.greenhouse.io/figma/jobs/5707966004?gh_jid=5707966004",
       "location": "San Francisco, CA • New York, NY • United States",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1693,7 +1693,7 @@
       "url": "https://boards.greenhouse.io/figma/jobs/6233043004?gh_jid=6233043004",
       "location": "San Francisco, CA • New York, NY • United States",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1702,7 +1702,7 @@
       "url": "https://boards.greenhouse.io/figma/jobs/6207801004?gh_jid=6207801004",
       "location": "San Francisco, CA • New York, NY",
       "level": "entry",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": true
     },
     {
@@ -1711,7 +1711,7 @@
       "url": "https://boards.greenhouse.io/figma/jobs/5691886004?gh_jid=5691886004",
       "location": "San Francisco, CA • New York, NY • United States",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1720,7 +1720,7 @@
       "url": "https://boards.greenhouse.io/figma/jobs/5551697004?gh_jid=5551697004",
       "location": "London, England",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1729,7 +1729,7 @@
       "url": "https://boards.greenhouse.io/figma/jobs/5551532004?gh_jid=5551532004",
       "location": "San Francisco, CA • New York, NY • United States",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1738,7 +1738,7 @@
       "url": "https://job-boards.greenhouse.io/intercom/jobs/7820671",
       "location": "Dublin, Ireland",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1747,7 +1747,7 @@
       "url": "https://job-boards.greenhouse.io/gusto/jobs/7369003",
       "location": "San Francisco, CA - Hybrid",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1756,7 +1756,7 @@
       "url": "https://lucidmotors.com/careers/search/5254390007?gh_jid=5254390007",
       "location": "Southfield, MI",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1765,7 +1765,7 @@
       "url": "https://lucidmotors.com/careers/search/5199878007?gh_jid=5199878007",
       "location": "Southfield, MI",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1774,7 +1774,7 @@
       "url": "https://app.careerpuck.com/job-board/lyft/job/8684440002?gh_jid=8684440002",
       "location": "Toronto, Canada",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1783,7 +1783,7 @@
       "url": "https://app.careerpuck.com/job-board/lyft/job/8944659002?gh_jid=8944659002",
       "location": "Toronto, Canada",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1792,7 +1792,7 @@
       "url": "https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002",
       "location": "San Francisco, CA",
       "level": "entry",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": true
     },
     {
@@ -1801,7 +1801,7 @@
       "url": "https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002",
       "location": "Toronto, Canada",
       "level": "entry",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1810,7 +1810,7 @@
       "url": "https://job-boards.greenhouse.io/mercury/jobs/6233238004",
       "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1819,7 +1819,7 @@
       "url": "https://job-boards.greenhouse.io/gomotive/jobs/8785039002",
       "location": "Bangalore, India",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1828,7 +1828,7 @@
       "url": "https://about.nextdoor.com/careers-list/?gh_jid=6005888",
       "location": "US Remote",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1837,7 +1837,7 @@
       "url": "https://nuro.ai/careersitem?gh_jid=8341046",
       "location": "Mountain View, California (HQ)",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1846,7 +1846,7 @@
       "url": "https://nuro.ai/careersitem?gh_jid=5434059",
       "location": "Mountain View, California (HQ)",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1855,7 +1855,7 @@
       "url": "https://nuro.ai/careersitem?gh_jid=7439020",
       "location": "Mountain View, California (HQ)",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1864,7 +1864,7 @@
       "url": "https://nuro.ai/careersitem?gh_jid=5416913",
       "location": "Mountain View, California (HQ)",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1873,7 +1873,7 @@
       "url": "https://nuro.ai/careersitem?gh_jid=7351061",
       "location": "Mountain View, California (HQ)",
       "level": "entry",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1882,7 +1882,7 @@
       "url": "https://nuro.ai/careersitem?gh_jid=7351066",
       "location": "Mountain View, California (HQ)",
       "level": "entry",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1891,7 +1891,7 @@
       "url": "https://nuro.ai/careersitem?gh_jid=8122990",
       "location": "Mountain View, California (HQ)",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1900,7 +1900,7 @@
       "url": "https://nuro.ai/careersitem?gh_jid=8122537",
       "location": "Mountain View, California (HQ)",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1909,7 +1909,7 @@
       "url": "https://nuro.ai/careersitem?gh_jid=6909931",
       "location": "Mountain View, California (HQ)",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1918,7 +1918,7 @@
       "url": "https://nuro.ai/careersitem?gh_jid=8122483",
       "location": "Mountain View, California (HQ)",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1927,7 +1927,7 @@
       "url": "https://nuro.ai/careersitem?gh_jid=6916236",
       "location": "Mountain View, California (HQ)",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1936,7 +1936,7 @@
       "url": "https://www.observe.ai/position?gh_jid=5254531008",
       "location": "Redwood City, CA (Hybrid)",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1945,7 +1945,7 @@
       "url": "https://jobs.lever.co/palantir/6b4b087c-4fc6-476d-9e72-e1bc6ac6c62a",
       "location": "New York, NY",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1954,7 +1954,7 @@
       "url": "https://jobs.lever.co/palantir/67110929-adea-41c3-851a-8882e222d9e4",
       "location": "Seattle, WA",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1963,7 +1963,7 @@
       "url": "https://jobs.lever.co/palantir/40840cef-bbd7-4557-bb21-cbdcf4be616e",
       "location": "London, United Kingdom",
       "level": "entry",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1972,7 +1972,7 @@
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7473497",
       "location": "Toronto, ON, CA",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1981,7 +1981,7 @@
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7697137",
       "location": "San Francisco, CA, US; Remote, US",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1990,7 +1990,7 @@
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6121450",
       "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; Remote, US",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -1999,7 +1999,7 @@
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6121543",
       "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2008,7 +2008,7 @@
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140219",
       "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
       "level": "entry",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": true
     },
     {
@@ -2017,7 +2017,7 @@
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140363",
       "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",
       "level": "entry",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": true
     },
     {
@@ -2026,7 +2026,7 @@
       "url": "https://job-boards.greenhouse.io/planetscale/jobs/4463390009",
       "location": "Remote US ",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2035,7 +2035,7 @@
       "url": "https://boards.greenhouse.io/relativity/jobs/8726261002?gh_jid=8726261002",
       "location": "Long Beach, California, United States",
       "level": "entry",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2044,7 +2044,7 @@
       "url": "https://boards.greenhouse.io/relativity/jobs/8726264002?gh_jid=8726264002",
       "location": "Long Beach, California, United States",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2053,7 +2053,7 @@
       "url": "https://careers.roblox.com/jobs/8171283?gh_jid=8171283",
       "location": "San Mateo, CA, United States",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2062,7 +2062,7 @@
       "url": "https://job-boards.greenhouse.io/scaleai/jobs/4751059005",
       "location": "Kuwait City, Kuwait",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2071,7 +2071,7 @@
       "url": "https://job-boards.greenhouse.io/scaleai/jobs/4665557005",
       "location": "San Francisco, CA; New York, NY",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2080,7 +2080,7 @@
       "url": "https://job-boards.greenhouse.io/scaleai/jobs/4631848005",
       "location": "Denver, CO; Honolulu, HI; Washington, DC",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2089,7 +2089,7 @@
       "url": "https://job-boards.greenhouse.io/scaleai/jobs/4728014005",
       "location": "San Francisco, CA; Seattle, WA; New York, NY",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2098,7 +2098,7 @@
       "url": "https://job-boards.greenhouse.io/scaleai/jobs/4528009005",
       "location": "San Francisco, CA; Seattle, WA; New York, NY",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2107,7 +2107,7 @@
       "url": "https://job-boards.greenhouse.io/scaleai/jobs/4534631005",
       "location": "San Francisco, CA; Seattle, WA; New York, NY",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2116,7 +2116,7 @@
       "url": "https://job-boards.greenhouse.io/scaleai/jobs/4675684005",
       "location": "San Francisco, CA",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2125,7 +2125,7 @@
       "url": "https://job-boards.greenhouse.io/scaleai/jobs/4513943005",
       "location": "New York, NY; San Francisco, CA",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2134,7 +2134,7 @@
       "url": "https://job-boards.greenhouse.io/scaleai/jobs/4363623005",
       "location": "San Francisco, CA; St. Louis, MO; New York, NY; Washington, DC",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2143,7 +2143,7 @@
       "url": "https://job-boards.greenhouse.io/scopely/jobs/5456049008?gh_jid=5456049008",
       "location": "US - San Francisco, California, United States",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2152,7 +2152,7 @@
       "url": "https://sendbird.com/careers?gh_jid=8276676002",
       "location": "Seoul, South Korea",
       "level": "entry",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2161,7 +2161,7 @@
       "url": "https://sendbird.com/careers?gh_jid=8395379002",
       "location": "Seoul, South Korea",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2170,7 +2170,16 @@
       "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8232492",
       "location": "Bangalore, INDIA",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
+      "phd": false
+    },
+    {
+      "company": "Smartsheet",
+      "title": "Software Engineer II, AI Experience (Remote Eligible)",
+      "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8412232",
+      "location": " -REMOTE, USA-",
+      "level": "open",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2179,7 +2188,7 @@
       "url": "https://job-boards.greenhouse.io/snorkelai/jobs/6208895004",
       "location": "New York City, NY (Hybrid); San Francisco, CA (Hybrid); United States (Remote)",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2188,7 +2197,7 @@
       "url": "https://job-boards.greenhouse.io/snorkelai/jobs/6009496004",
       "location": "New York City, NY (Hybrid); San Francisco, CA (Hybrid); United States (Remote)",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2197,7 +2206,7 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8910071002?gh_jid=8910071002",
       "location": "Hawthorne, CA",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2206,7 +2215,7 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
       "location": "Hawthorne, CA",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2215,7 +2224,7 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8880868002?gh_jid=8880868002",
       "location": "Hawthorne, CA",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2224,7 +2233,7 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8861900002?gh_jid=8861900002",
       "location": "Hawthorne, CA",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2233,7 +2242,7 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8676015002?gh_jid=8676015002",
       "location": "Bastrop, TX",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2242,7 +2251,7 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8637712002?gh_jid=8637712002",
       "location": "Redmond, WA",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2251,7 +2260,7 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8717350002?gh_jid=8717350002",
       "location": "Palo Alto, CA",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2260,7 +2269,7 @@
       "url": "https://jobs.lever.co/spotify/19c12e29-b6d4-4d97-9053-48238fb7c381",
       "location": "London",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2269,7 +2278,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8144196",
       "location": "Chicago",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2278,7 +2287,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8224915",
       "location": "San Francisco",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2287,7 +2296,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8197886",
       "location": "New York City ",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2296,7 +2305,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8243617",
       "location": "Seattle",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2305,7 +2314,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8187574",
       "location": "Seattle, New York City",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2314,7 +2323,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8333074",
       "location": "San Francisco, New York City, Seattle",
       "level": "entry",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": true
     },
     {
@@ -2323,7 +2332,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8328662",
       "location": "San Francisco, New York City, Seattle",
       "level": "entry",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": true
     },
     {
@@ -2332,7 +2341,7 @@
       "url": "https://job-boards.greenhouse.io/tanium/jobs/8232146",
       "location": "Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid); Reston, VA (Hybrid)",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2341,7 +2350,7 @@
       "url": "https://job-boards.greenhouse.io/tanium/jobs/8335147",
       "location": "Addison, TX (Hybrid); Durham, NC (Hybrid)",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2350,7 +2359,7 @@
       "url": "https://job-boards.greenhouse.io/togetherai/jobs/4385540007",
       "location": "San Francisco ",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2359,7 +2368,7 @@
       "url": "https://job-boards.greenhouse.io/togetherai/jobs/5199554007",
       "location": "San Francisco",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2368,7 +2377,7 @@
       "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/8222892",
       "location": "UK",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2377,7 +2386,7 @@
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8240487",
       "location": "Remote - US",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2386,7 +2395,7 @@
       "url": "https://job-boards.greenhouse.io/vercel/jobs/6208037004",
       "location": "Hybrid - San Francisco, New York City",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2395,7 +2404,7 @@
       "url": "https://job-boards.greenhouse.io/vercel/jobs/5798406004",
       "location": "Hybrid - San Francisco",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2404,7 +2413,7 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8223735",
       "location": "San Francisco, CA, USA",
       "level": "entry",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": true
     },
     {
@@ -2413,7 +2422,7 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8287385",
       "location": "Mountain View, CA, USA",
       "level": "entry",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": true
     },
     {
@@ -2422,7 +2431,7 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8221795",
       "location": "Mountain View, California, USA",
       "level": "entry",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": true
     },
     {
@@ -2431,7 +2440,7 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8233746",
       "location": "Mountain View, CA, USA",
       "level": "entry",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": true
     },
     {
@@ -2440,7 +2449,7 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8221851",
       "location": "Mountain View, California, USA",
       "level": "entry",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": true
     },
     {
@@ -2449,7 +2458,7 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8212440",
       "location": "Mountain View, CA",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2458,7 +2467,7 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=7309064",
       "location": "Mountain View, CA USA; San Francisco, CA USA",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2467,7 +2476,7 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8039191",
       "location": "Mountain View, CA, USA; San Francisco, CA, USA; Pittsburgh, PA, USA",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2476,7 +2485,7 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8212478",
       "location": "Mountain View, CA, USA; San Francisco, CA, USA",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2485,7 +2494,7 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=7905643",
       "location": "MountainView, CA, United States  ",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2494,7 +2503,7 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=6506689",
       "location": "Mountain View, CA, USA; San Francisco, CA, USA",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2503,7 +2512,7 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=6499165",
       "location": "Mountain View, CA, USA",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2512,7 +2521,7 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8127006",
       "location": "Mountain View, CA, USA; San Francisco, CA, USA",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2521,7 +2530,7 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8165872",
       "location": "Mountain View, CA, USA; San Francisco, CA, USA; Kirkland, WA, USA; New York City, NY, USA",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2530,7 +2539,7 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=7698498",
       "location": "Taipei, Taiwan; Hsinchu, Taiwan",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2539,7 +2548,7 @@
       "url": "https://jobs.lever.co/zoox/2347453a-f11f-4dc2-ad14-572bc1f6247f",
       "location": "Foster City, CA",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2548,7 +2557,7 @@
       "url": "https://jobs.lever.co/zoox/06f146c2-25f6-40fd-8393-4f92ce518929",
       "location": "Foster City, CA",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2557,7 +2566,7 @@
       "url": "https://jobs.lever.co/zoox/2d73563c-8039-4d1b-844c-3953259ba6b1",
       "location": "Foster City, CA",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2566,7 +2575,7 @@
       "url": "https://jobs.lever.co/zoox/9176aa65-14e3-4f9d-98f9-e755e9777d67",
       "location": "Foster City, CA",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2575,7 +2584,7 @@
       "url": "https://jobs.lever.co/zoox/bc11276c-8db7-426e-9d00-d41c2097723a",
       "location": "Foster City, CA",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     },
     {
@@ -2584,9 +2593,9 @@
       "url": "https://jobs.lever.co/zoox/91ff6263-49fb-421e-860f-36e7b9bae784",
       "location": "Foster City, CA",
       "level": "open",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "phd": false
     }
   ],
-  "generated_at": "2026-11-21T09:33:26+00:00"
+  "generated_at": "2026-11-23T21:31:48+00:00"
 }

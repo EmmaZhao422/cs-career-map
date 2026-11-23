@@ -8,7 +8,7 @@
     "level": "open",
     "posted_at": "2026-08-10T10:31:48-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "sql",
@@ -33,7 +33,7 @@
     "level": "open",
     "posted_at": "2026-09-09T04:24:44-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "sql",
       "data-modeling",
@@ -55,7 +55,7 @@
     "level": "open",
     "posted_at": "2026-10-05T22:28:47-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "sql",
@@ -81,7 +81,7 @@
     "level": "open",
     "posted_at": "2026-07-01T04:55:09-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "sql",
@@ -106,7 +106,7 @@
     "level": "entry",
     "posted_at": "2026-09-10T06:14:32-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "sql",
       "dbt",
@@ -128,7 +128,7 @@
     "level": "open",
     "posted_at": "2025-11-11T00:37:13-05:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "sql",
@@ -155,7 +155,7 @@
     "level": "entry",
     "posted_at": "2026-03-11T10:07:43-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "sql",
       "data-pipelines",
@@ -178,7 +178,7 @@
     "level": "open",
     "posted_at": "2025-10-02T11:34:30-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "sql",
@@ -201,7 +201,7 @@
     "level": "open",
     "posted_at": "2025-10-02T11:34:30-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "sql",
@@ -224,7 +224,7 @@
     "level": "open",
     "posted_at": "2026-10-30T15:38:29-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "sql",
@@ -245,13 +245,38 @@
     "level": "open",
     "posted_at": "2026-10-06T17:30:14-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "sql",
       "r",
       "dashboards",
       "data-visualization",
+      "communication",
+      "cross-functional"
+    ],
+    "rules": "31e3fed0fde3"
+  },
+  {
+    "key": "greenhouse:n26:8203962",
+    "company": "N26",
+    "title": "Data Analyst - Investments",
+    "url": "https://n26.com/en-eu/careers/positions/8203962?gh_jid=8203962",
+    "location": "Barcelona ",
+    "level": "open",
+    "posted_at": "2026-10-07T11:27:00-04:00",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "skills": [
+      "python",
+      "sql",
+      "r",
+      "tableau",
+      "looker",
+      "dashboards",
+      "data-visualization",
+      "statistics",
+      "ab-testing",
       "communication",
       "cross-functional"
     ],
@@ -266,7 +291,7 @@
     "level": "entry",
     "posted_at": "2026-11-11T14:49:32-05:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "sql",
@@ -287,7 +312,7 @@
     "level": "open",
     "posted_at": "2026-05-07T09:01:24-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "sql",
       "data-warehouse",
@@ -312,7 +337,7 @@
     "level": "open",
     "posted_at": "2026-06-29T11:57:16-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "sql",
@@ -328,6 +353,25 @@
     "rules": "31e3fed0fde3"
   },
   {
+    "key": "greenhouse:smartsheet:8399893",
+    "company": "Smartsheet",
+    "title": "Employee Data Analyst (Hybrid Eligible - Costa Rica)",
+    "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8399893",
+    "location": "San Jose, CR",
+    "level": "open",
+    "posted_at": "2026-11-23T10:49:52-05:00",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "skills": [
+      "sql",
+      "excel",
+      "machine-learning",
+      "agents",
+      "communication"
+    ],
+    "rules": "31e3fed0fde3"
+  },
+  {
     "key": "greenhouse:spacex:8681172002",
     "company": "SpaceX",
     "title": "Business Analyst (Starlink Growth)",
@@ -336,7 +380,7 @@
     "level": "open",
     "posted_at": "2026-08-05T17:01:39-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "sql",
@@ -355,7 +399,7 @@
     "level": "open",
     "posted_at": "2026-08-10T16:03:34-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "concurrency",
       "dashboards",
@@ -372,7 +416,7 @@
     "level": "open",
     "posted_at": "2023-11-01T13:50:50-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "sql",
@@ -393,7 +437,7 @@
     "level": "open",
     "posted_at": "2024-01-09T16:58:15-05:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "sql",
@@ -439,7 +483,7 @@
     "level": "entry",
     "posted_at": "2026-10-01T11:05:36-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "sql",
       "data-pipelines",
@@ -459,7 +503,7 @@
     "level": "entry",
     "posted_at": "2026-10-01T11:05:29-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "sql",
       "data-pipelines",
@@ -479,7 +523,7 @@
     "level": "open",
     "posted_at": "2026-09-10T17:39:22-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "sql",
@@ -500,7 +544,7 @@
     "level": "open",
     "posted_at": "2026-03-20T15:17:28+00:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "sql",
@@ -524,7 +568,7 @@
     "level": "open",
     "posted_at": "2025-03-19T15:21:59+00:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "sql",
       "communication"
@@ -540,7 +584,7 @@
     "level": "open",
     "posted_at": "2026-11-20T14:44:52+00:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "sql",
       "communication"
@@ -556,7 +600,7 @@
     "level": "open",
     "posted_at": "2026-09-17T14:33:56+00:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "sql",
       "dashboards",
@@ -574,7 +618,7 @@
     "level": "open",
     "posted_at": "2022-07-14T16:40:35+00:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "sql",

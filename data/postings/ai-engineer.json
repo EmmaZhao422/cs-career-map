@@ -8,7 +8,7 @@
     "level": "entry",
     "posted_at": "2026-10-27T00:50:30-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "go",
@@ -31,7 +31,7 @@
     "level": "open",
     "posted_at": "2026-10-16T09:19:05-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "sql",
@@ -56,7 +56,7 @@
     "level": "open",
     "posted_at": "2026-03-22T20:51:17-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "data-pipelines",
@@ -82,7 +82,7 @@
     "level": "open",
     "posted_at": "2026-04-20T19:45:42-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "machine-learning",
       "llm",
@@ -107,7 +107,7 @@
     "level": "entry",
     "posted_at": "2026-11-17T14:17:45-05:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "cpp",
@@ -137,7 +137,7 @@
     "level": "open",
     "posted_at": "2026-08-07T10:44:28-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "system-design",
@@ -161,7 +161,7 @@
     "level": "open",
     "posted_at": "2026-09-24T20:39:07-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "javascript",
@@ -191,7 +191,7 @@
     "level": "open",
     "posted_at": "2026-11-01T19:43:25-05:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "javascript",
@@ -221,7 +221,7 @@
     "level": "open",
     "posted_at": "2026-07-02T16:12:00-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "cpp",
@@ -240,7 +240,7 @@
     "level": "open",
     "posted_at": "2026-07-27T11:41:26-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "rust",
@@ -265,7 +265,7 @@
     "level": "open",
     "posted_at": "2026-11-12T15:30:24-05:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "linux",
       "data-pipelines",
@@ -285,7 +285,7 @@
     "level": "open",
     "posted_at": "2026-08-12T17:51:37-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "cpp",
@@ -310,7 +310,7 @@
     "level": "open",
     "posted_at": "2025-03-31T14:08:49-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "kubernetes",
@@ -332,7 +332,7 @@
     "level": "open",
     "posted_at": "2026-10-06T16:06:00-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "statistics",
       "llm",
@@ -350,7 +350,7 @@
     "level": "open",
     "posted_at": "2026-10-13T07:46:09-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "llm",
       "model-evaluation",
@@ -367,7 +367,7 @@
     "level": "open",
     "posted_at": "2026-09-28T22:57:03-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "llm",
       "model-evaluation",
@@ -384,7 +384,7 @@
     "level": "open",
     "posted_at": "2026-11-18T11:26:55-05:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "typescript",
@@ -406,7 +406,7 @@
     "level": "open",
     "posted_at": "2026-01-08T15:47:40-05:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "typescript",
@@ -429,7 +429,7 @@
     "level": "open",
     "posted_at": "2026-08-20T09:01:59-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "llm",
       "prompt-engineering",
@@ -447,7 +447,7 @@
     "level": "open",
     "posted_at": "2026-08-19T11:20:58-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "llm",
       "prompt-engineering",
@@ -465,7 +465,7 @@
     "level": "open",
     "posted_at": "2026-10-06T20:00:19-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "typescript",
@@ -488,7 +488,7 @@
     "level": "open",
     "posted_at": "2026-09-23T05:01:26-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "llm",
@@ -507,7 +507,7 @@
     "level": "open",
     "posted_at": "2026-10-15T18:47:12-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "machine-learning",
       "llm",
@@ -526,7 +526,7 @@
     "level": "open",
     "posted_at": "2026-10-15T18:50:02-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "machine-learning",
       "llm",
@@ -546,7 +546,7 @@
     "level": "open",
     "posted_at": "2026-09-04T11:26:23-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "llm",
       "model-evaluation",
@@ -564,7 +564,7 @@
     "level": "open",
     "posted_at": "2026-07-21T17:13:51-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "distributed-systems",
@@ -585,7 +585,7 @@
     "level": "open",
     "posted_at": "2025-10-09T14:32:16-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "data-pipelines",
@@ -606,7 +606,7 @@
     "level": "open",
     "posted_at": "2026-09-29T15:03:34-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "cpp",
@@ -631,7 +631,7 @@
     "level": "open",
     "posted_at": "2026-09-29T15:03:37-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "cpp",
@@ -654,7 +654,7 @@
     "level": "open",
     "posted_at": "2025-04-14T16:30:00-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "kubernetes",
@@ -677,7 +677,7 @@
     "level": "open",
     "posted_at": "2026-11-01T23:16:27-05:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "operating-systems",
@@ -701,7 +701,7 @@
     "level": "open",
     "posted_at": "2026-11-16T16:28:41-05:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "llm",
       "agents",
@@ -721,7 +721,7 @@
     "level": "open",
     "posted_at": "2026-10-21T15:04:35-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "machine-learning",
       "llm",
@@ -739,7 +739,7 @@
     "level": "open",
     "posted_at": "2026-06-11T17:47:04-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "concurrency",
@@ -763,7 +763,7 @@
     "level": "open",
     "posted_at": "2026-11-08T14:12:32-05:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "machine-learning",
       "llm",
@@ -780,7 +780,7 @@
     "level": "open",
     "posted_at": "2026-09-07T04:25:53-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "machine-learning",
       "llm",
@@ -797,7 +797,7 @@
     "level": "open",
     "posted_at": "2026-11-06T03:10:22-05:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "machine-learning",
       "llm",
@@ -814,7 +814,7 @@
     "level": "open",
     "posted_at": "2025-11-07T17:35:29-05:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "java",
@@ -840,7 +840,7 @@
     "level": "open",
     "posted_at": "2025-04-01T16:39:21-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "cpp",
@@ -870,7 +870,7 @@
     "level": "open",
     "posted_at": "2026-02-11T12:34:39-05:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "cpp",
@@ -900,7 +900,7 @@
     "level": "open",
     "posted_at": "2026-04-23T10:43:13-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "distributed-systems",
       "machine-learning",
@@ -919,7 +919,7 @@
     "level": "open",
     "posted_at": "2026-04-23T10:35:36-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "distributed-systems",
       "machine-learning",
@@ -938,7 +938,7 @@
     "level": "open",
     "posted_at": "2026-04-28T03:53:55-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "observability",
@@ -959,7 +959,7 @@
     "level": "open",
     "posted_at": "2026-02-16T19:22:51-05:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "operating-systems",
@@ -983,7 +983,7 @@
     "level": "open",
     "posted_at": "2025-09-30T16:35:48-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "distributed-systems",
       "observability",
@@ -1004,7 +1004,7 @@
     "level": "open",
     "posted_at": "2025-09-30T16:38:17-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "distributed-systems",
       "observability",
@@ -1025,7 +1025,7 @@
     "level": "open",
     "posted_at": "2025-04-01T19:41:06-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "distributed-systems",
@@ -1046,7 +1046,7 @@
     "level": "open",
     "posted_at": "2026-02-12T03:43:42-05:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "distributed-systems",
@@ -1067,7 +1067,7 @@
     "level": "open",
     "posted_at": "2025-10-14T20:44:37-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "cpp",
@@ -1092,7 +1092,7 @@
     "level": "open",
     "posted_at": "2025-11-07T17:47:14-05:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "deep-learning",
@@ -1109,7 +1109,7 @@
     "level": "open",
     "posted_at": "2026-10-23T18:42:38-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "data-structures-algorithms",
       "distributed-systems",
@@ -1129,7 +1129,7 @@
     "level": "open",
     "posted_at": "2026-06-24T17:25:10-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "git",
       "agents",
@@ -1146,7 +1146,7 @@
     "level": "open",
     "posted_at": "2026-06-24T17:03:04-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "data-modeling",
       "llm",
@@ -1163,7 +1163,7 @@
     "level": "open",
     "posted_at": "2026-08-18T03:33:24-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "sql",
@@ -1195,7 +1195,7 @@
     "level": "open",
     "posted_at": "2026-06-08T11:33:58-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "sql",
@@ -1223,7 +1223,7 @@
     "level": "open",
     "posted_at": "2026-10-30T20:07:32-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "typescript",
@@ -1247,7 +1247,7 @@
     "level": "open",
     "posted_at": "2026-10-30T20:06:33-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "go",
@@ -1269,7 +1269,7 @@
     "level": "open",
     "posted_at": "2026-06-22T15:16:53-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "system-design",
@@ -1294,7 +1294,7 @@
     "level": "entry",
     "posted_at": "2026-09-08T18:22:07-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "git",
@@ -1316,7 +1316,7 @@
     "level": "open",
     "posted_at": "2026-07-07T10:21:00-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "microservices",
@@ -1339,7 +1339,7 @@
     "level": "open",
     "posted_at": "2026-11-12T16:51:49-05:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "statistics",
@@ -1360,7 +1360,7 @@
     "level": "open",
     "posted_at": "2026-10-12T15:17:57-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "testing",
@@ -1386,7 +1386,7 @@
     "level": "open",
     "posted_at": "2025-08-15T04:37:01-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "machine-learning",
       "agents",
@@ -1403,7 +1403,7 @@
     "level": "entry",
     "posted_at": "2023-11-07T16:36:32-05:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "deep-learning",
       "pytorch",
@@ -1422,7 +1422,7 @@
     "level": "open",
     "posted_at": "2025-08-27T10:34:20-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "cpp",
@@ -1453,7 +1453,7 @@
     "level": "open",
     "posted_at": "2025-04-18T09:35:13-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "observability",
       "data-pipelines",
@@ -1479,7 +1479,7 @@
     "level": "open",
     "posted_at": "2025-01-24T09:48:23-05:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "observability",
       "data-pipelines",
@@ -1505,7 +1505,7 @@
     "level": "open",
     "posted_at": "2026-09-18T09:56:53-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "ab-testing",
@@ -1522,7 +1522,7 @@
     "level": "open",
     "posted_at": "2026-08-24T20:18:24-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "machine-learning",
       "deep-learning",
@@ -1545,7 +1545,7 @@
     "level": "open",
     "posted_at": "2026-10-13T16:21:21-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "go",
@@ -1569,7 +1569,7 @@
     "level": "open",
     "posted_at": "2026-10-08T10:17:32-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "operating-systems",
@@ -1599,7 +1599,7 @@
     "level": "open",
     "posted_at": "2026-10-14T20:31:07-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "operating-systems",
@@ -1628,7 +1628,7 @@
     "level": "open",
     "posted_at": "2026-10-08T10:17:36-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "java",
@@ -1654,7 +1654,7 @@
     "level": "entry",
     "posted_at": "2026-10-12T12:00:11-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "cross-functional"
     ],
@@ -1669,7 +1669,7 @@
     "level": "open",
     "posted_at": "2026-08-11T12:38:01-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "observability",
@@ -1691,7 +1691,7 @@
     "level": "open",
     "posted_at": "2026-08-11T12:38:01-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "observability",
@@ -1713,7 +1713,7 @@
     "level": "open",
     "posted_at": "2026-08-12T16:16:53-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "observability",
@@ -1735,7 +1735,7 @@
     "level": "open",
     "posted_at": "2025-12-17T13:52:04-05:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "java",
@@ -1763,7 +1763,7 @@
     "level": "open",
     "posted_at": "2026-10-27T14:11:12-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "system-design",
       "observability",
@@ -1785,7 +1785,7 @@
     "level": "entry",
     "posted_at": "2026-10-05T13:58:07-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "machine-learning",
@@ -1807,7 +1807,7 @@
     "level": "open",
     "posted_at": "2025-11-01T15:10:47-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "typescript",
@@ -1828,7 +1828,7 @@
     "level": "open",
     "posted_at": "2025-06-02T05:59:53-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "statistics",
       "machine-learning",
@@ -1847,7 +1847,7 @@
     "level": "open",
     "posted_at": "2025-06-02T05:52:39-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "typescript",
       "react",
@@ -1866,7 +1866,7 @@
     "level": "open",
     "posted_at": "2025-06-02T06:24:11-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "cpp",
@@ -1898,7 +1898,7 @@
     "level": "open",
     "posted_at": "2026-04-17T06:55:05-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "java",
@@ -1923,7 +1923,7 @@
     "level": "open",
     "posted_at": "2026-04-17T06:55:06-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "java",
@@ -1948,7 +1948,7 @@
     "level": "open",
     "posted_at": "2025-11-21T12:44:04-05:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "javascript",
@@ -1970,7 +1970,7 @@
     "level": "open",
     "posted_at": "2026-10-23T12:43:23-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "cpp",
@@ -2000,7 +2000,7 @@
     "level": "open",
     "posted_at": "2026-08-05T15:56:55-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "cpp",
@@ -2023,7 +2023,7 @@
     "level": "open",
     "posted_at": "2026-08-06T00:09:50-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "statistics",
@@ -2046,7 +2046,7 @@
     "level": "open",
     "posted_at": "2026-11-17T15:25:50-05:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "java",
@@ -2073,7 +2073,7 @@
     "level": "entry",
     "posted_at": "2026-10-06T16:01:21-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "sql",
@@ -2098,7 +2098,7 @@
     "level": "entry",
     "posted_at": "2026-09-11T15:58:05-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "oop",
@@ -2119,7 +2119,7 @@
     "level": "open",
     "posted_at": "2026-10-23T11:09:13-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "typescript",
       "react",
@@ -2136,7 +2136,7 @@
     "level": "open",
     "posted_at": "2026-10-06T14:16:38-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "cpp",
@@ -2162,7 +2162,7 @@
     "level": "open",
     "posted_at": "2024-05-31T13:03:01-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "statistics",
       "machine-learning"
@@ -2178,7 +2178,7 @@
     "level": "open",
     "posted_at": "2026-11-16T18:29:06-05:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "data-pipelines",
@@ -2197,7 +2197,7 @@
     "level": "open",
     "posted_at": "2023-11-03T15:18:28-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "cpp",
@@ -2216,7 +2216,7 @@
     "level": "open",
     "posted_at": "2026-02-19T00:31:38-05:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "cpp",
@@ -2236,7 +2236,7 @@
     "level": "open",
     "posted_at": "2023-10-17T17:24:35-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "cpp",
@@ -2254,7 +2254,7 @@
     "level": "entry",
     "posted_at": "2025-10-22T18:23:06-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "cpp",
@@ -2278,7 +2278,7 @@
     "level": "entry",
     "posted_at": "2025-10-22T19:06:45-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "cpp",
@@ -2300,7 +2300,7 @@
     "level": "open",
     "posted_at": "2026-08-11T18:04:03-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "cpp",
@@ -2327,7 +2327,7 @@
     "level": "open",
     "posted_at": "2026-08-11T15:23:02-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "cpp",
@@ -2349,7 +2349,7 @@
     "level": "open",
     "posted_at": "2026-06-16T17:49:14-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "distributed-systems",
       "system-design",
@@ -2375,7 +2375,7 @@
     "level": "open",
     "posted_at": "2026-08-11T15:13:46-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "cpp",
@@ -2400,7 +2400,7 @@
     "level": "open",
     "posted_at": "2026-06-16T17:46:04-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "cpp",
@@ -2423,7 +2423,7 @@
     "level": "open",
     "posted_at": "2026-06-12T19:13:49-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "javascript",
@@ -2446,7 +2446,7 @@
     "level": "open",
     "posted_at": "2026-11-02T22:20:40+00:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "java",
@@ -2472,7 +2472,7 @@
     "level": "open",
     "posted_at": "2026-11-02T22:21:06+00:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "java",
@@ -2498,7 +2498,7 @@
     "level": "open",
     "posted_at": "2026-07-22T22:12:20+00:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "cpp",
@@ -2522,7 +2522,7 @@
     "level": "entry",
     "posted_at": "2026-11-05T18:34:04+00:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "java",
@@ -2547,7 +2547,7 @@
     "level": "entry",
     "posted_at": "2026-11-05T18:29:35+00:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "java",
@@ -2572,7 +2572,7 @@
     "level": "open",
     "posted_at": "2025-12-22T19:05:53-05:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "sql",
       "spark",
@@ -2593,7 +2593,7 @@
     "level": "open",
     "posted_at": "2026-03-10T19:56:48-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "sql",
       "machine-learning",
@@ -2610,7 +2610,7 @@
     "level": "open",
     "posted_at": "2024-07-24T10:56:17-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "sql",
       "spark",
@@ -2632,7 +2632,7 @@
     "level": "open",
     "posted_at": "2024-07-23T19:10:09-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "sql",
       "spark",
@@ -2654,7 +2654,7 @@
     "level": "entry",
     "posted_at": "2026-10-01T13:00:43-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "java",
@@ -2678,7 +2678,7 @@
     "level": "entry",
     "posted_at": "2026-10-01T13:00:35-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "java",
@@ -2702,7 +2702,7 @@
     "level": "open",
     "posted_at": "2026-10-21T18:57:46-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "sql",
       "typescript",
@@ -2725,7 +2725,7 @@
     "level": "entry",
     "posted_at": "2026-08-18T15:29:08-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "sql",
@@ -2754,7 +2754,7 @@
     "level": "open",
     "posted_at": "2026-08-18T16:11:27-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "sql",
@@ -2784,7 +2784,7 @@
     "level": "open",
     "posted_at": "2026-09-25T15:11:37-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "go",
@@ -2807,7 +2807,7 @@
     "level": "open",
     "posted_at": "2026-11-06T09:23:21-05:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "java",
@@ -2835,7 +2835,7 @@
     "level": "open",
     "posted_at": "2026-02-23T19:15:38-05:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "sql",
@@ -2862,7 +2862,7 @@
     "level": "open",
     "posted_at": "2025-11-18T17:39:10-05:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "data-structures-algorithms",
@@ -2891,7 +2891,7 @@
     "level": "open",
     "posted_at": "2026-08-26T14:51:42-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "machine-learning",
       "deep-learning",
@@ -2911,7 +2911,7 @@
     "level": "open",
     "posted_at": "2025-02-11T00:40:13-05:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "machine-learning",
       "deep-learning",
@@ -2932,7 +2932,7 @@
     "level": "open",
     "posted_at": "2025-03-10T14:15:35-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "machine-learning",
       "pytorch",
@@ -2954,7 +2954,7 @@
     "level": "open",
     "posted_at": "2026-03-20T14:48:59-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "machine-learning",
       "agents",
@@ -2971,7 +2971,7 @@
     "level": "open",
     "posted_at": "2025-01-07T14:37:44-05:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "sql",
@@ -2997,7 +2997,7 @@
     "level": "open",
     "posted_at": "2024-02-15T11:18:14-05:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "testing",
       "docker",
@@ -3020,7 +3020,7 @@
     "level": "open",
     "posted_at": "2026-10-19T14:51:07-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "sql",
@@ -3042,7 +3042,7 @@
     "level": "entry",
     "posted_at": "2025-11-19T03:41:26-05:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "ci-cd",
@@ -3064,7 +3064,7 @@
     "level": "open",
     "posted_at": "2026-02-02T17:58:18-05:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "distributed-systems",
@@ -3092,7 +3092,7 @@
     "level": "open",
     "posted_at": "2026-09-25T01:21:14-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "sql",
@@ -3117,6 +3117,30 @@
     "rules": "31e3fed0fde3"
   },
   {
+    "key": "greenhouse:smartsheet:8412232",
+    "company": "Smartsheet",
+    "title": "Software Engineer II, AI Experience (Remote Eligible)",
+    "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8412232",
+    "location": " -REMOTE, USA-",
+    "level": "open",
+    "posted_at": "2026-11-23T14:38:33-05:00",
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-23",
+    "skills": [
+      "python",
+      "typescript",
+      "observability",
+      "react",
+      "data-warehouse",
+      "data-modeling",
+      "dashboards",
+      "llm",
+      "agents",
+      "model-evaluation"
+    ],
+    "rules": "31e3fed0fde3"
+  },
+  {
     "key": "greenhouse:snorkelai:6208895004",
     "company": "Snorkel AI",
     "title": "Research Scientist - Human-AI Systems",
@@ -3125,7 +3149,7 @@
     "level": "open",
     "posted_at": "2026-09-25T16:17:42-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "git",
       "machine-learning",
@@ -3148,7 +3172,7 @@
     "level": "open",
     "posted_at": "2026-05-29T17:22:40-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "kubernetes",
@@ -3174,7 +3198,7 @@
     "level": "open",
     "posted_at": "2026-10-23T15:46:55-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "git",
@@ -3198,7 +3222,7 @@
     "level": "open",
     "posted_at": "2026-07-30T19:49:28-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "sql",
@@ -3229,7 +3253,7 @@
     "level": "open",
     "posted_at": "2026-07-30T19:49:28-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "sql",
@@ -3260,7 +3284,7 @@
     "level": "open",
     "posted_at": "2026-07-30T19:49:29-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "sql",
@@ -3291,7 +3315,7 @@
     "level": "open",
     "posted_at": "2026-07-30T19:49:29-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "sql",
@@ -3322,7 +3346,7 @@
     "level": "open",
     "posted_at": "2026-07-30T19:49:30-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "sql",
@@ -3353,7 +3377,7 @@
     "level": "open",
     "posted_at": "2026-07-30T19:49:31-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "sql",
@@ -3384,7 +3408,7 @@
     "level": "open",
     "posted_at": "2026-07-30T19:49:33-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "sql",
@@ -3415,7 +3439,7 @@
     "level": "open",
     "posted_at": "2026-10-08T20:39:23-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "sql",
@@ -3447,7 +3471,7 @@
     "level": "open",
     "posted_at": "2026-10-01T18:55:39-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "cpp",
@@ -3472,7 +3496,7 @@
     "level": "open",
     "posted_at": "2026-10-01T18:55:41-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "cpp",
@@ -3497,7 +3521,7 @@
     "level": "open",
     "posted_at": "2026-10-01T18:55:43-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "cpp",
@@ -3522,7 +3546,7 @@
     "level": "open",
     "posted_at": "2026-10-01T18:55:44-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "cpp",
@@ -3547,7 +3571,7 @@
     "level": "open",
     "posted_at": "2026-08-04T12:06:43-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "cpp",
       "c-lang",
@@ -3568,7 +3592,7 @@
     "level": "open",
     "posted_at": "2026-07-19T02:31:00-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "sql",
@@ -3601,7 +3625,7 @@
     "level": "open",
     "posted_at": "2026-08-19T11:41:33-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "sql",
@@ -3634,7 +3658,7 @@
     "level": "open",
     "posted_at": "2026-10-23T16:53:57+00:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "scala",
@@ -3658,7 +3682,7 @@
     "level": "open",
     "posted_at": "2026-10-07T11:39:36-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "ruby",
@@ -3683,7 +3707,7 @@
     "level": "open",
     "posted_at": "2026-09-28T11:58:13-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "sql",
@@ -3712,7 +3736,7 @@
     "level": "open",
     "posted_at": "2026-09-21T12:52:34-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "sql",
@@ -3734,7 +3758,7 @@
     "level": "open",
     "posted_at": "2026-10-07T17:44:52-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "statistics",
       "ab-testing",
@@ -3756,7 +3780,7 @@
     "level": "open",
     "posted_at": "2026-11-10T10:52:46-05:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "statistics",
       "ab-testing",
@@ -3779,7 +3803,7 @@
     "level": "entry",
     "posted_at": "2026-10-30T12:19:26-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "scala",
@@ -3804,7 +3828,7 @@
     "level": "entry",
     "posted_at": "2026-10-30T12:19:21-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "scala",
@@ -3829,7 +3853,7 @@
     "level": "entry",
     "posted_at": "2026-10-30T12:19:28-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "scala",
@@ -3854,7 +3878,7 @@
     "level": "entry",
     "posted_at": "2026-10-30T12:19:24-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "scala",
@@ -3879,7 +3903,7 @@
     "level": "open",
     "posted_at": "2026-10-21T12:30:12-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "data-pipelines",
@@ -3905,7 +3929,7 @@
     "level": "open",
     "posted_at": "2026-11-06T11:46:38-05:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "java",
@@ -3938,7 +3962,7 @@
     "level": "open",
     "posted_at": "2024-06-06T15:12:19-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "rust",
@@ -3961,7 +3985,7 @@
     "level": "open",
     "posted_at": "2026-07-30T12:52:05-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "machine-learning",
@@ -3984,7 +4008,7 @@
     "level": "open",
     "posted_at": "2026-09-22T07:20:59-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "sql",
@@ -4014,7 +4038,7 @@
     "level": "open",
     "posted_at": "2026-10-28T16:28:37-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "go",
@@ -4038,7 +4062,7 @@
     "level": "open",
     "posted_at": "2026-10-09T00:59:47-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "javascript",
@@ -4061,7 +4085,7 @@
     "level": "open",
     "posted_at": "2026-02-12T13:44:39-05:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "javascript",
       "typescript",
@@ -4081,7 +4105,7 @@
     "level": "entry",
     "posted_at": "2026-09-22T16:22:25-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "sql",
@@ -4110,7 +4134,7 @@
     "level": "entry",
     "posted_at": "2026-10-23T15:55:17-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "machine-learning",
@@ -4130,7 +4154,7 @@
     "level": "entry",
     "posted_at": "2026-09-21T17:30:27-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "sql",
@@ -4161,7 +4185,7 @@
     "level": "entry",
     "posted_at": "2026-09-25T17:01:50-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "machine-learning",
@@ -4183,7 +4207,7 @@
     "level": "entry",
     "posted_at": "2026-09-21T17:40:43-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "sql",
@@ -4206,7 +4230,7 @@
     "level": "open",
     "posted_at": "2026-10-13T09:20:32-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "cpp",
       "distributed-systems",
@@ -4225,7 +4249,7 @@
     "level": "open",
     "posted_at": "2025-10-08T15:48:21-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "cpp",
@@ -4247,7 +4271,7 @@
     "level": "open",
     "posted_at": "2026-06-30T14:18:55-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "cpp",
@@ -4269,7 +4293,7 @@
     "level": "open",
     "posted_at": "2026-09-18T13:08:17-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "cpp",
@@ -4292,7 +4316,7 @@
     "level": "open",
     "posted_at": "2026-05-12T14:17:31-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "cpp",
       "distributed-systems",
@@ -4309,7 +4333,7 @@
     "level": "open",
     "posted_at": "2025-04-28T18:13:11-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "cpp",
@@ -4332,7 +4356,7 @@
     "level": "open",
     "posted_at": "2025-01-23T15:11:17-05:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "machine-learning",
       "deep-learning",
@@ -4349,7 +4373,7 @@
     "level": "open",
     "posted_at": "2026-08-13T18:58:13-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "cpp",
@@ -4372,7 +4396,7 @@
     "level": "open",
     "posted_at": "2026-08-29T22:06:16-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "machine-learning",
       "llm",
@@ -4390,7 +4414,7 @@
     "level": "open",
     "posted_at": "2026-03-16T14:30:27-04:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "data-structures-algorithms",
       "data-visualization",
@@ -4407,7 +4431,7 @@
     "level": "open",
     "posted_at": "2026-10-12T21:59:45+00:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "machine-learning",
@@ -4427,7 +4451,7 @@
     "level": "open",
     "posted_at": "2026-10-27T22:50:08+00:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "cpp",
@@ -4447,7 +4471,7 @@
     "level": "open",
     "posted_at": "2024-06-10T23:00:33+00:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "cpp",
@@ -4466,7 +4490,7 @@
     "level": "open",
     "posted_at": "2024-11-07T18:13:17+00:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "cpp",
@@ -4486,7 +4510,7 @@
     "level": "open",
     "posted_at": "2026-05-28T22:34:49+00:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "cpp",
@@ -4507,7 +4531,7 @@
     "level": "open",
     "posted_at": "2026-10-16T19:49:11+00:00",
     "first_seen": "2026-11-21",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "skills": [
       "python",
       "cpp",

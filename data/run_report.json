@@ -1,5 +1,5 @@
 {
-  "ran_at": "2026-11-21T09:22:36+00:00",
+  "ran_at": "2026-11-23T21:31:48+00:00",
   "rules": "31e3fed0fde3",
   "boards_ok": 136,
   "boards_failed": 0,
@@ -10,7 +10,7 @@
       "board": "stripe",
       "api_name": "Stripe",
       "status": "ok",
-      "jobs": 778,
+      "jobs": 773,
       "kept": 81
     },
     {
@@ -28,8 +28,8 @@
       "board": "airbnb",
       "api_name": "Airbnb",
       "status": "ok",
-      "jobs": 202,
-      "kept": 5
+      "jobs": 198,
+      "kept": 4
     },
     {
       "name": "Anthropic",
@@ -37,8 +37,8 @@
       "board": "anthropic",
       "api_name": "Anthropic",
       "status": "ok",
-      "jobs": 633,
-      "kept": 53
+      "jobs": 632,
+      "kept": 54
     },
     {
       "name": "Databricks",
@@ -46,8 +46,8 @@
       "board": "databricks",
       "api_name": "Databricks",
       "status": "ok",
-      "jobs": 897,
-      "kept": 21
+      "jobs": 882,
+      "kept": 20
     },
     {
       "name": "Figma",
@@ -55,7 +55,7 @@
       "board": "figma",
       "api_name": "Figma",
       "status": "ok",
-      "jobs": 147,
+      "jobs": 148,
       "kept": 18
     },
     {
@@ -73,7 +73,7 @@
       "board": "robinhood",
       "api_name": "Robinhood",
       "status": "ok",
-      "jobs": 163,
+      "jobs": 160,
       "kept": 14
     },
     {
@@ -82,7 +82,7 @@
       "board": "coinbase",
       "api_name": "Coinbase",
       "status": "ok",
-      "jobs": 252,
+      "jobs": 250,
       "kept": 13
     },
     {
@@ -91,7 +91,7 @@
       "board": "dropbox",
       "api_name": "Dropbox",
       "status": "ok",
-      "jobs": 47,
+      "jobs": 52,
       "kept": 7
     },
     {
@@ -100,8 +100,8 @@
       "board": "pinterest",
       "api_name": "Pinterest",
       "status": "ok",
-      "jobs": 174,
-      "kept": 16
+      "jobs": 171,
+      "kept": 15
     },
     {
       "name": "Lyft",
@@ -109,8 +109,8 @@
       "board": "lyft",
       "api_name": "Lyft",
       "status": "ok",
-      "jobs": 148,
-      "kept": 13
+      "jobs": 144,
+      "kept": 12
     },
     {
       "name": "Instacart",
@@ -118,7 +118,7 @@
       "board": "instacart",
       "api_name": "Instacart",
       "status": "ok",
-      "jobs": 92,
+      "jobs": 93,
       "kept": 0
     },
     {
@@ -127,7 +127,7 @@
       "board": "reddit",
       "api_name": "Reddit",
       "status": "ok",
-      "jobs": 148,
+      "jobs": 147,
       "kept": 8
     },
     {
@@ -136,7 +136,7 @@
       "board": "twilio",
       "api_name": "Twilio",
       "status": "ok",
-      "jobs": 109,
+      "jobs": 115,
       "kept": 5
     },
     {
@@ -145,7 +145,7 @@
       "board": "cloudflare",
       "api_name": "Cloudflare",
       "status": "ok",
-      "jobs": 503,
+      "jobs": 504,
       "kept": 23
     },
     {
@@ -154,7 +154,7 @@
       "board": "datadog",
       "api_name": "Datadog",
       "status": "ok",
-      "jobs": 382,
+      "jobs": 384,
       "kept": 5
     },
     {
@@ -163,7 +163,7 @@
       "board": "mongodb",
       "api_name": "MongoDB",
       "status": "ok",
-      "jobs": 417,
+      "jobs": 420,
       "kept": 5
     },
     {
@@ -172,7 +172,7 @@
       "board": "okta",
       "api_name": "Okta",
       "status": "ok",
-      "jobs": 372,
+      "jobs": 373,
       "kept": 1
     },
     {
@@ -181,7 +181,7 @@
       "board": "asana",
       "api_name": "Asana",
       "status": "ok",
-      "jobs": 111,
+      "jobs": 109,
       "kept": 6
     },
     {
@@ -199,8 +199,8 @@
       "board": "scaleai",
       "api_name": "Scale AI",
       "status": "ok",
-      "jobs": 169,
-      "kept": 19
+      "jobs": 160,
+      "kept": 18
     },
     {
       "name": "Brex",
@@ -208,8 +208,8 @@
       "board": "brex",
       "api_name": "Brex",
       "status": "ok",
-      "jobs": 249,
-      "kept": 15
+      "jobs": 259,
+      "kept": 14
     },
     {
       "name": "Affirm",
@@ -217,8 +217,8 @@
       "board": "affirm",
       "api_name": "Affirm",
       "status": "ok",
-      "jobs": 222,
-      "kept": 33
+      "jobs": 218,
+      "kept": 30
     },
     {
       "name": "Gusto, Inc.",
@@ -226,7 +226,7 @@
       "board": "gusto",
       "api_name": "Gusto, Inc.",
       "status": "ok",
-      "jobs": 82,
+      "jobs": 85,
       "kept": 2
     },
     {
@@ -235,7 +235,7 @@
       "board": "samsara",
       "api_name": "Samsara",
       "status": "ok",
-      "jobs": 288,
+      "jobs": 286,
       "kept": 4
     },
     {
@@ -280,7 +280,7 @@
       "board": "roblox",
       "api_name": "Roblox",
       "status": "ok",
-      "jobs": 260,
+      "jobs": 257,
       "kept": 19
     },
     {
@@ -289,7 +289,7 @@
       "board": "waymo",
       "api_name": "Waymo",
       "status": "ok",
-      "jobs": 363,
+      "jobs": 356,
       "kept": 26
     },
     {
@@ -298,7 +298,7 @@
       "board": "elastic",
       "api_name": "Elastic",
       "status": "ok",
-      "jobs": 382,
+      "jobs": 384,
       "kept": 3
     },
     {
@@ -307,7 +307,7 @@
       "board": "chime",
       "api_name": "Chime Financial, Inc",
       "status": "ok",
-      "jobs": 80,
+      "jobs": 84,
       "kept": 10
     },
     {
@@ -316,7 +316,7 @@
       "board": "flexport",
       "api_name": "Flexport",
       "status": "ok",
-      "jobs": 212,
+      "jobs": 209,
       "kept": 7
     },
     {
@@ -325,7 +325,7 @@
       "board": "faire",
       "api_name": "Faire",
       "status": "ok",
-      "jobs": 74,
+      "jobs": 73,
       "kept": 1
     },
     {
@@ -334,7 +334,7 @@
       "board": "palantir",
       "api_name": null,
       "status": "ok",
-      "jobs": 308,
+      "jobs": 306,
       "kept": 77
     },
     {
@@ -343,7 +343,7 @@
       "board": "spotify",
       "api_name": null,
       "status": "ok",
-      "jobs": 91,
+      "jobs": 89,
       "kept": 7
     },
     {
@@ -352,7 +352,7 @@
       "board": "zoox",
       "api_name": null,
       "status": "ok",
-      "jobs": 244,
+      "jobs": 246,
       "kept": 20
     },
     {
@@ -361,7 +361,7 @@
       "board": "doordashusa",
       "api_name": "DoorDash USA",
       "status": "ok",
-      "jobs": 409,
+      "jobs": 408,
       "kept": 27
     },
     {
@@ -370,7 +370,7 @@
       "board": "block",
       "api_name": "Block",
       "status": "ok",
-      "jobs": 184,
+      "jobs": 185,
       "kept": 7
     },
     {
@@ -379,8 +379,8 @@
       "board": "toast",
       "api_name": "Toast",
       "status": "ok",
-      "jobs": 326,
-      "kept": 2
+      "jobs": 313,
+      "kept": 3
     },
     {
       "name": "Carta",
@@ -415,7 +415,7 @@
       "board": "peloton",
       "api_name": "Peloton",
       "status": "ok",
-      "jobs": 42,
+      "jobs": 45,
       "kept": 0
     },
     {
@@ -433,7 +433,7 @@
       "board": "sofi",
       "api_name": "SoFi",
       "status": "ok",
-      "jobs": 53,
+      "jobs": 54,
       "kept": 0
     },
     {
@@ -442,7 +442,7 @@
       "board": "betterment",
       "api_name": "Betterment",
       "status": "ok",
-      "jobs": 26,
+      "jobs": 25,
       "kept": 1
     },
     {
@@ -460,7 +460,7 @@
       "board": "mixpanel",
       "api_name": "Mixpanel",
       "status": "ok",
-      "jobs": 40,
+      "jobs": 39,
       "kept": 1
     },
     {
@@ -478,7 +478,7 @@
       "board": "newrelic",
       "api_name": "New Relic",
       "status": "ok",
-      "jobs": 42,
+      "jobs": 41,
       "kept": 3
     },
     {
@@ -487,7 +487,7 @@
       "board": "sumologic",
       "api_name": "Sumo Logic",
       "status": "ok",
-      "jobs": 26,
+      "jobs": 25,
       "kept": 1
     },
     {
@@ -496,7 +496,7 @@
       "board": "fivetran",
       "api_name": "Fivetran",
       "status": "ok",
-      "jobs": 196,
+      "jobs": 201,
       "kept": 3
     },
     {
@@ -505,7 +505,7 @@
       "board": "cockroachlabs",
       "api_name": "Cockroach Labs",
       "status": "ok",
-      "jobs": 12,
+      "jobs": 11,
       "kept": 2
     },
     {
@@ -559,7 +559,7 @@
       "board": "intercom",
       "api_name": "Fin",
       "status": "ok",
-      "jobs": 120,
+      "jobs": 122,
       "kept": 3
     },
     {
@@ -568,7 +568,7 @@
       "board": "labelbox",
       "api_name": "Labelbox",
       "status": "ok",
-      "jobs": 12,
+      "jobs": 13,
       "kept": 1
     },
     {
@@ -577,7 +577,7 @@
       "board": "snorkelai",
       "api_name": "Snorkel AI",
       "status": "ok",
-      "jobs": 43,
+      "jobs": 42,
       "kept": 2
     },
     {
@@ -586,7 +586,7 @@
       "board": "flatironhealth",
       "api_name": "Flatiron Health",
       "status": "ok",
-      "jobs": 23,
+      "jobs": 22,
       "kept": 0
     },
     {
@@ -622,8 +622,8 @@
       "board": "oscar",
       "api_name": "Oscar Health",
       "status": "ok",
-      "jobs": 180,
-      "kept": 0
+      "jobs": 179,
+      "kept": 1
     },
     {
       "name": "Coursera",
@@ -631,7 +631,7 @@
       "board": "coursera",
       "api_name": "Coursera",
       "status": "ok",
-      "jobs": 34,
+      "jobs": 35,
       "kept": 0
     },
     {
@@ -649,7 +649,7 @@
       "board": "khanacademy",
       "api_name": "Khan Academy",
       "status": "ok",
-      "jobs": 3,
+      "jobs": 4,
       "kept": 0
     },
     {
@@ -658,7 +658,7 @@
       "board": "epicgames",
       "api_name": "Epic Games",
       "status": "ok",
-      "jobs": 138,
+      "jobs": 134,
       "kept": 5
     },
     {
@@ -667,8 +667,8 @@
       "board": "riotgames",
       "api_name": "Riot Games",
       "status": "ok",
-      "jobs": 202,
-      "kept": 2
+      "jobs": 204,
+      "kept": 3
     },
     {
       "name": "SpaceX",
@@ -676,8 +676,8 @@
       "board": "spacex",
       "api_name": "SpaceX",
       "status": "ok",
-      "jobs": 2821,
-      "kept": 175
+      "jobs": 2855,
+      "kept": 174
     },
     {
       "name": "Relativity Space",
@@ -685,7 +685,7 @@
       "board": "relativity",
       "api_name": "Relativity Space",
       "status": "ok",
-      "jobs": 397,
+      "jobs": 395,
       "kept": 6
     },
     {
@@ -694,8 +694,8 @@
       "board": "andurilindustries",
       "api_name": "Anduril Industries",
       "status": "ok",
-      "jobs": 2631,
-      "kept": 123
+      "jobs": 2616,
+      "kept": 122
     },
     {
       "name": "Nuro",
@@ -712,7 +712,7 @@
       "board": "lucidmotors",
       "api_name": "Lucid Motors",
       "status": "ok",
-      "jobs": 496,
+      "jobs": 492,
       "kept": 6
     },
     {
@@ -721,7 +721,7 @@
       "board": "verkada",
       "api_name": "Verkada",
       "status": "ok",
-      "jobs": 352,
+      "jobs": 354,
       "kept": 12
     },
     {
@@ -730,7 +730,7 @@
       "board": "gomotive",
       "api_name": "Motive",
       "status": "ok",
-      "jobs": 189,
+      "jobs": 188,
       "kept": 6
     },
     {
@@ -739,7 +739,7 @@
       "board": "natera",
       "api_name": "Natera",
       "status": "ok",
-      "jobs": 204,
+      "jobs": 203,
       "kept": 0
     },
     {
@@ -766,8 +766,8 @@
       "board": "smartsheet",
       "api_name": "Smartsheet",
       "status": "ok",
-      "jobs": 72,
-      "kept": 5
+      "jobs": 77,
+      "kept": 6
     },
     {
       "name": "Zscaler",
@@ -775,7 +775,7 @@
       "board": "zscaler",
       "api_name": "Zscaler",
       "status": "ok",
-      "jobs": 386,
+      "jobs": 387,
       "kept": 2
     },
     {
@@ -784,8 +784,8 @@
       "board": "purestorage",
       "api_name": "Everpure",
       "status": "ok",
-      "jobs": 401,
-      "kept": 39
+      "jobs": 398,
+      "kept": 38
     },
     {
       "name": "Rubrik Job Board",
@@ -793,8 +793,8 @@
       "board": "rubrik",
       "api_name": "Rubrik Job Board",
       "status": "ok",
-      "jobs": 208,
-      "kept": 12
+      "jobs": 219,
+      "kept": 10
     },
     {
       "name": "Wiz, Inc.",
@@ -802,8 +802,8 @@
       "board": "wizinc",
       "api_name": "Wiz, Inc.",
       "status": "ok",
-      "jobs": 108,
-      "kept": 7
+      "jobs": 106,
+      "kept": 6
     },
     {
       "name": "Tanium",
@@ -829,7 +829,7 @@
       "board": "scopely",
       "api_name": "Scopely",
       "status": "ok",
-      "jobs": 172,
+      "jobs": 169,
       "kept": 9
     },
     {
@@ -847,7 +847,7 @@
       "board": "gofundme",
       "api_name": "GoFundMe",
       "status": "ok",
-      "jobs": 21,
+      "jobs": 23,
       "kept": 0
     },
     {
@@ -856,7 +856,7 @@
       "board": "ripple",
       "api_name": "Ripple",
       "status": "ok",
-      "jobs": 109,
+      "jobs": 110,
       "kept": 1
     },
     {
@@ -874,7 +874,7 @@
       "board": "justworks",
       "api_name": "Justworks",
       "status": "ok",
-      "jobs": 107,
+      "jobs": 103,
       "kept": 1
     },
     {
@@ -883,7 +883,7 @@
       "board": "cultureamp",
       "api_name": "Culture Amp",
       "status": "ok",
-      "jobs": 30,
+      "jobs": 29,
       "kept": 0
     },
     {
@@ -901,7 +901,7 @@
       "board": "workato",
       "api_name": "Workato",
       "status": "ok",
-      "jobs": 53,
+      "jobs": 52,
       "kept": 0
     },
     {
@@ -910,7 +910,7 @@
       "board": "neo4j",
       "api_name": "Neo4j",
       "status": "ok",
-      "jobs": 63,
+      "jobs": 60,
       "kept": 22
     },
     {
@@ -919,7 +919,7 @@
       "board": "togetherai",
       "api_name": "Together AI",
       "status": "ok",
-      "jobs": 73,
+      "jobs": 81,
       "kept": 3
     },
     {
@@ -937,7 +937,7 @@
       "board": "cresta",
       "api_name": "Cresta",
       "status": "ok",
-      "jobs": 84,
+      "jobs": 83,
       "kept": 3
     },
     {
@@ -955,7 +955,7 @@
       "board": "gongio",
       "api_name": "Gong.io",
       "status": "ok",
-      "jobs": 84,
+      "jobs": 81,
       "kept": 0
     },
     {
@@ -973,7 +973,7 @@
       "board": "zoominfo",
       "api_name": "ZoomInfo Technologies LLC",
       "status": "ok",
-      "jobs": 90,
+      "jobs": 92,
       "kept": 0
     },
     {
@@ -1000,7 +1000,7 @@
       "board": "braze",
       "api_name": "Braze",
       "status": "ok",
-      "jobs": 344,
+      "jobs": 355,
       "kept": 7
     },
     {
@@ -1009,7 +1009,7 @@
       "board": "klaviyo",
       "api_name": "Klaviyo",
       "status": "ok",
-      "jobs": 126,
+      "jobs": 122,
       "kept": 4
     },
     {
@@ -1027,7 +1027,7 @@
       "board": "fastly",
       "api_name": "Fastly",
       "status": "ok",
-      "jobs": 48,
+      "jobs": 50,
       "kept": 0
     },
     {
@@ -1045,7 +1045,7 @@
       "board": "grafanalabs",
       "api_name": "Grafana Labs",
       "status": "ok",
-      "jobs": 140,
+      "jobs": 139,
       "kept": 0
     },
     {
@@ -1054,7 +1054,7 @@
       "board": "honeycomb",
       "api_name": "Honeycomb.io",
       "status": "ok",
-      "jobs": 19,
+      "jobs": 15,
       "kept": 0
     },
     {
@@ -1063,8 +1063,8 @@
       "board": "adyen",
       "api_name": "Adyen",
       "status": "ok",
-      "jobs": 241,
-      "kept": 5
+      "jobs": 245,
+      "kept": 6
     },
     {
       "name": "Medium",
@@ -1081,8 +1081,8 @@
       "board": "godaddy",
       "api_name": "GoDaddy",
       "status": "ok",
-      "jobs": 19,
-      "kept": 2
+      "jobs": 21,
+      "kept": 1
     },
     {
       "name": "Tripadvisor",
@@ -1090,7 +1090,7 @@
       "board": "tripadvisor",
       "api_name": "Tripadvisor",
       "status": "ok",
-      "jobs": 15,
+      "jobs": 16,
       "kept": 4
     },
     {
@@ -1108,7 +1108,7 @@
       "board": "celonis",
       "api_name": "Celonis",
       "status": "ok",
-      "jobs": 262,
+      "jobs": 260,
       "kept": 3
     },
     {
@@ -1118,7 +1118,7 @@
       "api_name": "N26",
       "status": "ok",
       "jobs": 23,
-      "kept": 0
+      "kept": 1
     },
     {
       "name": "Monzo",
@@ -1126,7 +1126,7 @@
       "board": "monzo",
       "api_name": "Monzo",
       "status": "ok",
-      "jobs": 59,
+      "jobs": 53,
       "kept": 1
     },
     {
@@ -1153,8 +1153,8 @@
       "board": "deliveroo",
       "api_name": "Deliveroo",
       "status": "ok",
-      "jobs": 189,
-      "kept": 15
+      "jobs": 188,
+      "kept": 14
     },
     {
       "name": "HelloFresh",
@@ -1162,7 +1162,7 @@
       "board": "hellofresh",
       "api_name": "HelloFresh",
       "status": "ok",
-      "jobs": 377,
+      "jobs": 373,
       "kept": 3
     },
     {
@@ -1171,7 +1171,7 @@
       "board": "sumup",
       "api_name": "SumUp",
       "status": "ok",
-      "jobs": 318,
+      "jobs": 322,
       "kept": 9
     },
     {
@@ -1207,7 +1207,7 @@
       "board": "veeva",
       "api_name": null,
       "status": "ok",
-      "jobs": 860,
+      "jobs": 862,
       "kept": 9
     },
     {
@@ -1225,7 +1225,7 @@
       "board": "sonarsource",
       "api_name": null,
       "status": "ok",
-      "jobs": 110,
+      "jobs": 109,
       "kept": 5
     }
   ]
